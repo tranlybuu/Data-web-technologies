@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Qualtrics
+Last month's change: 0.27%
+Websites: 9769
+Unique Domains: 4704
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Qualtrics is being used
+Finance: 12.94%
+Computers Electronics & Technology: 7.95%
+Business & Consumer Services: 7.28%
+Health: 5.31%
+Others: 66.52%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Get Site Control
+Qualaroo
+Crema
+
+
+- Top Websites Using Qualtrics -
+samsung.com  --  Monthly visits -> 805.5M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+nlm.nih.gov  --  Monthly visits -> 197.1M
+ups.com  --  Monthly visits -> 191.9M
+homedepot.com  --  Monthly visits -> 188.4M
+fedex.com  --  Monthly visits -> 182.9M
+list-manage.com  --  Monthly visits -> 169.2M
+tripadvisor.com  --  Monthly visits -> 118.8M
+intuit.com  --  Monthly visits -> 108.9M
+
+- Geography -
+Qualtrics usage by websites across the globe
+Leading Countries: Websites
+United States: 4133
+Canada: 516
+Australia: 307
+United Kingdom: 249
+India: 137
+Germany: 129
+China: 124
+Japan: 122
+France: 88
+Italy: 88
+Rest of the World: 1682

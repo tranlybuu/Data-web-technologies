@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Clicky
+Last month's change: 0.27%
+Websites: 41640
+Unique Domains: 35716
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Clicky is being used
+Vehicles: 7.83%
+Computers Electronics & Technology: 6.59%
+Arts & Entertainment: 3.16%
+Science & Education: 2.68%
+Others: 79.73%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Clicky -
+vodafone.com  --  Monthly visits -> 48.6M
+word.tips  --  Monthly visits -> 17M
+kompas.tv  --  Monthly visits -> 16.5M
+upc.edu.pe  --  Monthly visits -> 8.9M
+restaurantji.com  --  Monthly visits -> 8M
+crehana.com  --  Monthly visits -> 7.4M
+stockcharts.com  --  Monthly visits -> 6.3M
+router-network.com  --  Monthly visits -> 6.3M
+har.com  --  Monthly visits -> 5.9M
+alvolante.it  --  Monthly visits -> 5.6M
+
+- Geography -
+Clicky usage by websites across the globe
+Leading Countries: Websites
+United States: 17412
+United Kingdom: 1846
+Canada: 1579
+France: 1375
+India: 1172
+Netherlands: 1156
+Germany: 1146
+Australia: 741
+Italy: 681
+Brazil: 619
+Rest of the World: 10203

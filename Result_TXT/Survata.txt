@@ -1,0 +1,47 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Survata
+Last month's change: 13.3%
+Websites: 30
+Unique Domains: 25
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Survata is being used
+Computers Electronics & Technology: 26.67%
+E-commerce & Shopping: 10.00%
+Finance: 6.67%
+Food & Drink: 6.67%
+Others: 50.00%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Qualtrics
+Get Site Control
+Qualaroo
+
+
+- Top Websites Using Survata -
+walmart.com  --  Monthly visits -> 440.6M
+wal-mart.com  --  Monthly visits -> 18.5M
+beta.walmart.com  --  Monthly visits -> 8.9M
+dexterchaney.com  --  Monthly visits -> 1.2M
+app.mrinsta.com  --  Monthly visits -> 696.1K
+empowerfcu.com  --  Monthly visits -> 506.1K
+viewpoint.com  --  Monthly visits -> 399K
+weeklyads.walmart.com  --  Monthly visits -> 331.5K
+app.turbomedia.io  --  Monthly visits -> 254.4K
+walmartplus.com  --  Monthly visits -> 207.3K
+
+- Geography -
+Survata usage by websites across the globe
+Leading Countries: Websites
+United States: 24
+India: 2
+Canada: 1
+Germany: 1
+Poland: 1

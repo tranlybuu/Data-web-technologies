@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Ensighten
+Last month's change: 0.36%
+Websites: 12574
+Unique Domains: 8096
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ensighten is being used
+Finance: 9.85%
+Computers Electronics & Technology: 5.92%
+Hobbies & Leisure: 5.07%
+Travel & Tourism: 5.03%
+Others: 74.14%
+
+
+- Related Technologies -
+Top Tag Management technologies
+Google Tag Manager
+Adobe Dynamic Tag Management
+Tealium
+Yahoo Tag Manager
+TagMan
+
+
+- Top Websites Using Ensighten -
+mayoclinic.org  --  Monthly visits -> 150.8M
+bestbuy.com  --  Monthly visits -> 138.1M
+fidelity.com  --  Monthly visits -> 94.3M
+reuters.com  --  Monthly visits -> 73.4M
+hp.com  --  Monthly visits -> 72.5M
+oltx.fidelity.com  --  Monthly visits -> 60.7M
+dell.com  --  Monthly visits -> 55.9M
+elle.com  --  Monthly visits -> 54.3M
+cosmopolitan.com  --  Monthly visits -> 54.3M
+citi.com  --  Monthly visits -> 51.2M
+
+- Geography -
+Ensighten usage by websites across the globe
+Leading Countries: Websites
+United States: 6005
+United Kingdom: 643
+Germany: 498
+Canada: 368
+Australia: 245
+Japan: 199
+India: 135
+Spain: 130
+France: 125
+Italy: 108
+Rest of the World: 1701

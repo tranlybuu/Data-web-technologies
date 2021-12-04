@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: GetFeedback
+Last month's change: 0.98%
+Websites: 409
+Unique Domains: 211
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where GetFeedback is being used
+Computers Electronics & Technology: 18.34%
+Finance: 8.56%
+Health: 6.60%
+Business & Consumer Services: 5.62%
+Others: 60.88%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Qualtrics
+Get Site Control
+Qualaroo
+
+
+- Top Websites Using GetFeedback -
+netgear.com  --  Monthly visits -> 5.7M
+1stdibs.com  --  Monthly visits -> 5M
+yeti.com  --  Monthly visits -> 3.3M
+enel.cl  --  Monthly visits -> 1.6M
+unlv.edu  --  Monthly visits -> 1.3M
+routerlogin.net  --  Monthly visits -> 1.3M
+reiwa.com.au  --  Monthly visits -> 1.2M
+travelrepublic.co.uk  --  Monthly visits -> 889.1K
+peelregion.ca  --  Monthly visits -> 663.2K
+routerlogin.com  --  Monthly visits -> 623.6K
+
+- Geography -
+GetFeedback usage by websites across the globe
+Leading Countries: Websites
+United States: 150
+Australia: 22
+United Kingdom: 20
+Canada: 19
+United Arab Emirates: 12
+France: 11
+Germany: 11
+Netherlands: 9
+Spain: 6
+Italy: 5
+Rest of the World: 68

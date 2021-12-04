@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Mouseflow
+Last month's change: 2.78%
+Websites: 36442
+Unique Domains: 26509
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mouseflow is being used
+Computers Electronics & Technology: 5.98%
+Lifestyle: 5.74%
+Business & Consumer Services: 4.17%
+Finance: 3.36%
+Others: 80.75%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Crazy Egg
+Heatmap IT
+UserInight
+FullStory
+
+
+- Top Websites Using Mouseflow -
+adp.com  --  Monthly visits -> 82.4M
+digikala.com  --  Monthly visits -> 61.5M
+vedantu.com  --  Monthly visits -> 47M
+economictimes.indiatimes.com  --  Monthly visits -> 33.3M
+xe.com  --  Monthly visits -> 31.2M
+harborfreight.com  --  Monthly visits -> 29.2M
+goo-net.com  --  Monthly visits -> 25.2M
+liverpool.com.mx  --  Monthly visits -> 22.6M
+medscape.com  --  Monthly visits -> 20.7M
+ford.com  --  Monthly visits -> 20.7M
+
+- Geography -
+Mouseflow usage by websites across the globe
+Leading Countries: Websites
+United States: 7936
+Taiwan: 2743
+Japan: 2131
+Germany: 1974
+United Kingdom: 1831
+Hong Kong: 988
+Canada: 931
+India: 873
+Australia: 839
+Netherlands: 741
+Rest of the World: 9500

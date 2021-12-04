@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Conversant Media
+Last month's change: 3.59%
+Websites: 521566
+Unique Domains: 112168
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Conversant Media is being used
+Arts & Entertainment: 9.87%
+Games: 9.27%
+Computers Electronics & Technology: 6.53%
+Science & Education: 4.70%
+Others: 69.63%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo
+Criteo Publisher
+Google Remarketing
+RTB House
+
+
+- Top Websites Using Conversant Media -
+yahoo.com  --  Monthly visits -> 3.5B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+ok.ru  --  Monthly visits -> 689.2M
+espn.com  --  Monthly visits -> 628.4M
+web.roblox.com  --  Monthly visits -> 352.5M
+wordpress.com  --  Monthly visits -> 345.6M
+
+- Geography -
+Conversant Media usage by websites across the globe
+Leading Countries: Websites
+United States: 86280
+Taiwan: 27317
+France: 20145
+Russia: 8574
+United Kingdom: 7986
+Spain: 7669
+Brazil: 7132
+Germany: 6920
+Italy: 6623
+Japan: 6337
+Rest of the World: 94735

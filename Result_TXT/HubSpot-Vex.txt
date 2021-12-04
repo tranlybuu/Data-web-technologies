@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: HubSpot Vex
+Last month's change: 0.51%
+Websites: 7025
+Unique Domains: 3686
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HubSpot Vex is being used
+Science & Education: 16.01%
+Computers Electronics & Technology: 3.29%
+Lifestyle: 2.35%
+Business & Consumer Services: 2.26%
+Others: 76.09%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using HubSpot Vex -
+emol.com  --  Monthly visits -> 24.4M
+lyricstranslate.com  --  Monthly visits -> 16.3M
+neolms.com  --  Monthly visits -> 12.7M
+rosszlanyok.hu  --  Monthly visits -> 7.2M
+m.rosszlanyok.hu  --  Monthly visits -> 5.9M
+zerozero.pt  --  Monthly visits -> 4.7M
+elms.sti.edu  --  Monthly visits -> 3.8M
+schoolloop.com  --  Monthly visits -> 3.8M
+gratiskryssord.no  --  Monthly visits -> 3.7M
+soychile.cl  --  Monthly visits -> 3.2M
+
+- Geography -
+HubSpot Vex usage by websites across the globe
+Leading Countries: Websites
+United States: 2054
+France: 231
+Russia: 182
+Brazil: 176
+United Kingdom: 156
+Philippines: 149
+Italy: 148
+Canada: 140
+Germany: 134
+Mexico: 131
+Rest of the World: 1893

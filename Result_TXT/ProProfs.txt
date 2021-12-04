@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: ProProfs
+Last month's change: 1.04%
+Websites: 2511
+Unique Domains: 971
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ProProfs is being used
+Science & Education: 28.55%
+Computers Electronics & Technology: 4.14%
+Arts & Entertainment: 3.11%
+Health: 2.83%
+Others: 61.37%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+Kahoot
+
+
+- Top Websites Using ProProfs -
+community.spiceworks.com  --  Monthly visits -> 7.6M
+proprofs.com  --  Monthly visits -> 5.8M
+epaper.thehindu.com  --  Monthly visits -> 2.2M
+englishforums.com  --  Monthly visits -> 1.5M
+medmalrx.com  --  Monthly visits -> 891.9K
+state.ct.us  --  Monthly visits -> 733K
+sandiego.org  --  Monthly visits -> 732.3K
+qualaroo.com  --  Monthly visits -> 663.2K
+hyphensolutions.com  --  Monthly visits -> 581.7K
+globalpointofcare.abbott  --  Monthly visits -> 527.3K
+
+- Geography -
+ProProfs usage by websites across the globe
+Leading Countries: Websites
+United States: 603
+Indonesia: 144
+India: 78
+Canada: 76
+United Kingdom: 61
+Malaysia: 51
+Brazil: 49
+Australia: 47
+Spain: 40
+Vietnam: 35
+Rest of the World: 703

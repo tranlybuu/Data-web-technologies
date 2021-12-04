@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Heatmap IT
+Last month's change: 1.43%
+Websites: 58661
+Unique Domains: 43968
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Heatmap IT is being used
+Computers Electronics & Technology: 6.76%
+Business & Consumer Services: 4.80%
+Finance: 3.86%
+Lifestyle: 3.61%
+Others: 80.97%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Crazy Egg
+UserInight
+FullStory
+Mouseflow
+
+
+- Top Websites Using Heatmap IT -
+t-online.de  --  Monthly visits -> 160.3M
+repubblica.it  --  Monthly visits -> 138.4M
+hepsiburada.com  --  Monthly visits -> 108.9M
+adp.com  --  Monthly visits -> 82.4M
+ansa.it  --  Monthly visits -> 72.8M
+digikala.com  --  Monthly visits -> 61.5M
+247sports.com  --  Monthly visits -> 56.4M
+ilfattoquotidiano.it  --  Monthly visits -> 53.2M
+giallozafferano.it  --  Monthly visits -> 51.4M
+springer.com  --  Monthly visits -> 47.4M
+
+- Geography -
+Heatmap IT usage by websites across the globe
+Leading Countries: Websites
+Japan: 14718
+United States: 9722
+Germany: 3201
+United Kingdom: 2092
+Italy: 1583
+India: 1526
+France: 1312
+Canada: 1129
+Australia: 1125
+Brazil: 1078
+Rest of the World: 13900

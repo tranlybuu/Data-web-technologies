@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Hotjar
+Last month's change: 1.77%
+Websites: 566940
+Unique Domains: 389174
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Hotjar is being used
+Computers Electronics & Technology: 6.50%
+Business & Consumer Services: 3.85%
+Lifestyle: 3.72%
+Finance: 3.23%
+Others: 82.70%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Crazy Egg
+Heatmap IT
+UserInight
+FullStory
+Mouseflow
+
+
+- Top Websites Using Hotjar -
+support.google.com  --  Monthly visits -> 1.5B
+uol.com.br  --  Monthly visits -> 542.3M
+stripchat.com  --  Monthly visits -> 520.6M
+taboola.com  --  Monthly visits -> 503M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+seznam.cz  --  Monthly visits -> 306.8M
+canva.com  --  Monthly visits -> 289.4M
+healthline.com  --  Monthly visits -> 276.6M
+mediafire.com  --  Monthly visits -> 267.6M
+coinmarketcap.com  --  Monthly visits -> 262.1M
+
+- Geography -
+Hotjar usage by websites across the globe
+Leading Countries: Websites
+United States: 124055
+United Kingdom: 33691
+Brazil: 26227
+Netherlands: 19399
+Australia: 16712
+France: 15194
+Canada: 15049
+Poland: 14625
+Germany: 14217
+Italy: 13626
+Rest of the World: 191767

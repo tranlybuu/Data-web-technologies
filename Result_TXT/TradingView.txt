@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: TradingView
+Last month's change: 1.61%
+Websites: 8029
+Unique Domains: 7391
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TradingView is being used
+Finance: 23.96%
+News & Media: 3.72%
+Computers Electronics & Technology: 2.17%
+Heavy Industry & Engineering: 1.56%
+Others: 68.59%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+amCharts
+TradingView Widget
+TradingView Charting Library
+
+
+- Top Websites Using TradingView -
+elespanol.com  --  Monthly visits -> 72.8M
+investopedia.com  --  Monthly visits -> 71.6M
+m.lenta.ru  --  Monthly visits -> 62M
+newsmax.com  --  Monthly visits -> 28.9M
+chron.com  --  Monthly visits -> 20.1M
+in.tradingview.com  --  Monthly visits -> 18.5M
+coinspot.com.au  --  Monthly visits -> 16.2M
+tr.tradingview.com  --  Monthly visits -> 12.7M
+indodax.com  --  Monthly visits -> 12.5M
+kitco.com  --  Monthly visits -> 11.5M
+
+- Geography -
+TradingView usage by websites across the globe
+Leading Countries: Websites
+United States: 1347
+Russia: 519
+India: 371
+Canada: 312
+Japan: 308
+Germany: 284
+Italy: 231
+Brazil: 229
+Turkey: 224
+United Kingdom: 198
+Rest of the World: 3444

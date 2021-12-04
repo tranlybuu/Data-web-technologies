@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: YOP Poll
+Last month's change: 1.58%
+Websites: 9479
+Unique Domains: 8950
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where YOP Poll is being used
+News & Media: 7.38%
+Arts & Entertainment: 4.99%
+Computers Electronics & Technology: 4.09%
+Science & Education: 3.94%
+Others: 79.60%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+Polldaddy
+ProProfs
+Kahoot
+
+
+- Top Websites Using YOP Poll -
+rd1.com.br  --  Monthly visits -> 13.7M
+moderndaymoms.com  --  Monthly visits -> 9.9M
+philnews.ph  --  Monthly visits -> 9.6M
+paycor.com  --  Monthly visits -> 6.2M
+observatoriodatv.uol.com.br  --  Monthly visits -> 5.5M
+apexlegends-leaksnews.com  --  Monthly visits -> 4.9M
+tcp24.news  --  Monthly visits -> 4.9M
+gizmochina.com  --  Monthly visits -> 4.2M
+thecable.ng  --  Monthly visits -> 4.2M
+technews.tw  --  Monthly visits -> 4M
+
+- Geography -
+YOP Poll usage by websites across the globe
+Leading Countries: Websites
+United States: 1787
+Germany: 691
+Russia: 485
+France: 428
+United Kingdom: 356
+Italy: 348
+Brazil: 288
+Poland: 272
+Netherlands: 270
+Spain: 249
+Rest of the World: 3674

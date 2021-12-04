@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: New Relic
+Last month's change: 0.22%
+Websites: 598991
+Unique Domains: 289482
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where New Relic is being used
+Science & Education: 4.79%
+Computers Electronics & Technology: 3.78%
+Vehicles: 3.23%
+Business & Consumer Services: 2.69%
+Others: 85.51%
+
+
+- Related Technologies -
+Top Application Performance technologies
+Bugsnag
+Microsoft Application Insights
+AppDynamics
+Datadog
+Loggly
+
+
+- Top Websites Using New Relic -
+yahoo.com  --  Monthly visits -> 3.5B
+samsung.com  --  Monthly visits -> 805.5M
+espn.com  --  Monthly visits -> 628.4M
+instructure.com  --  Monthly visits -> 573.1M
+chaturbate.com  --  Monthly visits -> 395.6M
+archiveofourown.org  --  Monthly visits -> 385.7M
+foxnews.com  --  Monthly visits -> 283M
+disneyplus.com  --  Monthly visits -> 268.7M
+mercadolivre.com.br  --  Monthly visits -> 252.5M
+aol.com  --  Monthly visits -> 228.6M
+
+- Geography -
+New Relic usage by websites across the globe
+Leading Countries: Websites
+United States: 184697
+Brazil: 22000
+United Kingdom: 20824
+Japan: 19632
+Canada: 17289
+France: 12188
+Australia: 11714
+Argentina: 10565
+Germany: 9926
+India: 9721
+Rest of the World: 131516

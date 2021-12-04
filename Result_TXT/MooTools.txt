@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: MooTools
+Last month's change: 1.50%
+Websites: 264908
+Unique Domains: 221074
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MooTools is being used
+Science & Education: 6.39%
+Computers Electronics & Technology: 3.50%
+Law & Government: 2.85%
+Health: 2.77%
+Others: 84.49%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using MooTools -
+tripadvisor.com  --  Monthly visits -> 118.8M
+wetteronline.de  --  Monthly visits -> 42.5M
+tripadvisor.co.uk  --  Monthly visits -> 30.8M
+tripadvisor.in  --  Monthly visits -> 16.5M
+ap.gov.in  --  Monthly visits -> 16.4M
+sexemodel.com  --  Monthly visits -> 15.2M
+webassign.net  --  Monthly visits -> 13.7M
+m.sexemodel.com  --  Monthly visits -> 12.7M
+tripadvisor.co.nz  --  Monthly visits -> 11.5M
+ifixit.com  --  Monthly visits -> 10.5M
+
+- Geography -
+MooTools usage by websites across the globe
+Leading Countries: Websites
+Russia: 26474
+United States: 22889
+Germany: 20459
+Italy: 16490
+France: 11740
+Poland: 11442
+Ukraine: 6853
+Spain: 6032
+Japan: 5689
+United Kingdom: 5638
+Rest of the World: 96217

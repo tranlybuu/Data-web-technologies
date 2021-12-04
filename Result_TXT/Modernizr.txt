@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Modernizr
+Last month's change: 0.06%
+Websites: 3798524
+Unique Domains: 3059148
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Modernizr is being used
+Science & Education: 3.18%
+Computers Electronics & Technology: 3.16%
+Arts & Entertainment: 2.10%
+Health: 1.97%
+Others: 89.59%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+jQuery UI
+Slick
+Masonry
+
+
+- Top Websites Using Modernizr -
+youtube.com  --  Monthly visits -> 34.6B
+m.youtube.com  --  Monthly visits -> 5.9B
+yahoo.com  --  Monthly visits -> 3.5B
+reddit.com  --  Monthly visits -> 1.6B
+msn.com  --  Monthly visits -> 1B
+duckduckgo.com  --  Monthly visits -> 980.2M
+samsung.com  --  Monthly visits -> 805.5M
+ebay.com  --  Monthly visits -> 796.6M
+google.com.br  --  Monthly visits -> 795.6M
+bbc.co.uk  --  Monthly visits -> 649.5M
+
+- Geography -
+Modernizr usage by websites across the globe
+Leading Countries: Websites
+United States: 865312
+Germany: 204314
+United Kingdom: 169543
+Canada: 124875
+Italy: 120800
+France: 119909
+Japan: 108123
+Russia: 98617
+Australia: 92515
+India: 86675
+Rest of the World: 1320689

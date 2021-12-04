@@ -43,16 +43,16 @@ class WebBotSpider(scrapy.Spider):
         Date = now.strftime("%d/%m/%Y")
 
         
-        """ Chuyển đến thư mục Result """
+        """ Chuyển đến thư mục Result_TXT """
         path = os.getcwd()
-        if "Result" not in path:
-            path = path + "\Result"
+        if "Result_TXT" not in path:
+            path = path + "\Result_TXT"
             os.chdir(path)
 
         check = str(response.xpath("//div[@class='row'][2]/div[2]/h1/text()").get()).strip()
-        namefile = check.strip().replace(" ", "-") + ".csv"
+        namefile = check.strip().replace(" ", "-") + ".txt"
         check_file = str(os.listdir())
-        if ("None.csv"!=namefile) or (namefile not in check_file):
+        if ("None.txt"!=namefile) or (namefile not in check_file):
 
             """ Crawl dữ liệu """
             ##### Thông tin cơ bản
@@ -69,46 +69,46 @@ class WebBotSpider(scrapy.Spider):
             ##### Mở rộng
             # Các ngành hàng đầu ( iv = Industry Vertical )
             try:
-                iv1 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[2]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[2]/td[2]/em/text()').get()).replace(",", "")
+                iv1 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[2]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[2]/td[2]/em/text()').get()).replace(",", "")
                 try:
                     if len(iv1)<2:
-                        iv1 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[2]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tr[2]/td[2]/em/text()').get()).replace(",", "")
+                        iv1 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[2]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tr[2]/td[2]/em/text()').get()).replace(",", "")
                 except:
                     pass
             except:
                 iv1 = ""
             try:
-                iv2 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[3]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[3]/td[2]/em/text()').get()).replace(",", "")
+                iv2 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[3]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[3]/td[2]/em/text()').get()).replace(",", "")
                 try:
                     if len(iv2)<2:
-                        iv2 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[3]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tr[3]/td[2]/em/text()').get()).replace(",", "")
+                        iv2 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[3]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tr[3]/td[2]/em/text()').get()).replace(",", "")
                 except:
                     pass
             except:
                 iv2 = ""
             try:
-                iv3 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[4]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[4]/td[2]/em/text()').get()).replace(",", "")
+                iv3 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[4]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[4]/td[2]/em/text()').get()).replace(",", "")
                 try:
                     if len(iv3)<2:
-                        iv3 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[4]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tr[4]/td[2]/em/text()').get()).replace(",", "")
+                        iv3 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[4]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tr[4]/td[2]/em/text()').get()).replace(",", "")
                 except:
                     pass
             except:
                 iv3 = ""
             try:
-                iv4 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[5]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[5]/td[2]/em/text()').get()).replace(",", "")
+                iv4 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[5]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[5]/td[2]/em/text()').get()).replace(",", "")
                 try:
                     if len(iv4)<2:
-                        iv4 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[5]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tr[5]/td[2]/em/text()').get()).replace(",", "")
+                        iv4 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[5]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tr[5]/td[2]/em/text()').get()).replace(",", "")
                 except:
                     pass
             except:
                 iv4 = ""
             try:
-                iv5 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[6]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[6]/td[2]/em/text()').get()).replace(",", "")
+                iv5 = str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[6]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tbody/tr[6]/td[2]/em/text()').get()).replace(",", "")
                 try:
                     if len(iv5)<2:
-                        iv5 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[6]/td[1]/label/text()').get()) + ",,," + str(response.xpath('//div[@class="cmp-legend"]/table/tr[6]/td[2]/em/text()').get()).replace(",", "")
+                        iv5 = str(response.xpath('//div[@class="cmp-legend"]/table/tr[6]/td[1]/label/text()').get()) + ": " + str(response.xpath('//div[@class="cmp-legend"]/table/tr[6]/td[2]/em/text()').get()).replace(",", "")
                 except:
                     pass
             except:
@@ -130,7 +130,7 @@ class WebBotSpider(scrapy.Spider):
                     count+=1
             topweb = []
             for x in range(1,count):
-                web = str(response.xpath(f'//div[@class="col-md-12 list-group condensed"]/div[{x}]/div/h4/a/span/text()').get())+",,Monthly visits ->,,"+str(response.xpath(f'//div[@class="col-md-12 list-group condensed"]/div[{x}]/div[3]/em/text()').get())+"\n"
+                web = str(response.xpath(f'//div[@class="col-md-12 list-group condensed"]/div[{x}]/div/h4/a/span/text()').get())+"  --  Monthly visits -> "+str(response.xpath(f'//div[@class="col-md-12 list-group condensed"]/div[{x}]/div[3]/em/text()').get())+"\n"
                 topweb.append(web)
             # Những quốc gia sử dụng nhiều
             count_countries_using_tech = response.xpath('//div[@class="cmp-legend geo-legend"]').extract()
@@ -142,12 +142,12 @@ class WebBotSpider(scrapy.Spider):
                     count+=1
             topcountries = []
             for x in range(2,count+1):
-                country = str(response.xpath(f'//div[@class="cmp-legend geo-legend"]/table/tbody/tr[{x}]/td[1]/label/text()').get()) + ",,,"+str(response.xpath(f'//div[@class="cmp-legend geo-legend"]/table/tbody/tr[{x}]/td[2]/em/text()').get()).replace(",", "")+"\n"
+                country = str(response.xpath(f'//div[@class="cmp-legend geo-legend"]/table/tbody/tr[{x}]/td[1]/label/text()').get()) + ": "+str(response.xpath(f'//div[@class="cmp-legend geo-legend"]/table/tbody/tr[{x}]/td[2]/em/text()').get()).replace(",", "")+"\n"
                 topcountries.append(country)
 
             """ Dữ liệu ghi vào file kết quả """
             # Thông tin cơ bản
-            info = f"- Basic Information about Technology -\nCrawl date,,{Date}\nTechnology,,{NameTechnology}\nLast month's change,,{P1month}\nWebsites,,{Websites}\nUnique Domains,,{UniqueDomains}\n" + "-"*38 + "\n\n"
+            info = f"- Basic Information about Technology -\nCrawl date: {Date}\nTechnology: {NameTechnology}\nLast month's change: {P1month}\nWebsites: {Websites}\nUnique Domains: {UniqueDomains}\n" + "-"*38 + "\n\n"
             # Các ngành hàng đầu
             TopIndustryVerticals = f"\n- Top Industry Verticals -\nIndustry verticals where {NameTechnology} is being used\n{iv1}\n{iv2}\n{iv3}\n{iv4}\n{iv5}\n\n"
             # Công nghệ liên quan
@@ -157,7 +157,7 @@ class WebBotSpider(scrapy.Spider):
             for item in topweb:
                 TopWebsitesUsingTechnology = TopWebsitesUsingTechnology + item
             # Các quốc gia sử dụng nhiều nhất
-            MostUsedCountries = f'\n- Geography -\n{NameTechnology} usage by websites across the globe\nLeading Countries,,,Websites\n'
+            MostUsedCountries = f'\n- Geography -\n{NameTechnology} usage by websites across the globe\nLeading Countries: Websites\n'
             for item in topcountries:
                 MostUsedCountries = MostUsedCountries + item
             

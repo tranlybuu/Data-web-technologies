@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Adobe Visitor API
+Last month's change: 1.63%
+Websites: 94210
+Unique Domains: 51978
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Adobe Visitor API is being used
+Vehicles: 10.00%
+Finance: 7.00%
+Computers Electronics & Technology: 5.31%
+Health: 3.90%
+Others: 73.79%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Adobe Visitor API -
+samsung.com  --  Monthly visits -> 805.5M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+disneyplus.com  --  Monthly visits -> 268.7M
+adobe.com  --  Monthly visits -> 258.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+fedex.com  --  Monthly visits -> 182.9M
+xfinity.com  --  Monthly visits -> 162.6M
+apps.samsung.com  --  Monthly visits -> 149.8M
+realtor.com  --  Monthly visits -> 137.9M
+webmd.com  --  Monthly visits -> 137.9M
+
+- Geography -
+Adobe Visitor API usage by websites across the globe
+Leading Countries: Websites
+United States: 32731
+Germany: 3204
+Japan: 3169
+Canada: 3124
+United Kingdom: 2541
+France: 1779
+Australia: 1698
+Italy: 1602
+Czech Republic: 1505
+India: 1505
+Rest of the World: 19599

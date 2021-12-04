@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Index Exchange
+Last month's change: 2.08%
+Websites: 861733
+Unique Domains: 192479
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Index Exchange is being used
+Arts & Entertainment: 9.10%
+Games: 7.03%
+Computers Electronics & Technology: 5.62%
+News & Media: 4.87%
+Others: 73.37%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+SMART AdServer
+
+
+- Top Websites Using Index Exchange -
+yahoo.com  --  Monthly visits -> 3.5B
+live.com  --  Monthly visits -> 2.3B
+outlook.live.com  --  Monthly visits -> 1.9B
+vk.com  --  Monthly visits -> 1.5B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+ebay.com  --  Monthly visits -> 796.6M
+
+- Geography -
+Index Exchange usage by websites across the globe
+Leading Countries: Websites
+United States: 114650
+Taiwan: 30802
+Russia: 26866
+France: 26851
+Italy: 19529
+Germany: 14387
+Japan: 14330
+United Kingdom: 13422
+Spain: 11480
+Poland: 11017
+Rest of the World: 172194

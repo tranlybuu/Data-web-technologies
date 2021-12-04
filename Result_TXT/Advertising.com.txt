@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Advertising.com
+Last month's change: 2.04%
+Websites: 751447
+Unique Domains: 174321
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Advertising.com is being used
+Arts & Entertainment: 9.58%
+Games: 7.60%
+Computers Electronics & Technology: 5.88%
+News & Media: 5.02%
+Others: 71.92%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Advertising.com -
+yahoo.com  --  Monthly visits -> 3.5B
+vk.com  --  Monthly visits -> 1.5B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+samsung.com  --  Monthly visits -> 805.5M
+ebay.com  --  Monthly visits -> 796.6M
+fandom.com  --  Monthly visits -> 795.9M
+
+- Geography -
+Advertising.com usage by websites across the globe
+Leading Countries: Websites
+United States: 102284
+Taiwan: 30745
+France: 25297
+Russia: 23979
+Italy: 17993
+Japan: 14679
+Germany: 12671
+United Kingdom: 10907
+Spain: 10575
+Brazil: 9754
+Rest of the World: 138304

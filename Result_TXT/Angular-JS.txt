@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Angular JS
+Last month's change: 0.22%
+Websites: 381762
+Unique Domains: 189036
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Angular JS is being used
+Computers Electronics & Technology: 6.05%
+Arts & Entertainment: 4.61%
+Science & Education: 3.49%
+News & Media: 2.92%
+Others: 82.93%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Angular JS -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+classroom.google.com  --  Monthly visits -> 1.4B
+play.google.com  --  Monthly visits -> 1.2B
+roblox.com  --  Monthly visits -> 1B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+google.com.br  --  Monthly visits -> 795.6M
+translate.google.com  --  Monthly visits -> 746.6M
+uol.com.br  --  Monthly visits -> 542.3M
+google.de  --  Monthly visits -> 488.9M
+
+- Geography -
+Angular JS usage by websites across the globe
+Leading Countries: Websites
+United States: 70756
+Russia: 24759
+Japan: 11353
+Taiwan: 11004
+United Kingdom: 10442
+India: 9611
+France: 9334
+Germany: 9258
+China: 8045
+Canada: 7768
+Rest of the World: 111644

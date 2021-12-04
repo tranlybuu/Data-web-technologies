@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: i-Behavior
+Last month's change: 2.63%
+Websites: 911
+Unique Domains: 475
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where i-Behavior is being used
+Business & Consumer Services: 7.24%
+News & Media: 7.03%
+Computers Electronics & Technology: 5.38%
+Finance: 4.50%
+Others: 75.85%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using i-Behavior -
+globo.com  --  Monthly visits -> 822.4M
+g1.globo.com  --  Monthly visits -> 307.6M
+tenki.jp  --  Monthly visits -> 104.7M
+ge.globo.com  --  Monthly visits -> 72.7M
+gshow.globo.com  --  Monthly visits -> 56M
+blibli.com  --  Monthly visits -> 16M
+nj.com  --  Monthly visits -> 14.9M
+globoesporte.globo.com  --  Monthly visits -> 14.6M
+mlive.com  --  Monthly visits -> 12.4M
+al.com  --  Monthly visits -> 9.2M
+
+- Geography -
+i-Behavior usage by websites across the globe
+Leading Countries: Websites
+United States: 180
+United Kingdom: 177
+Brazil: 70
+Spain: 47
+Netherlands: 19
+Italy: 18
+Germany: 17
+Denmark: 15
+Austria: 11
+France: 10
+Rest of the World: 123

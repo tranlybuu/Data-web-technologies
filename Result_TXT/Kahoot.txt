@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Kahoot
+Last month's change: 1.27%
+Websites: 1343
+Unique Domains: 503
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kahoot is being used
+Science & Education: 43.71%
+Games: 2.23%
+Arts & Entertainment: 2.08%
+Computers Electronics & Technology: 1.71%
+Others: 50.26%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using Kahoot -
+kahoot.com  --  Monthly visits -> 13.7M
+educaciontrespuntocero.com  --  Monthly visits -> 1.8M
+generationgenius.com  --  Monthly visits -> 1.3M
+corbettmaths.com  --  Monthly visits -> 1.2M
+k12.instructure.com  --  Monthly visits -> 809.6K
+premid.app  --  Monthly visits -> 370K
+links.kahoot.com  --  Monthly visits -> 212.3K
+whumpapedia.fandom.com  --  Monthly visits -> 179.1K
+ralentirtravaux.com  --  Monthly visits -> 171.2K
+eyenetworks.no  --  Monthly visits -> 132.1K
+
+- Geography -
+Kahoot usage by websites across the globe
+Leading Countries: Websites
+United States: 353
+Spain: 128
+Canada: 42
+Italy: 42
+Mexico: 27
+Netherlands: 26
+France: 25
+Poland: 25
+United Kingdom: 25
+Norway: 23
+Rest of the World: 412

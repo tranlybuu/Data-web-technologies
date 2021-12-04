@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Bing Advertiser
+Last month's change: 0.93%
+Websites: 286543
+Unique Domains: 176176
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bing Advertiser is being used
+Computers Electronics & Technology: 6.96%
+Lifestyle: 5.16%
+Business & Consumer Services: 4.76%
+Vehicles: 4.34%
+Others: 78.77%
+
+
+- Related Technologies -
+Top Advertisers technologies
+Facebook Advertiser
+Google AdWords Advertiser
+DoubleClick Advertiser
+LinkedIn Advertiser
+Bing Universal Advertiser
+
+
+- Top Websites Using Bing Advertiser -
+samsung.com  --  Monthly visits -> 805.5M
+espn.com  --  Monthly visits -> 628.4M
+taboola.com  --  Monthly visits -> 503M
+spotify.com  --  Monthly visits -> 422.6M
+etsy.com  --  Monthly visits -> 404.5M
+booking.com  --  Monthly visits -> 401.9M
+wordpress.com  --  Monthly visits -> 345.6M
+canva.com  --  Monthly visits -> 289.4M
+flipkart.com  --  Monthly visits -> 289.1M
+foxnews.com  --  Monthly visits -> 283M
+
+- Geography -
+Bing Advertiser usage by websites across the globe
+Leading Countries: Websites
+United States: 107859
+United Kingdom: 17636
+Canada: 9724
+Germany: 9356
+France: 8614
+Australia: 7296
+Netherlands: 6143
+Taiwan: 4698
+Italy: 4663
+India: 4645
+Rest of the World: 54310

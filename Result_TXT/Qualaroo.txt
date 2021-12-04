@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Qualaroo
+Last month's change: 3.73%
+Websites: 8252
+Unique Domains: 2435
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Qualaroo is being used
+Games: 18.93%
+Arts & Entertainment: 12.19%
+Science & Education: 7.46%
+Computers Electronics & Technology: 6.46%
+Others: 54.96%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Qualtrics
+Get Site Control
+Crema
+
+
+- Top Websites Using Qualaroo -
+open.spotify.com  --  Monthly visits -> 324.2M
+webmd.com  --  Monthly visits -> 137.9M
+myshopify.com  --  Monthly visits -> 119.3M
+patreon.com  --  Monthly visits -> 85.2M
+wsj.com  --  Monthly visits -> 74.1M
+crunchyroll.com  --  Monthly visits -> 67.9M
+glassdoor.com  --  Monthly visits -> 52.7M
+coursehero.com  --  Monthly visits -> 48.5M
+riotgames.com  --  Monthly visits -> 45.8M
+ziprecruiter.com  --  Monthly visits -> 40M
+
+- Geography -
+Qualaroo usage by websites across the globe
+Leading Countries: Websites
+United States: 1689
+United Kingdom: 268
+Canada: 170
+Australia: 136
+India: 120
+Germany: 92
+France: 84
+Russia: 82
+Brazil: 78
+Finland: 72
+Rest of the World: 1155

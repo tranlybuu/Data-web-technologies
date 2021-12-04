@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: UserInight
+Last month's change: 0.90%
+Websites: 45513
+Unique Domains: 21041
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UserInight is being used
+Computers Electronics & Technology: 8.24%
+Food & Drink: 8.05%
+Business & Consumer Services: 6.45%
+Arts & Entertainment: 6.07%
+Others: 71.19%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Crazy Egg
+Heatmap IT
+FullStory
+Mouseflow
+
+
+- Top Websites Using UserInight -
+itmedia.co.jp  --  Monthly visits -> 131.4M
+news.livedoor.com  --  Monthly visits -> 119.5M
+tenki.jp  --  Monthly visits -> 104.7M
+cmoa.jp  --  Monthly visits -> 93.4M
+watch.impress.co.jp  --  Monthly visits -> 73.7M
+asahi.com  --  Monthly visits -> 71.5M
+japanpost.jp  --  Monthly visits -> 68.9M
+bunshun.jp  --  Monthly visits -> 68.5M
+nlab.itmedia.co.jp  --  Monthly visits -> 59.6M
+post.japanpost.jp  --  Monthly visits -> 57.2M
+
+- Geography -
+UserInight usage by websites across the globe
+Leading Countries: Websites
+Japan: 30706
+United States: 380
+India: 120
+Taiwan: 112
+South Korea: 97
+China: 93
+United Kingdom: 68
+Italy: 67
+Thailand: 64
+Vietnam: 61
+Rest of the World: 942

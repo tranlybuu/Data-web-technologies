@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: RSS
+Last month's change: 1.42%
+Websites: 10387290
+Unique Domains: 6706193
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RSS is being used
+Computers Electronics & Technology: 4.44%
+Arts & Entertainment: 4.08%
+Science & Education: 3.82%
+Games: 2.05%
+Others: 85.61%
+
+
+- Related Technologies -
+Top Blogging Standards technologies
+Really Simple Discovery
+Live Writer Support
+Pingback Support
+None
+None
+
+
+- Top Websites Using RSS -
+youtube.com  --  Monthly visits -> 34.6B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+bit.ly  --  Monthly visits -> 2.4B
+pornhub.com  --  Monthly visits -> 2.2B
+zoom.us  --  Monthly visits -> 2B
+tiktok.com  --  Monthly visits -> 1.4B
+discord.com  --  Monthly visits -> 1.3B
+mail.ru  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+
+- Geography -
+RSS usage by websites across the globe
+Leading Countries: Websites
+United States: 1821082
+Japan: 691565
+Germany: 387680
+United Kingdom: 347840
+France: 323767
+Russia: 300109
+Italy: 299398
+Canada: 247783
+India: 231995
+Spain: 222321
+Rest of the World: 3528065

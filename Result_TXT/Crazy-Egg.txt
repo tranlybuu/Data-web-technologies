@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Crazy Egg
+Last month's change: 6.08%
+Websites: 118753
+Unique Domains: 60676
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Crazy Egg is being used
+Games: 9.22%
+Arts & Entertainment: 7.62%
+Science & Education: 5.81%
+Computers Electronics & Technology: 5.69%
+Others: 71.66%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Heatmap IT
+UserInight
+FullStory
+Mouseflow
+
+
+- Top Websites Using Crazy Egg -
+nih.gov  --  Monthly visits -> 225.1M
+paid.outbrain.com  --  Monthly visits -> 218.7M
+nlm.nih.gov  --  Monthly visits -> 197.1M
+att.com  --  Monthly visits -> 159.8M
+realtor.com  --  Monthly visits -> 137.9M
+myshopify.com  --  Monthly visits -> 119.3M
+traffic.outbrain.com  --  Monthly visits -> 114.4M
+elmundo.es  --  Monthly visits -> 107.1M
+corriere.it  --  Monthly visits -> 106.8M
+news.com.au  --  Monthly visits -> 97.8M
+
+- Geography -
+Crazy Egg usage by websites across the globe
+Leading Countries: Websites
+United States: 44774
+United Kingdom: 4950
+Canada: 4001
+Australia: 3676
+India: 2438
+Brazil: 2154
+Germany: 1754
+Japan: 1451
+France: 1444
+Mexico: 1328
+Rest of the World: 24137

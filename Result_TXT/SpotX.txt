@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: SpotX
+Last month's change: 1.99%
+Websites: 776866
+Unique Domains: 173504
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SpotX is being used
+Arts & Entertainment: 10.03%
+Games: 7.45%
+Computers Electronics & Technology: 5.95%
+News & Media: 5.40%
+Others: 71.17%
+
+
+- Related Technologies -
+Top Video Ads technologies
+FreeWheel
+LKQD
+Primis
+AnyClip
+AdapTV
+
+
+- Top Websites Using SpotX -
+yahoo.com  --  Monthly visits -> 3.5B
+vk.com  --  Monthly visits -> 1.5B
+twitch.tv  --  Monthly visits -> 1.2B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+accuweather.com  --  Monthly visits -> 697.5M
+
+- Geography -
+SpotX usage by websites across the globe
+Leading Countries: Websites
+United States: 99107
+Taiwan: 30930
+Russia: 28911
+France: 25650
+Italy: 18378
+Germany: 13316
+Japan: 12093
+United Kingdom: 11525
+Spain: 10958
+Brazil: 9928
+Rest of the World: 145483

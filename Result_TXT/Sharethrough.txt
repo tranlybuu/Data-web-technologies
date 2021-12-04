@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Sharethrough
+Last month's change: 4.80%
+Websites: 462315
+Unique Domains: 107887
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sharethrough is being used
+Arts & Entertainment: 10.30%
+Games: 9.91%
+Computers Electronics & Technology: 6.65%
+Science & Education: 3.98%
+Others: 69.16%
+
+
+- Related Technologies -
+Top Content Suggestion technologies
+AdYouLike
+Taboola
+Outbrain
+Outbrain AdsTxt
+Taboola AdsTxt
+
+
+- Top Websites Using Sharethrough -
+yahoo.com  --  Monthly visits -> 3.5B
+live.com  --  Monthly visits -> 2.3B
+outlook.live.com  --  Monthly visits -> 1.9B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+ebay.com  --  Monthly visits -> 796.6M
+fandom.com  --  Monthly visits -> 795.9M
+ok.ru  --  Monthly visits -> 689.2M
+
+- Geography -
+Sharethrough usage by websites across the globe
+Leading Countries: Websites
+United States: 81323
+Taiwan: 19991
+France: 19444
+Italy: 8088
+United Kingdom: 7677
+Spain: 7112
+Germany: 6947
+India: 6631
+Brazil: 6419
+Canada: 5910
+Rest of the World: 86621

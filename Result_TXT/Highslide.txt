@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Highslide
+Last month's change: 2.26%
+Websites: 38752
+Unique Domains: 31185
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Highslide is being used
+Arts & Entertainment: 7.33%
+Computers Electronics & Technology: 6.31%
+Science & Education: 5.57%
+Games: 5.04%
+Others: 75.76%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Highslide -
+jut.su  --  Monthly visits -> 52M
+kinogo.la  --  Monthly visits -> 23.5M
+ranobes.net  --  Monthly visits -> 22M
+kinogo.zone  --  Monthly visits -> 19.9M
+topwar.ru  --  Monthly visits -> 19.6M
+tirexo.work  --  Monthly visits -> 18M
+kinokrad.co  --  Monthly visits -> 17.5M
+kinogo.biz  --  Monthly visits -> 17.4M
+torrentgalaxy.to  --  Monthly visits -> 15.5M
+1plus1tv.ru  --  Monthly visits -> 13.7M
+
+- Geography -
+Highslide usage by websites across the globe
+Leading Countries: Websites
+Russia: 12046
+Ukraine: 2557
+United States: 2285
+Germany: 2226
+Japan: 1680
+United Kingdom: 872
+Italy: 803
+France: 771
+China: 575
+Kazakhstan: 573
+Rest of the World: 10116

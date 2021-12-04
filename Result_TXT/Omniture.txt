@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Omniture
+Last month's change: 1.04%
+Websites: 106908
+Unique Domains: 59113
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Omniture is being used
+Vehicles: 9.38%
+Finance: 6.80%
+Computers Electronics & Technology: 5.48%
+Health: 3.66%
+Others: 74.68%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Omniture -
+samsung.com  --  Monthly visits -> 805.5M
+espn.com  --  Monthly visits -> 628.4M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+disneyplus.com  --  Monthly visits -> 268.7M
+zillow.com  --  Monthly visits -> 263.4M
+adobe.com  --  Monthly visits -> 258.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+marca.com  --  Monthly visits -> 220.3M
+item.rakuten.co.jp  --  Monthly visits -> 190.9M
+
+- Geography -
+Omniture usage by websites across the globe
+Leading Countries: Websites
+United States: 36662
+Japan: 4256
+Canada: 3504
+Germany: 3414
+United Kingdom: 2853
+Italy: 2232
+France: 2000
+Australia: 1920
+Spain: 1712
+India: 1664
+Rest of the World: 21816

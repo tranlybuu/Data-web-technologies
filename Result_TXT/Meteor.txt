@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Meteor
+Last month's change: 1.75%
+Websites: 31957
+Unique Domains: 27510
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Meteor is being used
+Computers Electronics & Technology: 5.53%
+Lifestyle: 3.36%
+Science & Education: 2.69%
+Business & Consumer Services: 2.10%
+Others: 86.32%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Meteor -
+sabah.com.tr  --  Monthly visits -> 75.2M
+m.sabah.com.tr  --  Monthly visits -> 55.6M
+club.hotmart.com  --  Monthly visits -> 32M
+app-vlc.hotmart.com  --  Monthly visits -> 15.6M
+jn.pt  --  Monthly visits -> 12.4M
+meteored.com.ar  --  Monthly visits -> 12.2M
+meteored.mx  --  Monthly visits -> 11.7M
+online.fliphtml5.com  --  Monthly visits -> 10.1M
+tameteo.com  --  Monthly visits -> 7.2M
+troypoint.com  --  Monthly visits -> 5.7M
+
+- Geography -
+Meteor usage by websites across the globe
+Leading Countries: Websites
+United States: 6571
+Russia: 3514
+China: 1667
+Japan: 1424
+Germany: 1216
+United Kingdom: 1135
+France: 997
+Canada: 886
+Vietnam: 841
+Australia: 690
+Rest of the World: 9883

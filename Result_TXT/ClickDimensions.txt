@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: ClickDimensions
+Last month's change: 0.18%
+Websites: 2721
+Unique Domains: 2171
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ClickDimensions is being used
+Computers Electronics & Technology: 9.74%
+Heavy Industry & Engineering: 9.11%
+Science & Education: 8.97%
+Business & Consumer Services: 6.62%
+Others: 65.56%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using ClickDimensions -
+yorku.ca  --  Monthly visits -> 7.9M
+ccbill.com  --  Monthly visits -> 4.6M
+phoenixnap.com  --  Monthly visits -> 3.5M
+passportyork.yorku.ca  --  Monthly visits -> 2.6M
+healtheintent.com  --  Monthly visits -> 2.6M
+aqa.org.uk  --  Monthly visits -> 2.4M
+cerner.com  --  Monthly visits -> 1.7M
+arthritis.org  --  Monthly visits -> 1.7M
+tieto.com  --  Monthly visits -> 1.5M
+aop.com  --  Monthly visits -> 1.5M
+
+- Geography -
+ClickDimensions usage by websites across the globe
+Leading Countries: Websites
+United States: 1495
+Canada: 247
+United Kingdom: 76
+India: 56
+Australia: 51
+Italy: 50
+Netherlands: 30
+New Zealand: 28
+France: 27
+Mexico: 27
+Rest of the World: 472

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Google Analytics
+Last month's change: 0.10%
+Websites: 13708290
+Unique Domains: 8293239
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Analytics is being used
+Computers Electronics & Technology: 4.90%
+Science & Education: 3.84%
+Arts & Entertainment: 3.42%
+Food & Drink: 2.15%
+Others: 85.69%
+
+
+- Related Technologies -
+Top Analytics technologies
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+Piwik
+
+
+- Top Websites Using Google Analytics -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+twitter.com  --  Monthly visits -> 6.7B
+m.youtube.com  --  Monthly visits -> 5.9B
+mobile.twitter.com  --  Monthly visits -> 2.8B
+drive.google.com  --  Monthly visits -> 2.8B
+bit.ly  --  Monthly visits -> 2.4B
+pornhub.com  --  Monthly visits -> 2.2B
+zoom.us  --  Monthly visits -> 2B
+support.google.com  --  Monthly visits -> 1.5B
+
+- Geography -
+Google Analytics usage by websites across the globe
+Leading Countries: Websites
+United States: 2432911
+Japan: 957053
+Russia: 487789
+United Kingdom: 470843
+France: 401366
+Germany: 366789
+Italy: 347265
+Canada: 322408
+India: 293273
+Brazil: 290958
+Rest of the World: 4568640

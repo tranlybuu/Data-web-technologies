@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: DataTables
+Last month's change: 1.03%
+Websites: 265106
+Unique Domains: 215098
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DataTables is being used
+Science & Education: 7.40%
+Computers Electronics & Technology: 4.10%
+Law & Government: 3.82%
+Finance: 2.74%
+Others: 81.93%
+
+
+- Related Technologies -
+Top Tables technologies
+None
+None
+None
+None
+None
+
+
+- Top Websites Using DataTables -
+nlm.nih.gov  --  Monthly visits -> 197.1M
+worldometers.info  --  Monthly visits -> 101.2M
+hindustantimes.com  --  Monthly visits -> 83.7M
+betman.co.kr  --  Monthly visits -> 81.3M
+moneycontrol.com  --  Monthly visits -> 76.8M
+freebitco.in  --  Monthly visits -> 70.8M
+m.hindustantimes.com  --  Monthly visits -> 57.9M
+fantacalcio.it  --  Monthly visits -> 33.1M
+argaam.com  --  Monthly visits -> 27.1M
+irancell.ir  --  Monthly visits -> 26.8M
+
+- Geography -
+DataTables usage by websites across the globe
+Leading Countries: Websites
+United States: 55996
+Germany: 12063
+United Kingdom: 10175
+India: 9998
+France: 9109
+Italy: 8460
+Canada: 7469
+Japan: 7134
+Russia: 6667
+Indonesia: 6629
+Rest of the World: 102757

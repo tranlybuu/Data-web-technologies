@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Naver Analytics
+Last month's change: 0.83%
+Websites: 145633
+Unique Domains: 64187
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Naver Analytics is being used
+E-commerce & Shopping: 7.85%
+Arts & Entertainment: 4.89%
+Computers Electronics & Technology: 4.82%
+Lifestyle: 3.16%
+Others: 79.28%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Naver Analytics -
+gall.dcinside.com  --  Monthly visits -> 83.8M
+op.gg  --  Monthly visits -> 79.2M
+inven.co.kr  --  Monthly visits -> 77.6M
+ppomppu.co.kr  --  Monthly visits -> 52.7M
+jalan.net  --  Monthly visits -> 48.8M
+theqoo.net  --  Monthly visits -> 40.1M
+nvidia.com  --  Monthly visits -> 34.3M
+m.inven.co.kr  --  Monthly visits -> 33.4M
+newspic.kr  --  Monthly visits -> 33.3M
+lightinthebox.com  --  Monthly visits -> 29.9M
+
+- Geography -
+Naver Analytics usage by websites across the globe
+Leading Countries: Websites
+South Korea: 98952
+United States: 1457
+Japan: 404
+China: 232
+Canada: 228
+Vietnam: 215
+Taiwan: 196
+Australia: 187
+Germany: 170
+United Kingdom: 123
+Rest of the World: 1696

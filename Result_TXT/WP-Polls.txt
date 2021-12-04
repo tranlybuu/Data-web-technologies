@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: WP-Polls
+Last month's change: 0.63%
+Websites: 40118
+Unique Domains: 36200
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WP-Polls is being used
+News & Media: 8.96%
+Science & Education: 6.25%
+Arts & Entertainment: 5.79%
+Computers Electronics & Technology: 5.33%
+Others: 73.66%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+YOP Poll
+Polldaddy
+ProProfs
+Kahoot
+
+
+- Top Websites Using WP-Polls -
+biblegateway.com  --  Monthly visits -> 82.3M
+appmedia.jp  --  Monthly visits -> 25.9M
+chochox.com  --  Monthly visits -> 23.3M
+conectate.com.do  --  Monthly visits -> 19.4M
+thefappeningblog.com  --  Monthly visits -> 19.3M
+shop-pro.jp  --  Monthly visits -> 16.6M
+lieferando.de  --  Monthly visits -> 16.5M
+estrategiaconcursos.com.br  --  Monthly visits -> 14.7M
+housing.com  --  Monthly visits -> 12.7M
+objektiv.rs  --  Monthly visits -> 11.8M
+
+- Geography -
+WP-Polls usage by websites across the globe
+Leading Countries: Websites
+United States: 6568
+Russia: 5203
+Germany: 1752
+Japan: 1733
+France: 1391
+Brazil: 1316
+Italy: 1210
+Poland: 1149
+Spain: 896
+Ukraine: 879
+Rest of the World: 14363

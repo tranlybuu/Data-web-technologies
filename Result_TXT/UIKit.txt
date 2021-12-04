@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: UIKit
+Last month's change: 3.95%
+Websites: 58485
+Unique Domains: 52299
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UIKit is being used
+Computers Electronics & Technology: 3.62%
+Science & Education: 2.93%
+Health: 2.31%
+Heavy Industry & Engineering: 1.95%
+Others: 89.19%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using UIKit -
+abplive.com  --  Monthly visits -> 30.4M
+igg-games.com  --  Monthly visits -> 20.3M
+inspiredot.net  --  Monthly visits -> 15.7M
+ekitan.com  --  Monthly visits -> 14.5M
+kabum.com.br  --  Monthly visits -> 13.2M
+mangakatana.com  --  Monthly visits -> 11.4M
+kleo.ru  --  Monthly visits -> 10.6M
+filimo.com  --  Monthly visits -> 9.9M
+edomex.gob.mx  --  Monthly visits -> 7.9M
+pptvhd36.com  --  Monthly visits -> 7.1M
+
+- Geography -
+UIKit usage by websites across the globe
+Leading Countries: Websites
+United States: 8209
+Germany: 4510
+Russia: 4329
+Italy: 3017
+United Kingdom: 2084
+France: 2043
+Japan: 1940
+Netherlands: 1508
+China: 1417
+Spain: 1355
+Rest of the World: 23247

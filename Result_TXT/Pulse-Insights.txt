@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Pulse Insights
+Last month's change: 2.02%
+Websites: 445
+Unique Domains: 356
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pulse Insights is being used
+Finance: 16.40%
+Health: 16.40%
+Computers Electronics & Technology: 6.97%
+Travel & Tourism: 6.29%
+Others: 53.93%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Qualtrics
+Get Site Control
+Qualaroo
+
+
+- Top Websites Using Pulse Insights -
+xfinity.com  --  Monthly visits -> 162.6M
+my.xfinity.com  --  Monthly visits -> 51.9M
+sony.com  --  Monthly visits -> 34.2M
+customer.xfinity.com  --  Monthly visits -> 21.9M
+secure.verizon.com  --  Monthly visits -> 21.9M
+verizonwireless.com  --  Monthly visits -> 15M
+payments.xfinity.com  --  Monthly visits -> 7.6M
+openstax.org  --  Monthly visits -> 5.4M
+comcast.net  --  Monthly visits -> 4.7M
+comcast.com  --  Monthly visits -> 4.5M
+
+- Geography -
+Pulse Insights usage by websites across the globe
+Leading Countries: Websites
+United States: 170
+Netherlands: 27
+United Kingdom: 18
+Canada: 12
+India: 11
+Japan: 11
+Spain: 8
+Germany: 7
+Italy: 7
+Mexico: 6
+Rest of the World: 99

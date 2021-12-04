@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: jQuery
+Last month's change: 0.30%
+Websites: 20561512
+Unique Domains: 12954630
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where jQuery is being used
+Computers Electronics & Technology: 4.43%
+Science & Education: 3.94%
+Arts & Entertainment: 3.24%
+Games: 1.90%
+Others: 86.49%
+
+
+- Related Technologies -
+Top JavaScript technologies
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+Masonry
+
+
+- Top Websites Using jQuery -
+facebook.com  --  Monthly visits -> 21.1B
+docs.google.com  --  Monthly visits -> 5.6B
+baidu.com  --  Monthly visits -> 5.6B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+whatsapp.com  --  Monthly visits -> 3.1B
+m.baidu.com  --  Monthly visits -> 2.9B
+netflix.com  --  Monthly visits -> 2.7B
+xnxx.com  --  Monthly visits -> 2.6B
+
+- Geography -
+jQuery usage by websites across the globe
+Leading Countries: Websites
+United States: 3412500
+Japan: 1196533
+Russia: 870788
+Germany: 818358
+China: 713742
+United Kingdom: 682429
+France: 608476
+Italy: 520419
+Canada: 470541
+India: 449702
+Rest of the World: 7108305

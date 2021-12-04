@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Yieldbot
+Last month's change: 1.31%
+Websites: 229
+Unique Domains: 168
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yieldbot is being used
+News & Media: 14.41%
+Health: 10.48%
+Food & Drink: 9.61%
+Finance: 9.17%
+Others: 56.33%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Yieldbot -
+motor1.com  --  Monthly visits -> 17.2M
+inspiredtaste.net  --  Monthly visits -> 7.1M
+insideevs.com  --  Monthly visits -> 4.6M
+livestly.com  --  Monthly visits -> 3.1M
+autosport.com  --  Monthly visits -> 2.5M
+gpone.com  --  Monthly visits -> 2.2M
+collections.billboard.com  --  Monthly visits -> 1.6M
+washingtonian.com  --  Monthly visits -> 1.4M
+m.gpone.com  --  Monthly visits -> 1.2M
+urbanbellemag.com  --  Monthly visits -> 1.1M
+
+- Geography -
+Yieldbot usage by websites across the globe
+Leading Countries: Websites
+United States: 139
+United Kingdom: 5
+Canada: 4
+Australia: 2
+India: 2
+Italy: 2
+Lithuania: 2
+South Africa: 2
+Algeria: 1
+Austria: 1
+Rest of the World: 16

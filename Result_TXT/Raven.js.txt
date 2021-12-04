@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Raven.js
+Last month's change: 2.10%
+Websites: 54972
+Unique Domains: 30558
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Raven.js is being used
+Computers Electronics & Technology: 5.72%
+Travel & Tourism: 5.71%
+Science & Education: 5.42%
+Lifestyle: 2.74%
+Others: 80.41%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Raven.js -
+vk.com  --  Monthly visits -> 1.5B
+zhihu.com  --  Monthly visits -> 498.1M
+open.spotify.com  --  Monthly visits -> 324.2M
+nytimes.com  --  Monthly visits -> 317.3M
+flipkart.com  --  Monthly visits -> 289.1M
+sohu.com  --  Monthly visits -> 268.9M
+zhuanlan.zhihu.com  --  Monthly visits -> 182.1M
+brainly.co.id  --  Monthly visits -> 181.2M
+away.vk.com  --  Monthly visits -> 158.6M
+webmd.com  --  Monthly visits -> 137.9M
+
+- Geography -
+Raven.js usage by websites across the globe
+Leading Countries: Websites
+United States: 12544
+Russia: 4215
+United Kingdom: 2770
+Poland: 2059
+China: 2023
+Germany: 1610
+France: 1548
+Canada: 1416
+India: 1251
+Brazil: 866
+Rest of the World: 14325

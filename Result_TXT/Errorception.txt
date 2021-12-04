@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Errorception
+Last month's change: 1.08%
+Websites: 475975
+Unique Domains: 59025
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Errorception is being used
+Arts & Entertainment: 14.34%
+Games: 8.94%
+Adult: 8.36%
+News & Media: 4.21%
+Others: 64.15%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Errorception -
+twitch.tv  --  Monthly visits -> 1.2B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+accuweather.com  --  Monthly visits -> 697.5M
+bbc.co.uk  --  Monthly visits -> 649.5M
+espn.com  --  Monthly visits -> 628.4M
+indeed.com  --  Monthly visits -> 587.7M
+uol.com.br  --  Monthly visits -> 542.3M
+cnn.com  --  Monthly visits -> 510.4M
+bbc.com  --  Monthly visits -> 465.1M
+
+- Geography -
+Errorception usage by websites across the globe
+Leading Countries: Websites
+United States: 85830
+Russia: 19406
+France: 13587
+United Kingdom: 9780
+Canada: 9053
+Italy: 7646
+Germany: 6502
+Brazil: 5782
+Spain: 5252
+Australia: 4471
+Rest of the World: 70368

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Tealium
+Last month's change: 1.72%
+Websites: 48877
+Unique Domains: 29306
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tealium is being used
+Computers Electronics & Technology: 7.37%
+Finance: 6.58%
+Vehicles: 6.25%
+Lifestyle: 3.61%
+Others: 76.20%
+
+
+- Related Technologies -
+Top Tag Management technologies
+Google Tag Manager
+Adobe Dynamic Tag Management
+Yahoo Tag Manager
+Ensighten
+TagMan
+
+
+- Top Websites Using Tealium -
+globo.com  --  Monthly visits -> 822.4M
+samsung.com  --  Monthly visits -> 805.5M
+booking.com  --  Monthly visits -> 401.9M
+g1.globo.com  --  Monthly visits -> 307.6M
+zillow.com  --  Monthly visits -> 263.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+hulu.com  --  Monthly visits -> 224.6M
+marca.com  --  Monthly visits -> 220.3M
+bild.de  --  Monthly visits -> 206.6M
+ups.com  --  Monthly visits -> 191.9M
+
+- Geography -
+Tealium usage by websites across the globe
+Leading Countries: Websites
+United States: 16112
+Germany: 2758
+United Kingdom: 2313
+Canada: 1429
+Netherlands: 1355
+France: 1285
+Australia: 978
+Italy: 851
+Spain: 834
+Belgium: 616
+Rest of the World: 10913

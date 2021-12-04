@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: OpenX
+Last month's change: 2.21%
+Websites: 1456289
+Unique Domains: 234515
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenX is being used
+Arts & Entertainment: 8.69%
+Science & Education: 7.34%
+Computers Electronics & Technology: 6.32%
+Games: 5.53%
+Others: 72.13%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+Rubicon Project
+Index Exchange
+SMART AdServer
+
+
+- Top Websites Using OpenX -
+yahoo.com  --  Monthly visits -> 3.5B
+live.com  --  Monthly visits -> 2.3B
+outlook.live.com  --  Monthly visits -> 1.9B
+vk.com  --  Monthly visits -> 1.5B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+ebay.com  --  Monthly visits -> 796.6M
+
+- Geography -
+OpenX usage by websites across the globe
+Leading Countries: Websites
+United States: 153512
+Japan: 55323
+Russia: 38065
+France: 34980
+Taiwan: 34835
+Italy: 27123
+United Kingdom: 21076
+Germany: 20795
+Spain: 18561
+India: 17495
+Rest of the World: 274225

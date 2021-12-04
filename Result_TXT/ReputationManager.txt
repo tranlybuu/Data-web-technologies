@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: ReputationManager
+Last month's change: 0.53%
+Websites: 5078
+Unique Domains: 2988
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ReputationManager is being used
+Finance: 13.43%
+Gambling: 7.44%
+Lifestyle: 5.67%
+Adult: 4.65%
+Others: 68.81%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using ReputationManager -
+samsung.com  --  Monthly visits -> 805.5M
+ups.com  --  Monthly visits -> 191.9M
+apps.samsung.com  --  Monthly visits -> 149.8M
+flirt4free.com  --  Monthly visits -> 51.6M
+citi.com  --  Monthly visits -> 51.2M
+chewy.com  --  Monthly visits -> 49.1M
+wwwapps.ups.com  --  Monthly visits -> 44.3M
+online.citi.com  --  Monthly visits -> 40.5M
+upwork.com  --  Monthly visits -> 39.3M
+m.samsung.com  --  Monthly visits -> 37.7M
+
+- Geography -
+ReputationManager usage by websites across the globe
+Leading Countries: Websites
+United States: 2004
+United Kingdom: 180
+Canada: 122
+China: 112
+Germany: 78
+France: 77
+Italy: 51
+Vietnam: 44
+Belgium: 37
+Brazil: 37
+Rest of the World: 847

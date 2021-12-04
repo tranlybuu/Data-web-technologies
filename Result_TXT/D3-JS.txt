@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: D3 JS
+Last month's change: 0.64%
+Websites: 73854
+Unique Domains: 46649
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where D3 JS is being used
+Computers Electronics & Technology: 8.72%
+Science & Education: 6.05%
+Finance: 3.54%
+Sports: 2.60%
+Others: 79.09%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using D3 JS -
+market.yandex.ru  --  Monthly visits -> 140M
+lenta.ru  --  Monthly visits -> 133.1M
+page.uplus.co.kr  --  Monthly visits -> 48.5M
+map.baidu.com  --  Monthly visits -> 45.3M
+finviz.com  --  Monthly visits -> 43M
+bitchute.com  --  Monthly visits -> 41.6M
+nexusmods.com  --  Monthly visits -> 41.3M
+urbandictionary.com  --  Monthly visits -> 39.5M
+news.nate.com  --  Monthly visits -> 39.4M
+asianetnews.com  --  Monthly visits -> 35M
+
+- Geography -
+D3 JS usage by websites across the globe
+Leading Countries: Websites
+United States: 16971
+Germany: 3161
+France: 2542
+United Kingdom: 2486
+China: 2452
+Russia: 2204
+India: 2166
+Canada: 1943
+Japan: 1876
+Italy: 1595
+Rest of the World: 26346

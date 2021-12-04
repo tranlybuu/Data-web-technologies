@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Rubicon Project
+Last month's change: 1.27%
+Websites: 932480
+Unique Domains: 222102
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Rubicon Project is being used
+Arts & Entertainment: 9.34%
+Games: 6.66%
+Computers Electronics & Technology: 5.61%
+News & Media: 5.29%
+Others: 73.09%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Index Exchange
+SMART AdServer
+
+
+- Top Websites Using Rubicon Project -
+yahoo.com  --  Monthly visits -> 3.5B
+live.com  --  Monthly visits -> 2.3B
+outlook.live.com  --  Monthly visits -> 1.9B
+vk.com  --  Monthly visits -> 1.5B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+ebay.com  --  Monthly visits -> 796.6M
+
+- Geography -
+Rubicon Project usage by websites across the globe
+Leading Countries: Websites
+United States: 126484
+Russia: 36101
+Taiwan: 31482
+France: 27296
+Italy: 19717
+Japan: 19265
+Germany: 14822
+United Kingdom: 13845
+Brazil: 13066
+Poland: 12400
+Rest of the World: 185879

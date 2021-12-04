@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Optimizely
+Last month's change: 1.00%
+Websites: 227997
+Unique Domains: 52995
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Optimizely is being used
+Games: 10.29%
+Computers Electronics & Technology: 9.82%
+Arts & Entertainment: 7.86%
+Vehicles: 4.61%
+Others: 67.42%
+
+
+- Related Technologies -
+Top A/B Testing technologies
+Optimizely X
+Google Optimize
+VWO
+Convert
+AB Tasty
+
+
+- Top Websites Using Optimizely -
+bit.ly  --  Monthly visits -> 2.4B
+bbc.co.uk  --  Monthly visits -> 649.5M
+espn.com  --  Monthly visits -> 628.4M
+cnn.com  --  Monthly visits -> 510.4M
+bbc.com  --  Monthly visits -> 465.1M
+nytimes.com  --  Monthly visits -> 317.3M
+canva.com  --  Monthly visits -> 289.4M
+foxnews.com  --  Monthly visits -> 283M
+disneyplus.com  --  Monthly visits -> 268.7M
+zillow.com  --  Monthly visits -> 263.4M
+
+- Geography -
+Optimizely usage by websites across the globe
+Leading Countries: Websites
+United States: 74240
+United Kingdom: 8250
+Canada: 6580
+Germany: 6187
+India: 5399
+Australia: 5003
+Poland: 4496
+Japan: 4062
+Brazil: 4050
+France: 3647
+Rest of the World: 55292

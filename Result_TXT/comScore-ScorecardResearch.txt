@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: comScore ScorecardResearch
+Last month's change: 0.01%
+Websites: 871398
+Unique Domains: 92810
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where comScore ScorecardResearch is being used
+Arts & Entertainment: 18.40%
+Games: 9.67%
+Adult: 7.30%
+Lifestyle: 3.38%
+Others: 61.26%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+Yandex Metrics
+Piwik
+
+
+- Top Websites Using comScore ScorecardResearch -
+yahoo.com  --  Monthly visits -> 3.5B
+vk.com  --  Monthly visits -> 1.5B
+twitch.tv  --  Monthly visits -> 1.2B
+microsoft.com  --  Monthly visits -> 1.1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+accuweather.com  --  Monthly visits -> 697.5M
+weather.com  --  Monthly visits -> 653.6M
+bbc.co.uk  --  Monthly visits -> 649.5M
+
+- Geography -
+comScore ScorecardResearch usage by websites across the globe
+Leading Countries: Websites
+United States: 188718
+United Kingdom: 22840
+Russia: 22649
+Canada: 20794
+France: 19141
+Germany: 14216
+Brazil: 13517
+Italy: 12211
+Australia: 11354
+Japan: 10830
+Rest of the World: 141720

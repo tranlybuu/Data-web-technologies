@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Sonobi Media
+Last month's change: 3.16%
+Websites: 584345
+Unique Domains: 125285
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sonobi Media is being used
+Arts & Entertainment: 10.01%
+Games: 8.44%
+Computers Electronics & Technology: 6.10%
+News & Media: 4.37%
+Others: 71.07%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Sonobi Media -
+yahoo.com  --  Monthly visits -> 3.5B
+vk.com  --  Monthly visits -> 1.5B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+ok.ru  --  Monthly visits -> 689.2M
+weather.com  --  Monthly visits -> 653.6M
+espn.com  --  Monthly visits -> 628.4M
+
+- Geography -
+Sonobi Media usage by websites across the globe
+Leading Countries: Websites
+United States: 87780
+Taiwan: 29631
+France: 20323
+Russia: 16630
+United Kingdom: 9648
+Spain: 8154
+Germany: 7587
+Brazil: 7505
+Japan: 7128
+Canada: 6799
+Rest of the World: 103447

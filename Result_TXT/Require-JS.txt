@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Require JS
+Last month's change: 3.35%
+Websites: 1012991
+Unique Domains: 704730
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Require JS is being used
+Science & Education: 5.05%
+Computers Electronics & Technology: 4.11%
+Lifestyle: 2.09%
+Games: 1.93%
+Others: 86.82%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Require JS -
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+baidu.com  --  Monthly visits -> 5.6B
+xvideos.com  --  Monthly visits -> 3.4B
+whatsapp.com  --  Monthly visits -> 3.1B
+m.baidu.com  --  Monthly visits -> 2.9B
+xnxx.com  --  Monthly visits -> 2.6B
+l.facebook.com  --  Monthly visits -> 1.4B
+microsoft.com  --  Monthly visits -> 1.1B
+bing.com  --  Monthly visits -> 1.1B
+
+- Geography -
+Require JS usage by websites across the globe
+Leading Countries: Websites
+United States: 255987
+Germany: 45476
+United Kingdom: 44177
+Canada: 33222
+China: 28926
+Russia: 28894
+France: 26471
+Australia: 22673
+Japan: 18593
+Brazil: 17953
+Rest of the World: 303913

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Neustar
+Last month's change: 1.84%
+Websites: 41603
+Unique Domains: 19412
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Neustar is being used
+Arts & Entertainment: 7.16%
+Computers Electronics & Technology: 5.82%
+News & Media: 4.46%
+Science & Education: 3.93%
+Others: 78.62%
+
+
+- Related Technologies -
+Top Tracker technologies
+Adloox
+Siteimprove
+163
+Marin Software
+Think Realtime
+
+
+- Top Websites Using Neustar -
+yahoo.com  --  Monthly visits -> 3.5B
+reddit.com  --  Monthly visits -> 1.6B
+cnn.com  --  Monthly visits -> 510.4M
+etsy.com  --  Monthly visits -> 404.5M
+redd.it  --  Monthly visits -> 206M
+homedepot.com  --  Monthly visits -> 188.4M
+orange.fr  --  Monthly visits -> 178.4M
+xfinity.com  --  Monthly visits -> 162.6M
+att.com  --  Monthly visits -> 159.8M
+vnexpress.net  --  Monthly visits -> 129.5M
+
+- Geography -
+Neustar usage by websites across the globe
+Leading Countries: Websites
+United States: 8708
+Indonesia: 1701
+Brazil: 1258
+Italy: 1093
+Japan: 952
+India: 945
+United Kingdom: 923
+Spain: 878
+France: 788
+Canada: 743
+Rest of the World: 11510

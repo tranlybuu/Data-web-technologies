@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Segment
+Last month's change: 4.16%
+Websites: 90257
+Unique Domains: 29255
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Segment is being used
+Computers Electronics & Technology: 16.36%
+Finance: 4.73%
+Business & Consumer Services: 4.62%
+Food & Drink: 3.02%
+Others: 71.27%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Segment -
+cnn.com  --  Monthly visits -> 510.4M
+canva.com  --  Monthly visits -> 289.4M
+foxnews.com  --  Monthly visits -> 283M
+criteo.com  --  Monthly visits -> 156.6M
+realtor.com  --  Monthly visits -> 137.9M
+atlassian.net  --  Monthly visits -> 109.9M
+nike.com  --  Monthly visits -> 106.6M
+amp.cnn.com  --  Monthly visits -> 90.7M
+zendesk.com  --  Monthly visits -> 84.2M
+people.com  --  Monthly visits -> 77.7M
+
+- Geography -
+Segment usage by websites across the globe
+Leading Countries: Websites
+United States: 30284
+United Kingdom: 4477
+Canada: 3119
+India: 3057
+Australia: 2804
+Germany: 2796
+France: 2371
+Brazil: 1811
+Netherlands: 1460
+Japan: 1359
+Rest of the World: 26834

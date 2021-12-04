@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Kendo UI
+Last month's change: 0.42%
+Websites: 17920
+Unique Domains: 11000
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kendo UI is being used
+Science & Education: 6.84%
+Finance: 4.46%
+Law & Government: 3.24%
+Business & Consumer Services: 2.92%
+Others: 82.54%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Kendo UI -
+codegrepper.com  --  Monthly visits -> 18.9M
+aa.com.tr  --  Monthly visits -> 13M
+listindiario.com  --  Monthly visits -> 9.9M
+unip.br  --  Monthly visits -> 8.5M
+ais.osym.gov.tr  --  Monthly visits -> 6.7M
+neocities.org  --  Monthly visits -> 4.6M
+ceve-market.org  --  Monthly visits -> 4M
+evemaps.ceve-market.org  --  Monthly visits -> 3.3M
+almamedia.fi  --  Monthly visits -> 3.2M
+secure.bcbssettlement.com  --  Monthly visits -> 2.6M
+
+- Geography -
+Kendo UI usage by websites across the globe
+Leading Countries: Websites
+United States: 6070
+Australia: 803
+Canada: 738
+United Kingdom: 652
+Germany: 354
+Italy: 352
+South Korea: 277
+India: 253
+Iran: 246
+Russia: 231
+Rest of the World: 4604

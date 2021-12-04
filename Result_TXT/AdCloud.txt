@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: AdCloud
+Last month's change: 2.51%
+Websites: 589951
+Unique Domains: 125516
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AdCloud is being used
+Arts & Entertainment: 10.22%
+Games: 8.57%
+Computers Electronics & Technology: 5.90%
+News & Media: 4.48%
+Others: 70.82%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using AdCloud -
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+ebay.com  --  Monthly visits -> 796.6M
+fandom.com  --  Monthly visits -> 795.9M
+ok.ru  --  Monthly visits -> 689.2M
+smt.docomo.ne.jp  --  Monthly visits -> 675M
+weather.com  --  Monthly visits -> 653.6M
+cnn.com  --  Monthly visits -> 510.4M
+
+- Geography -
+AdCloud usage by websites across the globe
+Leading Countries: Websites
+United States: 77592
+France: 21272
+Russia: 17927
+Taiwan: 17920
+Italy: 16395
+Japan: 14963
+Spain: 9482
+United Kingdom: 9175
+Brazil: 9095
+Germany: 8581
+Rest of the World: 103095

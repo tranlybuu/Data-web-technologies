@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Gatsby
+Last month's change: 2.93%
+Websites: 39057
+Unique Domains: 30829
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Gatsby is being used
+Computers Electronics & Technology: 14.10%
+Finance: 4.52%
+Business & Consumer Services: 2.71%
+Science & Education: 2.06%
+Others: 76.62%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Gatsby -
+indeed.com  --  Monthly visits -> 587.7M
+line.me  --  Monthly visits -> 325.5M
+deepl.com  --  Monthly visits -> 212.2M
+linktr.ee  --  Monthly visits -> 135M
+olx.com.br  --  Monthly visits -> 115.8M
+forbes.com  --  Monthly visits -> 105.9M
+crunchyroll.com  --  Monthly visits -> 67.9M
+jp.mercari.com  --  Monthly visits -> 67.7M
+startpage.com  --  Monthly visits -> 61.3M
+m.olx.com.br  --  Monthly visits -> 52.4M
+
+- Geography -
+Gatsby usage by websites across the globe
+Leading Countries: Websites
+United States: 10295
+United Kingdom: 1835
+Germany: 1497
+Japan: 1459
+India: 1400
+France: 1222
+Canada: 1167
+Brazil: 1123
+Poland: 990
+China: 903
+Rest of the World: 13767

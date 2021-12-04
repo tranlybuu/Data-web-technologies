@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Ember JS
+Last month's change: 3.72%
+Websites: 12592
+Unique Domains: 5472
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ember JS is being used
+Computers Electronics & Technology: 7.77%
+Food & Drink: 4.69%
+Science & Education: 4.04%
+Finance: 3.09%
+Others: 80.41%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Ember JS -
+music.apple.com  --  Monthly visits -> 31.9M
+sellercentral.amazon.com  --  Monthly visits -> 29.8M
+nasa.gov  --  Monthly visits -> 25.2M
+tv.apple.com  --  Monthly visits -> 24.9M
+444.hu  --  Monthly visits -> 19.7M
+cibconline.cibc.com  --  Monthly visits -> 14.4M
+ae.com  --  Monthly visits -> 13.8M
+hotdoc.com.au  --  Monthly visits -> 10M
+dochub.com  --  Monthly visits -> 9.3M
+britishgas.co.uk  --  Monthly visits -> 8.2M
+
+- Geography -
+Ember JS usage by websites across the globe
+Leading Countries: Websites
+United States: 4666
+United Kingdom: 480
+Canada: 397
+Germany: 381
+China: 346
+Netherlands: 232
+France: 219
+Russia: 207
+Australia: 206
+India: 202
+Rest of the World: 2573

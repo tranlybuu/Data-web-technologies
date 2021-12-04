@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Google Charts
+Last month's change: 1.60%
+Websites: 84741
+Unique Domains: 33043
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Charts is being used
+Computers Electronics & Technology: 5.28%
+Science & Education: 5.02%
+Law & Government: 2.91%
+Finance: 2.29%
+Others: 84.51%
+
+
+- Related Technologies -
+Top Charting technologies
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+TradingView Charting Library
+
+
+- Top Websites Using Google Charts -
+worldometers.info  --  Monthly visits -> 101.2M
+premierleague.com  --  Monthly visits -> 76.9M
+gsmarena.com  --  Monthly visits -> 75.6M
+mundodeportivo.com  --  Monthly visits -> 69M
+mit.edu  --  Monthly visits -> 52.5M
+faz.net  --  Monthly visits -> 38.4M
+okdiario.com  --  Monthly visits -> 33.9M
+ambito.com  --  Monthly visits -> 33M
+ismedia.jp  --  Monthly visits -> 30.8M
+homes.co.jp  --  Monthly visits -> 30.2M
+
+- Geography -
+Google Charts usage by websites across the globe
+Leading Countries: Websites
+United States: 11458
+Brazil: 3735
+Indonesia: 3632
+India: 3281
+Russia: 3196
+Spain: 3037
+Italy: 2535
+Japan: 2323
+France: 2151
+Germany: 2018
+Rest of the World: 36067

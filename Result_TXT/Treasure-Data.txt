@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Treasure Data
+Last month's change: 3.76%
+Websites: 49052
+Unique Domains: 16383
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Treasure Data is being used
+Food & Drink: 8.89%
+Computers Electronics & Technology: 8.12%
+Arts & Entertainment: 7.68%
+Vehicles: 6.50%
+Others: 68.82%
+
+
+- Related Technologies -
+Top Data Management Platform technologies
+SirData
+Adobe Audience Manager
+Kapost
+CoolaData
+TailTarget
+
+
+- Top Websites Using Treasure Data -
+yahoo.co.jp  --  Monthly visits -> 2.3B
+m.yahoo.co.jp  --  Monthly visits -> 669.2M
+syosetu.com  --  Monthly visits -> 237.8M
+trilltrill.jp  --  Monthly visits -> 217.6M
+ameblo.jp  --  Monthly visits -> 200.8M
+goo.ne.jp  --  Monthly visits -> 185.3M
+ncode.syosetu.com  --  Monthly visits -> 174.3M
+tribunnews.com  --  Monthly visits -> 153.5M
+estart.jp  --  Monthly visits -> 148.4M
+itmedia.co.jp  --  Monthly visits -> 131.4M
+
+- Geography -
+Treasure Data usage by websites across the globe
+Leading Countries: Websites
+Japan: 25483
+United States: 2927
+Taiwan: 296
+Canada: 154
+Indonesia: 149
+India: 148
+South Korea: 127
+China: 79
+Brazil: 70
+Thailand: 67
+Rest of the World: 864

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Pingback Support
+Last month's change: 0.83%
+Websites: 4220094
+Unique Domains: 3354980
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pingback Support is being used
+Science & Education: 4.54%
+Computers Electronics & Technology: 4.26%
+Arts & Entertainment: 2.94%
+Community & Society: 2.28%
+Others: 85.97%
+
+
+- Related Technologies -
+Top Blogging Standards technologies
+RSS
+Really Simple Discovery
+Live Writer Support
+None
+None
+
+
+- Top Websites Using Pingback Support -
+bit.ly  --  Monthly visits -> 2.4B
+tsyndicate.com  --  Monthly visits -> 362.7M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+zillow.com  --  Monthly visits -> 263.4M
+hdvideosnet.com  --  Monthly visits -> 217.5M
+play.hdvideosnet.com  --  Monthly visits -> 193.4M
+definition.org  --  Monthly visits -> 189M
+manga1001.com  --  Monthly visits -> 158.1M
+criteo.com  --  Monthly visits -> 156.6M
+exoclick.com  --  Monthly visits -> 152.4M
+
+- Geography -
+Pingback Support usage by websites across the globe
+Leading Countries: Websites
+United States: 783167
+Japan: 207679
+Germany: 175392
+United Kingdom: 157311
+Italy: 151580
+France: 148625
+India: 111999
+Canada: 110993
+Spain: 108725
+Russia: 92258
+Rest of the World: 1516485

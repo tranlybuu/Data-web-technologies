@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Outbrain
+Last month's change: 2.00%
+Websites: 470705
+Unique Domains: 76652
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Outbrain is being used
+Arts & Entertainment: 10.64%
+Games: 9.40%
+Computers Electronics & Technology: 5.80%
+News & Media: 4.56%
+Others: 69.60%
+
+
+- Related Technologies -
+Top Content Suggestion technologies
+AdYouLike
+Taboola
+Sharethrough
+Outbrain AdsTxt
+Taboola AdsTxt
+
+
+- Top Websites Using Outbrain -
+live.com  --  Monthly visits -> 2.3B
+outlook.live.com  --  Monthly visits -> 1.9B
+bing.com  --  Monthly visits -> 1.1B
+mail.ru  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+ok.ru  --  Monthly visits -> 689.2M
+weather.com  --  Monthly visits -> 653.6M
+cnn.com  --  Monthly visits -> 510.4M
+
+- Geography -
+Outbrain usage by websites across the globe
+Leading Countries: Websites
+United States: 56518
+France: 20902
+Russia: 16352
+Italy: 13883
+Taiwan: 13496
+Japan: 7638
+Germany: 6900
+Spain: 6735
+United Kingdom: 6335
+Brazil: 5802
+Rest of the World: 80280

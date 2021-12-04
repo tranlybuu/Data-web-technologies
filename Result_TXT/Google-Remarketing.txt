@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Google Remarketing
+Last month's change: 1.98%
+Websites: 417779
+Unique Domains: 298249
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Remarketing is being used
+Computers Electronics & Technology: 4.93%
+Lifestyle: 4.73%
+Vehicles: 4.15%
+E-commerce & Shopping: 4.09%
+Others: 82.10%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo
+Criteo Publisher
+Conversant Media
+RTB House
+
+
+- Top Websites Using Google Remarketing -
+smt.docomo.ne.jp  --  Monthly visits -> 675M
+pixiv.net  --  Monthly visits -> 328.4M
+avito.ru  --  Monthly visits -> 280.6M
+disneyplus.com  --  Monthly visits -> 268.7M
+hulu.com  --  Monthly visits -> 224.6M
+wildberries.ru  --  Monthly visits -> 201.6M
+dmm.co.jp  --  Monthly visits -> 188.9M
+brainly.co.id  --  Monthly visits -> 181.2M
+ebay-kleinanzeigen.de  --  Monthly visits -> 160.9M
+investing.com  --  Monthly visits -> 154M
+
+- Geography -
+Google Remarketing usage by websites across the globe
+Leading Countries: Websites
+United States: 75090
+Japan: 27537
+Russia: 21711
+Poland: 13335
+United Kingdom: 13016
+Czech Republic: 11161
+France: 10546
+Germany: 10493
+Brazil: 9933
+Canada: 9108
+Rest of the World: 137095

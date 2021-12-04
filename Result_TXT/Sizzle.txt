@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Sizzle
+Last month's change: 0.24%
+Websites: 307570
+Unique Domains: 123073
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sizzle is being used
+Computers Electronics & Technology: 11.77%
+E-commerce & Shopping: 4.75%
+Games: 3.92%
+Science & Education: 3.53%
+Others: 76.03%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Sizzle -
+tieba.baidu.com  --  Monthly visits -> 453.1M
+baijiahao.baidu.com  --  Monthly visits -> 316.8M
+pan.baidu.com  --  Monthly visits -> 178M
+steampowered.com  --  Monthly visits -> 169.1M
+store.steampowered.com  --  Monthly visits -> 162M
+steamcommunity.com  --  Monthly visits -> 135M
+goodreads.com  --  Monthly visits -> 117.7M
+ctvnews.ca  --  Monthly visits -> 64.8M
+service-now.com  --  Monthly visits -> 56.7M
+index.hr  --  Monthly visits -> 49.5M
+
+- Geography -
+Sizzle usage by websites across the globe
+Leading Countries: Websites
+South Korea: 94184
+United States: 29379
+China: 22755
+Germany: 12344
+Japan: 6340
+United Kingdom: 6138
+France: 5668
+Netherlands: 4486
+Italy: 4337
+Brazil: 3494
+Rest of the World: 53090

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Backbone.js
+Last month's change: 1.07%
+Websites: 918262
+Unique Domains: 363024
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Backbone.js is being used
+Arts & Entertainment: 12.63%
+Games: 6.12%
+Adult: 5.31%
+Lifestyle: 3.25%
+Others: 72.69%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Backbone.js -
+reddit.com  --  Monthly visits -> 1.6B
+espn.com  --  Monthly visits -> 628.4M
+tumblr.com  --  Monthly visits -> 299M
+canva.com  --  Monthly visits -> 289.4M
+sohu.com  --  Monthly visits -> 268.9M
+jw.org  --  Monthly visits -> 236.6M
+tradingview.com  --  Monthly visits -> 207.5M
+redd.it  --  Monthly visits -> 206M
+amp.reddit.com  --  Monthly visits -> 202.3M
+wattpad.com  --  Monthly visits -> 187.7M
+
+- Geography -
+Backbone.js usage by websites across the globe
+Leading Countries: Websites
+United States: 242404
+United Kingdom: 37548
+Canada: 30727
+Germany: 28299
+France: 20792
+Australia: 19628
+Italy: 16306
+Russia: 16025
+Japan: 15619
+India: 13467
+Rest of the World: 222683

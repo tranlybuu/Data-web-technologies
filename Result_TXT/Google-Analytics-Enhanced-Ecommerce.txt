@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Google Analytics Enhanced Ecommerce
+Last month's change: 0.87%
+Websites: 110816
+Unique Domains: 93831
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Analytics Enhanced Ecommerce is being used
+Lifestyle: 7.82%
+E-commerce & Shopping: 6.01%
+Computers Electronics & Technology: 3.60%
+Home & Garden: 3.49%
+Others: 79.09%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Google Analytics Enhanced Ecommerce -
+myntra.com  --  Monthly visits -> 71.7M
+18comic.vip  --  Monthly visits -> 65.6M
+thegioididong.com  --  Monthly visits -> 61.5M
+dns-shop.ru  --  Monthly visits -> 53.8M
+ilfattoquotidiano.it  --  Monthly visits -> 53.2M
+redbubble.com  --  Monthly visits -> 30.1M
+bestreviews.guide  --  Monthly visits -> 29.9M
+dienmayxanh.com  --  Monthly visits -> 26.1M
+tiki.vn  --  Monthly visits -> 18M
+lenovo.com.cn  --  Monthly visits -> 17.4M
+
+- Geography -
+Google Analytics Enhanced Ecommerce usage by websites across the globe
+Leading Countries: Websites
+United States: 12430
+France: 8581
+Spain: 5904
+Poland: 5799
+Brazil: 5008
+Italy: 4952
+Czech Republic: 3986
+Argentina: 3936
+Russia: 3146
+Japan: 2862
+Rest of the World: 42181

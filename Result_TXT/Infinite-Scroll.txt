@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Infinite Scroll
+Last month's change: 1.09%
+Websites: 965923
+Unique Domains: 567841
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Infinite Scroll is being used
+Science & Education: 5.87%
+Arts & Entertainment: 5.38%
+Computers Electronics & Technology: 4.24%
+Community & Society: 3.76%
+Others: 80.75%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Infinite Scroll -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+steampowered.com  --  Monthly visits -> 169.1M
+store.steampowered.com  --  Monthly visits -> 162M
+shein.com  --  Monthly visits -> 139.4M
+steamcommunity.com  --  Monthly visits -> 135M
+screenrant.com  --  Monthly visits -> 119.1M
+goodreads.com  --  Monthly visits -> 117.7M
+corriere.it  --  Monthly visits -> 106.8M
+lavanguardia.com  --  Monthly visits -> 69.2M
+mundodeportivo.com  --  Monthly visits -> 69M
+
+- Geography -
+Infinite Scroll usage by websites across the globe
+Leading Countries: Websites
+United States: 151076
+Germany: 47361
+Italy: 33339
+France: 31957
+United Kingdom: 31396
+Spain: 24858
+Canada: 22751
+India: 19246
+Japan: 18621
+Brazil: 18440
+Rest of the World: 313788

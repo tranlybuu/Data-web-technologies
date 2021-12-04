@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Facebook Advertiser
+Last month's change: 1.21%
+Websites: 3048562
+Unique Domains: 2073051
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Facebook Advertiser is being used
+Computers Electronics & Technology: 4.38%
+Lifestyle: 4.14%
+Food & Drink: 3.14%
+Arts & Entertainment: 3.11%
+Others: 85.24%
+
+
+- Related Technologies -
+Top Advertisers technologies
+Google AdWords Advertiser
+DoubleClick Advertiser
+LinkedIn Advertiser
+Bing Advertiser
+Bing Universal Advertiser
+
+
+- Top Websites Using Facebook Advertiser -
+discord.com  --  Monthly visits -> 1.3B
+globo.com  --  Monthly visits -> 822.4M
+ok.ru  --  Monthly visits -> 689.2M
+espn.com  --  Monthly visits -> 628.4M
+instructure.com  --  Monthly visits -> 573.1M
+uol.com.br  --  Monthly visits -> 542.3M
+cnn.com  --  Monthly visits -> 510.4M
+taboola.com  --  Monthly visits -> 503M
+headlines.yahoo.co.jp  --  Monthly visits -> 470.7M
+aliexpress.com  --  Monthly visits -> 455.2M
+
+- Geography -
+Facebook Advertiser usage by websites across the globe
+Leading Countries: Websites
+United States: 644225
+Russia: 124110
+United Kingdom: 113698
+Brazil: 97479
+Japan: 87478
+Canada: 84033
+Australia: 81111
+Italy: 76886
+Germany: 64403
+France: 64008
+Rest of the World: 1071902

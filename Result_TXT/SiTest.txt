@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: SiTest
+Last month's change: 0.52%
+Websites: 36375
+Unique Domains: 30989
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SiTest is being used
+Lifestyle: 4.40%
+Computers Electronics & Technology: 2.77%
+Business & Consumer Services: 2.56%
+Science & Education: 2.24%
+Others: 88.03%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Crazy Egg
+Heatmap IT
+UserInight
+FullStory
+
+
+- Top Websites Using SiTest -
+marksandspencer.com  --  Monthly visits -> 34.2M
+eastmoney.com  --  Monthly visits -> 33.7M
+ndr.de  --  Monthly visits -> 28.3M
+kontur.ru  --  Monthly visits -> 21.1M
+br.de  --  Monthly visits -> 19.5M
+rtvslo.si  --  Monthly visits -> 14.4M
+fimfiction.net  --  Monthly visits -> 13.3M
+plurk.com  --  Monthly visits -> 10.1M
+quote.eastmoney.com  --  Monthly visits -> 9.7M
+guba.eastmoney.com  --  Monthly visits -> 9.2M
+
+- Geography -
+SiTest usage by websites across the globe
+Leading Countries: Websites
+United States: 11974
+Japan: 2110
+United Kingdom: 1535
+Canada: 1472
+Vietnam: 1102
+France: 1084
+Germany: 983
+India: 933
+Australia: 855
+China: 706
+Rest of the World: 9593

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: LinkedIn Advertiser
+Last month's change: 3.12%
+Websites: 299224
+Unique Domains: 190971
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LinkedIn Advertiser is being used
+Computers Electronics & Technology: 11.60%
+Business & Consumer Services: 7.68%
+Finance: 5.30%
+Science & Education: 5.23%
+Others: 70.19%
+
+
+- Related Technologies -
+Top Advertisers technologies
+Facebook Advertiser
+Google AdWords Advertiser
+DoubleClick Advertiser
+Bing Advertiser
+Bing Universal Advertiser
+
+
+- Top Websites Using LinkedIn Advertiser -
+samsung.com  --  Monthly visits -> 805.5M
+taboola.com  --  Monthly visits -> 503M
+outbrain.com  --  Monthly visits -> 373M
+wordpress.com  --  Monthly visits -> 345.6M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+zillow.com  --  Monthly visits -> 263.4M
+force.com  --  Monthly visits -> 188.6M
+dropbox.com  --  Monthly visits -> 172.5M
+list-manage.com  --  Monthly visits -> 169.2M
+
+- Geography -
+LinkedIn Advertiser usage by websites across the globe
+Leading Countries: Websites
+United States: 91993
+United Kingdom: 16364
+India: 10486
+Canada: 10241
+Australia: 9423
+Brazil: 8635
+France: 8361
+Germany: 8149
+Netherlands: 7938
+Italy: 6561
+Rest of the World: 84884

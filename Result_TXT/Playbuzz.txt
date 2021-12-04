@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Playbuzz
+Last month's change: 0.30%
+Websites: 1343
+Unique Domains: 1119
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Playbuzz is being used
+News & Media: 17.65%
+Arts & Entertainment: 12.21%
+Games: 7.52%
+Science & Education: 5.51%
+Others: 57.11%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using Playbuzz -
+russian.rt.com  --  Monthly visits -> 40.7M
+allkpop.com  --  Monthly visits -> 28.5M
+publico.es  --  Monthly visits -> 15.6M
+cybersport.ru  --  Monthly visits -> 9.3M
+napi.hu  --  Monthly visits -> 9.3M
+travelerdreams.com  --  Monthly visits -> 8.8M
+m.lavoz.com.ar  --  Monthly visits -> 8M
+babbel.com  --  Monthly visits -> 6.9M
+russian7.ru  --  Monthly visits -> 6M
+geocaching.com  --  Monthly visits -> 5.9M
+
+- Geography -
+Playbuzz usage by websites across the globe
+Leading Countries: Websites
+United States: 280
+Russia: 136
+Spain: 68
+Israel: 47
+Brazil: 45
+Germany: 45
+Hungary: 44
+United Kingdom: 42
+Mexico: 35
+Ukraine: 34
+Rest of the World: 374

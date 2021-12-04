@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Heap Analytics
+Last month's change: 0.97%
+Websites: 49100
+Unique Domains: 28194
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Heap Analytics is being used
+Computers Electronics & Technology: 6.23%
+Business & Consumer Services: 3.00%
+Finance: 2.90%
+Science & Education: 2.83%
+Others: 85.04%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Heap Analytics -
+caixa.gov.br  --  Monthly visits -> 170.2M
+linktr.ee  --  Monthly visits -> 135M
+thesun.co.uk  --  Monthly visits -> 84.1M
+hanime.tv  --  Monthly visits -> 77.3M
+wsj.com  --  Monthly visits -> 74.1M
+merriam-webster.com  --  Monthly visits -> 62.7M
+slickdeals.net  --  Monthly visits -> 49.7M
+calendly.com  --  Monthly visits -> 30.8M
+kmail-lists.com  --  Monthly visits -> 30.2M
+manage.kmail-lists.com  --  Monthly visits -> 30.1M
+
+- Geography -
+Heap Analytics usage by websites across the globe
+Leading Countries: Websites
+United States: 13501
+Russia: 2749
+China: 1792
+United Kingdom: 1693
+Canada: 1587
+Ukraine: 1167
+Australia: 1112
+India: 1089
+Germany: 948
+France: 829
+Rest of the World: 11987

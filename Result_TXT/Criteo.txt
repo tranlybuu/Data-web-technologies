@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Criteo
+Last month's change: 1.87%
+Websites: 1299082
+Unique Domains: 175530
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Criteo is being used
+Arts & Entertainment: 8.22%
+Science & Education: 7.76%
+Computers Electronics & Technology: 6.43%
+Games: 5.48%
+Others: 72.11%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo Publisher
+Conversant Media
+Google Remarketing
+RTB House
+
+
+- Top Websites Using Criteo -
+mail.ru  --  Monthly visits -> 1B
+roblox.com  --  Monthly visits -> 1B
+msn.com  --  Monthly visits -> 1B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+accuweather.com  --  Monthly visits -> 697.5M
+ok.ru  --  Monthly visits -> 689.2M
+weather.com  --  Monthly visits -> 653.6M
+espn.com  --  Monthly visits -> 628.4M
+
+- Geography -
+Criteo usage by websites across the globe
+Leading Countries: Websites
+United States: 120985
+Japan: 54828
+Taiwan: 36466
+France: 32746
+Russia: 31793
+Italy: 22080
+United Kingdom: 18214
+Germany: 16806
+Brazil: 16514
+Spain: 16404
+Rest of the World: 236163

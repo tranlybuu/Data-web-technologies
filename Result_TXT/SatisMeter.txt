@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: SatisMeter
+Last month's change: 0.63%
+Websites: 1898
+Unique Domains: 1574
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SatisMeter is being used
+Business & Consumer Services: 5.37%
+Computers Electronics & Technology: 3.79%
+Finance: 1.00%
+Science & Education: 0.95%
+Others: 88.88%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Qualtrics
+Get Site Control
+Qualaroo
+
+
+- Top Websites Using SatisMeter -
+descomplica.com.br  --  Monthly visits -> 10.6M
+letyshops.com  --  Monthly visits -> 6.6M
+openclassrooms.com  --  Monthly visits -> 6.1M
+pickswise.com  --  Monthly visits -> 3.7M
+app.livestorm.co  --  Monthly visits -> 1.9M
+gradle.org  --  Monthly visits -> 962.6K
+wishpond.com  --  Monthly visits -> 902.5K
+app.ckbk.com  --  Monthly visits -> 741.7K
+quill.org  --  Monthly visits -> 614.4K
+projectpro.io  --  Monthly visits -> 608K
+
+- Geography -
+SatisMeter usage by websites across the globe
+Leading Countries: Websites
+United States: 1004
+Canada: 235
+France: 44
+India: 28
+Brazil: 20
+Germany: 14
+United Kingdom: 13
+Sweden: 11
+China: 10
+Russia: 10
+Rest of the World: 168

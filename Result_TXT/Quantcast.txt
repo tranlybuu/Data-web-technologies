@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Quantcast
+Last month's change: 3.67%
+Websites: 252994
+Unique Domains: 84252
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Quantcast is being used
+Games: 11.66%
+Arts & Entertainment: 11.08%
+Computers Electronics & Technology: 4.26%
+Science & Education: 4.15%
+Others: 68.84%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Quantcast -
+fandom.com  --  Monthly visits -> 795.9M
+wordpress.com  --  Monthly visits -> 345.6M
+worldstar.com  --  Monthly visits -> 273.1M
+imgur.com  --  Monthly visits -> 237.1M
+animeflv.net  --  Monthly visits -> 194.1M
+definition.org  --  Monthly visits -> 189M
+wattpad.com  --  Monthly visits -> 187.7M
+quizlet.com  --  Monthly visits -> 178.4M
+investing.com  --  Monthly visits -> 154M
+soundcloud.com  --  Monthly visits -> 141.1M
+
+- Geography -
+Quantcast usage by websites across the globe
+Leading Countries: Websites
+United States: 68925
+United Kingdom: 7775
+France: 6656
+Canada: 5497
+Germany: 5057
+Italy: 4915
+Spain: 4648
+Australia: 3923
+India: 3553
+Brazil: 3369
+Rest of the World: 52464

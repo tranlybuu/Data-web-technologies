@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Google Publisher Tag
+Last month's change: 2.48%
+Websites: 326163
+Unique Domains: 73000
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Publisher Tag is being used
+Arts & Entertainment: 11.41%
+Games: 9.39%
+Computers Electronics & Technology: 6.07%
+News & Media: 5.40%
+Others: 67.73%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Google Publisher Tag -
+fandom.com  --  Monthly visits -> 795.9M
+espn.com  --  Monthly visits -> 628.4M
+cnn.com  --  Monthly visits -> 510.4M
+walmart.com  --  Monthly visits -> 440.6M
+pixiv.net  --  Monthly visits -> 328.4M
+nytimes.com  --  Monthly visits -> 317.3M
+livedoor.jp  --  Monthly visits -> 305.6M
+avito.ru  --  Monthly visits -> 280.6M
+cricbuzz.com  --  Monthly visits -> 257.3M
+syosetu.com  --  Monthly visits -> 237.8M
+
+- Geography -
+Google Publisher Tag usage by websites across the globe
+Leading Countries: Websites
+United States: 48006
+Japan: 31817
+Russia: 9392
+France: 6500
+United Kingdom: 6243
+Canada: 5486
+Germany: 5193
+Brazil: 4571
+Italy: 4211
+India: 3748
+Rest of the World: 64332

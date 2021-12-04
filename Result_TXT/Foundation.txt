@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Foundation
+Last month's change: 0.35%
+Websites: 227769
+Unique Domains: 176778
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Foundation is being used
+Science & Education: 4.67%
+Computers Electronics & Technology: 3.39%
+Health: 2.73%
+Arts & Entertainment: 2.41%
+Others: 86.81%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Foundation -
+bit.ly  --  Monthly visits -> 2.4B
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+blackboard.com  --  Monthly visits -> 167.2M
+slideshare.net  --  Monthly visits -> 109.9M
+freebitco.in  --  Monthly visits -> 70.8M
+bible.com  --  Monthly visits -> 56.2M
+idealo.de  --  Monthly visits -> 50.7M
+elsevier.com  --  Monthly visits -> 44.6M
+urbandictionary.com  --  Monthly visits -> 39.5M
+gofundme.com  --  Monthly visits -> 34.3M
+
+- Geography -
+Foundation usage by websites across the globe
+Leading Countries: Websites
+United States: 64960
+Germany: 13470
+United Kingdom: 13377
+Canada: 9246
+France: 8132
+Netherlands: 7269
+Australia: 6335
+Italy: 5264
+Poland: 3865
+Russia: 3824
+Rest of the World: 64149

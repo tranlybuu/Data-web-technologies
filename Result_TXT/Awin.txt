@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Awin
+Last month's change: 33.4%
+Websites: 410904
+Unique Domains: 270722
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Awin is being used
+Computers Electronics & Technology: 5.09%
+Science & Education: 4.41%
+Arts & Entertainment: 3.70%
+Health: 2.88%
+Others: 83.92%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using Awin -
+yahoo.co.jp  --  Monthly visits -> 2.3B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+tieba.baidu.com  --  Monthly visits -> 453.1M
+search.yahoo.co.jp  --  Monthly visits -> 398.6M
+bet365.com  --  Monthly visits -> 327.5M
+cn.bing.com  --  Monthly visits -> 188.7M
+grid.id  --  Monthly visits -> 118.6M
+americanas.com.br  --  Monthly visits -> 114.8M
+shopping.yahoo.co.jp  --  Monthly visits -> 114.2M
+nfl.com  --  Monthly visits -> 112.3M
+
+- Geography -
+Awin usage by websites across the globe
+Leading Countries: Websites
+United States: 65100
+Russia: 52163
+Germany: 16093
+Japan: 13721
+China: 11869
+United Kingdom: 11687
+Canada: 8832
+France: 8704
+Taiwan: 7764
+Brazil: 6235
+Rest of the World: 108350

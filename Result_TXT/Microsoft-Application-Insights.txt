@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Microsoft Application Insights
+Last month's change: 0.18%
+Websites: 78971
+Unique Domains: 46224
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Microsoft Application Insights is being used
+Computers Electronics & Technology: 4.67%
+Law & Government: 4.06%
+Science & Education: 3.76%
+Vehicles: 3.59%
+Others: 83.91%
+
+
+- Related Technologies -
+Top Application Performance technologies
+New Relic
+Bugsnag
+AppDynamics
+Datadog
+Loggly
+
+
+- Top Websites Using Microsoft Application Insights -
+live.com  --  Monthly visits -> 2.3B
+outlook.live.com  --  Monthly visits -> 1.9B
+microsoft.com  --  Monthly visits -> 1.1B
+bing.com  --  Monthly visits -> 1.1B
+sharepoint.com  --  Monthly visits -> 599.1M
+support.microsoft.com  --  Monthly visits -> 194M
+caixa.gov.br  --  Monthly visits -> 170.2M
+madrasati.sa  --  Monthly visits -> 91.3M
+schools.madrasati.sa  --  Monthly visits -> 91.3M
+libero.it  --  Monthly visits -> 71.9M
+
+- Geography -
+Microsoft Application Insights usage by websites across the globe
+Leading Countries: Websites
+United States: 25435
+United Kingdom: 5225
+Canada: 2408
+Australia: 2014
+France: 1906
+Netherlands: 1690
+Germany: 1674
+Sweden: 1532
+Spain: 1179
+Denmark: 1022
+Rest of the World: 20532

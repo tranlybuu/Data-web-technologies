@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Ionic
+Last month's change: 0.25%
+Websites: 42445
+Unique Domains: 33354
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ionic is being used
+Computers Electronics & Technology: 3.68%
+Science & Education: 2.99%
+Arts & Entertainment: 2.30%
+Lifestyle: 2.08%
+Others: 88.95%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Ionic -
+fortnitetracker.com  --  Monthly visits -> 21.3M
+newrow.com  --  Monthly visits -> 12.5M
+powerball.com  --  Monthly visits -> 10M
+dashboard.cowin.gov.in  --  Monthly visits -> 9.9M
+jugem.jp  --  Monthly visits -> 9.8M
+nogizaka46.com  --  Monthly visits -> 8.9M
+michikoflowers.com  --  Monthly visits -> 8M
+statbroadcast.com  --  Monthly visits -> 6.8M
+stats.statbroadcast.com  --  Monthly visits -> 6.7M
+videobin.co  --  Monthly visits -> 6.4M
+
+- Geography -
+Ionic usage by websites across the globe
+Leading Countries: Websites
+United States: 9721
+Japan: 2238
+United Kingdom: 1566
+India: 1289
+France: 1139
+Brazil: 1129
+Italy: 1017
+Canada: 986
+Germany: 939
+Russia: 915
+Rest of the World: 13537

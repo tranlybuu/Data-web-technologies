@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Survicate
+Last month's change: 12.4%
+Websites: 4011
+Unique Domains: 2950
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Survicate is being used
+Vehicles: 11.12%
+Computers Electronics & Technology: 5.39%
+Business & Consumer Services: 3.22%
+Finance: 2.77%
+Others: 77.51%
+
+
+- Related Technologies -
+Top Feedback and Surveys technologies
+Zendesk Embeddables
+SurveyMonkey
+Qualtrics
+Get Site Control
+Qualaroo
+
+
+- Top Websites Using Survicate -
+brainly.com.br  --  Monthly visits -> 65.2M
+ekstrabladet.dk  --  Monthly visits -> 48.7M
+economictimes.indiatimes.com  --  Monthly visits -> 33.3M
+exlibrisgroup.com  --  Monthly visits -> 30.1M
+kmart.com.au  --  Monthly visits -> 24.6M
+carwale.com  --  Monthly visits -> 23.9M
+economictimes.com  --  Monthly visits -> 20.5M
+m.economictimes.com  --  Monthly visits -> 20.1M
+rappler.com  --  Monthly visits -> 18.5M
+theknot.com  --  Monthly visits -> 15.7M
+
+- Geography -
+Survicate usage by websites across the globe
+Leading Countries: Websites
+United States: 1707
+United Kingdom: 270
+Australia: 267
+Poland: 132
+Canada: 119
+Germany: 62
+India: 62
+Brazil: 58
+Netherlands: 50
+Spain: 43
+Rest of the World: 732

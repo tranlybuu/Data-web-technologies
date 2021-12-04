@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Realytics
+Last month's change: 8.05%
+Websites: 2410
+Unique Domains: 1877
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Realytics is being used
+Computers Electronics & Technology: 7.88%
+Travel & Tourism: 5.10%
+Vehicles: 4.36%
+Food & Drink: 3.98%
+Others: 78.67%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Realytics -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+hltv.org  --  Monthly visits -> 36.7M
+bt.dk  --  Monthly visits -> 32.2M
+delfi.lt  --  Monthly visits -> 27.8M
+newzit.com  --  Monthly visits -> 26.6M
+abola.pt  --  Monthly visits -> 25.5M
+idokep.hu  --  Monthly visits -> 23.8M
+laposte.net  --  Monthly visits -> 23.6M
+fanatik.com.tr  --  Monthly visits -> 22.4M
+adnkronos.com  --  Monthly visits -> 14M
+
+- Geography -
+Realytics usage by websites across the globe
+Leading Countries: Websites
+United States: 488
+France: 385
+Germany: 255
+Italy: 94
+Slovakia: 91
+United Kingdom: 84
+Spain: 70
+Netherlands: 69
+Denmark: 55
+Belgium: 45
+Rest of the World: 553

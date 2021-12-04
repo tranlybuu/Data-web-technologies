@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 04/12/2021
+Technology: Polldaddy
+Last month's change: 4.10%
+Websites: 5803
+Unique Domains: 1786
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Polldaddy is being used
+Science & Education: 11.70%
+Arts & Entertainment: 7.72%
+Community & Society: 4.81%
+Games: 4.38%
+Others: 71.39%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+ProProfs
+Kahoot
+
+
+- Top Websites Using Polldaddy -
+tvline.com  --  Monthly visits -> 16.4M
+theasianparent.com  --  Monthly visits -> 15.4M
+mlbtraderumors.com  --  Monthly visits -> 9.2M
+9to5mac.com  --  Monthly visits -> 7.3M
+timeslive.co.za  --  Monthly visits -> 6.5M
+fantasyfootballscout.co.uk  --  Monthly visits -> 5.6M
+der-postillon.com  --  Monthly visits -> 4.9M
+boligsiden.dk  --  Monthly visits -> 4.6M
+loudersound.com  --  Monthly visits -> 4.5M
+minnesota.cbslocal.com  --  Monthly visits -> 4.3M
+
+- Geography -
+Polldaddy usage by websites across the globe
+Leading Countries: Websites
+United States: 1144
+United Kingdom: 174
+Canada: 164
+Australia: 103
+Italy: 98
+India: 95
+France: 92
+Germany: 81
+Philippines: 79
+Brazil: 77
+Rest of the World: 1206

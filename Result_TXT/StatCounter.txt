@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: StatCounter
 Last month's change: 1.55%
-Websites: 155681
-Unique Domains: 102929
+Websites: 155848
+Unique Domains: 102975
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where StatCounter is being used
-Computers Electronics & Technology: 5.26%
-Arts & Entertainment: 5.12%
-Science & Education: 4.38%
+Computers Electronics & Technology: 5.25%
+Arts & Entertainment: 5.11%
+Science & Education: 4.37%
 Adult: 2.68%
-Others: 82.56%
+Others: 82.59%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ freejobalert.com  --  Monthly visits -> 12.6M
 - Geography -
 StatCounter usage by websites across the globe
 Leading Countries: Websites
-United States: 40108
-United Kingdom: 7397
-India: 6644
-Canada: 4523
-Japan: 4462
-Italy: 3789
-Indonesia: 3550
-Germany: 3526
-France: 3516
-Netherlands: 2693
-Rest of the World: 53129
+United States: 40147
+United Kingdom: 7405
+India: 6665
+Canada: 4522
+Japan: 4515
+Italy: 3797
+Indonesia: 3556
+Germany: 3527
+France: 3519
+Netherlands: 2691
+Rest of the World: 53160

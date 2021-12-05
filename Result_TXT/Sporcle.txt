@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Sporcle
+Last month's change: 4.55%
+Websites: 747
+Unique Domains: 342
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sporcle is being used
+Science & Education: 25.03%
+Arts & Entertainment: 8.43%
+Sports: 4.69%
+Games: 4.42%
+Others: 57.43%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using Sporcle -
+sporcle.com  --  Monthly visits -> 10.5M
+moneyversed.com  --  Monthly visits -> 3.4M
+renote.jp  --  Monthly visits -> 2.2M
+snooker.org  --  Monthly visits -> 1.9M
+planetfootball.com  --  Monthly visits -> 1.4M
+honesttopaws.com  --  Monthly visits -> 1.2M
+0calc.com  --  Monthly visits -> 1M
+web2.0calc.com  --  Monthly visits -> 1000K
+boredomtherapy.com  --  Monthly visits -> 726.5K
+brooklyn99.fandom.com  --  Monthly visits -> 633.4K
+
+- Geography -
+Sporcle usage by websites across the globe
+Leading Countries: Websites
+United States: 326
+Canada: 34
+United Kingdom: 34
+Australia: 22
+Spain: 13
+Japan: 11
+France: 9
+India: 9
+Philippines: 8
+Poland: 8
+Rest of the World: 161

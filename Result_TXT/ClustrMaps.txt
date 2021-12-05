@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ClustrMaps
+Last month's change: 0.92%
+Websites: 11149
+Unique Domains: 3244
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ClustrMaps is being used
+Science & Education: 15.80%
+Computers Electronics & Technology: 8.66%
+Community & Society: 7.37%
+Arts & Entertainment: 5.11%
+Others: 63.05%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using ClustrMaps -
+rpi.edu  --  Monthly visits -> 1.9M
+realsar.com  --  Monthly visits -> 1.2M
+gruntig.net  --  Monthly visits -> 604K
+sengpielaudio.com  --  Monthly visits -> 496.9K
+equasis.org  --  Monthly visits -> 375.5K
+violinist.com  --  Monthly visits -> 346K
+grasshopper3d.com  --  Monthly visits -> 343K
+sagemath.org  --  Monthly visits -> 263.9K
+keeptalkinggreece.com  --  Monthly visits -> 236.9K
+wikicfp.com  --  Monthly visits -> 236.6K
+
+- Geography -
+ClustrMaps usage by websites across the globe
+Leading Countries: Websites
+United States: 1506
+Russia: 796
+Spain: 372
+India: 282
+Italy: 269
+Brazil: 251
+Indonesia: 236
+United Kingdom: 231
+Ukraine: 209
+France: 205
+Rest of the World: 3231

@@ -10,7 +10,24 @@ class WebBotSpider(scrapy.Spider):
     name = 'web_bot'
     
     def start_requests(self):
-        list_cate = ["Advertising","Analytics","Tracker","JavaScript","Domain Parking","Blog","Feedback and Surveys","Polls and Quizzes","Call Tracking","Login Provider","Site Search","Multilingual","Push Notifications","Cryptocurrency","Information Technology","API","Marketing","Widget","Privacy","Content Delivery Network","Audio Video Media","Live Chat","Customer Communication","Customer Relationship Management","Booking","Trading Platforms","Social","Business Solutions","Advocacy","Other","Document Standard","ECommerce","Recruitment","Security","Content Management System","Finance","Comments System","Server","Online Forms","Email Services","Mobile","Tutorials and Onboarding"]
+                
+        """ Chuyển đến thư mục Result_TXT """
+        path = os.getcwd()
+        if "Result_TXT" not in path:
+            path = path + "\Result_TXT"
+            os.chdir(path)
+
+        list_cate = [
+        # "Advertising","Analytics","Tracker","JavaScript",
+        # "Domain Parking","Blog","Feedback and Surveys","Polls and Quizzes",
+        "Call Tracking","Login Provider","Site Search","Multilingual","Push Notifications",
+        "Cryptocurrency","Information Technology","API","Marketing","Widget","Privacy",
+        "Content Delivery Network","Audio Video Media","Live Chat","Customer Communication",
+        "Customer Relationship Management","Booking","Trading Platforms","Social",
+        "Business Solutions","Advocacy","Other","Document Standard","ECommerce","Recruitment",
+        "Security","Content Management System","Finance","Comments System","Server",
+        "Online Forms","Email Services","Mobile","Tutorials and Onboarding"
+        ]
         list_url = []
         for item in list_cate:
             url = 'https://www.similartech.com/categories/' + str(item).replace(" ", "-")
@@ -25,16 +42,21 @@ class WebBotSpider(scrapy.Spider):
             driver.get(item)
             link_elements = driver.find_elements_by_xpath('//*[@class="table-list"]//a[text()]')
             for link in link_elements:
-                if count<100:
-                    count+=1
-                    link = link.get_attribute('href')
-                    yield SeleniumRequest(
-                        url = link,
-                        wait_time = 2,
-                        callback = self.parse
-                    )
-                else:
-                    continue
+                file = open('--history--.txt', 'a+', encoding='UTF-8')
+                data = str(file.read())
+                link = str(link.get_attribute('href'))
+                if (link not in data) and ('websites-using' not in link):
+                    if count<100:
+                        count+=1
+                        file.write(str(link) + "\n")
+                        yield SeleniumRequest(
+                            url = link,
+                            wait_time = 2,
+                            callback = self.parse
+                        )
+                    else:
+                        continue
+                file.close()
             driver.quit()
 
     def parse(self, response):
@@ -42,17 +64,10 @@ class WebBotSpider(scrapy.Spider):
         # Ngày lấy dữ liệu
         Date = now.strftime("%d/%m/%Y")
 
-        
-        """ Chuyển đến thư mục Result_TXT """
-        path = os.getcwd()
-        if "Result_TXT" not in path:
-            path = path + "\Result_TXT"
-            os.chdir(path)
-
         check = str(response.xpath("//div[@class='row'][2]/div[2]/h1/text()").get()).strip()
         namefile = check.strip().replace(" ", "-") + ".txt"
         check_file = str(os.listdir())
-        if ("None.txt"!=namefile) or (namefile not in check_file):
+        if ("None.txt"!=namefile) and (namefile not in check_file):
 
             """ Crawl dữ liệu """
             ##### Thông tin cơ bản

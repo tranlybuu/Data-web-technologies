@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Openstat
+Last month's change: 2.53%
+Websites: 17903
+Unique Domains: 10008
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Openstat is being used
+Arts & Entertainment: 10.24%
+Computers Electronics & Technology: 8.80%
+Science & Education: 8.34%
+Heavy Industry & Engineering: 6.53%
+Others: 66.08%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Openstat -
+kulichki.net  --  Monthly visits -> 12.7M
+football.kulichki.net  --  Monthly visits -> 12M
+olimpiada.ru  --  Monthly visits -> 5.1M
+m.point.md  --  Monthly visits -> 4.9M
+samlib.ru  --  Monthly visits -> 4.3M
+pfrf.ru  --  Monthly visits -> 4.2M
+pfr.gov.ru  --  Monthly visits -> 3.6M
+cnews.ru  --  Monthly visits -> 3.3M
+orsk.ru  --  Monthly visits -> 3M
+mobile-review.com  --  Monthly visits -> 2.7M
+
+- Geography -
+Openstat usage by websites across the globe
+Leading Countries: Websites
+Russia: 9542
+Ukraine: 1222
+Belarus: 310
+Kazakhstan: 249
+United States: 184
+Germany: 125
+Moldova: 107
+United Kingdom: 51
+Uzbekistan: 50
+Israel: 49
+Rest of the World: 917

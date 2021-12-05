@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: LiveBall
+Last month's change: 5.56%
+Websites: 18
+Unique Domains: 18
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveBall is being used
+Law & Government: 16.67%
+Business & Consumer Services: 11.11%
+Home & Garden: 11.11%
+Community & Society: 5.56%
+Others: 55.56%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using LiveBall -
+landing.trugreen.com  --  Monthly visits -> 971.4K
+quote.ahs.com  --  Monthly visits -> 184.8K
+trugreenlawncare.com  --  Monthly visits -> 158.2K
+dellretailstores.in  --  Monthly visits -> 47.8K
+learn.uscareerinstitute.edu  --  Monthly visits -> 37.5K
+ahstrax.com  --  Monthly visits -> 17.8K
+go.kaiserpermanente.org  --  Monthly visits -> 13.3K
+offers.marinecorpstimes.com  --  Monthly visits -> 9.3K
+products.transformhomeimprove.com  --  Monthly visits -> 7.1K
+offers.armytimes.com  --  Monthly visits -> 6.9K
+
+- Geography -
+LiveBall usage by websites across the globe
+Leading Countries: Websites
+United States: 9
+Nigeria: 2
+Canada: 1
+India: 1
+Malaysia: 1
+Romania: 1

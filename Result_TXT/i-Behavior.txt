@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: i-Behavior
-Last month's change: 2.63%
+Last month's change: 3.07%
 Websites: 911
 Unique Domains: 475
 --------------------------------------

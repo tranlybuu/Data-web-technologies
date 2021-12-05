@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Polar Polls
+Last month's change: 5.00%
+Websites: 20
+Unique Domains: 20
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Polar Polls is being used
+Computers Electronics & Technology: 30.00%
+Arts & Entertainment: 5.00%
+Community & Society: 5.00%
+Food & Drink: 5.00%
+Others: 55.00%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using Polar Polls -
+6sqft.com  --  Monthly visits -> 456.7K
+apps.npr.org  --  Monthly visits -> 425.6K
+blog.gsmarena.com  --  Monthly visits -> 52.3K
+amazeui.clouddeep.cn  --  Monthly visits -> 11.9K
+staging.juniorsclub.gr  --  Monthly visits -> 2.3K
+sergiorodriguez.org  --  Monthly visits -> 1.6K
+top-smartfonov.com  --  Monthly visits -> 1.2K
+sideproject.io  --  Monthly visits -> 719.3
+m.digitalspy.co.uk  --  Monthly visits -> 703.63
+fryerguide.com  --  Monthly visits -> 693.98
+
+- Geography -
+Polar Polls usage by websites across the globe
+Leading Countries: Websites
+United States: 5
+China: 2
+Canada: 1
+Sri Lanka: 1
+Germany: 1
+India: 1
+Netherlands: 1
+Portugal: 1
+Russia: 1
+Switzerland: 1
+Rest of the World: 1

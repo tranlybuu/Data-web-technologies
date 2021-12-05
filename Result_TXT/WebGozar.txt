@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: WebGozar
+Last month's change: 1.01%
+Websites: 22340
+Unique Domains: 3100
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WebGozar is being used
+News & Media: 8.25%
+Science & Education: 6.31%
+Computers Electronics & Technology: 5.76%
+Arts & Entertainment: 4.62%
+Others: 75.07%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using WebGozar -
+feedproxy.google.com  --  Monthly visits -> 6.5M
+digiform.ir  --  Monthly visits -> 2.7M
+aviny.com  --  Monthly visits -> 2.3M
+digi-form.ir  --  Monthly visits -> 2.2M
+konkur.in  --  Monthly visits -> 2M
+islamquest.net  --  Monthly visits -> 1.7M
+a.digiform.ir  --  Monthly visits -> 1.6M
+real-madrid.ir  --  Monthly visits -> 795K
+carstan.ir  --  Monthly visits -> 785.5K
+forum.konkur.in  --  Monthly visits -> 602.7K
+
+- Geography -
+WebGozar usage by websites across the globe
+Leading Countries: Websites
+Iran: 3445
+United States: 165
+Germany: 146
+Netherlands: 93
+France: 65
+United Kingdom: 61
+Canada: 52
+Turkey: 36
+India: 17
+Poland: 14
+Rest of the World: 252

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: 2leep
-Last month's change: 3.99%
-Websites: 326
+Last month's change: 3.65%
+Websites: 329
 Unique Domains: 119
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where 2leep is being used
-Computers Electronics & Technology: 10.74%
-Arts & Entertainment: 9.82%
-Hobbies & Leisure: 7.06%
-News & Media: 5.21%
-Others: 67.18%
+Computers Electronics & Technology: 10.64%
+Arts & Entertainment: 9.73%
+Hobbies & Leisure: 6.99%
+News & Media: 5.17%
+Others: 67.48%
 
 
 - Related Technologies -
@@ -41,7 +41,7 @@ funguerilla.com  --  Monthly visits -> 31.4K
 2leep usage by websites across the globe
 Leading Countries: Websites
 Russia: 65
-United States: 46
+United States: 47
 Brazil: 27
 India: 10
 Ukraine: 8
@@ -50,4 +50,4 @@ Japan: 6
 Canada: 5
 Greece: 4
 Indonesia: 4
-Rest of the World: 82
+Rest of the World: 84

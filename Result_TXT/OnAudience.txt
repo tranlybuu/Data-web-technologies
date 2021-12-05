@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: OnAudience
+Last month's change: 3.39%
+Websites: 57279
+Unique Domains: 26817
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OnAudience is being used
+Arts & Entertainment: 7.15%
+Computers Electronics & Technology: 5.38%
+Adult: 4.06%
+Science & Education: 3.31%
+Others: 80.10%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using OnAudience -
+taboola.com  --  Monthly visits -> 503M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+indiatoday.in  --  Monthly visits -> 69.7M
+hltv.org  --  Monthly visits -> 36.7M
+bt.dk  --  Monthly visits -> 32.2M
+javmost.com  --  Monthly visits -> 31.5M
+www5.javmost.com  --  Monthly visits -> 31M
+24sata.hr  --  Monthly visits -> 29.7M
+delfi.lt  --  Monthly visits -> 27.8M
+newzit.com  --  Monthly visits -> 26.6M
+
+- Geography -
+OnAudience usage by websites across the globe
+Leading Countries: Websites
+United States: 6235
+Indonesia: 4613
+Brazil: 2472
+India: 2290
+Italy: 2266
+Vietnam: 1769
+Germany: 1641
+Thailand: 1622
+Spain: 1280
+France: 1260
+Rest of the World: 20642

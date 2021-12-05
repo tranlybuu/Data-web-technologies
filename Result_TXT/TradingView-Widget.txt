@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: TradingView Widget
+Last month's change: 2.02%
+Websites: 6581
+Unique Domains: 6071
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TradingView Widget is being used
+Finance: 20.77%
+News & Media: 3.97%
+Computers Electronics & Technology: 2.14%
+Heavy Industry & Engineering: 1.53%
+Others: 71.58%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Charting Library
+
+
+- Top Websites Using TradingView Widget -
+elespanol.com  --  Monthly visits -> 72.8M
+investopedia.com  --  Monthly visits -> 71.6M
+m.lenta.ru  --  Monthly visits -> 62M
+newsmax.com  --  Monthly visits -> 28.9M
+chron.com  --  Monthly visits -> 20.1M
+in.tradingview.com  --  Monthly visits -> 18.5M
+tr.tradingview.com  --  Monthly visits -> 12.7M
+kitco.com  --  Monthly visits -> 11.5M
+entrepreneur.com  --  Monthly visits -> 9.2M
+niezalezna.pl  --  Monthly visits -> 8.5M
+
+- Geography -
+TradingView Widget usage by websites across the globe
+Leading Countries: Websites
+United States: 1100
+Russia: 394
+India: 316
+Canada: 277
+Japan: 235
+Germany: 229
+Italy: 198
+Brazil: 184
+Vietnam: 171
+United Kingdom: 160
+Rest of the World: 2819

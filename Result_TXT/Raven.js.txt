@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Raven.js
-Last month's change: 2.10%
-Websites: 54972
-Unique Domains: 30558
+Last month's change: 2.18%
+Websites: 55072
+Unique Domains: 30606
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Raven.js is being used
 Computers Electronics & Technology: 5.72%
-Travel & Tourism: 5.71%
-Science & Education: 5.42%
-Lifestyle: 2.74%
-Others: 80.41%
+Travel & Tourism: 5.70%
+Science & Education: 5.40%
+Lifestyle: 2.75%
+Others: 80.44%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ webmd.com  --  Monthly visits -> 137.9M
 - Geography -
 Raven.js usage by websites across the globe
 Leading Countries: Websites
-United States: 12544
-Russia: 4215
-United Kingdom: 2770
-Poland: 2059
-China: 2023
-Germany: 1610
-France: 1548
-Canada: 1416
-India: 1251
-Brazil: 866
-Rest of the World: 14325
+United States: 12567
+Russia: 4224
+United Kingdom: 2779
+Poland: 2052
+China: 2031
+Germany: 1611
+France: 1554
+Canada: 1417
+India: 1253
+Brazil: 874
+Rest of the World: 14365

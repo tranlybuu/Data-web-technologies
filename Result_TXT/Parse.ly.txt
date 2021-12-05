@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Parse.ly
+Last month's change: 0.43%
+Websites: 2580
+Unique Domains: 1625
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Parse.ly is being used
+News & Media: 18.37%
+Arts & Entertainment: 9.88%
+Sports: 8.26%
+Finance: 5.16%
+Others: 58.33%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Parse.ly -
+fandom.com  --  Monthly visits -> 795.9M
+cnbc.com  --  Monthly visits -> 137.5M
+nfl.com  --  Monthly visits -> 112.3M
+nypost.com  --  Monthly visits -> 111.2M
+programme-tv.net  --  Monthly visits -> 73.4M
+marketwatch.com  --  Monthly visits -> 72.6M
+nbcnews.com  --  Monthly visits -> 68.3M
+thesaurus.com  --  Monthly visits -> 57.3M
+gala.fr  --  Monthly visits -> 45.9M
+voici.fr  --  Monthly visits -> 42.9M
+
+- Geography -
+Parse.ly usage by websites across the globe
+Leading Countries: Websites
+United States: 1139
+United Kingdom: 119
+Canada: 86
+India: 48
+China: 45
+France: 37
+Germany: 30
+Mexico: 21
+Australia: 20
+Spain: 18
+Rest of the World: 349

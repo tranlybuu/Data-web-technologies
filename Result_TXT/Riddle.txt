@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Riddle
+Last month's change: 0.71%
+Websites: 566
+Unique Domains: 509
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Riddle is being used
+Sports: 8.48%
+Science & Education: 6.89%
+News & Media: 6.71%
+Health: 4.59%
+Others: 73.32%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using Riddle -
+nfl.com  --  Monthly visits -> 112.3M
+tvspielfilm.de  --  Monthly visits -> 22.4M
+cnnbrasil.com.br  --  Monthly visits -> 20.2M
+tn.com.ar  --  Monthly visits -> 17M
+sport24.ru  --  Monthly visits -> 14.9M
+amp.nfl.com  --  Monthly visits -> 10.5M
+fantasy.nfl.com  --  Monthly visits -> 8.9M
+aad.org  --  Monthly visits -> 3.4M
+packers.com  --  Monthly visits -> 3M
+purebreak.com  --  Monthly visits -> 1.7M
+
+- Geography -
+Riddle usage by websites across the globe
+Leading Countries: Websites
+United States: 168
+United Kingdom: 39
+Germany: 34
+Denmark: 16
+Canada: 15
+France: 15
+Netherlands: 14
+India: 13
+Finland: 12
+Italy: 10
+Rest of the World: 166

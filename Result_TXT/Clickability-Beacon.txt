@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Clickability Beacon
+Last month's change: 6.76%
+Websites: 148
+Unique Domains: 107
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Clickability Beacon is being used
+News & Media: 10.14%
+Arts & Entertainment: 8.78%
+Computers Electronics & Technology: 8.11%
+Finance: 7.43%
+Others: 65.54%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Clickability Beacon -
+winnipegfreepress.com  --  Monthly visits -> 1.7M
+waaytv.com  --  Monthly visits -> 790.2K
+aish.com  --  Monthly visits -> 726K
+wktv.com  --  Monthly visits -> 655.6K
+kezi.com  --  Monthly visits -> 616.9K
+wfft.com  --  Monthly visits -> 536.2K
+wlfi.com  --  Monthly visits -> 513.4K
+kdrv.com  --  Monthly visits -> 496.7K
+actionnewsnow.com  --  Monthly visits -> 488K
+wtva.com  --  Monthly visits -> 343.5K
+
+- Geography -
+Clickability Beacon usage by websites across the globe
+Leading Countries: Websites
+United States: 64
+Canada: 6
+Germany: 5
+Argentina: 4
+China: 3
+France: 3
+United Kingdom: 3
+Finland: 2
+Hong Kong: 2
+India: 2
+Rest of the World: 26

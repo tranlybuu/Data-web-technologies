@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Yahoo Display Network
+Last month's change: 2.46%
+Websites: 77143
+Unique Domains: 1158
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yahoo Display Network is being used
+Computers Electronics & Technology: 13.47%
+Arts & Entertainment: 10.66%
+Food & Drink: 10.14%
+Games: 7.92%
+Others: 57.81%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using Yahoo Display Network -
+news.yahoo.co.jp  --  Monthly visits -> 886M
+headlines.yahoo.co.jp  --  Monthly visits -> 470.7M
+trilltrill.jp  --  Monthly visits -> 217.6M
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+news.livedoor.com  --  Monthly visits -> 119.5M
+shopping.yahoo.co.jp  --  Monthly visits -> 114.2M
+weather.yahoo.co.jp  --  Monthly visits -> 98.6M
+baseball.yahoo.co.jp  --  Monthly visits -> 85.3M
+sports.yahoo.co.jp  --  Monthly visits -> 74.4M
+asahi.com  --  Monthly visits -> 71.5M
+
+- Geography -
+Yahoo Display Network usage by websites across the globe
+Leading Countries: Websites
+Japan: 35791
+United States: 382
+South Korea: 103
+China: 98
+Taiwan: 87
+United Kingdom: 65
+Russia: 57
+Thailand: 56
+Germany: 55
+Australia: 45
+Rest of the World: 718

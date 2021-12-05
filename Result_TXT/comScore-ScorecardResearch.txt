@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: comScore ScorecardResearch
-Last month's change: 0.01%
-Websites: 871398
-Unique Domains: 92810
+Last month's change: 0.06%
+Websites: 873067
+Unique Domains: 92686
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where comScore ScorecardResearch is being used
-Arts & Entertainment: 18.40%
-Games: 9.67%
-Adult: 7.30%
-Lifestyle: 3.38%
-Others: 61.26%
+Arts & Entertainment: 18.37%
+Games: 9.66%
+Adult: 7.29%
+Lifestyle: 3.37%
+Others: 61.31%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ bbc.co.uk  --  Monthly visits -> 649.5M
 - Geography -
 comScore ScorecardResearch usage by websites across the globe
 Leading Countries: Websites
-United States: 188718
-United Kingdom: 22840
-Russia: 22649
-Canada: 20794
-France: 19141
-Germany: 14216
-Brazil: 13517
-Italy: 12211
-Australia: 11354
-Japan: 10830
-Rest of the World: 141720
+United States: 189435
+United Kingdom: 22946
+Russia: 22708
+Canada: 20897
+France: 19210
+Germany: 14279
+Brazil: 13547
+Italy: 12241
+Australia: 11416
+Japan: 10864
+Rest of the World: 142115

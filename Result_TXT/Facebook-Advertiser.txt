@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Facebook Advertiser
-Last month's change: 1.21%
-Websites: 3048562
-Unique Domains: 2073051
+Last month's change: 1.23%
+Websites: 3054949
+Unique Domains: 2077129
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Facebook Advertiser is being used
-Computers Electronics & Technology: 4.38%
-Lifestyle: 4.14%
+Computers Electronics & Technology: 4.37%
+Lifestyle: 4.13%
 Food & Drink: 3.14%
-Arts & Entertainment: 3.11%
-Others: 85.24%
+Arts & Entertainment: 3.10%
+Others: 85.26%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ aliexpress.com  --  Monthly visits -> 455.2M
 - Geography -
 Facebook Advertiser usage by websites across the globe
 Leading Countries: Websites
-United States: 644225
-Russia: 124110
-United Kingdom: 113698
-Brazil: 97479
-Japan: 87478
-Canada: 84033
-Australia: 81111
-Italy: 76886
-Germany: 64403
-France: 64008
-Rest of the World: 1071902
+United States: 645532
+Russia: 124537
+United Kingdom: 113969
+Brazil: 97770
+Japan: 87767
+Canada: 84276
+Australia: 81318
+Italy: 77113
+Germany: 64563
+France: 64106
+Rest of the World: 1074769

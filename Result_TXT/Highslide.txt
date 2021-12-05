@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Highslide
-Last month's change: 2.26%
-Websites: 38752
-Unique Domains: 31185
+Last month's change: 2.35%
+Websites: 38783
+Unique Domains: 31171
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Highslide is being used
-Arts & Entertainment: 7.33%
-Computers Electronics & Technology: 6.31%
-Science & Education: 5.57%
-Games: 5.04%
-Others: 75.76%
+Arts & Entertainment: 7.31%
+Computers Electronics & Technology: 6.29%
+Science & Education: 5.56%
+Games: 5.03%
+Others: 75.81%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ torrentgalaxy.to  --  Monthly visits -> 15.5M
 - Geography -
 Highslide usage by websites across the globe
 Leading Countries: Websites
-Russia: 12046
+Russia: 12069
 Ukraine: 2557
-United States: 2285
+United States: 2286
 Germany: 2226
-Japan: 1680
-United Kingdom: 872
-Italy: 803
+Japan: 1678
+United Kingdom: 875
+Italy: 804
 France: 771
-China: 575
-Kazakhstan: 573
-Rest of the World: 10116
+China: 576
+Kazakhstan: 575
+Rest of the World: 10118

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Adtech
 Last month's change: 1.54%
-Websites: 735681
-Unique Domains: 162545
+Websites: 736787
+Unique Domains: 162976
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Adtech is being used
 Arts & Entertainment: 9.28%
-Games: 7.68%
-Computers Electronics & Technology: 5.58%
+Games: 7.67%
+Computers Electronics & Technology: 5.57%
 News & Media: 4.56%
-Others: 72.91%
+Others: 72.92%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ok.ru  --  Monthly visits -> 689.2M
 - Geography -
 Adtech usage by websites across the globe
 Leading Countries: Websites
-United States: 99701
-Taiwan: 25363
-France: 24996
-Russia: 21407
-Japan: 16892
-Italy: 12283
-Germany: 11542
-United Kingdom: 11381
-Brazil: 11224
-Spain: 10711
-Rest of the World: 137344
+United States: 99981
+Taiwan: 25124
+France: 25068
+Russia: 21614
+Japan: 16966
+Italy: 12311
+Germany: 11564
+United Kingdom: 11434
+Brazil: 11216
+Spain: 10738
+Rest of the World: 137934

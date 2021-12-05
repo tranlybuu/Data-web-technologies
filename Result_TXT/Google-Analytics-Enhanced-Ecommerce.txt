@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Google Analytics Enhanced Ecommerce
 Last month's change: 0.87%
-Websites: 110816
-Unique Domains: 93831
+Websites: 110886
+Unique Domains: 93867
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Google Analytics Enhanced Ecommerce is being used
 Lifestyle: 7.82%
-E-commerce & Shopping: 6.01%
-Computers Electronics & Technology: 3.60%
-Home & Garden: 3.49%
-Others: 79.09%
+E-commerce & Shopping: 6.00%
+Computers Electronics & Technology: 3.59%
+Home & Garden: 3.48%
+Others: 79.11%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ lenovo.com.cn  --  Monthly visits -> 17.4M
 - Geography -
 Google Analytics Enhanced Ecommerce usage by websites across the globe
 Leading Countries: Websites
-United States: 12430
-France: 8581
-Spain: 5904
-Poland: 5799
-Brazil: 5008
-Italy: 4952
-Czech Republic: 3986
-Argentina: 3936
+United States: 12440
+France: 8587
+Spain: 5906
+Poland: 5807
+Brazil: 5023
+Italy: 4951
+Argentina: 3948
+Czech Republic: 3944
 Russia: 3146
-Japan: 2862
-Rest of the World: 42181
+Japan: 2867
+Rest of the World: 42236

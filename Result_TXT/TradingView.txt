@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: TradingView
-Last month's change: 1.61%
-Websites: 8029
-Unique Domains: 7391
+Last month's change: 1.74%
+Websites: 8056
+Unique Domains: 7409
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where TradingView is being used
-Finance: 23.96%
-News & Media: 3.72%
-Computers Electronics & Technology: 2.17%
-Heavy Industry & Engineering: 1.56%
-Others: 68.59%
+Finance: 23.91%
+News & Media: 3.74%
+Computers Electronics & Technology: 2.16%
+Heavy Industry & Engineering: 1.55%
+Others: 68.64%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ kitco.com  --  Monthly visits -> 11.5M
 - Geography -
 TradingView usage by websites across the globe
 Leading Countries: Websites
-United States: 1347
+United States: 1349
 Russia: 519
-India: 371
+India: 378
 Canada: 312
-Japan: 308
+Japan: 309
 Germany: 284
 Italy: 231
-Brazil: 229
+Brazil: 230
 Turkey: 224
-United Kingdom: 198
-Rest of the World: 3444
+United Kingdom: 199
+Rest of the World: 3459

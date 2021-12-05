@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Lijit
-Last month's change: 3.42%
-Websites: 697737
-Unique Domains: 143995
+Last month's change: 3.67%
+Websites: 701927
+Unique Domains: 145134
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Lijit is being used
-Arts & Entertainment: 10.29%
-Games: 7.85%
-Computers Electronics & Technology: 5.99%
-News & Media: 5.38%
-Others: 70.49%
+Arts & Entertainment: 10.27%
+Games: 7.82%
+Computers Electronics & Technology: 5.97%
+News & Media: 5.36%
+Others: 70.58%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ebay.com  --  Monthly visits -> 796.6M
 - Geography -
 Lijit usage by websites across the globe
 Leading Countries: Websites
-United States: 95939
-Russia: 30875
-Taiwan: 27838
-France: 23234
-Italy: 16906
-Germany: 11252
-United Kingdom: 10105
-Poland: 9699
-Spain: 9615
-India: 8703
-Rest of the World: 129973
+United States: 96822
+Russia: 31178
+Taiwan: 28146
+France: 23432
+Italy: 17027
+Germany: 11352
+United Kingdom: 10239
+Poland: 9850
+Spain: 9701
+India: 8824
+Rest of the World: 131755

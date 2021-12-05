@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: KissMetrics
+Last month's change: 6.65%
+Websites: 18591
+Unique Domains: 6825
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where KissMetrics is being used
+Computers Electronics & Technology: 10.23%
+Business & Consumer Services: 8.19%
+Arts & Entertainment: 3.03%
+Finance: 2.76%
+Others: 75.78%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using KissMetrics -
+outbrain.com  --  Monthly visits -> 373M
+paid.outbrain.com  --  Monthly visits -> 218.7M
+traffic.outbrain.com  --  Monthly visits -> 114.4M
+brainly.in  --  Monthly visits -> 93.2M
+znanija.com  --  Monthly visits -> 47.2M
+telegraph.co.uk  --  Monthly visits -> 46.5M
+typeform.com  --  Monthly visits -> 35.2M
+brainly.com  --  Monthly visits -> 32.1M
+carvana.com  --  Monthly visits -> 20.4M
+eodev.com  --  Monthly visits -> 14.8M
+
+- Geography -
+KissMetrics usage by websites across the globe
+Leading Countries: Websites
+United States: 3999
+India: 821
+United Kingdom: 716
+Australia: 434
+France: 427
+Canada: 419
+Italy: 369
+Germany: 293
+Brazil: 278
+Spain: 274
+Rest of the World: 4366

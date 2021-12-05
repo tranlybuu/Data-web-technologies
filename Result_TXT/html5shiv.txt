@@ -1,17 +1,17 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: html5shiv
-Last month's change: 1.92%
-Websites: 379783
-Unique Domains: 303028
+Last month's change: 1.97%
+Websites: 379754
+Unique Domains: 302842
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where html5shiv is being used
-Computers Electronics & Technology: 4.03%
-Science & Education: 3.86%
-Arts & Entertainment: 2.91%
+Computers Electronics & Technology: 4.02%
+Science & Education: 3.87%
+Arts & Entertainment: 2.90%
 Health: 2.18%
 Others: 87.03%
 
@@ -40,14 +40,14 @@ merdeka.com  --  Monthly visits -> 49.7M
 - Geography -
 html5shiv usage by websites across the globe
 Leading Countries: Websites
-United States: 67310
-Japan: 18245
-France: 15577
-Russia: 14946
-Germany: 14668
-Italy: 14249
-United Kingdom: 13549
-Canada: 9117
-Spain: 9085
-India: 8493
-Rest of the World: 139216
+United States: 67262
+Japan: 18244
+France: 15563
+Russia: 14958
+Germany: 14667
+Italy: 14248
+United Kingdom: 13575
+Canada: 9135
+Spain: 9078
+India: 8510
+Rest of the World: 139186

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SocketIO
-Last month's change: 0.11%
-Websites: 22896
-Unique Domains: 14646
+Last month's change: 0.17%
+Websites: 23035
+Unique Domains: 14722
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SocketIO is being used
-Adult: 7.29%
-Computers Electronics & Technology: 6.59%
-Finance: 4.30%
-Games: 3.47%
-Others: 78.36%
+Adult: 7.27%
+Computers Electronics & Technology: 6.56%
+Finance: 4.24%
+Games: 3.45%
+Others: 78.48%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ emol.com  --  Monthly visits -> 24.4M
 - Geography -
 SocketIO usage by websites across the globe
 Leading Countries: Websites
-United States: 2932
+United States: 2955
 Poland: 1850
-China: 1154
-Russia: 958
-India: 924
-Germany: 806
-France: 606
-Canada: 557
-South Korea: 543
-United Kingdom: 491
-Rest of the World: 7118
+China: 1163
+Russia: 962
+India: 930
+Germany: 826
+France: 614
+Canada: 562
+South Korea: 548
+United Kingdom: 490
+Rest of the World: 7178

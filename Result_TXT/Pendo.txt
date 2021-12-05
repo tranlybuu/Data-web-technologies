@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Pendo
-Last month's change: 0.93%
-Websites: 74857
-Unique Domains: 25579
+Last month's change: 0.92%
+Websites: 75199
+Unique Domains: 25680
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Pendo is being used
-Computers Electronics & Technology: 6.95%
-Science & Education: 5.69%
-Finance: 5.39%
-Law & Government: 4.44%
-Others: 77.53%
+Computers Electronics & Technology: 6.92%
+Science & Education: 5.67%
+Finance: 5.38%
+Law & Government: 4.43%
+Others: 77.60%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ digital.fidelity.com  --  Monthly visits -> 20M
 - Geography -
 Pendo usage by websites across the globe
 Leading Countries: Websites
-United States: 22084
-Vietnam: 2350
-Canada: 2102
-United Kingdom: 1972
-Australia: 1634
-Germany: 1465
-Brazil: 1420
-France: 1403
-Italy: 1134
-Japan: 1133
-Rest of the World: 18576
+United States: 22225
+Vietnam: 2353
+Canada: 2116
+United Kingdom: 1984
+Australia: 1656
+Germany: 1466
+Brazil: 1437
+France: 1414
+Italy: 1145
+Japan: 1141
+Rest of the World: 18678

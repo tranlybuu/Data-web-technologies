@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Amazon Publisher Services
-Last month's change: 2.98%
-Websites: 654654
-Unique Domains: 145825
+Last month's change: 3.05%
+Websites: 656331
+Unique Domains: 146188
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Amazon Publisher Services is being used
 Arts & Entertainment: 9.62%
-Games: 8.05%
-Computers Electronics & Technology: 5.86%
+Games: 8.04%
+Computers Electronics & Technology: 5.85%
 News & Media: 4.59%
-Others: 71.88%
+Others: 71.90%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ok.ru  --  Monthly visits -> 689.2M
 - Geography -
 Amazon Publisher Services usage by websites across the globe
 Leading Countries: Websites
-United States: 96230
-Taiwan: 25075
-France: 21878
-Russia: 20069
-Italy: 16678
-Japan: 11617
-Germany: 10845
-United Kingdom: 10008
-Spain: 9055
-India: 8298
-Rest of the World: 120291
+United States: 96543
+Taiwan: 25249
+France: 21948
+Russia: 20269
+Italy: 16734
+Japan: 11698
+Germany: 10877
+United Kingdom: 10054
+Spain: 9080
+India: 8350
+Rest of the World: 120919

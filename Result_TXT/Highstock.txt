@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Highstock
 Last month's change: 1.27%
-Websites: 7240
-Unique Domains: 4830
+Websites: 7251
+Unique Domains: 4826
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Highstock is being used
-Finance: 23.96%
-Computers Electronics & Technology: 3.94%
-Science & Education: 2.96%
+Finance: 23.91%
+Computers Electronics & Technology: 3.93%
+Science & Education: 2.94%
 Business & Consumer Services: 2.76%
-Others: 66.38%
+Others: 66.46%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ nseindia.com  --  Monthly visits -> 18.1M
 - Geography -
 Highstock usage by websites across the globe
 Leading Countries: Websites
-United States: 971
-Russia: 464
-India: 351
-China: 342
+United States: 968
+Russia: 463
+India: 357
+China: 343
 Brazil: 272
 Germany: 240
 France: 236
-Canada: 224
-United Kingdom: 159
+Canada: 226
+United Kingdom: 160
 Japan: 154
-Rest of the World: 2587
+Rest of the World: 2592

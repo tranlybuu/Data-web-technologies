@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: District M
+Last month's change: 0.86%
+Websites: 133082
+Unique Domains: 14568
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where District M is being used
+Arts & Entertainment: 13.85%
+Games: 13.56%
+Science & Education: 12.33%
+Community & Society: 5.77%
+Others: 54.49%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using District M -
+worldstar.com  --  Monthly visits -> 273.1M
+imgur.com  --  Monthly visits -> 237.1M
+kompas.com  --  Monthly visits -> 194M
+vnexpress.net  --  Monthly visits -> 129.5M
+coingecko.com  --  Monthly visits -> 124.6M
+screenrant.com  --  Monthly visits -> 119.1M
+usatoday.com  --  Monthly visits -> 102.2M
+i.imgur.com  --  Monthly visits -> 95M
+genius.com  --  Monthly visits -> 91.8M
+ign.com  --  Monthly visits -> 86.3M
+
+- Geography -
+District M usage by websites across the globe
+Leading Countries: Websites
+United States: 28578
+United Kingdom: 3459
+Canada: 3001
+Brazil: 2041
+Germany: 1966
+France: 1939
+Indonesia: 1899
+Philippines: 1762
+Italy: 1753
+Spain: 1752
+Rest of the World: 24838

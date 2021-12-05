@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: TagCommander
+Last month's change: 8.33%
+Websites: 120
+Unique Domains: 74
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TagCommander is being used
+Lifestyle: 36.67%
+Finance: 9.17%
+News & Media: 5.00%
+E-commerce & Shopping: 3.33%
+Others: 45.83%
+
+
+- Related Technologies -
+Top Tag Management technologies
+Google Tag Manager
+Adobe Dynamic Tag Management
+Tealium
+Yahoo Tag Manager
+Ensighten
+
+
+- Top Websites Using TagCommander -
+lexpress.fr  --  Monthly visits -> 9M
+kiabi.com  --  Monthly visits -> 5.6M
+blancheporte.fr  --  Monthly visits -> 3.4M
+kiabi.es  --  Monthly visits -> 2.6M
+maaf.fr  --  Monthly visits -> 1.3M
+kiabi.it  --  Monthly visits -> 1.3M
+tenup.fft.fr  --  Monthly visits -> 1.2M
+secure.kiabi.com  --  Monthly visits -> 980.8K
+fr.eni.com  --  Monthly visits -> 810.8K
+hanseaticbank.de  --  Monthly visits -> 604.5K
+
+- Geography -
+TagCommander usage by websites across the globe
+Leading Countries: Websites
+France: 36
+Germany: 7
+Italy: 7
+Portugal: 4
+Russia: 4
+Spain: 4
+Netherlands: 3
+Australia: 2
+Belgium: 2
+China: 2
+Rest of the World: 26

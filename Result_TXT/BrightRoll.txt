@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: BrightRoll
+Last month's change: 0.96%
+Websites: 154660
+Unique Domains: 21677
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BrightRoll is being used
+Computers Electronics & Technology: 7.80%
+Arts & Entertainment: 7.11%
+Food & Drink: 4.84%
+Games: 4.43%
+Others: 75.81%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using BrightRoll -
+grid.id  --  Monthly visits -> 118.6M
+aajtak.in  --  Monthly visits -> 91.6M
+suara.com  --  Monthly visits -> 76M
+ansa.it  --  Monthly visits -> 72.8M
+indiatoday.in  --  Monthly visits -> 69.7M
+liputan6.com  --  Monthly visits -> 54.5M
+cda.pl  --  Monthly visits -> 51M
+m.liputan6.com  --  Monthly visits -> 43.9M
+haberler.com  --  Monthly visits -> 42.5M
+asurascans.com  --  Monthly visits -> 42.1M
+
+- Geography -
+BrightRoll usage by websites across the globe
+Leading Countries: Websites
+United States: 11315
+France: 11088
+Taiwan: 5903
+Spain: 1533
+India: 1470
+Japan: 1367
+Brazil: 1347
+Mexico: 1164
+Germany: 1040
+Canada: 1023
+Rest of the World: 16103

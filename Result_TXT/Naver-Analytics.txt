@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Naver Analytics
-Last month's change: 0.83%
-Websites: 145633
-Unique Domains: 64187
+Last month's change: 0.86%
+Websites: 145940
+Unique Domains: 64381
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Naver Analytics is being used
-E-commerce & Shopping: 7.85%
-Arts & Entertainment: 4.89%
-Computers Electronics & Technology: 4.82%
+E-commerce & Shopping: 7.83%
+Arts & Entertainment: 4.88%
+Computers Electronics & Technology: 4.81%
 Lifestyle: 3.16%
-Others: 79.28%
+Others: 79.31%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ lightinthebox.com  --  Monthly visits -> 29.9M
 - Geography -
 Naver Analytics usage by websites across the globe
 Leading Countries: Websites
-South Korea: 98952
-United States: 1457
-Japan: 404
-China: 232
-Canada: 228
-Vietnam: 215
-Taiwan: 196
+South Korea: 99244
+United States: 1461
+Japan: 407
+China: 231
+Canada: 230
+Vietnam: 216
+Taiwan: 195
 Australia: 187
-Germany: 170
+Germany: 171
 United Kingdom: 123
-Rest of the World: 1696
+Rest of the World: 1702

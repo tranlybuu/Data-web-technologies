@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: VisitorTrack
-Last month's change: 1.20%
+Last month's change: 0.80%
 Websites: 1000
-Unique Domains: 875
+Unique Domains: 876
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where VisitorTrack is being used
-Computers Electronics & Technology: 15.60%
-Business & Consumer Services: 11.80%
+Computers Electronics & Technology: 15.50%
+Business & Consumer Services: 11.70%
 Heavy Industry & Engineering: 7.60%
 Finance: 4.70%
-Others: 60.30%
+Others: 60.50%
 
 
 - Related Technologies -
@@ -40,7 +40,7 @@ mediaroom.com  --  Monthly visits -> 557.9K
 - Geography -
 VisitorTrack usage by websites across the globe
 Leading Countries: Websites
-United States: 594
+United States: 593
 India: 61
 United Kingdom: 44
 Canada: 37
@@ -50,4 +50,4 @@ France: 11
 Philippines: 11
 Germany: 10
 Brazil: 8
-Rest of the World: 147
+Rest of the World: 148

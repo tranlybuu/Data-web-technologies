@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Mongoose Metrics
-Last month's change: 7.22%
-Websites: 554
-Unique Domains: 527
+Last month's change: 7.61%
+Websites: 552
+Unique Domains: 525
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Mongoose Metrics is being used
-Health: 5.96%
-Heavy Industry & Engineering: 5.23%
-Business & Consumer Services: 4.69%
-Vehicles: 3.25%
-Others: 80.87%
+Health: 5.98%
+Heavy Industry & Engineering: 5.25%
+Business & Consumer Services: 4.71%
+Vehicles: 3.26%
+Others: 80.80%
 
 
 - Related Technologies -
@@ -40,7 +40,7 @@ livingtree.com  --  Monthly visits -> 89.2K
 - Geography -
 Mongoose Metrics usage by websites across the globe
 Leading Countries: Websites
-United States: 403
+United States: 401
 Canada: 23
 India: 10
 Philippines: 9

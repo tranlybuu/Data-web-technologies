@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Live Writer Support
-Last month's change: 1.69%
-Websites: 6006174
-Unique Domains: 4880450
+Last month's change: 1.75%
+Websites: 6019305
+Unique Domains: 4891481
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Live Writer Support is being used
-Computers Electronics & Technology: 3.94%
-Science & Education: 3.93%
-Arts & Entertainment: 2.63%
+Computers Electronics & Technology: 3.93%
+Science & Education: 3.92%
+Arts & Entertainment: 2.62%
 Health: 1.92%
-Others: 87.58%
+Others: 87.61%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ caliente.mx  --  Monthly visits -> 172.4M
 - Geography -
 Live Writer Support usage by websites across the globe
 Leading Countries: Websites
-United States: 1105136
-Japan: 286032
-Germany: 255944
-United Kingdom: 228764
-Italy: 217117
-France: 202778
-India: 159211
-Canada: 158427
-Spain: 151929
-Brazil: 136363
-Rest of the World: 2244636
+United States: 1107335
+Japan: 286656
+Germany: 256589
+United Kingdom: 229363
+Italy: 217733
+France: 203335
+India: 159781
+Canada: 158847
+Spain: 152331
+Brazil: 136652
+Rest of the World: 2250839

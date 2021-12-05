@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: DataTables
-Last month's change: 1.03%
-Websites: 265106
-Unique Domains: 215098
+Last month's change: 1.05%
+Websites: 265647
+Unique Domains: 215165
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where DataTables is being used
-Science & Education: 7.40%
+Science & Education: 7.39%
 Computers Electronics & Technology: 4.10%
 Law & Government: 3.82%
-Finance: 2.74%
-Others: 81.93%
+Finance: 2.73%
+Others: 81.96%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ irancell.ir  --  Monthly visits -> 26.8M
 - Geography -
 DataTables usage by websites across the globe
 Leading Countries: Websites
-United States: 55996
-Germany: 12063
-United Kingdom: 10175
-India: 9998
-France: 9109
-Italy: 8460
-Canada: 7469
-Japan: 7134
-Russia: 6667
-Indonesia: 6629
-Rest of the World: 102757
+United States: 56061
+Germany: 12089
+United Kingdom: 10204
+India: 10023
+France: 9121
+Italy: 8490
+Canada: 7486
+Japan: 7170
+Russia: 6679
+Indonesia: 6643
+Rest of the World: 103032

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ChartBeat
+Last month's change: 0.56%
+Websites: 19055
+Unique Domains: 9429
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ChartBeat is being used
+News & Media: 23.65%
+Arts & Entertainment: 9.66%
+Sports: 7.13%
+Computers Electronics & Technology: 3.76%
+Others: 55.80%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using ChartBeat -
+msn.com  --  Monthly visits -> 1B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+accuweather.com  --  Monthly visits -> 697.5M
+bbc.co.uk  --  Monthly visits -> 649.5M
+espn.com  --  Monthly visits -> 628.4M
+uol.com.br  --  Monthly visits -> 542.3M
+cnn.com  --  Monthly visits -> 510.4M
+headlines.yahoo.co.jp  --  Monthly visits -> 470.7M
+bbc.com  --  Monthly visits -> 465.1M
+nytimes.com  --  Monthly visits -> 317.3M
+
+- Geography -
+ChartBeat usage by websites across the globe
+Leading Countries: Websites
+United States: 5897
+Spain: 648
+Canada: 598
+United Kingdom: 480
+Brazil: 474
+Italy: 452
+Australia: 407
+Germany: 395
+Mexico: 305
+India: 286
+Rest of the World: 3950

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ADEBIS
+Last month's change: 1.52%
+Websites: 8483
+Unique Domains: 4886
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ADEBIS is being used
+Food & Drink: 9.42%
+Lifestyle: 9.01%
+Business & Consumer Services: 8.42%
+Computers Electronics & Technology: 5.58%
+Others: 67.58%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using ADEBIS -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+auone.jp  --  Monthly visits -> 300.1M
+item.rakuten.co.jp  --  Monthly visits -> 190.9M
+portal.auone.jp  --  Monthly visits -> 162.5M
+search.rakuten.co.jp  --  Monthly visits -> 133.6M
+article.auone.jp  --  Monthly visits -> 76M
+bunshun.jp  --  Monthly visits -> 68.5M
+togetter.com  --  Monthly visits -> 56M
+rakuten-sec.co.jp  --  Monthly visits -> 47.7M
+marriott.com  --  Monthly visits -> 41M
+
+- Geography -
+ADEBIS usage by websites across the globe
+Leading Countries: Websites
+Japan: 5812
+United States: 162
+Slovakia: 86
+Germany: 61
+Russia: 55
+Italy: 52
+France: 44
+United Kingdom: 34
+Spain: 31
+South Korea: 28
+Rest of the World: 509

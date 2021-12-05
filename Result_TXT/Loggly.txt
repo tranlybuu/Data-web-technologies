@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Loggly
+Last month's change: 3.80%
+Websites: 7287
+Unique Domains: 4946
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Loggly is being used
+Computers Electronics & Technology: 8.84%
+Lifestyle: 3.75%
+Sports: 3.51%
+Travel & Tourism: 3.14%
+Others: 80.76%
+
+
+- Related Technologies -
+Top Application Performance technologies
+New Relic
+Bugsnag
+Microsoft Application Insights
+AppDynamics
+Datadog
+
+
+- Top Websites Using Loggly -
+samsung.com  --  Monthly visits -> 805.5M
+investing.com  --  Monthly visits -> 154M
+apps.samsung.com  --  Monthly visits -> 149.8M
+notion.so  --  Monthly visits -> 107.6M
+kohls.com  --  Monthly visits -> 73.7M
+ekstrabladet.dk  --  Monthly visits -> 48.7M
+m.samsung.com  --  Monthly visits -> 37.7M
+portal.discover.com  --  Monthly visits -> 35.3M
+qvc.com  --  Monthly visits -> 31.8M
+classdojo.com  --  Monthly visits -> 30.7M
+
+- Geography -
+Loggly usage by websites across the globe
+Leading Countries: Websites
+United States: 2459
+France: 332
+Denmark: 236
+Malaysia: 212
+United Kingdom: 202
+Brazil: 194
+Canada: 194
+Germany: 187
+India: 154
+Argentina: 135
+Rest of the World: 1853

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Convert
+Last month's change: 0.73%
+Websites: 11424
+Unique Domains: 5586
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Convert is being used
+Business & Consumer Services: 7.04%
+Computers Electronics & Technology: 6.40%
+Health: 4.40%
+Finance: 3.80%
+Others: 78.36%
+
+
+- Related Technologies -
+Top A/B Testing technologies
+Optimizely
+Optimizely X
+Google Optimize
+VWO
+AB Tasty
+
+
+- Top Websites Using Convert -
+digikala.com  --  Monthly visits -> 61.5M
+state.gov  --  Monthly visits -> 48.1M
+ig.com.br  --  Monthly visits -> 43.1M
+eltiempo.com  --  Monthly visits -> 39.2M
+hubspot.com  --  Monthly visits -> 37.4M
+signupgenius.com  --  Monthly visits -> 25.9M
+blesk.cz  --  Monthly visits -> 24.6M
+usembassy.gov  --  Monthly visits -> 18.5M
+bamboohr.com  --  Monthly visits -> 13M
+blog.hubspot.com  --  Monthly visits -> 11.1M
+
+- Geography -
+Convert usage by websites across the globe
+Leading Countries: Websites
+United States: 3434
+United Kingdom: 527
+Canada: 327
+France: 305
+Australia: 299
+Italy: 261
+Germany: 245
+India: 245
+Netherlands: 167
+Spain: 107
+Rest of the World: 2342

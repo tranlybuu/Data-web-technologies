@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Webleads Tracker
-Last month's change: 2.27%
+Last month's change: 2.42%
 Websites: 661
 Unique Domains: 589
 --------------------------------------

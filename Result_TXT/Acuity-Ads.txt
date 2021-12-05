@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Acuity Ads
+Last month's change: 3.68%
+Websites: 59684
+Unique Domains: 9543
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Acuity Ads is being used
+Science & Education: 11.23%
+Arts & Entertainment: 11.05%
+Games: 8.50%
+Computers Electronics & Technology: 7.01%
+Others: 62.21%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using Acuity Ads -
+mail.ru  --  Monthly visits -> 1B
+kompas.com  --  Monthly visits -> 194M
+homedepot.com  --  Monthly visits -> 188.4M
+estart.jp  --  Monthly visits -> 148.4M
+usatoday.com  --  Monthly visits -> 102.2M
+ign.com  --  Monthly visits -> 86.3M
+hindustantimes.com  --  Monthly visits -> 83.7M
+op.gg  --  Monthly visits -> 79.2M
+24h.com.vn  --  Monthly visits -> 76M
+gsmarena.com  --  Monthly visits -> 75.6M
+
+- Geography -
+Acuity Ads usage by websites across the globe
+Leading Countries: Websites
+United States: 10909
+Taiwan: 1908
+Japan: 1900
+United Kingdom: 1374
+France: 1153
+Canada: 1120
+Italy: 967
+Spain: 939
+Indonesia: 903
+Brazil: 896
+Rest of the World: 12681

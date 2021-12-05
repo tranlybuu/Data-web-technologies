@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Facebook Domain Insights
-Last month's change: 0.84%
-Websites: 2568069
-Unique Domains: 819176
+Last month's change: 0.88%
+Websites: 2573381
+Unique Domains: 820151
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Facebook Domain Insights is being used
-Arts & Entertainment: 9.21%
-Science & Education: 5.58%
-Games: 5.47%
+Arts & Entertainment: 9.20%
+Science & Education: 5.57%
+Games: 5.46%
 Computers Electronics & Technology: 5.00%
-Others: 74.74%
+Others: 74.78%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ zoom.us  --  Monthly visits -> 2B
 - Geography -
 Facebook Domain Insights usage by websites across the globe
 Leading Countries: Websites
-United States: 410660
-Japan: 153129
-United Kingdom: 65805
-Russia: 65229
-France: 58315
-Canada: 50214
-Brazil: 49390
-Germany: 46693
-Italy: 40529
-India: 34461
-Rest of the World: 640377
+United States: 412147
+Japan: 153492
+United Kingdom: 66081
+Russia: 65569
+France: 58464
+Canada: 50414
+Brazil: 49501
+Germany: 46861
+Italy: 40640
+India: 34572
+Rest of the World: 642371

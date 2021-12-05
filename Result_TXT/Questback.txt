@@ -1,0 +1,52 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Questback
+Last month's change: 0%
+Websites: 39
+Unique Domains: 30
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Questback is being used
+News & Media: 17.95%
+Finance: 7.69%
+Science & Education: 5.13%
+Sports: 5.13%
+Others: 64.10%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Questback -
+tk.no  --  Monthly visits -> 1.4M
+oa.no  --  Monthly visits -> 884.4K
+ostlendingen.no  --  Monthly visits -> 764.8K
+manpowergroup.no  --  Monthly visits -> 107.4K
+slideplayer.se  --  Monthly visits -> 61.8K
+ringsaker-blad.no  --  Monthly visits -> 49.5K
+vestviken24.no  --  Monthly visits -> 41.7K
+konstnarsnamnden.se  --  Monthly visits -> 28.4K
+hermodskista.wordpress.com  --  Monthly visits -> 13.8K
+tena.hr  --  Monthly visits -> 12K
+
+- Geography -
+Questback usage by websites across the globe
+Leading Countries: Websites
+Sweden: 17
+Norway: 7
+United States: 2
+Croatia: 1
+Germany: 1
+Greece: 1
+Vietnam: 1
+Slovenia: 1
+Ukraine: 1
+Uruguay: 1

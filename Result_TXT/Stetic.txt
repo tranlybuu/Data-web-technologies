@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Stetic
-Last month's change: 0.37%
-Websites: 541
-Unique Domains: 501
+Last month's change: 0.55%
+Websites: 542
+Unique Domains: 502
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Stetic is being used
-Computers Electronics & Technology: 3.88%
-Health: 2.96%
-Business & Consumer Services: 2.22%
+Computers Electronics & Technology: 3.87%
+Health: 2.95%
+Business & Consumer Services: 2.21%
 Science & Education: 2.03%
-Others: 88.91%
+Others: 88.93%
 
 
 - Related Technologies -
@@ -44,8 +44,8 @@ Germany: 311
 Switzerland: 21
 Spain: 18
 India: 16
+Austria: 15
 United States: 15
-Austria: 14
 United Kingdom: 8
 Italy: 7
 Netherlands: 7

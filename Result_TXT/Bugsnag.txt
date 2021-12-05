@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Bugsnag
-Last month's change: 2.90%
-Websites: 104752
-Unique Domains: 66222
+Last month's change: 2.84%
+Websites: 104960
+Unique Domains: 66345
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Bugsnag is being used
-Lifestyle: 4.82%
-Computers Electronics & Technology: 3.41%
-Science & Education: 2.37%
-Food & Drink: 2.26%
-Others: 87.15%
+Lifestyle: 4.81%
+Computers Electronics & Technology: 3.40%
+Science & Education: 2.36%
+Food & Drink: 2.25%
+Others: 87.19%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ m.yelp.com  --  Monthly visits -> 59.9M
 - Geography -
 Bugsnag usage by websites across the globe
 Leading Countries: Websites
-United States: 34427
-United Kingdom: 6553
-Canada: 6392
-Australia: 4008
+United States: 34495
+United Kingdom: 6577
+Canada: 6412
+Australia: 4018
 Germany: 2346
-France: 2277
-Mexico: 2214
-India: 2031
-Netherlands: 1368
-Italy: 1314
-Rest of the World: 23542
+France: 2279
+Mexico: 2218
+India: 2045
+Netherlands: 1367
+Italy: 1316
+Rest of the World: 23606

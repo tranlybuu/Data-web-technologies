@@ -1,18 +1,18 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Awin
-Last month's change: 33.4%
-Websites: 410904
-Unique Domains: 270722
+Last month's change: 35.7%
+Websites: 406021
+Unique Domains: 266959
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Awin is being used
-Computers Electronics & Technology: 5.09%
+Computers Electronics & Technology: 5.08%
 Science & Education: 4.41%
-Arts & Entertainment: 3.70%
-Health: 2.88%
+Arts & Entertainment: 3.71%
+Health: 2.89%
 Others: 83.92%
 
 
@@ -40,14 +40,14 @@ nfl.com  --  Monthly visits -> 112.3M
 - Geography -
 Awin usage by websites across the globe
 Leading Countries: Websites
-United States: 65100
-Russia: 52163
-Germany: 16093
-Japan: 13721
-China: 11869
-United Kingdom: 11687
-Canada: 8832
-France: 8704
-Taiwan: 7764
-Brazil: 6235
-Rest of the World: 108350
+United States: 63973
+Russia: 51449
+Germany: 15885
+Japan: 13486
+China: 11685
+United Kingdom: 11480
+Canada: 8703
+France: 8577
+Taiwan: 7648
+Brazil: 6153
+Rest of the World: 106596

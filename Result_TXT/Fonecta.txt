@@ -1,0 +1,45 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Fonecta
+Last month's change: 28.6%
+Websites: 21
+Unique Domains: 21
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Fonecta is being used
+Business & Consumer Services: 4.76%
+E-commerce & Shopping: 4.76%
+Sports: 4.76%
+Others: 85.71%
+None: None
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Fonecta -
+city-pool.fi  --  Monthly visits -> 31.8K
+tavaratrading.com  --  Monthly visits -> 7.5K
+havasrosberg.com  --  Monthly visits -> 4.7K
+nevasgolf.fi  --  Monthly visits -> 2.1K
+ravintolahugo.fi  --  Monthly visits -> 1.4K
+mikkola.info  --  Monthly visits -> 937.75
+mlcaravan.fi  --  Monthly visits -> 821.12
+silkkivilla.fi  --  Monthly visits -> 622.08
+magito.fi  --  Monthly visits -> 541.41
+kalevantuli.net  --  Monthly visits -> 521.54
+
+- Geography -
+Fonecta usage by websites across the globe
+Leading Countries: Websites
+Finland: 18
+Spain: 1
+United States: 1

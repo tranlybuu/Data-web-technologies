@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Criteo Advertiser
+Last month's change: 0.59%
+Websites: 128527
+Unique Domains: 45080
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Criteo Advertiser is being used
+Lifestyle: 12.51%
+Computers Electronics & Technology: 9.01%
+E-commerce & Shopping: 7.35%
+Vehicles: 6.28%
+Others: 64.85%
+
+
+- Related Technologies -
+Top Advertisers technologies
+Facebook Advertiser
+Google AdWords Advertiser
+DoubleClick Advertiser
+LinkedIn Advertiser
+Bing Advertiser
+
+
+- Top Websites Using Criteo Advertiser -
+aliexpress.com  --  Monthly visits -> 455.2M
+foxnews.com  --  Monthly visits -> 283M
+avito.ru  --  Monthly visits -> 280.6M
+ikea.com  --  Monthly visits -> 217.5M
+caliente.mx  --  Monthly visits -> 172.4M
+ebay-kleinanzeigen.de  --  Monthly visits -> 160.9M
+tokopedia.com  --  Monthly visits -> 152.5M
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+shein.com  --  Monthly visits -> 139.4M
+bestbuy.com  --  Monthly visits -> 138.1M
+
+- Geography -
+Criteo Advertiser usage by websites across the globe
+Leading Countries: Websites
+Japan: 13794
+United States: 10658
+Russia: 8905
+South Korea: 5781
+Poland: 4148
+Taiwan: 3184
+Brazil: 2950
+Ukraine: 2832
+France: 2737
+Spain: 2193
+Rest of the World: 32375

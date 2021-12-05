@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: CallRail
+Last month's change: 2.23%
+Websites: 32598
+Unique Domains: 30211
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CallRail is being used
+Vehicles: 6.38%
+Business & Consumer Services: 5.49%
+Health: 5.17%
+Heavy Industry & Engineering: 3.60%
+Others: 79.36%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+Callibri
+Binotel
+Mango
+FreshCaller
+Dialogtech
+
+
+- Top Websites Using CallRail -
+dat.com  --  Monthly visits -> 4.3M
+senecacollege.ca  --  Monthly visits -> 4.1M
+clockwisemd.com  --  Monthly visits -> 3.5M
+americanaddictioncenters.org  --  Monthly visits -> 3.4M
+hushmail.com  --  Monthly visits -> 3.4M
+massgeneralbrigham.org  --  Monthly visits -> 3.3M
+secure.hushmail.com  --  Monthly visits -> 3M
+tcplusondemand.com  --  Monthly visits -> 2.8M
+t-mobile.cataboomgames.com  --  Monthly visits -> 2.6M
+uchealth.org  --  Monthly visits -> 2.6M
+
+- Geography -
+CallRail usage by websites across the globe
+Leading Countries: Websites
+United States: 23634
+Canada: 2706
+India: 610
+United Kingdom: 451
+Australia: 402
+Philippines: 349
+Pakistan: 214
+Mexico: 90
+China: 89
+France: 87
+Rest of the World: 1644

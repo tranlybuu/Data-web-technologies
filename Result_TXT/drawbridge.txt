@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: drawbridge
+Last month's change: 11.9%
+Websites: 63955
+Unique Domains: 5323
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where drawbridge is being used
+Science & Education: 15.16%
+Community & Society: 7.85%
+Arts & Entertainment: 7.13%
+Computers Electronics & Technology: 6.34%
+Others: 63.52%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using drawbridge -
+samsung.com  --  Monthly visits -> 805.5M
+apps.samsung.com  --  Monthly visits -> 149.8M
+tenki.jp  --  Monthly visits -> 104.7M
+aajtak.in  --  Monthly visits -> 91.6M
+aws.amazon.com  --  Monthly visits -> 62.7M
+amazonaws.com  --  Monthly visits -> 50.8M
+marktplaats.nl  --  Monthly visits -> 49.7M
+azure.com  --  Monthly visits -> 45.3M
+virgilio.it  --  Monthly visits -> 37.9M
+m.samsung.com  --  Monthly visits -> 37.7M
+
+- Geography -
+drawbridge usage by websites across the globe
+Leading Countries: Websites
+United States: 3923
+Japan: 1626
+Indonesia: 730
+United Kingdom: 662
+Italy: 602
+France: 566
+Spain: 546
+India: 508
+Brazil: 483
+Canada: 476
+Rest of the World: 6718

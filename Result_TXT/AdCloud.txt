@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: AdCloud
-Last month's change: 2.51%
-Websites: 589951
-Unique Domains: 125516
+Last month's change: 2.48%
+Websites: 591096
+Unique Domains: 125780
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where AdCloud is being used
 Arts & Entertainment: 10.22%
-Games: 8.57%
+Games: 8.56%
 Computers Electronics & Technology: 5.90%
 News & Media: 4.48%
-Others: 70.82%
+Others: 70.84%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ cnn.com  --  Monthly visits -> 510.4M
 - Geography -
 AdCloud usage by websites across the globe
 Leading Countries: Websites
-United States: 77592
-France: 21272
-Russia: 17927
-Taiwan: 17920
-Italy: 16395
-Japan: 14963
-Spain: 9482
-United Kingdom: 9175
-Brazil: 9095
-Germany: 8581
-Rest of the World: 103095
+United States: 77856
+France: 21351
+Russia: 18140
+Taiwan: 17734
+Italy: 16435
+Japan: 15034
+Spain: 9510
+United Kingdom: 9216
+Brazil: 9083
+Germany: 8625
+Rest of the World: 103656

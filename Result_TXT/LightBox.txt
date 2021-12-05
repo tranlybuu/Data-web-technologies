@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: LightBox
-Last month's change: 1.47%
-Websites: 1085847
-Unique Domains: 842194
+Last month's change: 1.52%
+Websites: 1087768
+Unique Domains: 844650
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where LightBox is being used
-Science & Education: 4.66%
-Arts & Entertainment: 4.38%
+Science & Education: 4.65%
+Arts & Entertainment: 4.37%
 Games: 3.56%
 Computers Electronics & Technology: 3.15%
-Others: 84.25%
+Others: 84.28%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ gamer.com.tw  --  Monthly visits -> 74.7M
 - Geography -
 LightBox usage by websites across the globe
 Leading Countries: Websites
-United States: 179086
-Japan: 76068
-Russia: 57564
-Germany: 56366
-United Kingdom: 37279
-Italy: 35758
-France: 31818
-India: 25746
-Poland: 25169
-Canada: 25110
-Rest of the World: 384907
+United States: 179422
+Japan: 76156
+Russia: 57641
+Germany: 56498
+United Kingdom: 37376
+Italy: 35830
+France: 31903
+India: 25822
+Poland: 25203
+Canada: 25172
+Rest of the World: 385766

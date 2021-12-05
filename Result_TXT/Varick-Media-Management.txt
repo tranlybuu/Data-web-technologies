@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Varick Media Management
-Last month's change: 13.3%
+Last month's change: 12.3%
 Websites: 195
 Unique Domains: 158
 --------------------------------------

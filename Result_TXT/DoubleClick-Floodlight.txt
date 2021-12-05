@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: DoubleClick Floodlight
 Last month's change: 0.73%
-Websites: 211654
-Unique Domains: 83546
+Websites: 211927
+Unique Domains: 83627
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where DoubleClick Floodlight is being used
-Computers Electronics & Technology: 11.27%
-Vehicles: 6.39%
-Arts & Entertainment: 4.72%
-Food & Drink: 4.64%
-Others: 72.98%
+Computers Electronics & Technology: 11.26%
+Vehicles: 6.38%
+Arts & Entertainment: 4.71%
+Food & Drink: 4.63%
+Others: 73.01%
 
 
 - Related Technologies -
@@ -30,24 +30,24 @@ classroom.google.com  --  Monthly visits -> 1.4B
 samsung.com  --  Monthly visits -> 805.5M
 spotify.com  --  Monthly visits -> 422.6M
 etsy.com  --  Monthly visits -> 404.5M
+wordpress.com  --  Monthly visits -> 345.6M
 chrome.google.com  --  Monthly visits -> 298.1M
 avito.ru  --  Monthly visits -> 280.6M
 disneyplus.com  --  Monthly visits -> 268.7M
 zillow.com  --  Monthly visits -> 263.4M
 t-mobile.com  --  Monthly visits -> 229.4M
-hulu.com  --  Monthly visits -> 224.6M
 
 - Geography -
 DoubleClick Floodlight usage by websites across the globe
 Leading Countries: Websites
-United States: 48986
-Japan: 39189
-Canada: 6040
-Russia: 5842
-United Kingdom: 5818
-Australia: 4901
-Brazil: 2667
-Poland: 2483
-France: 2125
-Spain: 2118
-Rest of the World: 36895
+United States: 49029
+Japan: 39349
+Canada: 6055
+Russia: 5845
+United Kingdom: 5819
+Australia: 4917
+Brazil: 2674
+Poland: 2476
+France: 2124
+Spain: 2115
+Rest of the World: 36935

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Rambler
-Last month's change: 0.68%
-Websites: 212550
-Unique Domains: 88803
+Last month's change: 0.70%
+Websites: 212643
+Unique Domains: 88806
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Rambler is being used
-Arts & Entertainment: 10.43%
+Arts & Entertainment: 10.42%
 News & Media: 6.73%
 Computers Electronics & Technology: 6.54%
 Heavy Industry & Engineering: 6.18%
-Others: 70.11%
+Others: 70.13%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ lenta.ru  --  Monthly visits -> 133.1M
 - Geography -
 Rambler usage by websites across the globe
 Leading Countries: Websites
-Russia: 115041
-Ukraine: 9381
-Belarus: 3781
-United States: 3614
-Kazakhstan: 2234
-Germany: 1075
-United Kingdom: 728
-Canada: 531
-Moldova: 529
-Netherlands: 512
-Rest of the World: 9009
+Russia: 115112
+Ukraine: 9383
+Belarus: 3774
+United States: 3620
+Kazakhstan: 2231
+Germany: 1076
+United Kingdom: 732
+Canada: 535
+Moldova: 528
+Netherlands: 514
+Rest of the World: 9025

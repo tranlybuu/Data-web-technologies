@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: jQuery UI
 Last month's change: 0.33%
-Websites: 3045116
-Unique Domains: 2148270
+Websites: 3048562
+Unique Domains: 2151949
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where jQuery UI is being used
-Science & Education: 4.34%
+Science & Education: 4.33%
 Computers Electronics & Technology: 3.62%
 Health: 2.32%
 Travel & Tourism: 2.26%
-Others: 87.47%
+Others: 87.48%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ jingyan.baidu.com  --  Monthly visits -> 232.5M
 - Geography -
 jQuery UI usage by websites across the globe
 Leading Countries: Websites
-United States: 512553
-Russia: 146996
-Germany: 125318
-Japan: 117326
-United Kingdom: 103952
-France: 101812
-South Korea: 93154
-Italy: 91908
-Canada: 73475
-India: 70150
-Rest of the World: 1103319
+United States: 513134
+Russia: 147161
+Germany: 125441
+Japan: 117368
+United Kingdom: 104097
+France: 101908
+South Korea: 93400
+Italy: 92024
+Canada: 73545
+India: 70348
+Rest of the World: 1104980

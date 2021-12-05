@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Criteo Publisher Marketplace
-Last month's change: 1.65%
-Websites: 523977
-Unique Domains: 31773
+Last month's change: 1.72%
+Websites: 524860
+Unique Domains: 31931
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Criteo Publisher Marketplace is being used
-Science & Education: 14.76%
-Community & Society: 7.73%
-Arts & Entertainment: 7.05%
-Computers Electronics & Technology: 6.24%
-Others: 64.22%
+Science & Education: 14.74%
+Community & Society: 7.72%
+Arts & Entertainment: 7.04%
+Computers Electronics & Technology: 6.23%
+Others: 64.26%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ yahoo.jp  --  Monthly visits -> 17.5M
 - Geography -
 Criteo Publisher Marketplace usage by websites across the globe
 Leading Countries: Websites
-United States: 42070
-United Kingdom: 9019
-Indonesia: 8142
-Japan: 8024
-Italy: 7879
-France: 7727
-Spain: 7532
-Canada: 6466
-India: 6228
-Brazil: 5603
-Rest of the World: 86564
+United States: 42272
+United Kingdom: 9073
+Indonesia: 8159
+Japan: 8045
+Italy: 7907
+France: 7758
+Spain: 7557
+Canada: 6499
+India: 6262
+Brazil: 5621
+Rest of the World: 86983

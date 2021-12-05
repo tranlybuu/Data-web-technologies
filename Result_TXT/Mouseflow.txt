@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Mouseflow
-Last month's change: 2.78%
+Last month's change: 2.70%
 Websites: 36442
 Unique Domains: 26509
 --------------------------------------

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: jQuery
 Last month's change: 0.30%
-Websites: 20561512
-Unique Domains: 12954630
+Websites: 20601236
+Unique Domains: 12983408
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where jQuery is being used
 Computers Electronics & Technology: 4.43%
-Science & Education: 3.94%
+Science & Education: 3.93%
 Arts & Entertainment: 3.24%
 Games: 1.90%
-Others: 86.49%
+Others: 86.51%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ xnxx.com  --  Monthly visits -> 2.6B
 - Geography -
 jQuery usage by websites across the globe
 Leading Countries: Websites
-United States: 3412500
-Japan: 1196533
-Russia: 870788
-Germany: 818358
-China: 713742
-United Kingdom: 682429
-France: 608476
-Italy: 520419
-Canada: 470541
-India: 449702
-Rest of the World: 7108305
+United States: 3419780
+Japan: 1199071
+Russia: 872277
+Germany: 819919
+China: 715809
+United Kingdom: 684144
+France: 609761
+Italy: 521552
+Canada: 471908
+India: 451165
+Rest of the World: 7126113

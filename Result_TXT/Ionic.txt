@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Ionic
-Last month's change: 0.25%
+Last month's change: 0.29%
 Websites: 42445
 Unique Domains: 33354
 --------------------------------------

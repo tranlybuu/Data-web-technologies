@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ClickTale
+Last month's change: 6.19%
+Websites: 7991
+Unique Domains: 4377
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ClickTale is being used
+Computers Electronics & Technology: 15.82%
+E-commerce & Shopping: 7.32%
+Finance: 6.62%
+Lifestyle: 4.27%
+Others: 65.97%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Crazy Egg
+Heatmap IT
+UserInight
+FullStory
+
+
+- Top Websites Using ClickTale -
+microsoft.com  --  Monthly visits -> 1.1B
+sharepoint.com  --  Monthly visits -> 599.1M
+office365.com  --  Monthly visits -> 376.9M
+zillow.com  --  Monthly visits -> 263.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+atlassian.net  --  Monthly visits -> 109.9M
+costco.com  --  Monthly visits -> 91.5M
+sky.com  --  Monthly visits -> 84.2M
+kohls.com  --  Monthly visits -> 73.7M
+dell.com  --  Monthly visits -> 55.9M
+
+- Geography -
+ClickTale usage by websites across the globe
+Leading Countries: Websites
+United States: 1744
+Czech Republic: 1189
+Japan: 571
+United Kingdom: 307
+Canada: 220
+Italy: 141
+Germany: 132
+China: 122
+India: 121
+Brazil: 108
+Rest of the World: 1675

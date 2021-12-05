@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Nielsen NetRatings
-Last month's change: 3.05%
-Websites: 64577
-Unique Domains: 7473
+Last month's change: 3.04%
+Websites: 64609
+Unique Domains: 7476
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Nielsen NetRatings is being used
-Games: 28.94%
-Arts & Entertainment: 24.60%
+Games: 28.95%
+Arts & Entertainment: 24.56%
 News & Media: 2.88%
 Sports: 2.64%
-Others: 40.93%
+Others: 40.96%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ repubblica.it  --  Monthly visits -> 138.4M
 - Geography -
 Nielsen NetRatings usage by websites across the globe
 Leading Countries: Websites
-United States: 16696
-Italy: 6543
-Australia: 1840
-United Kingdom: 1639
-Canada: 1197
-Philippines: 1080
-Brazil: 1019
-Germany: 950
-Japan: 870
-Russia: 868
-Rest of the World: 9562
+United States: 16713
+Italy: 6551
+Australia: 1838
+United Kingdom: 1641
+Canada: 1196
+Philippines: 1082
+Brazil: 1021
+Germany: 947
+Japan: 876
+Russia: 867
+Rest of the World: 9564

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Polyfill.io
 Last month's change: 14.5%
-Websites: 548004
-Unique Domains: 416927
+Websites: 554064
+Unique Domains: 421938
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Polyfill.io is being used
-Computers Electronics & Technology: 3.32%
-Lifestyle: 2.21%
-Food & Drink: 1.89%
-Science & Education: 1.73%
-Others: 90.85%
+Computers Electronics & Technology: 3.29%
+Lifestyle: 2.18%
+Food & Drink: 1.88%
+Science & Education: 1.72%
+Others: 90.94%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ washingtonpost.com  --  Monthly visits -> 145M
 - Geography -
 Polyfill.io usage by websites across the globe
 Leading Countries: Websites
-United States: 147114
-United Kingdom: 32311
-Japan: 26405
-Canada: 22844
-Brazil: 18249
-France: 17468
-Germany: 16101
-Australia: 15912
-India: 10959
-Italy: 9374
-Rest of the World: 165569
+United States: 148953
+United Kingdom: 32792
+Japan: 26695
+Canada: 23162
+Brazil: 18441
+France: 17680
+Germany: 16318
+Australia: 16156
+India: 11120
+Italy: 9495
+Rest of the World: 167553

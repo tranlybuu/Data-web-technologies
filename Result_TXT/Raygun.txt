@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Raygun
+Last month's change: 3.94%
+Websites: 5782
+Unique Domains: 1981
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Raygun is being used
+Hobbies & Leisure: 14.60%
+Community & Society: 10.41%
+Arts & Entertainment: 4.24%
+Computers Electronics & Technology: 3.93%
+Others: 66.83%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Raygun -
+dominos.com  --  Monthly visits -> 37.2M
+domain.com.au  --  Monthly visits -> 28.6M
+rome2rio.com  --  Monthly visits -> 22.8M
+abs-cbn.com  --  Monthly visits -> 21.4M
+seek.com.au  --  Monthly visits -> 19.8M
+verdesmares.com.br  --  Monthly visits -> 17.9M
+diariodonordeste.verdesmares.com.br  --  Monthly visits -> 17.8M
+occ.com.mx  --  Monthly visits -> 10.2M
+tickets-center.com  --  Monthly visits -> 8.9M
+estatesales.net  --  Monthly visits -> 8.7M
+
+- Geography -
+Raygun usage by websites across the globe
+Leading Countries: Websites
+United States: 1911
+Australia: 345
+New Zealand: 338
+United Kingdom: 280
+Canada: 183
+Netherlands: 122
+Norway: 68
+Sweden: 68
+France: 63
+Germany: 42
+Rest of the World: 795

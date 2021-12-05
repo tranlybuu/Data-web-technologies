@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: ToneFuse
-Last month's change: 2.99%
-Websites: 568
-Unique Domains: 439
+Last month's change: 3.66%
+Websites: 573
+Unique Domains: 441
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where ToneFuse is being used
-Arts & Entertainment: 67.08%
-Games: 2.46%
-News & Media: 2.46%
-Science & Education: 1.76%
-Others: 26.23%
+Arts & Entertainment: 66.49%
+Games: 2.44%
+News & Media: 2.44%
+Science & Education: 1.75%
+Others: 26.88%
 
 
 - Related Technologies -
@@ -41,13 +41,13 @@ songmeanings.com  --  Monthly visits -> 4.4M
 ToneFuse usage by websites across the globe
 Leading Countries: Websites
 United States: 183
+Japan: 44
 India: 43
-Japan: 43
-France: 35
+France: 36
 Italy: 20
 Brazil: 19
 Mexico: 16
 Russia: 14
 Spain: 10
 Germany: 8
-Rest of the World: 111
+Rest of the World: 114

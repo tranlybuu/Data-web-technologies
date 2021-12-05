@@ -1,17 +1,17 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SexTracker
-Last month's change: 4.09%
-Websites: 220
-Unique Domains: 208
+Last month's change: 4.11%
+Websites: 219
+Unique Domains: 207
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SexTracker is being used
-Adult: 75.45%
-Arts & Entertainment: 0.45%
-Others: 24.09%
+Adult: 75.34%
+Arts & Entertainment: 0.46%
+Others: 24.20%
 None: None
 None: None
 
@@ -44,8 +44,8 @@ United States: 85
 Germany: 32
 Japan: 10
 Poland: 8
-United Kingdom: 8
 China: 7
+United Kingdom: 7
 Russia: 6
 Netherlands: 5
 Brazil: 4

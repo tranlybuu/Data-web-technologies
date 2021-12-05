@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: UIKit
-Last month's change: 3.95%
+Last month's change: 3.88%
 Websites: 58485
 Unique Domains: 52299
 --------------------------------------

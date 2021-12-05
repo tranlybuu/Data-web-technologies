@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: YuMe
+Last month's change: 1.30%
+Websites: 135195
+Unique Domains: 5961
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where YuMe is being used
+Arts & Entertainment: 7.79%
+Computers Electronics & Technology: 7.40%
+Food & Drink: 5.00%
+Games: 4.53%
+Others: 75.28%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using YuMe -
+bing.com  --  Monthly visits -> 1.1B
+msn.com  --  Monthly visits -> 1B
+line.me  --  Monthly visits -> 325.5M
+worldstar.com  --  Monthly visits -> 273.1M
+imgur.com  --  Monthly visits -> 237.1M
+kompas.com  --  Monthly visits -> 194M
+cn.bing.com  --  Monthly visits -> 188.7M
+xfinity.com  --  Monthly visits -> 162.6M
+interia.pl  --  Monthly visits -> 138.6M
+web.de  --  Monthly visits -> 127.2M
+
+- Geography -
+YuMe usage by websites across the globe
+Leading Countries: Websites
+France: 10303
+Taiwan: 5868
+United States: 3193
+Spain: 2023
+Japan: 1306
+Brazil: 1181
+Mexico: 1085
+Poland: 924
+Canada: 840
+Russia: 706
+Rest of the World: 11883

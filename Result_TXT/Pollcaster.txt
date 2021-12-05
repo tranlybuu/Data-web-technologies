@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Pollcaster
+Last month's change: 7.14%
+Websites: 14
+Unique Domains: 12
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pollcaster is being used
+Arts & Entertainment: 14.29%
+Food & Drink: 14.29%
+Business & Consumer Services: 7.14%
+Computers Electronics & Technology: 7.14%
+Others: 57.14%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using Pollcaster -
+qzzr.com  --  Monthly visits -> 232.1K
+bistromd.com  --  Monthly visits -> 164.7K
+usfunds.com  --  Monthly visits -> 83K
+thehewittfertilitycentre.org.uk  --  Monthly visits -> 21.7K
+go.bistromd.com  --  Monthly visits -> 16.3K
+girlvsglobe.com  --  Monthly visits -> 9.5K
+gemtvasia.com  --  Monthly visits -> 5.9K
+p.testix.me  --  Monthly visits -> 3.1K
+jowanza.com  --  Monthly visits -> 1.1K
+buke11.icu  --  Monthly visits -> 555.29
+
+- Geography -
+Pollcaster usage by websites across the globe
+Leading Countries: Websites
+United States: 5
+Germany: 2
+China: 1
+South Korea: 1
+Philippines: 1
+Romania: 1
+Russia: 1
+United Kingdom: 1

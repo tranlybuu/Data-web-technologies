@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: JS Charts
+Last month's change: 0%
+Websites: 117
+Unique Domains: 110
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where JS Charts is being used
+Science & Education: 13.68%
+Computers Electronics & Technology: 10.26%
+Finance: 4.27%
+Business & Consumer Services: 3.42%
+Others: 68.38%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+
+
+- Top Websites Using JS Charts -
+elearning.auth.gr  --  Monthly visits -> 660K
+biga.com.tw  --  Monthly visits -> 571.9K
+web.ua.es  --  Monthly visits -> 410.1K
+spedu.dcu.ac.kr  --  Monthly visits -> 327K
+dcusw.dcu.ac.kr  --  Monthly visits -> 294.8K
+srt.am  --  Monthly visits -> 282.6K
+vinciteallotto.it  --  Monthly visits -> 252.2K
+m.pnm.com  --  Monthly visits -> 120K
+gsedu.cn  --  Monthly visits -> 102.9K
+dk.um.si  --  Monthly visits -> 88.6K
+
+- Geography -
+JS Charts usage by websites across the globe
+Leading Countries: Websites
+United States: 15
+China: 14
+South Korea: 6
+Italy: 5
+Mexico: 5
+Russia: 5
+Slovenia: 5
+South Africa: 4
+Spain: 4
+Switzerland: 4
+Rest of the World: 45

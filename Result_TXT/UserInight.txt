@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: UserInight
 Last month's change: 0.90%
-Websites: 45513
-Unique Domains: 21041
+Websites: 45566
+Unique Domains: 21061
 --------------------------------------
 
 
@@ -12,8 +12,8 @@ Industry verticals where UserInight is being used
 Computers Electronics & Technology: 8.24%
 Food & Drink: 8.05%
 Business & Consumer Services: 6.45%
-Arts & Entertainment: 6.07%
-Others: 71.19%
+Arts & Entertainment: 6.06%
+Others: 71.20%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ post.japanpost.jp  --  Monthly visits -> 57.2M
 - Geography -
 UserInight usage by websites across the globe
 Leading Countries: Websites
-Japan: 30706
-United States: 380
-India: 120
+Japan: 30741
+United States: 378
+India: 121
 Taiwan: 112
 South Korea: 97
 China: 93
-United Kingdom: 68
-Italy: 67
-Thailand: 64
-Vietnam: 61
-Rest of the World: 942
+Italy: 69
+United Kingdom: 69
+Thailand: 65
+Vietnam: 62
+Rest of the World: 956

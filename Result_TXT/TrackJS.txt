@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: TrackJS
-Last month's change: 3.72%
-Websites: 438467
-Unique Domains: 296930
+Last month's change: 3.76%
+Websites: 438341
+Unique Domains: 296970
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where TrackJS is being used
 Computers Electronics & Technology: 4.78%
-Science & Education: 4.49%
+Science & Education: 4.47%
 Lifestyle: 3.31%
-Business & Consumer Services: 3.06%
-Others: 84.37%
+Business & Consumer Services: 3.07%
+Others: 84.38%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ t.bilibili.com  --  Monthly visits -> 180.8M
 - Geography -
 TrackJS usage by websites across the globe
 Leading Countries: Websites
-United States: 77975
-Russia: 29915
-China: 17989
-United Kingdom: 15989
-Canada: 13110
-Germany: 11734
-Japan: 10856
-Italy: 10498
-France: 9997
-Australia: 9661
-Rest of the World: 139874
+United States: 77704
+Russia: 29956
+China: 18074
+United Kingdom: 15983
+Canada: 13089
+Germany: 11729
+Japan: 10876
+Italy: 10504
+France: 9998
+Australia: 9651
+Rest of the World: 139909

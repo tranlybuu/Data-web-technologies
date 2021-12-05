@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Zino UI
+Last month's change: 11.1%
+Websites: 9
+Unique Domains: 9
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Zino UI is being used
+Computers Electronics & Technology: 11.11%
+Law & Government: 11.11%
+Others: 77.78%
+None: None
+None: None
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Zino UI -
+zinoui.com  --  Monthly visits -> 16.7K
+doga.up.ac.th  --  Monthly visits -> 12.2K
+gratuitminecraft.fr  --  Monthly visits -> 6.7K
+bniindiastore.com  --  Monthly visits -> 939.81
+bniglobalstore.com  --  Monthly visits -> 625.1
+popibay.com  --  Monthly visits -> 590.24
+mincdn.ir  --  Monthly visits -> 380.19
+lerduvor.com  --  Monthly visits -> 337.76
+
+- Geography -
+Zino UI usage by websites across the globe
+Leading Countries: Websites
+Argentina: 1
+France: 1
+Germany: 1
+India: 1
+Iran: 1
+Sweden: 1
+Thailand: 1
+United States: 1

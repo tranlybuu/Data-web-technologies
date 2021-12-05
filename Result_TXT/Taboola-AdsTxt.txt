@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Taboola AdsTxt
-Last month's change: 5.64%
-Websites: 268891
-Unique Domains: 60356
+Last month's change: 6.14%
+Websites: 271588
+Unique Domains: 60676
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Taboola AdsTxt is being used
-Computers Electronics & Technology: 7.58%
-Arts & Entertainment: 6.97%
-Games: 6.12%
-News & Media: 5.96%
-Others: 73.36%
+Computers Electronics & Technology: 7.57%
+Arts & Entertainment: 7.00%
+Games: 6.10%
+News & Media: 5.97%
+Others: 73.35%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ espn.com  --  Monthly visits -> 628.4M
 - Geography -
 Taboola AdsTxt usage by websites across the globe
 Leading Countries: Websites
-United States: 25681
-France: 14927
-Italy: 8881
-Russia: 6887
-Spain: 5412
-Germany: 4777
-Brazil: 4406
-Poland: 4390
-Japan: 4320
-United Kingdom: 3628
-Rest of the World: 51464
+United States: 26103
+France: 15170
+Italy: 8996
+Russia: 7441
+Spain: 5476
+Germany: 4839
+Brazil: 4458
+Poland: 4436
+Japan: 4417
+United Kingdom: 3705
+Rest of the World: 52427

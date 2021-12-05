@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: AppNexus
-Last month's change: 2.42%
-Websites: 1342022
-Unique Domains: 272498
+Last month's change: 2.49%
+Websites: 1344838
+Unique Domains: 272864
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where AppNexus is being used
-Arts & Entertainment: 8.61%
+Arts & Entertainment: 8.60%
 Science & Education: 6.31%
 Computers Electronics & Technology: 6.28%
-Games: 5.68%
-Others: 73.11%
+Games: 5.67%
+Others: 73.14%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ bing.com  --  Monthly visits -> 1.1B
 - Geography -
 AppNexus usage by websites across the globe
 Leading Countries: Websites
-United States: 180248
-Japan: 43201
-France: 36368
-Taiwan: 33871
-Russia: 33289
-Italy: 26051
-United Kingdom: 22483
-Germany: 20795
-Brazil: 18070
-Spain: 17718
-Rest of the World: 268854
+United States: 180843
+Japan: 43345
+France: 36492
+Taiwan: 33970
+Russia: 33415
+Italy: 26147
+United Kingdom: 22597
+Germany: 20849
+Brazil: 18097
+Spain: 17783
+Rest of the World: 270227

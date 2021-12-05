@@ -1,16 +1,16 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: hit.ua
-Last month's change: 0.07%
-Websites: 7361
-Unique Domains: 3956
+Last month's change: 0.04%
+Websites: 7365
+Unique Domains: 3962
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where hit.ua is being used
-Adult: 10.42%
-Arts & Entertainment: 7.81%
+Adult: 10.41%
+Arts & Entertainment: 7.82%
 Computers Electronics & Technology: 5.65%
 Games: 4.70%
 Others: 71.42%
@@ -41,7 +41,7 @@ gay-hotfile.errio.net  --  Monthly visits -> 1M
 hit.ua usage by websites across the globe
 Leading Countries: Websites
 Ukraine: 2040
-Russia: 1890
+Russia: 1893
 United States: 149
 Germany: 71
 Belarus: 66
@@ -50,4 +50,4 @@ Turkey: 33
 Poland: 30
 France: 29
 Netherlands: 23
-Rest of the World: 369
+Rest of the World: 370

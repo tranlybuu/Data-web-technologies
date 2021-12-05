@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Sedo Domain Parking
-Last month's change: 5.34%
-Websites: 44839
-Unique Domains: 42078
+Last month's change: 5.58%
+Websites: 45019
+Unique Domains: 42311
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Sedo Domain Parking is being used
-Computers Electronics & Technology: 3.26%
+Computers Electronics & Technology: 3.25%
 Arts & Entertainment: 2.23%
 Adult: 1.71%
 Games: 1.00%
-Others: 91.80%
+Others: 91.82%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ logicdate.com  --  Monthly visits -> 665.9K
 - Geography -
 Sedo Domain Parking usage by websites across the globe
 Leading Countries: Websites
-United States: 7971
-Germany: 2430
-Japan: 1937
-Russia: 1869
-India: 1607
-China: 1596
-United Kingdom: 1420
-France: 1124
-Spain: 1019
-Italy: 985
-Rest of the World: 15922
+United States: 8040
+Germany: 2443
+Japan: 1950
+Russia: 1884
+India: 1611
+China: 1599
+United Kingdom: 1428
+France: 1120
+Spain: 1016
+Italy: 987
+Rest of the World: 15982

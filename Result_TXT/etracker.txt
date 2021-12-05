@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: etracker
+Last month's change: 0.05%
+Websites: 18438
+Unique Domains: 14204
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where etracker is being used
+Heavy Industry & Engineering: 3.07%
+Computers Electronics & Technology: 2.66%
+Reference Materials: 2.48%
+Business & Consumer Services: 2.42%
+Others: 89.37%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using etracker -
+sachsen.de  --  Monthly visits -> 6.9M
+hapag-lloyd.com  --  Monthly visits -> 6.9M
+wallstreet-online.de  --  Monthly visits -> 5.8M
+hamburg.de  --  Monthly visits -> 4.3M
+boerse.de  --  Monthly visits -> 3.8M
+muenchen.de  --  Monthly visits -> 3.6M
+earlygame.com  --  Monthly visits -> 3.5M
+speisekarte.de  --  Monthly visits -> 3.4M
+unibe.ch  --  Monthly visits -> 2.8M
+gesundheitsinformation.de  --  Monthly visits -> 2.7M
+
+- Geography -
+etracker usage by websites across the globe
+Leading Countries: Websites
+Germany: 9774
+Austria: 512
+Switzerland: 512
+United States: 447
+France: 390
+Spain: 367
+Italy: 356
+United Kingdom: 268
+Netherlands: 214
+India: 181
+Rest of the World: 2117

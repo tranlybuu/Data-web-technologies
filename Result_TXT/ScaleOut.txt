@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ScaleOut
+Last month's change: 1.13%
+Websites: 110374
+Unique Domains: 14575
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ScaleOut is being used
+Arts & Entertainment: 13.78%
+Games: 13.60%
+Computers Electronics & Technology: 12.69%
+Food & Drink: 7.37%
+Others: 52.56%
+
+
+- Related Technologies -
+Top Demand Side Platform technologies
+Logicad
+i-mobile
+AppNexus DSP
+JuicyAds
+Travel audience
+
+
+- Top Websites Using ScaleOut -
+auone.jp  --  Monthly visits -> 300.1M
+imgur.com  --  Monthly visits -> 237.1M
+trilltrill.jp  --  Monthly visits -> 217.6M
+ameblo.jp  --  Monthly visits -> 200.8M
+definition.org  --  Monthly visits -> 189M
+portal.auone.jp  --  Monthly visits -> 162.5M
+estart.jp  --  Monthly visits -> 148.4M
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+itsthevibe.com  --  Monthly visits -> 138.7M
+cookpad.com  --  Monthly visits -> 134.3M
+
+- Geography -
+ScaleOut usage by websites across the globe
+Leading Countries: Websites
+Japan: 49204
+United States: 11819
+United Kingdom: 984
+Canada: 664
+Philippines: 542
+Brazil: 519
+Australia: 484
+Russia: 449
+Germany: 441
+France: 271
+Rest of the World: 5025

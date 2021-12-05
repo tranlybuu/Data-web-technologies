@@ -1,0 +1,52 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Mezzobit
+Last month's change: 5.56%
+Websites: 36
+Unique Domains: 26
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mezzobit is being used
+Arts & Entertainment: 5.56%
+Business & Consumer Services: 5.56%
+Food & Drink: 5.56%
+Computers Electronics & Technology: 2.78%
+Others: 80.56%
+
+
+- Related Technologies -
+Top Tag Management technologies
+Google Tag Manager
+Adobe Dynamic Tag Management
+Tealium
+Yahoo Tag Manager
+Ensighten
+
+
+- Top Websites Using Mezzobit -
+thebostonpilot.com  --  Monthly visits -> 74.5K
+cairo.iga.com  --  Monthly visits -> 56.1K
+buddys.iga.com  --  Monthly visits -> 16.7K
+movemycar.com.au  --  Monthly visits -> 12.1K
+burlingtoncentre.ca  --  Monthly visits -> 9.6K
+squealermusic.com  --  Monthly visits -> 5.1K
+m.fastcompany.com  --  Monthly visits -> 4.9K
+redstoneshoppingcenter.com  --  Monthly visits -> 3.8K
+cornerstone.iga.com  --  Monthly visits -> 3.8K
+echoes.thebostonpilot.com  --  Monthly visits -> 3.6K
+
+- Geography -
+Mezzobit usage by websites across the globe
+Leading Countries: Websites
+United States: 13
+Australia: 3
+Canada: 3
+China: 2
+Argentina: 1
+Germany: 1
+India: 1
+Peru: 1
+Philippines: 1
+Russia: 1

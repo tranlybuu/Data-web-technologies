@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Pingdom
+Last month's change: 1.73%
+Websites: 15424
+Unique Domains: 7259
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pingdom is being used
+Computers Electronics & Technology: 7.15%
+Science & Education: 6.62%
+Health: 4.18%
+Business & Consumer Services: 3.82%
+Others: 78.24%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Pingdom -
+onelink.me  --  Monthly visits -> 54.5M
+immobilienscout24.de  --  Monthly visits -> 40.7M
+russian.rt.com  --  Monthly visits -> 40.7M
+onlinelibrary.wiley.com  --  Monthly visits -> 39.4M
+hola.com  --  Monthly visits -> 37.2M
+arabic.rt.com  --  Monthly visits -> 31.6M
+bestreviews.guide  --  Monthly visits -> 29.9M
+liftoff.io  --  Monthly visits -> 27.5M
+miro.com  --  Monthly visits -> 25M
+tandfonline.com  --  Monthly visits -> 24.7M
+
+- Geography -
+Pingdom usage by websites across the globe
+Leading Countries: Websites
+United States: 4659
+United Kingdom: 936
+Canada: 484
+Germany: 358
+Australia: 338
+Russia: 313
+France: 308
+India: 238
+Spain: 228
+Italy: 224
+Rest of the World: 3485

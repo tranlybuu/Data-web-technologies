@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AdForm
+Last month's change: 0.16%
+Websites: 47407
+Unique Domains: 22479
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AdForm is being used
+Vehicles: 5.97%
+E-commerce & Shopping: 5.14%
+Sports: 4.53%
+Finance: 4.46%
+Others: 79.90%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using AdForm -
+seznam.cz  --  Monthly visits -> 306.8M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+sahibinden.com  --  Monthly visits -> 128.9M
+hm.com  --  Monthly visits -> 106.8M
+tenki.jp  --  Monthly visits -> 104.7M
+vg.no  --  Monthly visits -> 102.2M
+eksisozluk.com  --  Monthly visits -> 98M
+idnes.cz  --  Monthly visits -> 79.7M
+aftonbladet.se  --  Monthly visits -> 78M
+premierleague.com  --  Monthly visits -> 76.9M
+
+- Geography -
+AdForm usage by websites across the globe
+Leading Countries: Websites
+Czech Republic: 3501
+Turkey: 2933
+Italy: 2544
+Poland: 2031
+Germany: 2028
+Denmark: 1788
+Spain: 1585
+Sweden: 1467
+United States: 1466
+Finland: 1409
+Rest of the World: 12382

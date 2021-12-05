@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: StealJS
+Last month's change: 0.70%
+Websites: 143
+Unique Domains: 113
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where StealJS is being used
+Computers Electronics & Technology: 11.19%
+Business & Consumer Services: 5.59%
+Science & Education: 4.90%
+Law & Government: 3.50%
+Others: 74.83%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using StealJS -
+tfl.gov.uk  --  Monthly visits -> 25.6M
+woonnetrijnmond.nl  --  Monthly visits -> 1.3M
+entree.nu  --  Monthly visits -> 621.6K
+fitday.com  --  Monthly visits -> 372K
+woonserviceregionaal.nl  --  Monthly visits -> 275.2K
+woonburoalmelo.nl  --  Monthly visits -> 126K
+thuisindeachterhoek.nl  --  Monthly visits -> 122.4K
+bagborroworsteal.com  --  Monthly visits -> 73.7K
+mytotalfuelcard.com  --  Monthly visits -> 68.3K
+languagelive.voyagersopris.com  --  Monthly visits -> 58.6K
+
+- Geography -
+StealJS usage by websites across the globe
+Leading Countries: Websites
+United States: 27
+Netherlands: 19
+United Kingdom: 18
+China: 15
+Colombia: 6
+Canada: 5
+Germany: 3
+Mexico: 3
+Ukraine: 3
+Austria: 2
+Rest of the World: 27

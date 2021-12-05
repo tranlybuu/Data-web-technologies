@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Binotel
+Last month's change: 3.16%
+Websites: 9395
+Unique Domains: 8132
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Binotel is being used
+E-commerce & Shopping: 11.03%
+Home & Garden: 10.74%
+Heavy Industry & Engineering: 9.70%
+Vehicles: 7.66%
+Others: 60.87%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Mango
+FreshCaller
+Dialogtech
+
+
+- Top Websites Using Binotel -
+auto.ria.com  --  Monthly visits -> 15.8M
+moyo.ua  --  Monthly visits -> 2.5M
+1sa.com.ua  --  Monthly visits -> 1.6M
+add.ua  --  Monthly visits -> 1.5M
+englishdom.com  --  Monthly visits -> 1.3M
+binotel.ua  --  Monthly visits -> 1.2M
+joinposter.com  --  Monthly visits -> 1M
+interkassa.com  --  Monthly visits -> 907.9K
+naurok.ua  --  Monthly visits -> 890.3K
+mspy.com  --  Monthly visits -> 885.5K
+
+- Geography -
+Binotel usage by websites across the globe
+Leading Countries: Websites
+Ukraine: 7482
+Russia: 544
+Kazakhstan: 213
+Poland: 41
+Belarus: 35
+United States: 31
+Germany: 30
+Netherlands: 23
+Moldova: 22
+Turkey: 19
+Rest of the World: 166

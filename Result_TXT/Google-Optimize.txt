@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Google Optimize
-Last month's change: 1.42%
-Websites: 73263
-Unique Domains: 29255
+Last month's change: 1.47%
+Websites: 73336
+Unique Domains: 29256
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Google Optimize is being used
-Computers Electronics & Technology: 7.84%
-Business & Consumer Services: 4.42%
+Computers Electronics & Technology: 7.81%
+Business & Consumer Services: 4.41%
 Finance: 4.09%
 Science & Education: 3.96%
-Others: 79.68%
+Others: 79.73%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ milliyet.com.tr  --  Monthly visits -> 111.3M
 - Geography -
 Google Optimize usage by websites across the globe
 Leading Countries: Websites
-United States: 21175
-United Kingdom: 3111
-Japan: 2253
-Canada: 1768
-Germany: 1664
-Russia: 1660
-Australia: 1480
-India: 1277
-France: 1107
+United States: 21223
+United Kingdom: 3109
+Japan: 2259
+Canada: 1771
+Russia: 1671
+Germany: 1666
+Australia: 1485
+India: 1273
+France: 1110
 Netherlands: 1002
-Rest of the World: 15822
+Rest of the World: 15823

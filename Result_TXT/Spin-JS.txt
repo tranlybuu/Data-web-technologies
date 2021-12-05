@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Spin JS
-Last month's change: 3.87%
-Websites: 583293
-Unique Domains: 300496
+Last month's change: 3.98%
+Websites: 582871
+Unique Domains: 300661
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Spin JS is being used
-Science & Education: 5.90%
-Computers Electronics & Technology: 4.98%
+Science & Education: 5.89%
+Computers Electronics & Technology: 4.97%
 Arts & Entertainment: 3.89%
 Travel & Tourism: 3.07%
-Others: 82.16%
+Others: 82.18%
 
 
 - Related Technologies -
@@ -34,20 +34,20 @@ cnet.com  --  Monthly visits -> 68.8M
 hurirk.net  --  Monthly visits -> 59.8M
 slickdeals.net  --  Monthly visits -> 49.7M
 upload.wikimedia.org  --  Monthly visits -> 49.3M
-pl.wikipedia.org  --  Monthly visits -> 49.1M
 pearson.com  --  Monthly visits -> 47.9M
+worldstarhiphop.com  --  Monthly visits -> 47.6M
 
 - Geography -
 Spin JS usage by websites across the globe
 Leading Countries: Websites
-United States: 64168
-Taiwan: 35281
-Germany: 26780
-Russia: 23943
-Italy: 17502
-France: 13718
-United Kingdom: 13073
-Poland: 11295
-Spain: 9429
-Japan: 9329
-Rest of the World: 158614
+United States: 64020
+Taiwan: 35352
+Germany: 26767
+Russia: 23950
+Italy: 17497
+France: 13700
+United Kingdom: 13040
+Poland: 11277
+Spain: 9406
+Japan: 9314
+Rest of the World: 158387

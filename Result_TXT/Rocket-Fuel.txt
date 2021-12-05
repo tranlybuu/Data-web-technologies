@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Rocket Fuel
-Last month's change: 1.95%
-Websites: 5377
-Unique Domains: 3606
+Last month's change: 2.29%
+Websites: 5365
+Unique Domains: 3604
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Rocket Fuel is being used
-Finance: 6.25%
-Computers Electronics & Technology: 5.69%
-Travel & Tourism: 5.54%
-Science & Education: 5.34%
-Others: 77.18%
+Finance: 6.19%
+Computers Electronics & Technology: 5.70%
+Travel & Tourism: 5.50%
+Science & Education: 5.37%
+Others: 77.24%
 
 
 - Related Technologies -
@@ -30,24 +30,24 @@ rt.com  --  Monthly visits -> 120.6M
 tenki.jp  --  Monthly visits -> 104.7M
 citi.com  --  Monthly visits -> 51.2M
 bfmtv.com  --  Monthly visits -> 48.4M
-ameritrade.com  --  Monthly visits -> 43.7M
 tdameritrade.com  --  Monthly visits -> 42.2M
 online.citi.com  --  Monthly visits -> 40.5M
 urbandictionary.com  --  Monthly visits -> 39.5M
 k12.com  --  Monthly visits -> 32.5M
 24sata.hr  --  Monthly visits -> 29.7M
+citibankonline.com  --  Monthly visits -> 26.9M
 
 - Geography -
 Rocket Fuel usage by websites across the globe
 Leading Countries: Websites
-United States: 1921
+United States: 1915
 Japan: 498
-United Kingdom: 228
+United Kingdom: 229
 Italy: 162
-Canada: 161
-Spain: 160
-Australia: 83
+Spain: 162
+Canada: 160
+Australia: 82
 India: 78
 Germany: 75
-France: 64
-Rest of the World: 979
+France: 63
+Rest of the World: 973

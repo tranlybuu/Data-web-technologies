@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Adloox
-Last month's change: 5.57%
-Websites: 33933
-Unique Domains: 1346
+Last month's change: 5.84%
+Websites: 33863
+Unique Domains: 1334
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Adloox is being used
-Arts & Entertainment: 13.12%
-Food & Drink: 5.45%
-Science & Education: 5.25%
+Arts & Entertainment: 13.14%
+Food & Drink: 5.42%
+Science & Education: 5.24%
 Community & Society: 4.97%
-Others: 71.21%
+Others: 71.23%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ abplive.com  --  Monthly visits -> 30.4M
 - Geography -
 Adloox usage by websites across the globe
 Leading Countries: Websites
-France: 3540
-United States: 145
+France: 3490
+United States: 143
 Belgium: 138
-Italy: 136
-Canada: 111
-India: 87
-Spain: 70
-Malaysia: 65
-Morocco: 64
+Italy: 135
+Canada: 108
+India: 89
+Spain: 69
+Malaysia: 66
+Morocco: 62
 Taiwan: 55
-Rest of the World: 922
+Rest of the World: 908

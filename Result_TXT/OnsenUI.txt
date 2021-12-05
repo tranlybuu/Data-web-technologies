@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: OnsenUI
+Last month's change: 0%
+Websites: 228
+Unique Domains: 191
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OnsenUI is being used
+Computers Electronics & Technology: 11.40%
+Travel & Tourism: 4.39%
+Lifestyle: 3.51%
+Heavy Industry & Engineering: 2.19%
+Others: 78.51%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using OnsenUI -
+feedwatcher.net  --  Monthly visits -> 2.1M
+openshop.com.hk  --  Monthly visits -> 303.3K
+runguides.com  --  Monthly visits -> 266.1K
+wapp-three.web.app  --  Monthly visits -> 234.3K
+joiplay.cyou  --  Monthly visits -> 159.9K
+m.daiso.co.kr  --  Monthly visits -> 114.2K
+forum.golangbridge.org  --  Monthly visits -> 110.1K
+catasto.it  --  Monthly visits -> 91.1K
+bluejack.binus.ac.id  --  Monthly visits -> 84.1K
+mashverapp.com  --  Monthly visits -> 81.7K
+
+- Geography -
+OnsenUI usage by websites across the globe
+Leading Countries: Websites
+Japan: 41
+United States: 24
+Italy: 15
+Germany: 6
+Saudi Arabia: 6
+Spain: 6
+Hong Kong: 5
+India: 5
+Indonesia: 5
+China: 4
+Rest of the World: 59

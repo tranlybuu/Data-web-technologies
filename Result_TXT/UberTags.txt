@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: UberTags
+Last month's change: 6.85%
+Websites: 73
+Unique Domains: 53
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UberTags is being used
+Law & Government: 26.03%
+Computers Electronics & Technology: 15.07%
+Finance: 8.22%
+Health: 5.48%
+Others: 45.21%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using UberTags -
+lexisnexis.com  --  Monthly visits -> 5.7M
+signin.lexisnexis.com  --  Monthly visits -> 1.9M
+app2.clarizen.com  --  Monthly visits -> 252.6K
+w3.lexisnexis.com  --  Monthly visits -> 201.5K
+myparasol.co.uk  --  Monthly visits -> 145.7K
+eu1.clarizen.com  --  Monthly visits -> 106.7K
+moreover.com  --  Monthly visits -> 102K
+sageu.csod.com  --  Monthly visits -> 77.9K
+lexisnexis.com.au  --  Monthly visits -> 76.2K
+bis.lexisnexis.com  --  Monthly visits -> 67.3K
+
+- Geography -
+UberTags usage by websites across the globe
+Leading Countries: Websites
+United States: 33
+Canada: 4
+China: 4
+France: 3
+Germany: 3
+United Kingdom: 3
+Australia: 2
+South Africa: 2
+Brazil: 1
+Chile: 1
+Rest of the World: 6

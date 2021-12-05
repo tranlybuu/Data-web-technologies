@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: SiteMeter
+Last month's change: 2.33%
+Websites: 13754
+Unique Domains: 5280
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SiteMeter is being used
+Science & Education: 5.25%
+Arts & Entertainment: 4.98%
+Community & Society: 4.42%
+Computers Electronics & Technology: 3.02%
+Others: 82.33%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using SiteMeter -
+crazydaysandnights.net  --  Monthly visits -> 2.4M
+ace.mu.nu  --  Monthly visits -> 1.2M
+surfmusic.de  --  Monthly visits -> 627.7K
+uvi.edu  --  Monthly visits -> 560.4K
+mysteryfile.com  --  Monthly visits -> 506.1K
+henrymakow.com  --  Monthly visits -> 477.6K
+easysurf.cc  --  Monthly visits -> 449.6K
+drudge.com  --  Monthly visits -> 421.6K
+pyknet.net  --  Monthly visits -> 415.5K
+esl-bits.net  --  Monthly visits -> 358.7K
+
+- Geography -
+SiteMeter usage by websites across the globe
+Leading Countries: Websites
+United States: 4298
+United Kingdom: 567
+Canada: 447
+Brazil: 356
+India: 345
+France: 305
+Portugal: 297
+Germany: 277
+Indonesia: 268
+Australia: 226
+Rest of the World: 3845

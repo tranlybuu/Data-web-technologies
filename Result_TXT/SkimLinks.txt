@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SkimLinks
-Last month's change: 1.25%
-Websites: 515677
-Unique Domains: 25708
+Last month's change: 1.27%
+Websites: 515809
+Unique Domains: 25663
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SkimLinks is being used
-Science & Education: 14.50%
+Science & Education: 14.48%
 Community & Society: 7.97%
-Arts & Entertainment: 6.75%
-Computers Electronics & Technology: 6.03%
-Others: 64.76%
+Arts & Entertainment: 6.74%
+Computers Electronics & Technology: 6.02%
+Others: 64.79%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ huffpost.com  --  Monthly visits -> 63.9M
 - Geography -
 SkimLinks usage by websites across the globe
 Leading Countries: Websites
-United States: 41346
-United Kingdom: 9094
-Indonesia: 7866
+United States: 41351
+United Kingdom: 9103
+Indonesia: 7869
 Italy: 6988
-France: 6934
-Spain: 6902
-Canada: 6155
-India: 5450
-Brazil: 4989
-Germany: 4803
-Rest of the World: 79083
+France: 6930
+Spain: 6905
+Canada: 6154
+India: 5464
+Brazil: 4997
+Germany: 4807
+Rest of the World: 79174

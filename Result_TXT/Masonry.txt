@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Masonry
-Last month's change: 0.61%
-Websites: 2107543
-Unique Domains: 1824868
+Last month's change: 0.66%
+Websites: 2116987
+Unique Domains: 1832896
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Masonry is being used
-Science & Education: 2.94%
-Computers Electronics & Technology: 2.90%
-Arts & Entertainment: 2.13%
+Science & Education: 2.93%
+Computers Electronics & Technology: 2.89%
+Arts & Entertainment: 2.12%
 Health: 1.67%
-Others: 90.35%
+Others: 90.39%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ lentainform.com  --  Monthly visits -> 62.6M
 - Geography -
 Masonry usage by websites across the globe
 Leading Countries: Websites
-United States: 361678
-Germany: 102598
-Italy: 92596
-France: 87044
-United Kingdom: 79529
-India: 62592
-Spain: 59637
-Japan: 58933
-Canada: 56158
-Russia: 54441
-Rest of the World: 871660
+United States: 362958
+Germany: 103069
+Italy: 93087
+France: 87526
+United Kingdom: 79876
+India: 63121
+Spain: 59952
+Japan: 59236
+Canada: 56417
+Russia: 54645
+Rest of the World: 876421

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Adjust
+Last month's change: 3.95%
+Websites: 10601
+Unique Domains: 6064
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Adjust is being used
+Games: 8.57%
+Computers Electronics & Technology: 6.89%
+E-commerce & Shopping: 6.04%
+Finance: 5.08%
+Others: 73.42%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Adjust -
+yahoo.co.jp  --  Monthly visits -> 2.3B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+m.yahoo.co.jp  --  Monthly visits -> 669.2M
+headlines.yahoo.co.jp  --  Monthly visits -> 470.7M
+search.yahoo.co.jp  --  Monthly visits -> 398.6M
+auone.jp  --  Monthly visits -> 300.1M
+avito.ru  --  Monthly visits -> 280.6M
+zillow.com  --  Monthly visits -> 263.4M
+trilltrill.jp  --  Monthly visits -> 217.6M
+item.rakuten.co.jp  --  Monthly visits -> 190.9M
+
+- Geography -
+Adjust usage by websites across the globe
+Leading Countries: Websites
+Japan: 1844
+United States: 903
+Germany: 739
+Russia: 598
+France: 397
+Brazil: 257
+United Kingdom: 255
+Poland: 232
+Turkey: 187
+South Korea: 176
+Rest of the World: 2969

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Ads Txt
-Last month's change: 2.03%
-Websites: 2879049
-Unique Domains: 1435863
+Last month's change: 2.09%
+Websites: 2886691
+Unique Domains: 1443117
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Ads Txt is being used
-Computers Electronics & Technology: 7.08%
-Arts & Entertainment: 5.77%
+Computers Electronics & Technology: 7.07%
+Arts & Entertainment: 5.76%
 Games: 4.41%
 News & Media: 3.23%
-Others: 79.50%
+Others: 79.54%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ l.facebook.com  --  Monthly visits -> 1.4B
 - Geography -
 Ads Txt usage by websites across the globe
 Leading Countries: Websites
-United States: 400326
-Japan: 154257
-Russia: 130737
-India: 85946
-France: 78640
-Germany: 72673
-Brazil: 64032
-Italy: 63581
-United Kingdom: 61692
-Taiwan: 55151
-Rest of the World: 930713
+United States: 401896
+Japan: 154652
+Russia: 131102
+India: 86312
+France: 78932
+Germany: 72898
+Brazil: 64173
+Italy: 63782
+United Kingdom: 61991
+Taiwan: 55351
+Rest of the World: 934301

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Yandex Verification
-Last month's change: 1.46%
-Websites: 152785
-Unique Domains: 73045
+Last month's change: 1.50%
+Websites: 153456
+Unique Domains: 73509
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Yandex Verification is being used
-Games: 15.09%
-Arts & Entertainment: 13.20%
-Computers Electronics & Technology: 6.05%
-Heavy Industry & Engineering: 3.50%
-Others: 62.16%
+Games: 15.04%
+Arts & Entertainment: 13.15%
+Computers Electronics & Technology: 6.03%
+Heavy Industry & Engineering: 3.49%
+Others: 62.29%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ canva.com  --  Monthly visits -> 289.4M
 - Geography -
 Yandex Verification usage by websites across the globe
 Leading Countries: Websites
-Russia: 50731
-United States: 21758
-Ukraine: 5283
-Turkey: 3963
-United Kingdom: 2508
-Germany: 2232
-Brazil: 2122
-Belarus: 2064
-Canada: 1676
-Kazakhstan: 1625
-Rest of the World: 28753
+Russia: 51017
+United States: 21834
+Ukraine: 5310
+Turkey: 4010
+United Kingdom: 2529
+Germany: 2245
+Brazil: 2128
+Belarus: 2067
+Canada: 1685
+Kazakhstan: 1631
+Rest of the World: 28929

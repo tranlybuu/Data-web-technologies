@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: 6sense
+Last month's change: 2.71%
+Websites: 15608
+Unique Domains: 4571
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where 6sense is being used
+Computers Electronics & Technology: 23.17%
+Business & Consumer Services: 8.51%
+Finance: 6.58%
+Health: 3.75%
+Others: 57.98%
+
+
+- Related Technologies -
+Top Conversion Optimization technologies
+Pendo
+Lucky Orange
+Beeketing
+Justuno
+Content Square
+
+
+- Top Websites Using 6sense -
+okta.com  --  Monthly visits -> 140.8M
+adjust.com  --  Monthly visits -> 86.1M
+qualtrics.com  --  Monthly visits -> 72.5M
+dell.com  --  Monthly visits -> 55.9M
+googlevideo.com  --  Monthly visits -> 43.4M
+powerschool.com  --  Monthly visits -> 35.3M
+nvidia.com  --  Monthly visits -> 34.3M
+medallia.com  --  Monthly visits -> 29.6M
+netlify.app  --  Monthly visits -> 27.8M
+icims.com  --  Monthly visits -> 27.3M
+
+- Geography -
+6sense usage by websites across the globe
+Leading Countries: Websites
+United States: 5736
+United Kingdom: 567
+Japan: 418
+Canada: 378
+India: 362
+France: 314
+Germany: 285
+Australia: 278
+Brazil: 265
+China: 210
+Rest of the World: 2804

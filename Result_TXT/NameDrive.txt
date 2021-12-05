@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: NameDrive
-Last month's change: 14.4%
-Websites: 924
-Unique Domains: 873
+Last month's change: 15.4%
+Websites: 917
+Unique Domains: 866
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where NameDrive is being used
-Adult: 1.08%
+Adult: 1.09%
 Computers Electronics & Technology: 0.87%
-Arts & Entertainment: 0.54%
-Games: 0.54%
-Others: 96.97%
+Arts & Entertainment: 0.55%
+Games: 0.55%
+Others: 96.95%
 
 
 - Related Technologies -
@@ -28,7 +28,6 @@ Ztomy DNS
 - Top Websites Using NameDrive -
 lumo.co.uk  --  Monthly visits -> 392.5K
 sexyloves.ru  --  Monthly visits -> 176.9K
-claudine.info  --  Monthly visits -> 82.5K
 xvideo.rocks  --  Monthly visits -> 51.9K
 la.cl  --  Monthly visits -> 42.6K
 youhizz.com  --  Monthly visits -> 37K
@@ -36,13 +35,14 @@ onlinecity.ru  --  Monthly visits -> 36.8K
 gimnasia.org.mx  --  Monthly visits -> 36.5K
 chicas.es  --  Monthly visits -> 32.2K
 murjan.com  --  Monthly visits -> 31K
+recurrency.com  --  Monthly visits -> 30.4K
 
 - Geography -
 NameDrive usage by websites across the globe
 Leading Countries: Websites
-United States: 103
+United States: 101
 Poland: 51
-United Kingdom: 48
+United Kingdom: 47
 Netherlands: 39
 Spain: 32
 France: 29
@@ -50,4 +50,4 @@ Germany: 27
 Russia: 27
 Italy: 23
 Brazil: 22
-Rest of the World: 346
+Rest of the World: 342

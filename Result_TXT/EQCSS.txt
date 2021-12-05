@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: EQCSS
+Last month's change: 14.6%
+Websites: 713
+Unique Domains: 630
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where EQCSS is being used
+Health: 12.34%
+Science & Education: 4.21%
+Heavy Industry & Engineering: 1.54%
+Law & Government: 1.12%
+Others: 80.79%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using EQCSS -
+bmjopen.bmj.com  --  Monthly visits -> 1.1M
+casereports.bmj.com  --  Monthly visits -> 655.5K
+jnnp.bmj.com  --  Monthly visits -> 582.8K
+adc.bmj.com  --  Monthly visits -> 530.1K
+bjsm.bmj.com  --  Monthly visits -> 526.3K
+heart.bmj.com  --  Monthly visits -> 485.3K
+gut.bmj.com  --  Monthly visits -> 447.8K
+pmj.bmj.com  --  Monthly visits -> 440.5K
+ard.bmj.com  --  Monthly visits -> 392.1K
+jcp.bmj.com  --  Monthly visits -> 390.8K
+
+- Geography -
+EQCSS usage by websites across the globe
+Leading Countries: Websites
+United States: 114
+Italy: 96
+Spain: 70
+France: 57
+United Kingdom: 34
+Finland: 31
+Germany: 22
+Brazil: 19
+Colombia: 17
+Chile: 14
+Rest of the World: 200

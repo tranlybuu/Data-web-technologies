@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Next Performance
-Last month's change: 1.64%
-Websites: 548
-Unique Domains: 392
+Last month's change: 1.28%
+Websites: 549
+Unique Domains: 395
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Next Performance is being used
-Lifestyle: 13.87%
-Travel & Tourism: 9.49%
-Business & Consumer Services: 8.21%
-Home & Garden: 6.75%
-Others: 61.68%
+Lifestyle: 14.03%
+Travel & Tourism: 9.47%
+Business & Consumer Services: 8.20%
+Home & Garden: 6.92%
+Others: 61.38%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ creditas.com  --  Monthly visits -> 2M
 - Geography -
 Next Performance usage by websites across the globe
 Leading Countries: Websites
-France: 249
+France: 250
 Italy: 38
 United States: 25
 Germany: 18
 United Kingdom: 17
 Brazil: 13
 Spain: 13
+Switzerland: 8
 Portugal: 7
-Switzerland: 7
 Belgium: 5
-Rest of the World: 56
+Rest of the World: 55

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Taboola
-Last month's change: 0.99%
-Websites: 483076
-Unique Domains: 94776
+Last month's change: 1.10%
+Websites: 483997
+Unique Domains: 94902
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Taboola is being used
-Arts & Entertainment: 6.66%
-Computers Electronics & Technology: 6.56%
+Arts & Entertainment: 6.67%
+Computers Electronics & Technology: 6.55%
 Games: 4.60%
 News & Media: 4.50%
-Others: 77.69%
+Others: 77.68%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ espn.com  --  Monthly visits -> 628.4M
 - Geography -
 Taboola usage by websites across the globe
 Leading Countries: Websites
-United States: 39157
-France: 21921
-Taiwan: 13506
-Italy: 10671
-Russia: 8633
-Spain: 7455
-Brazil: 7359
-Germany: 7290
-Japan: 6513
-India: 6439
-Rest of the World: 83582
+United States: 39358
+France: 21968
+Taiwan: 13327
+Italy: 10721
+Russia: 8864
+Spain: 7479
+Brazil: 7393
+Germany: 7312
+Japan: 6557
+India: 6470
+Rest of the World: 83998

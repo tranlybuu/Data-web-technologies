@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Adobe Dynamic Tag Management
-Last month's change: 1.45%
-Websites: 97440
-Unique Domains: 54756
+Last month's change: 1.42%
+Websites: 97602
+Unique Domains: 54792
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Adobe Dynamic Tag Management is being used
-Vehicles: 9.76%
-Finance: 6.86%
-Computers Electronics & Technology: 5.17%
+Vehicles: 9.75%
+Finance: 6.85%
+Computers Electronics & Technology: 5.16%
 Health: 3.86%
-Others: 74.34%
+Others: 74.38%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ webmd.com  --  Monthly visits -> 137.9M
 - Geography -
 Adobe Dynamic Tag Management usage by websites across the globe
 Leading Countries: Websites
-United States: 33323
-Germany: 3350
-Canada: 3211
+United States: 33386
+Germany: 3366
+Canada: 3212
 Japan: 3199
-United Kingdom: 2762
-Australia: 2071
-France: 1990
-Italy: 1776
+United Kingdom: 2769
+Australia: 2072
+France: 2004
+Italy: 1777
 Spain: 1706
-India: 1533
-Rest of the World: 20439
+India: 1538
+Rest of the World: 20493

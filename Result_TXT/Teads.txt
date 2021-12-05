@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Teads
-Last month's change: 1.52%
-Websites: 686596
-Unique Domains: 128333
+Last month's change: 1.49%
+Websites: 687702
+Unique Domains: 128638
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Teads is being used
-Arts & Entertainment: 10.10%
-Games: 7.53%
-Computers Electronics & Technology: 5.59%
-News & Media: 5.23%
-Others: 71.55%
+Arts & Entertainment: 10.09%
+Games: 7.52%
+Computers Electronics & Technology: 5.58%
+News & Media: 5.22%
+Others: 71.58%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ weather.com  --  Monthly visits -> 653.6M
 - Geography -
 Teads usage by websites across the globe
 Leading Countries: Websites
-United States: 74566
-Taiwan: 26857
-Russia: 24448
-France: 23889
-Italy: 17096
-Germany: 11335
-Japan: 10272
-United Kingdom: 9920
-Poland: 9584
-Spain: 9157
-Rest of the World: 121956
+United States: 74847
+Taiwan: 26527
+Russia: 24543
+France: 23979
+Italy: 17142
+Germany: 11378
+Japan: 10332
+United Kingdom: 9968
+Poland: 9661
+Spain: 9186
+Rest of the World: 122621

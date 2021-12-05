@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Domain Sponsor
-Last month's change: 19.7%
-Websites: 6083
-Unique Domains: 5534
+Last month's change: 20.6%
+Websites: 6025
+Unique Domains: 5472
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Domain Sponsor is being used
 Computers Electronics & Technology: 1.13%
-Adult: 0.72%
+Adult: 0.73%
 Arts & Entertainment: 0.25%
 Games: 0.23%
-Others: 97.67%
+Others: 97.66%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ xvieeos.com  --  Monthly visits -> 175.7K
 - Geography -
 Domain Sponsor usage by websites across the globe
 Leading Countries: Websites
-United States: 1501
-Canada: 304
+United States: 1485
+Canada: 298
 China: 234
-India: 225
-United Kingdom: 164
-Germany: 153
-Japan: 124
-France: 115
-South Korea: 96
+India: 221
+United Kingdom: 159
+Germany: 152
+Japan: 122
+France: 113
+South Korea: 93
 Netherlands: 91
-Rest of the World: 1798
+Rest of the World: 1780

@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: WebTracker
+Last month's change: 0.53%
+Websites: 190
+Unique Domains: 52
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WebTracker is being used
+Sports: 23.16%
+Arts & Entertainment: 11.05%
+Adult: 7.37%
+Computers Electronics & Technology: 6.84%
+Others: 51.58%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using WebTracker -
+comic-walker.com  --  Monthly visits -> 17.9M
+ascii.jp  --  Monthly visits -> 13.5M
+michaelsan.livedoor.biz  --  Monthly visits -> 12.6M
+pointtown.com  --  Monthly visits -> 11.7M
+hmv.co.jp  --  Monthly visits -> 10.3M
+l-tike.com  --  Monthly visits -> 8.7M
+teacup.com  --  Monthly visits -> 6.5M
+2chcopipe.com  --  Monthly visits -> 5.1M
+app.famitsu.com  --  Monthly visits -> 4.8M
+kabu.co.jp  --  Monthly visits -> 4M
+
+- Geography -
+WebTracker usage by websites across the globe
+Leading Countries: Websites
+Japan: 154
+China: 3
+United States: 2
+Bangladesh: 1
+Iran: 1
+Malaysia: 1
+Netherlands: 1

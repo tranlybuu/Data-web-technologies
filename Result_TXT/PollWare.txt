@@ -1,0 +1,42 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: PollWare
+Last month's change: None%
+Websites: 8
+Unique Domains: 8
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PollWare is being used
+Adult: 37.50%
+Arts & Entertainment: 12.50%
+Computers Electronics & Technology: 12.50%
+News & Media: 12.50%
+Others: 25.00%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using PollWare -
+paperstarter.com  --  Monthly visits -> 14.4K
+customerservice.goerie.com  --  Monthly visits -> 5K
+programming4.us  --  Monthly visits -> 3.5K
+survivor.realitysteve.com  --  Monthly visits -> 2.3K
+d1warraxuf7xh1.cloudfront.net  --  Monthly visits -> 1.9K
+fanboyreport.com  --  Monthly visits -> 156.01
+plunderguide.com  --  Monthly visits -> 138.72
+
+- Geography -
+PollWare usage by websites across the globe
+Leading Countries: Websites
+Canada: 2
+United States: 2
+Malaysia: 1

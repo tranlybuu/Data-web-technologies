@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Crazy Egg
-Last month's change: 6.08%
-Websites: 118753
-Unique Domains: 60676
+Last month's change: 6.03%
+Websites: 118641
+Unique Domains: 60649
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Crazy Egg is being used
-Games: 9.22%
-Arts & Entertainment: 7.62%
-Science & Education: 5.81%
+Games: 9.15%
+Arts & Entertainment: 7.56%
+Science & Education: 5.82%
 Computers Electronics & Technology: 5.69%
-Others: 71.66%
+Others: 71.78%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ news.com.au  --  Monthly visits -> 97.8M
 - Geography -
 Crazy Egg usage by websites across the globe
 Leading Countries: Websites
-United States: 44774
-United Kingdom: 4950
+United States: 44778
+United Kingdom: 4935
 Canada: 4001
-Australia: 3676
-India: 2438
-Brazil: 2154
-Germany: 1754
-Japan: 1451
-France: 1444
-Mexico: 1328
-Rest of the World: 24137
+Australia: 3679
+India: 2435
+Brazil: 2143
+Germany: 1749
+Japan: 1449
+France: 1443
+Mexico: 1319
+Rest of the World: 24063

@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Omniture
-Last month's change: 1.04%
+Last month's change: 1.03%
 Websites: 106908
 Unique Domains: 59113
 --------------------------------------

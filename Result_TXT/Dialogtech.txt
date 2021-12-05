@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Dialogtech
+Last month's change: 1.81%
+Websites: 7835
+Unique Domains: 7223
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Dialogtech is being used
+Health: 6.65%
+Vehicles: 5.05%
+Business & Consumer Services: 3.38%
+Heavy Industry & Engineering: 3.11%
+Others: 81.80%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using Dialogtech -
+icims.com  --  Monthly visits -> 27.3M
+dnb.com  --  Monthly visits -> 10.6M
+dignitymemorial.com  --  Monthly visits -> 10.1M
+wyndhamhotels.com  --  Monthly visits -> 9.4M
+mattressfirm.com  --  Monthly visits -> 6.6M
+availity.com  --  Monthly visits -> 6M
+nissanusa.com  --  Monthly visits -> 5.8M
+cashstar.com  --  Monthly visits -> 5.6M
+humana.com  --  Monthly visits -> 5.3M
+yourmechanic.com  --  Monthly visits -> 4.1M
+
+- Geography -
+Dialogtech usage by websites across the globe
+Leading Countries: Websites
+United States: 6141
+Canada: 257
+India: 95
+Philippines: 66
+United Kingdom: 52
+Pakistan: 29
+France: 26
+China: 25
+Mexico: 22
+Kenya: 19
+Rest of the World: 371

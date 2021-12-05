@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Ember JS
-Last month's change: 3.72%
-Websites: 12592
-Unique Domains: 5472
+Last month's change: 3.38%
+Websites: 12614
+Unique Domains: 5471
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Ember JS is being used
-Computers Electronics & Technology: 7.77%
+Computers Electronics & Technology: 7.73%
 Food & Drink: 4.69%
-Science & Education: 4.04%
-Finance: 3.09%
-Others: 80.41%
+Science & Education: 4.01%
+Finance: 3.08%
+Others: 80.49%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ britishgas.co.uk  --  Monthly visits -> 8.2M
 - Geography -
 Ember JS usage by websites across the globe
 Leading Countries: Websites
-United States: 4666
-United Kingdom: 480
-Canada: 397
-Germany: 381
-China: 346
-Netherlands: 232
-France: 219
-Russia: 207
+United States: 4674
+United Kingdom: 485
+Canada: 400
+Germany: 378
+China: 348
+Netherlands: 231
+France: 220
+Russia: 209
 Australia: 206
 India: 202
-Rest of the World: 2573
+Rest of the World: 2578

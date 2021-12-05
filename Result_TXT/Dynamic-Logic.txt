@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Dynamic Logic
+Last month's change: 5.84%
+Websites: 154
+Unique Domains: 107
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Dynamic Logic is being used
+Sports: 10.39%
+Arts & Entertainment: 7.14%
+Computers Electronics & Technology: 5.84%
+Vehicles: 4.55%
+Others: 72.08%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Dynamic Logic -
+espncricinfo.com  --  Monthly visits -> 107.8M
+stats.espncricinfo.com  --  Monthly visits -> 3.8M
+m.espncricinfo.com  --  Monthly visits -> 3.7M
+cricinfo.com  --  Monthly visits -> 2.9M
+euronics.cz  --  Monthly visits -> 393.3K
+farmonlineweather.com.au  --  Monthly visits -> 260K
+drgourmet.com  --  Monthly visits -> 152.6K
+spring.cctv.com  --  Monthly visits -> 136.4K
+faculty.kfupm.edu.sa  --  Monthly visits -> 136.3K
+phone.espncricinfo.com  --  Monthly visits -> 130K
+
+- Geography -
+Dynamic Logic usage by websites across the globe
+Leading Countries: Websites
+United States: 50
+India: 17
+China: 9
+Canada: 6
+Australia: 3
+Germany: 3
+Poland: 3
+Chile: 2
+France: 2
+Italy: 2
+Rest of the World: 23

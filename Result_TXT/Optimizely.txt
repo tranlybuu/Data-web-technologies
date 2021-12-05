@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Optimizely
-Last month's change: 1.00%
-Websites: 227997
-Unique Domains: 52995
+Last month's change: 0.96%
+Websites: 228544
+Unique Domains: 53226
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Optimizely is being used
-Games: 10.29%
-Computers Electronics & Technology: 9.82%
-Arts & Entertainment: 7.86%
-Vehicles: 4.61%
-Others: 67.42%
+Games: 10.27%
+Computers Electronics & Technology: 9.80%
+Arts & Entertainment: 7.83%
+Vehicles: 4.60%
+Others: 67.50%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ zillow.com  --  Monthly visits -> 263.4M
 - Geography -
 Optimizely usage by websites across the globe
 Leading Countries: Websites
-United States: 74240
-United Kingdom: 8250
-Canada: 6580
-Germany: 6187
-India: 5399
-Australia: 5003
-Poland: 4496
-Japan: 4062
-Brazil: 4050
-France: 3647
-Rest of the World: 55292
+United States: 74409
+United Kingdom: 8285
+Canada: 6607
+Germany: 6207
+India: 5437
+Australia: 5018
+Poland: 4505
+Japan: 4064
+Brazil: 4060
+France: 3661
+Rest of the World: 55500

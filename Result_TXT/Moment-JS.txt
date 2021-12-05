@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Moment JS
-Last month's change: 0.65%
-Websites: 966245
-Unique Domains: 584287
+Last month's change: 0.66%
+Websites: 968238
+Unique Domains: 586815
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Moment JS is being used
-Science & Education: 4.53%
-Computers Electronics & Technology: 4.31%
+Science & Education: 4.52%
+Computers Electronics & Technology: 4.30%
 Arts & Entertainment: 2.95%
 Travel & Tourism: 2.50%
-Others: 85.71%
+Others: 85.74%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ de.wikipedia.org  --  Monthly visits -> 125M
 - Geography -
 Moment JS usage by websites across the globe
 Leading Countries: Websites
-United States: 211972
-Russia: 46945
-Germany: 35553
-United Kingdom: 35384
-France: 29165
-Canada: 28062
-Japan: 23227
-Italy: 22367
-India: 20286
-South Korea: 19597
-Rest of the World: 313303
+United States: 212412
+Russia: 47023
+Germany: 35636
+United Kingdom: 35458
+France: 29218
+Canada: 28158
+Japan: 23253
+Italy: 22429
+India: 20360
+South Korea: 19680
+Rest of the World: 314227

@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: RSS
-Last month's change: 1.42%
+Last month's change: 1.44%
 Websites: 10387290
 Unique Domains: 6706193
 --------------------------------------

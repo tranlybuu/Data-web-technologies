@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Bidtellect
-Last month's change: 2.47%
-Websites: 377329
-Unique Domains: 57507
+Last month's change: 2.64%
+Websites: 379198
+Unique Domains: 57737
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Bidtellect is being used
-Arts & Entertainment: 11.36%
-Games: 10.98%
-Computers Electronics & Technology: 6.55%
-News & Media: 4.09%
-Others: 67.01%
+Arts & Entertainment: 11.35%
+Games: 10.95%
+Computers Electronics & Technology: 6.54%
+News & Media: 4.10%
+Others: 67.06%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ marca.com  --  Monthly visits -> 220.3M
 - Geography -
 Bidtellect usage by websites across the globe
 Leading Countries: Websites
-United States: 49262
-France: 16755
-Russia: 15300
-Taiwan: 5814
-Spain: 5733
-Japan: 5669
-United Kingdom: 4837
-Germany: 4777
-Brazil: 4705
-Poland: 4462
-Rest of the World: 66353
+United States: 49630
+France: 16866
+Russia: 15675
+Spain: 5778
+Japan: 5765
+Taiwan: 5654
+United Kingdom: 4876
+Germany: 4818
+Brazil: 4725
+Poland: 4491
+Rest of the World: 67256

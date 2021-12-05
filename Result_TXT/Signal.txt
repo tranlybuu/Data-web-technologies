@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Signal
+Last month's change: 15.7%
+Websites: 16429
+Unique Domains: 13475
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Signal is being used
+Vehicles: 10.47%
+Business & Consumer Services: 3.10%
+Lifestyle: 2.43%
+Science & Education: 2.11%
+Others: 81.88%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Signal -
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+cmoa.jp  --  Monthly visits -> 93.4M
+macys.com  --  Monthly visits -> 88M
+kohls.com  --  Monthly visits -> 73.7M
+asos.com  --  Monthly visits -> 73.5M
+playstation.com  --  Monthly visits -> 61.5M
+discover.com  --  Monthly visits -> 44.8M
+sbisec.co.jp  --  Monthly visits -> 44.3M
+cengage.com  --  Monthly visits -> 36.7M
+portal.discover.com  --  Monthly visits -> 35.3M
+
+- Geography -
+Signal usage by websites across the globe
+Leading Countries: Websites
+United States: 8389
+Japan: 581
+Canada: 554
+United Kingdom: 381
+Germany: 310
+Brazil: 309
+Australia: 222
+France: 210
+India: 208
+Italy: 197
+Rest of the World: 2716

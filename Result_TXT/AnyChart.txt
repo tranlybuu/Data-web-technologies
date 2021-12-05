@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AnyChart
+Last month's change: 1.59%
+Websites: 63
+Unique Domains: 43
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AnyChart is being used
+Finance: 20.63%
+Computers Electronics & Technology: 14.29%
+Law & Government: 9.52%
+Gambling: 3.17%
+Others: 52.38%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+
+
+- Top Websites Using AnyChart -
+mcb.mu  --  Monthly visits -> 837.3K
+edu.uz  --  Monthly visits -> 448.9K
+vaistai.lt  --  Monthly visits -> 301.6K
+funder.co.il  --  Monthly visits -> 175.5K
+anychart.com  --  Monthly visits -> 106.6K
+app.marketedge.com  --  Monthly visits -> 93K
+wakitasoft.com  --  Monthly visits -> 67.1K
+docs.anychart.com  --  Monthly visits -> 55.2K
+deutsche-arkserver.de  --  Monthly visits -> 50.1K
+cryptomarkettoday.com  --  Monthly visits -> 41.8K
+
+- Geography -
+AnyChart usage by websites across the globe
+Leading Countries: Websites
+United States: 8
+Kazakhstan: 6
+Russia: 6
+Ukraine: 3
+France: 2
+Germany: 2
+Lithuania: 2
+Mexico: 2
+Singapore: 2
+South Africa: 2
+Rest of the World: 20

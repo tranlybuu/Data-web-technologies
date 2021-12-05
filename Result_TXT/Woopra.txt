@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Woopra
+Last month's change: 1.43%
+Websites: 12898
+Unique Domains: 7755
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Woopra is being used
+Computers Electronics & Technology: 8.13%
+Business & Consumer Services: 6.06%
+Finance: 3.43%
+Health: 3.10%
+Others: 79.29%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Woopra -
+petsmart.com  --  Monthly visits -> 16M
+manhuaplus.com  --  Monthly visits -> 12M
+clickfunnels.com  --  Monthly visits -> 10.8M
+cheapoair.com  --  Monthly visits -> 8.2M
+appen.com  --  Monthly visits -> 6.8M
+ttrockstars.com  --  Monthly visits -> 4.3M
+dash.applovin.com  --  Monthly visits -> 4.3M
+yupptv.com  --  Monthly visits -> 3.6M
+myvideo.ge  --  Monthly visits -> 2.9M
+skyairline.com  --  Monthly visits -> 2.9M
+
+- Geography -
+Woopra usage by websites across the globe
+Leading Countries: Websites
+United States: 3669
+United Kingdom: 554
+Canada: 408
+France: 401
+Japan: 398
+Russia: 373
+India: 356
+Australia: 348
+Italy: 336
+Germany: 275
+Rest of the World: 3415

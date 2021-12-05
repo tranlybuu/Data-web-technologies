@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Inspectlet
+Last month's change: 2.21%
+Websites: 16188
+Unique Domains: 11267
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Inspectlet is being used
+Computers Electronics & Technology: 7.26%
+Business & Consumer Services: 4.69%
+Finance: 4.55%
+Jobs & Career: 3.60%
+Others: 79.90%
+
+
+- Related Technologies -
+Top Heatmaps and Session Recording technologies
+Hotjar
+Crazy Egg
+Heatmap IT
+UserInight
+FullStory
+
+
+- Top Websites Using Inspectlet -
+dantri.com.vn  --  Monthly visits -> 41M
+idntimes.com  --  Monthly visits -> 38.9M
+makemytrip.com  --  Monthly visits -> 33.3M
+quillbot.com  --  Monthly visits -> 28M
+meesho.com  --  Monthly visits -> 26.5M
+m.dantri.com.vn  --  Monthly visits -> 22.7M
+duosecurity.com  --  Monthly visits -> 22.3M
+jbhifi.com.au  --  Monthly visits -> 16.1M
+popbela.com  --  Monthly visits -> 15.8M
+ddns.net  --  Monthly visits -> 14.8M
+
+- Geography -
+Inspectlet usage by websites across the globe
+Leading Countries: Websites
+United States: 5063
+United Kingdom: 945
+India: 789
+Australia: 599
+Canada: 583
+Brazil: 343
+France: 321
+Germany: 246
+Poland: 224
+Spain: 223
+Rest of the World: 4450

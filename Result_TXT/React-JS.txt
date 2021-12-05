@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: React JS
-Last month's change: 0.89%
-Websites: 1302480
-Unique Domains: 617440
+Last month's change: 0.91%
+Websites: 1305731
+Unique Domains: 621766
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where React JS is being used
-Science & Education: 7.01%
-Computers Electronics & Technology: 5.96%
-Community & Society: 3.92%
-Arts & Entertainment: 3.87%
-Others: 79.24%
+Science & Education: 6.96%
+Computers Electronics & Technology: 5.92%
+Community & Society: 3.90%
+Arts & Entertainment: 3.85%
+Others: 79.37%
 
 
 - Related Technologies -
@@ -26,6 +26,7 @@ Slick
 
 
 - Top Websites Using React JS -
+yandex.ru  --  Monthly visits -> 3.9B
 yahoo.com  --  Monthly visits -> 3.5B
 roblox.com  --  Monthly visits -> 1B
 globo.com  --  Monthly visits -> 822.4M
@@ -35,19 +36,18 @@ bbc.co.uk  --  Monthly visits -> 649.5M
 indeed.com  --  Monthly visits -> 587.7M
 zen.yandex.ru  --  Monthly visits -> 539.3M
 paypal.com  --  Monthly visits -> 539.3M
-cnn.com  --  Monthly visits -> 510.4M
 
 - Geography -
 React JS usage by websites across the globe
 Leading Countries: Websites
-United States: 266454
-United Kingdom: 44666
-China: 43018
-Canada: 36501
-France: 27411
-Germany: 25956
-Japan: 25712
-India: 23193
-Australia: 22767
-Brazil: 21394
-Rest of the World: 312209
+United States: 267673
+United Kingdom: 45015
+China: 42792
+Canada: 36755
+France: 27500
+Germany: 26110
+Japan: 25915
+India: 23329
+Australia: 22969
+Brazil: 21510
+Rest of the World: 312960

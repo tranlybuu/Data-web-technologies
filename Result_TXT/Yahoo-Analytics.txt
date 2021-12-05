@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Yahoo Analytics
+Last month's change: 15.3%
+Websites: 7422
+Unique Domains: 6757
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yahoo Analytics is being used
+Computers Electronics & Technology: 2.78%
+Arts & Entertainment: 2.44%
+Science & Education: 2.12%
+News & Media: 1.52%
+Others: 91.15%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Yahoo Analytics -
+actu.fr  --  Monthly visits -> 32.6M
+sudinfo.be  --  Monthly visits -> 21M
+actu.orange.fr  --  Monthly visits -> 20.2M
+forums.rivals.com  --  Monthly visits -> 17M
+dhnet.be  --  Monthly visits -> 12.4M
+sports.orange.fr  --  Monthly visits -> 7.4M
+tendances.orange.fr  --  Monthly visits -> 4.3M
+varmatin.com  --  Monthly visits -> 4.1M
+autocar.co.uk  --  Monthly visits -> 4M
+supersoluce.com  --  Monthly visits -> 3.9M
+
+- Geography -
+Yahoo Analytics usage by websites across the globe
+Leading Countries: Websites
+United States: 3087
+Taiwan: 512
+Japan: 494
+India: 197
+Canada: 191
+China: 174
+United Kingdom: 152
+France: 102
+Philippines: 85
+Germany: 76
+Rest of the World: 1157

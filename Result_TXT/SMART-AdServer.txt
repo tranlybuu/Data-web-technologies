@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SMART AdServer
-Last month's change: 3.51%
-Websites: 749183
-Unique Domains: 160794
+Last month's change: 3.63%
+Websites: 751382
+Unique Domains: 161348
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SMART AdServer is being used
-Arts & Entertainment: 9.98%
-Games: 7.64%
-Computers Electronics & Technology: 6.09%
-News & Media: 5.59%
-Others: 70.70%
+Arts & Entertainment: 9.97%
+Games: 7.63%
+Computers Electronics & Technology: 6.08%
+News & Media: 5.58%
+Others: 70.74%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ok.ru  --  Monthly visits -> 689.2M
 - Geography -
 SMART AdServer usage by websites across the globe
 Leading Countries: Websites
-United States: 93930
-Taiwan: 30824
-Russia: 29627
-France: 27134
-Italy: 18537
-Germany: 13232
-Poland: 12538
-Spain: 11074
-United Kingdom: 10815
-Brazil: 10033
-Rest of the World: 150229
+United States: 94428
+Taiwan: 30929
+Russia: 29751
+France: 27229
+Italy: 18615
+Germany: 13275
+Poland: 12580
+Spain: 11117
+United Kingdom: 10912
+Brazil: 10078
+Rest of the World: 151258

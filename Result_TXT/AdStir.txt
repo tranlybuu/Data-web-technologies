@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AdStir
+Last month's change: 0.65%
+Websites: 63495
+Unique Domains: 4492
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AdStir is being used
+Adult: 10.56%
+Arts & Entertainment: 9.94%
+Food & Drink: 8.13%
+Games: 7.56%
+Others: 63.81%
+
+
+- Related Technologies -
+Top Supply Side Platform technologies
+Beachfront
+Geniee SSP
+Fluct
+MicroAd Compass
+GMO SSP
+
+
+- Top Websites Using AdStir -
+syosetu.com  --  Monthly visits -> 237.8M
+ncode.syosetu.com  --  Monthly visits -> 174.3M
+criteo.com  --  Monthly visits -> 156.6M
+cookpad.com  --  Monthly visits -> 134.3M
+tenki.jp  --  Monthly visits -> 104.7M
+itest.5ch.net  --  Monthly visits -> 97.1M
+netkeiba.com  --  Monthly visits -> 71.6M
+dlsite.com  --  Monthly visits -> 60.5M
+togetter.com  --  Monthly visits -> 56M
+novel18.syosetu.com  --  Monthly visits -> 45M
+
+- Geography -
+AdStir usage by websites across the globe
+Leading Countries: Websites
+Japan: 31754
+United States: 352
+Taiwan: 154
+South Korea: 147
+China: 92
+Thailand: 71
+Hong Kong: 65
+Canada: 57
+United Kingdom: 57
+Australia: 54
+Rest of the World: 675

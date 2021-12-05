@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Sovrn
-Last month's change: 3.15%
-Websites: 726137
-Unique Domains: 156266
+Last month's change: 3.23%
+Websites: 727992
+Unique Domains: 156871
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Sovrn is being used
-Arts & Entertainment: 10.21%
-Games: 7.72%
-Computers Electronics & Technology: 6.03%
-News & Media: 5.54%
-Others: 70.50%
+Arts & Entertainment: 10.20%
+Games: 7.70%
+Computers Electronics & Technology: 6.02%
+News & Media: 5.53%
+Others: 70.54%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ebay.com  --  Monthly visits -> 796.6M
 - Geography -
 Sovrn usage by websites across the globe
 Leading Countries: Websites
-United States: 98265
-Russia: 31370
-Taiwan: 30436
-France: 24194
-Italy: 17673
-Germany: 11988
-United Kingdom: 10378
-Poland: 10174
-Spain: 10156
-India: 9292
-Rest of the World: 139854
+United States: 98662
+Russia: 31504
+Taiwan: 30539
+France: 24285
+Italy: 17737
+Germany: 12021
+United Kingdom: 10442
+Poland: 10236
+Spain: 10190
+India: 9357
+Rest of the World: 140662

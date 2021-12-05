@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Bing Universal Advertiser
-Last month's change: 0.61%
-Websites: 261449
-Unique Domains: 157774
+Last month's change: 0.62%
+Websites: 261892
+Unique Domains: 157899
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Bing Universal Advertiser is being used
-Computers Electronics & Technology: 7.03%
-Lifestyle: 5.17%
-Business & Consumer Services: 4.90%
+Computers Electronics & Technology: 7.02%
+Lifestyle: 5.15%
+Business & Consumer Services: 4.89%
 Finance: 4.39%
-Others: 78.50%
+Others: 78.54%
 
 
 - Related Technologies -
@@ -27,9 +27,9 @@ Bing Advertiser
 
 - Top Websites Using Bing Universal Advertiser -
 taboola.com  --  Monthly visits -> 503M
-walmart.com  --  Monthly visits -> 440.6M
 etsy.com  --  Monthly visits -> 404.5M
 booking.com  --  Monthly visits -> 401.9M
+wordpress.com  --  Monthly visits -> 345.6M
 canva.com  --  Monthly visits -> 289.4M
 flipkart.com  --  Monthly visits -> 289.1M
 foxnews.com  --  Monthly visits -> 283M
@@ -40,14 +40,14 @@ usps.com  --  Monthly visits -> 232.3M
 - Geography -
 Bing Universal Advertiser usage by websites across the globe
 Leading Countries: Websites
-United States: 100337
-United Kingdom: 16453
-Canada: 9145
-Germany: 7957
-France: 7801
-Australia: 6800
-Netherlands: 5738
-India: 4269
-Italy: 4116
-Brazil: 3588
-Rest of the World: 46605
+United States: 100482
+United Kingdom: 16488
+Canada: 9157
+Germany: 7959
+France: 7820
+Australia: 6836
+Netherlands: 5747
+India: 4291
+Italy: 4131
+Brazil: 3597
+Rest of the World: 46743

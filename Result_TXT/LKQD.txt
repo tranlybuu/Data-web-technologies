@@ -1,17 +1,17 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: LKQD
-Last month's change: 1.16%
-Websites: 611340
-Unique Domains: 115210
+Last month's change: 1.14%
+Websites: 612124
+Unique Domains: 115340
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where LKQD is being used
-Arts & Entertainment: 10.32%
-Games: 8.56%
-Computers Electronics & Technology: 6.37%
+Arts & Entertainment: 10.33%
+Games: 8.55%
+Computers Electronics & Technology: 6.36%
 News & Media: 4.74%
 Others: 70.01%
 
@@ -40,14 +40,14 @@ web.roblox.com  --  Monthly visits -> 352.5M
 - Geography -
 LKQD usage by websites across the globe
 Leading Countries: Websites
-United States: 73080
-Taiwan: 24902
-France: 21648
-Russia: 20919
-Italy: 15700
-Germany: 10100
-Japan: 9324
-Spain: 8838
-United Kingdom: 8432
-Brazil: 7673
-Rest of the World: 109609
+United States: 73251
+Taiwan: 24662
+France: 21705
+Russia: 21117
+Italy: 15755
+Germany: 10115
+Japan: 9385
+Spain: 8863
+United Kingdom: 8459
+Brazil: 7689
+Rest of the World: 110008

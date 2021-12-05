@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Clearbit
+Last month's change: 13.2%
+Websites: 18413
+Unique Domains: 1823
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Clearbit is being used
+Computers Electronics & Technology: 24.53%
+Business & Consumer Services: 6.56%
+Finance: 5.72%
+Science & Education: 3.83%
+Others: 59.37%
+
+
+- Related Technologies -
+Top Lead Generation technologies
+Leady
+LeadPages
+LeadForensics
+LiveTex
+SalesFeed
+
+
+- Top Websites Using Clearbit -
+slack.com  --  Monthly visits -> 124.7M
+app.slack.com  --  Monthly visits -> 108.6M
+zendesk.com  --  Monthly visits -> 84.2M
+calendly.com  --  Monthly visits -> 30.8M
+auth0.com  --  Monthly visits -> 25.7M
+airtable.com  --  Monthly visits -> 17.8M
+greenhouse.io  --  Monthly visits -> 15.2M
+boards.greenhouse.io  --  Monthly visits -> 11.3M
+yougov.com  --  Monthly visits -> 8.5M
+g2.com  --  Monthly visits -> 5.3M
+
+- Geography -
+Clearbit usage by websites across the globe
+Leading Countries: Websites
+United States: 5469
+Japan: 981
+United Kingdom: 770
+Canada: 520
+Germany: 450
+India: 440
+France: 392
+Brazil: 322
+Australia: 319
+Poland: 226
+Rest of the World: 4122

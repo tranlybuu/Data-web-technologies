@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Tapad
+Last month's change: 2.77%
+Websites: 101337
+Unique Domains: 44391
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tapad is being used
+Science & Education: 8.99%
+Arts & Entertainment: 5.85%
+Lifestyle: 5.75%
+Computers Electronics & Technology: 5.28%
+Others: 74.12%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Tapad -
+samsung.com  --  Monthly visits -> 805.5M
+spotify.com  --  Monthly visits -> 422.6M
+worldstar.com  --  Monthly visits -> 273.1M
+t-mobile.com  --  Monthly visits -> 229.4M
+hulu.com  --  Monthly visits -> 224.6M
+trilltrill.jp  --  Monthly visits -> 217.6M
+kompas.com  --  Monthly visits -> 194M
+hbomax.com  --  Monthly visits -> 179.1M
+criteo.com  --  Monthly visits -> 156.6M
+apps.samsung.com  --  Monthly visits -> 149.8M
+
+- Geography -
+Tapad usage by websites across the globe
+Leading Countries: Websites
+United States: 21546
+Japan: 9815
+United Kingdom: 3176
+France: 2308
+Canada: 2169
+Germany: 1551
+Australia: 1520
+Saudi Arabia: 1475
+India: 1244
+Italy: 1195
+Rest of the World: 20108

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: FreeCall
+Last month's change: 4.63%
+Websites: 3155
+Unique Domains: 3086
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FreeCall is being used
+Travel & Tourism: 2.73%
+Heavy Industry & Engineering: 1.68%
+Lifestyle: 1.58%
+Computers Electronics & Technology: 1.36%
+Others: 92.65%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using FreeCall -
+fitnesspeoplevirtual.com  --  Monthly visits -> 222.3K
+121spanish.com  --  Monthly visits -> 213.6K
+plovdiv.bg  --  Monthly visits -> 151.7K
+inglespersonal.net  --  Monthly visits -> 146.1K
+botanikafe.com  --  Monthly visits -> 143.3K
+ivritli.com  --  Monthly visits -> 120.6K
+avtoscan.com  --  Monthly visits -> 111.6K
+movilservicios.com.co  --  Monthly visits -> 106.9K
+jenshansen.com  --  Monthly visits -> 100.8K
+regenxhealth.com  --  Monthly visits -> 98.1K
+
+- Geography -
+FreeCall usage by websites across the globe
+Leading Countries: Websites
+United States: 477
+Russia: 353
+Bulgaria: 184
+Brazil: 183
+United Kingdom: 113
+France: 100
+India: 99
+Japan: 98
+Italy: 79
+Canada: 71
+Rest of the World: 1219

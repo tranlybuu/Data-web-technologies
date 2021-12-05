@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Grapeshot
+Last month's change: 0%
+Websites: 43
+Unique Domains: 26
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Grapeshot is being used
+Arts & Entertainment: 34.88%
+News & Media: 30.23%
+Games: 6.98%
+Hobbies & Leisure: 4.65%
+Others: 23.26%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Grapeshot -
+vice.com  --  Monthly visits -> 28.4M
+limerickleader.ie  --  Monthly visits -> 1.3M
+i-d.vice.com  --  Monthly visits -> 1.1M
+video.vice.com  --  Monthly visits -> 616.7K
+vicetv.com  --  Monthly visits -> 407.9K
+fightland.vice.com  --  Monthly visits -> 148.4K
+motherboard.vice.com  --  Monthly visits -> 122.8K
+garage.vice.com  --  Monthly visits -> 112.7K
+waypoint.vice.com  --  Monthly visits -> 110.5K
+maidenhead-advertiser.co.uk  --  Monthly visits -> 109.2K
+
+- Geography -
+Grapeshot usage by websites across the globe
+Leading Countries: Websites
+United States: 14
+United Kingdom: 6
+Ireland: 2
+Australia: 1
+Austria: 1
+Brazil: 1
+France: 1
+Germany: 1
+India: 1
+Italy: 1
+Rest of the World: 4

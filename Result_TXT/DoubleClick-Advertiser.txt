@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: DoubleClick Advertiser
 Last month's change: 1.10%
-Websites: 1434136
-Unique Domains: 995516
+Websites: 1436747
+Unique Domains: 997861
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where DoubleClick Advertiser is being used
-Computers Electronics & Technology: 5.54%
-Lifestyle: 4.34%
-Business & Consumer Services: 3.74%
-Vehicles: 3.35%
-Others: 83.03%
+Computers Electronics & Technology: 5.53%
+Lifestyle: 4.33%
+Business & Consumer Services: 3.73%
+Vehicles: 3.34%
+Others: 83.06%
 
 
 - Related Technologies -
@@ -26,28 +26,28 @@ Bing Universal Advertiser
 
 
 - Top Websites Using DoubleClick Advertiser -
+youtube.com  --  Monthly visits -> 34.6B
 classroom.google.com  --  Monthly visits -> 1.4B
 google.com.br  --  Monthly visits -> 795.6M
 cnn.com  --  Monthly visits -> 510.4M
 taboola.com  --  Monthly visits -> 503M
 etsy.com  --  Monthly visits -> 404.5M
-booking.com  --  Monthly visits -> 401.9M
 outbrain.com  --  Monthly visits -> 373M
+wordpress.com  --  Monthly visits -> 345.6M
 pixiv.net  --  Monthly visits -> 328.4M
-canadapost-postescanada.ca  --  Monthly visits -> 313.4M
-g1.globo.com  --  Monthly visits -> 307.6M
+google.it  --  Monthly visits -> 315.4M
 
 - Geography -
 DoubleClick Advertiser usage by websites across the globe
 Leading Countries: Websites
-United States: 293812
-Japan: 120745
-United Kingdom: 48286
-Brazil: 48242
-Russia: 43419
-Canada: 35771
-Poland: 33500
-India: 32726
-Australia: 31635
-Germany: 29689
-Rest of the World: 481208
+United States: 294278
+Japan: 121047
+United Kingdom: 48399
+Brazil: 48369
+Russia: 43528
+Canada: 35857
+Poland: 33554
+India: 32822
+Australia: 31734
+Germany: 29744
+Rest of the World: 482308

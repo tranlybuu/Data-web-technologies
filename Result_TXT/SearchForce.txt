@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SearchForce
-Last month's change: 1.46%
-Websites: 1029
-Unique Domains: 986
+Last month's change: 1.84%
+Websites: 1033
+Unique Domains: 990
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SearchForce is being used
 Vehicles: 49.56%
-Business & Consumer Services: 1.07%
-Reference Materials: 1.07%
+Business & Consumer Services: 1.06%
+Reference Materials: 1.06%
 Computers Electronics & Technology: 0.87%
-Others: 47.42%
+Others: 47.43%
 
 
 - Related Technologies -
@@ -40,10 +40,10 @@ dexknows.com  --  Monthly visits -> 142.7K
 - Geography -
 SearchForce usage by websites across the globe
 Leading Countries: Websites
-United States: 852
+United States: 855
 Bolivia: 17
 India: 14
-Peru: 12
+Peru: 13
 Germany: 9
 Canada: 6
 Japan: 5

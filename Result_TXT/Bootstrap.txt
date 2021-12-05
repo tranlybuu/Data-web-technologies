@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Bootstrap
-Last month's change: 0.50%
-Websites: 4167538
-Unique Domains: 3140845
+Last month's change: 0.52%
+Websites: 4175470
+Unique Domains: 3142612
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Bootstrap is being used
-Computers Electronics & Technology: 4.41%
-Science & Education: 4.02%
+Computers Electronics & Technology: 4.40%
+Science & Education: 4.01%
 Law & Government: 1.98%
-Health: 1.90%
-Others: 87.69%
+Health: 1.89%
+Others: 87.71%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ support.microsoft.com  --  Monthly visits -> 194M
 - Geography -
 Bootstrap usage by websites across the globe
 Leading Countries: Websites
-United States: 622783
-Russia: 197090
-Germany: 152494
-India: 152248
-United Kingdom: 138893
-Italy: 137250
-China: 136841
-France: 132762
-Japan: 128557
-Brazil: 106427
-Rest of the World: 1662925
+United States: 623930
+Russia: 197420
+Germany: 152794
+India: 152741
+United Kingdom: 139196
+Italy: 137512
+China: 137317
+France: 132998
+Japan: 128905
+Brazil: 106600
+Rest of the World: 1666786

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: MicroAd
+Last month's change: 4.92%
+Websites: 67794
+Unique Domains: 9421
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MicroAd is being used
+Computers Electronics & Technology: 11.31%
+Arts & Entertainment: 10.81%
+Games: 7.79%
+Food & Drink: 7.07%
+Others: 63.01%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using MicroAd -
+syosetu.com  --  Monthly visits -> 237.8M
+trilltrill.jp  --  Monthly visits -> 217.6M
+ameblo.jp  --  Monthly visits -> 200.8M
+ncode.syosetu.com  --  Monthly visits -> 174.3M
+estart.jp  --  Monthly visits -> 148.4M
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+5ch.net  --  Monthly visits -> 135.3M
+cookpad.com  --  Monthly visits -> 134.3M
+kakaku.com  --  Monthly visits -> 113.3M
+tenki.jp  --  Monthly visits -> 104.7M
+
+- Geography -
+MicroAd usage by websites across the globe
+Leading Countries: Websites
+Japan: 42031
+United States: 450
+Taiwan: 182
+South Korea: 156
+China: 144
+Hong Kong: 82
+Germany: 69
+United Kingdom: 68
+Thailand: 67
+Canada: 63
+Rest of the World: 804

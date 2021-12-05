@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Bitrix24
+Last month's change: 0.87%
+Websites: 111004
+Unique Domains: 72948
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bitrix24 is being used
+Heavy Industry & Engineering: 12.18%
+Computers Electronics & Technology: 7.42%
+Vehicles: 7.29%
+Home & Garden: 7.07%
+Others: 66.04%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using Bitrix24 -
+bitrix24.ru  --  Monthly visits -> 12.9M
+zdravcity.ru  --  Monthly visits -> 10M
+epicentrk.ua  --  Monthly visits -> 9.4M
+khl.ru  --  Monthly visits -> 8.8M
+7days.ru  --  Monthly visits -> 8.8M
+rosreestr.ru  --  Monthly visits -> 8.4M
+doramalive.ru  --  Monthly visits -> 8.3M
+asna.ru  --  Monthly visits -> 7.7M
+mosenergosbyt.ru  --  Monthly visits -> 6.6M
+sb.by  --  Monthly visits -> 6.3M
+
+- Geography -
+Bitrix24 usage by websites across the globe
+Leading Countries: Websites
+Russia: 81606
+Ukraine: 3901
+Belarus: 3013
+Kazakhstan: 1558
+United States: 538
+Germany: 337
+Uzbekistan: 263
+Poland: 241
+Turkey: 183
+Brazil: 170
+Rest of the World: 3498

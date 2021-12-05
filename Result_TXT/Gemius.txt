@@ -1,18 +1,18 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Gemius
-Last month's change: 5.29%
-Websites: 105224
-Unique Domains: 9018
+Last month's change: 5.42%
+Websites: 105972
+Unique Domains: 9009
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Gemius is being used
-Vehicles: 10.35%
-News & Media: 8.88%
-Arts & Entertainment: 7.65%
-E-commerce & Shopping: 4.64%
+Vehicles: 10.29%
+News & Media: 8.90%
+Arts & Entertainment: 7.72%
+E-commerce & Shopping: 4.61%
 Others: 68.48%
 
 
@@ -40,14 +40,14 @@ olx.pl  --  Monthly visits -> 108.8M
 - Geography -
 Gemius usage by websites across the globe
 Leading Countries: Websites
-Russia: 8609
-Poland: 8288
-Hungary: 5213
-Czech Republic: 4297
-Ukraine: 3091
-Slovakia: 2990
-Bulgaria: 2152
-United States: 1652
-Turkey: 1290
-Bosnia and Herzegovina: 878
-Rest of the World: 8432
+Russia: 8960
+Poland: 8342
+Hungary: 5227
+Czech Republic: 4308
+Ukraine: 3199
+Slovakia: 2989
+Bulgaria: 2165
+United States: 1723
+Turkey: 1247
+Bosnia and Herzegovina: 880
+Rest of the World: 8600

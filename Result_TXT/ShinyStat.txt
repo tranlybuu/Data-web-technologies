@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ShinyStat
+Last month's change: 1.37%
+Websites: 23273
+Unique Domains: 16988
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ShinyStat is being used
+Arts & Entertainment: 3.37%
+Science & Education: 3.36%
+Computers Electronics & Technology: 3.08%
+News & Media: 2.67%
+Others: 87.52%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using ShinyStat -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+indiatoday.in  --  Monthly visits -> 69.7M
+tgcom24.mediaset.it  --  Monthly visits -> 46M
+hltv.org  --  Monthly visits -> 36.7M
+bt.dk  --  Monthly visits -> 32.2M
+delfi.lt  --  Monthly visits -> 27.8M
+newzit.com  --  Monthly visits -> 26.6M
+abola.pt  --  Monthly visits -> 25.5M
+idokep.hu  --  Monthly visits -> 23.8M
+tn.nova.cz  --  Monthly visits -> 13.2M
+
+- Geography -
+ShinyStat usage by websites across the globe
+Leading Countries: Websites
+Italy: 13622
+United States: 1013
+Germany: 596
+France: 270
+United Kingdom: 236
+Spain: 219
+Indonesia: 212
+India: 179
+Switzerland: 175
+Poland: 162
+Rest of the World: 3034

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Ztomy DNS
-Last month's change: 1.47%
-Websites: 19690
-Unique Domains: 16976
+Last month's change: 1.52%
+Websites: 19780
+Unique Domains: 16947
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Ztomy DNS is being used
-Computers Electronics & Technology: 3.78%
-Adult: 3.50%
+Computers Electronics & Technology: 3.76%
+Adult: 3.48%
 Arts & Entertainment: 2.53%
-Games: 1.57%
-Others: 88.61%
+Games: 1.56%
+Others: 88.67%
 
 
 - Related Technologies -
@@ -31,23 +31,23 @@ chinabug.net  --  Monthly visits -> 5.1M
 xxxvogue.net  --  Monthly visits -> 3.8M
 pdd.net  --  Monthly visits -> 1.6M
 campusvirtual.ucasal.edu.ar  --  Monthly visits -> 1.1M
-de.xxxvogue.net  --  Monthly visits -> 873.9K
 counter-racism.com  --  Monthly visits -> 630.4K
 directdiscountproducts.com  --  Monthly visits -> 592.5K
 zlut.com  --  Monthly visits -> 536.4K
 ilearnproject.com  --  Monthly visits -> 497.9K
+xvidros.com  --  Monthly visits -> 490.9K
 
 - Geography -
 Ztomy DNS usage by websites across the globe
 Leading Countries: Websites
-United States: 4888
-China: 986
-India: 889
-Japan: 784
-United Kingdom: 603
-Germany: 534
-Canada: 507
-Russia: 470
-France: 469
-South Korea: 338
-Rest of the World: 6831
+United States: 4915
+China: 989
+India: 896
+Japan: 792
+United Kingdom: 601
+Germany: 525
+Canada: 512
+France: 475
+Russia: 473
+South Korea: 341
+Rest of the World: 6869

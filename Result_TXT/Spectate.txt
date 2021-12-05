@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Spectate
-Last month's change: 4.20%
-Websites: 286
+Last month's change: 4.21%
+Websites: 285
 Unique Domains: 103
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Spectate is being used
-Science & Education: 47.20%
-Health: 20.28%
-Law & Government: 5.94%
-Computers Electronics & Technology: 2.80%
-Others: 23.78%
+Science & Education: 47.02%
+Health: 20.35%
+Law & Government: 5.96%
+Computers Electronics & Technology: 2.81%
+Others: 23.86%
 
 
 - Related Technologies -
@@ -40,7 +40,7 @@ doh.state.fl.us  --  Monthly visits -> 496.5K
 - Geography -
 Spectate usage by websites across the globe
 Leading Countries: Websites
-United States: 222
+United States: 221
 Canada: 9
 India: 3
 Argentina: 2

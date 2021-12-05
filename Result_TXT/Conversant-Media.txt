@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Conversant Media
-Last month's change: 3.59%
-Websites: 521566
-Unique Domains: 112168
+Last month's change: 3.68%
+Websites: 523394
+Unique Domains: 112623
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Conversant Media is being used
-Arts & Entertainment: 9.87%
-Games: 9.27%
-Computers Electronics & Technology: 6.53%
-Science & Education: 4.70%
-Others: 69.63%
+Arts & Entertainment: 9.86%
+Games: 9.24%
+Computers Electronics & Technology: 6.52%
+Science & Education: 4.69%
+Others: 69.68%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ wordpress.com  --  Monthly visits -> 345.6M
 - Geography -
 Conversant Media usage by websites across the globe
 Leading Countries: Websites
-United States: 86280
-Taiwan: 27317
-France: 20145
-Russia: 8574
-United Kingdom: 7986
-Spain: 7669
-Brazil: 7132
-Germany: 6920
-Italy: 6623
-Japan: 6337
-Rest of the World: 94735
+United States: 86731
+Taiwan: 27491
+France: 20264
+Russia: 8613
+United Kingdom: 8055
+Spain: 7709
+Brazil: 7167
+Germany: 6976
+Italy: 6664
+Japan: 6404
+Rest of the World: 95468

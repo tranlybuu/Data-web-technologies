@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SiTest
-Last month's change: 0.52%
-Websites: 36375
-Unique Domains: 30989
+Last month's change: 0.50%
+Websites: 36480
+Unique Domains: 31082
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SiTest is being used
 Lifestyle: 4.40%
-Computers Electronics & Technology: 2.77%
-Business & Consumer Services: 2.56%
-Science & Education: 2.24%
-Others: 88.03%
+Computers Electronics & Technology: 2.78%
+Business & Consumer Services: 2.55%
+Science & Education: 2.23%
+Others: 88.04%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ guba.eastmoney.com  --  Monthly visits -> 9.2M
 - Geography -
 SiTest usage by websites across the globe
 Leading Countries: Websites
-United States: 11974
-Japan: 2110
-United Kingdom: 1535
+United States: 12019
+Japan: 2117
+United Kingdom: 1541
 Canada: 1472
-Vietnam: 1102
-France: 1084
+France: 1093
+Vietnam: 1089
 Germany: 983
-India: 933
+India: 945
 Australia: 855
-China: 706
-Rest of the World: 9593
+China: 709
+Rest of the World: 9628

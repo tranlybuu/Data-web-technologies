@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: MCOnet
+Last month's change: 0%
+Websites: 80
+Unique Domains: 55
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MCOnet is being used
+News & Media: 5.00%
+Reference Materials: 5.00%
+E-commerce & Shopping: 3.75%
+Vehicles: 3.75%
+Others: 82.50%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using MCOnet -
+dejobutor.hu  --  Monthly visits -> 16.4K
+auto.dvit.hu  --  Monthly visits -> 12.2K
+tuzep.dvit.hu  --  Monthly visits -> 10.1K
+balatontipp.hu  --  Monthly visits -> 8.4K
+petruskah.hupont.hu  --  Monthly visits -> 5.3K
+hungarywebsites.com  --  Monthly visits -> 4.2K
+talismans.e-monsite.com  --  Monthly visits -> 3.9K
+ruha.dvit.hu  --  Monthly visits -> 3.8K
+urbanista.blog.hu  --  Monthly visits -> 3.7K
+godollo.kerak.hu  --  Monthly visits -> 3.6K
+
+- Geography -
+MCOnet usage by websites across the globe
+Leading Countries: Websites
+Hungary: 31
+Brazil: 2
+Benin: 2
+France: 2
+Bolivia: 1
+Bulgaria: 1
+Germany: 1
+Japan: 1
+Netherlands: 1
+Serbia: 1
+Rest of the World: 2

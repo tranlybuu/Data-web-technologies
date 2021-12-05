@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: ClickDimensions
-Last month's change: 0.18%
-Websites: 2721
-Unique Domains: 2171
+Last month's change: 0.11%
+Websites: 2722
+Unique Domains: 2170
 --------------------------------------
 
 
@@ -11,9 +11,9 @@ Unique Domains: 2171
 Industry verticals where ClickDimensions is being used
 Computers Electronics & Technology: 9.74%
 Heavy Industry & Engineering: 9.11%
-Science & Education: 8.97%
-Business & Consumer Services: 6.62%
-Others: 65.56%
+Science & Education: 8.93%
+Business & Consumer Services: 6.61%
+Others: 65.61%
 
 
 - Related Technologies -
@@ -40,7 +40,7 @@ aop.com  --  Monthly visits -> 1.5M
 - Geography -
 ClickDimensions usage by websites across the globe
 Leading Countries: Websites
-United States: 1495
+United States: 1494
 Canada: 247
 United Kingdom: 76
 India: 56
@@ -50,4 +50,4 @@ Netherlands: 30
 New Zealand: 28
 France: 27
 Mexico: 27
-Rest of the World: 472
+Rest of the World: 474

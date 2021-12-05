@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Adikteev
-Last month's change: 5.96%
-Websites: 1007
+Last month's change: 5.57%
+Websites: 1006
 Unique Domains: 192
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Adikteev is being used
-Arts & Entertainment: 13.21%
+Arts & Entertainment: 13.22%
 Community & Society: 7.55%
-Food & Drink: 6.95%
+Food & Drink: 6.96%
 Science & Education: 4.67%
-Others: 67.63%
+Others: 67.59%
 
 
 - Related Technologies -
@@ -33,14 +33,14 @@ infoconcert.com  --  Monthly visits -> 1.4M
 nextgen-auto.com  --  Monthly visits -> 1.3M
 tennistemple.com  --  Monthly visits -> 1.3M
 fr.tennistemple.com  --  Monthly visits -> 1.1M
+basketsession.com  --  Monthly visits -> 988.6K
 lerugbynistere.fr  --  Monthly visits -> 957.6K
 dicocitations.lemonde.fr  --  Monthly visits -> 870.1K
-leparking-moto.fr  --  Monthly visits -> 803.7K
 
 - Geography -
 Adikteev usage by websites across the globe
 Leading Countries: Websites
-France: 271
+France: 270
 Belgium: 12
 Canada: 9
 United States: 7

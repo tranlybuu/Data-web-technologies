@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Microsoft Application Insights
-Last month's change: 0.18%
-Websites: 78971
-Unique Domains: 46224
+Last month's change: 0.19%
+Websites: 79082
+Unique Domains: 46275
 --------------------------------------
 
 
@@ -13,7 +13,7 @@ Computers Electronics & Technology: 4.67%
 Law & Government: 4.06%
 Science & Education: 3.76%
 Vehicles: 3.59%
-Others: 83.91%
+Others: 83.92%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ libero.it  --  Monthly visits -> 71.9M
 - Geography -
 Microsoft Application Insights usage by websites across the globe
 Leading Countries: Websites
-United States: 25435
-United Kingdom: 5225
-Canada: 2408
-Australia: 2014
-France: 1906
-Netherlands: 1690
-Germany: 1674
-Sweden: 1532
-Spain: 1179
-Denmark: 1022
-Rest of the World: 20532
+United States: 25479
+United Kingdom: 5230
+Canada: 2412
+Australia: 2022
+France: 1910
+Netherlands: 1698
+Germany: 1676
+Sweden: 1533
+Spain: 1182
+Denmark: 1021
+Rest of the World: 20565

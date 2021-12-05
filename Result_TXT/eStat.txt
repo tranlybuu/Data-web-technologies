@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: eStat
-Last month's change: 5.42%
-Websites: 34371
-Unique Domains: 1383
+Last month's change: 5.54%
+Websites: 34294
+Unique Domains: 1372
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where eStat is being used
-Arts & Entertainment: 13.63%
-Science & Education: 5.14%
-Food & Drink: 4.86%
-Community & Society: 4.73%
-Others: 71.64%
+Arts & Entertainment: 13.65%
+Science & Education: 5.13%
+Food & Drink: 4.84%
+Community & Society: 4.72%
+Others: 71.66%
 
 
 - Related Technologies -
@@ -27,7 +27,6 @@ Yandex Metrics
 
 - Top Websites Using eStat -
 dailymotion.com  --  Monthly visits -> 166.6M
-lefigaro.fr  --  Monthly visits -> 81M
 bfmtv.com  --  Monthly visits -> 48.4M
 allocine.fr  --  Monthly visits -> 31.2M
 tf1.fr  --  Monthly visits -> 29M
@@ -36,18 +35,19 @@ closermag.fr  --  Monthly visits -> 13.9M
 linternaute.fr  --  Monthly visits -> 13.6M
 ohmymag.com  --  Monthly visits -> 8.8M
 largus.fr  --  Monthly visits -> 7.8M
+matchendirect.fr  --  Monthly visits -> 7M
 
 - Geography -
 eStat usage by websites across the globe
 Leading Countries: Websites
-France: 3802
-Belgium: 155
-Canada: 117
+France: 3751
+Belgium: 153
+Canada: 114
 United States: 111
-Italy: 91
-Switzerland: 60
-Spain: 57
-Morocco: 56
+Italy: 89
+Switzerland: 58
+Morocco: 54
+Spain: 53
 Germany: 49
 United Kingdom: 40
-Rest of the World: 682
+Rest of the World: 671

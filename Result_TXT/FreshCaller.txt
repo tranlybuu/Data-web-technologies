@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: FreshCaller
+Last month's change: 0.78%
+Websites: 8453
+Unique Domains: 3152
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FreshCaller is being used
+Computers Electronics & Technology: 17.57%
+Finance: 6.46%
+Business & Consumer Services: 4.55%
+Science & Education: 3.16%
+Others: 68.26%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+Dialogtech
+
+
+- Top Websites Using FreshCaller -
+cmsecurityapp.freshdesk.com  --  Monthly visits -> 8.4M
+tiqets.com  --  Monthly visits -> 3.2M
+adgaterewards.com  --  Monthly visits -> 3M
+help.getadblock.com  --  Monthly visits -> 2.6M
+survio.com  --  Monthly visits -> 2.3M
+acko.com  --  Monthly visits -> 2.1M
+help.upstox.com  --  Monthly visits -> 1.7M
+support.vividseats.com  --  Monthly visits -> 1.5M
+support.thetrainline.com  --  Monthly visits -> 1.1M
+support.truecaller.com  --  Monthly visits -> 1M
+
+- Geography -
+FreshCaller usage by websites across the globe
+Leading Countries: Websites
+United States: 2054
+United Kingdom: 472
+India: 415
+Germany: 258
+Canada: 218
+Australia: 211
+Netherlands: 188
+France: 162
+Brazil: 146
+Italy: 138
+Rest of the World: 2317

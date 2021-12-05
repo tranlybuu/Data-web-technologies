@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Ipinfo
+Last month's change: 0.44%
+Websites: 32422
+Unique Domains: 23031
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ipinfo is being used
+Computers Electronics & Technology: 8.35%
+Lifestyle: 3.77%
+Science & Education: 2.57%
+Business & Consumer Services: 2.57%
+Others: 82.75%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Ipinfo -
+duckduckgo.com  --  Monthly visits -> 980.2M
+samsung.com  --  Monthly visits -> 805.5M
+t-mobile.com  --  Monthly visits -> 229.4M
+apps.samsung.com  --  Monthly visits -> 149.8M
+moovitapp.com  --  Monthly visits -> 38.8M
+m.samsung.com  --  Monthly visits -> 37.7M
+origo.hu  --  Monthly visits -> 31.4M
+wikiwand.com  --  Monthly visits -> 24.5M
+sslip.io  --  Monthly visits -> 21.9M
+account.t-mobile.com  --  Monthly visits -> 20.6M
+
+- Geography -
+Ipinfo usage by websites across the globe
+Leading Countries: Websites
+United States: 5581
+India: 1933
+United Kingdom: 1351
+Russia: 1287
+Taiwan: 1283
+France: 1047
+Germany: 1036
+Canada: 818
+Australia: 680
+Italy: 592
+Rest of the World: 12578

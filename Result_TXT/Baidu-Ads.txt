@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Baidu Ads
-Last month's change: 1.70%
-Websites: 313558
-Unique Domains: 224412
+Last month's change: 1.80%
+Websites: 316043
+Unique Domains: 226243
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Baidu Ads is being used
-Computers Electronics & Technology: 11.19%
-News & Media: 5.10%
-Science & Education: 2.96%
-Games: 2.55%
-Others: 78.20%
+Computers Electronics & Technology: 11.10%
+News & Media: 5.07%
+Science & Education: 2.94%
+Games: 2.53%
+Others: 78.36%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ blog.csdn.net  --  Monthly visits -> 189.5M
 - Geography -
 Baidu Ads usage by websites across the globe
 Leading Countries: Websites
-China: 241193
-United States: 15523
-Hong Kong: 11478
-Taiwan: 5998
-Japan: 5262
-Singapore: 2862
-South Korea: 1849
-United Kingdom: 1473
-Canada: 1297
-Germany: 1277
-Rest of the World: 16066
+China: 242869
+United States: 15707
+Hong Kong: 11617
+Taiwan: 6073
+Japan: 5339
+Singapore: 2908
+South Korea: 1877
+United Kingdom: 1496
+Canada: 1312
+Germany: 1296
+Rest of the World: 16270

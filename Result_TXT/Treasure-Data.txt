@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Treasure Data
-Last month's change: 3.76%
-Websites: 49052
-Unique Domains: 16383
+Last month's change: 3.87%
+Websites: 49003
+Unique Domains: 16479
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Treasure Data is being used
-Food & Drink: 8.89%
-Computers Electronics & Technology: 8.12%
-Arts & Entertainment: 7.68%
-Vehicles: 6.50%
-Others: 68.82%
+Food & Drink: 8.88%
+Computers Electronics & Technology: 8.03%
+Arts & Entertainment: 7.66%
+Vehicles: 6.51%
+Others: 68.92%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ itmedia.co.jp  --  Monthly visits -> 131.4M
 - Geography -
 Treasure Data usage by websites across the globe
 Leading Countries: Websites
-Japan: 25483
-United States: 2927
-Taiwan: 296
-Canada: 154
-Indonesia: 149
-India: 148
+Japan: 25423
+United States: 2924
+Taiwan: 304
+Canada: 155
+Indonesia: 150
+India: 149
 South Korea: 127
 China: 79
-Brazil: 70
-Thailand: 67
-Rest of the World: 864
+Brazil: 72
+United Kingdom: 68
+Rest of the World: 863

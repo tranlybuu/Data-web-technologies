@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Highcharts
-Last month's change: 0.25%
-Websites: 67512
-Unique Domains: 40899
+Last month's change: 0.22%
+Websites: 67829
+Unique Domains: 41036
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Highcharts is being used
-Finance: 7.68%
-Law & Government: 5.88%
-Computers Electronics & Technology: 5.47%
-Science & Education: 5.23%
-Others: 75.74%
+Finance: 7.65%
+Law & Government: 5.86%
+Computers Electronics & Technology: 5.46%
+Science & Education: 5.21%
+Others: 75.82%
 
 
 - Related Technologies -
@@ -35,19 +35,19 @@ op.gg  --  Monthly visits -> 79.2M
 moneycontrol.com  --  Monthly visits -> 76.8M
 24h.com.vn  --  Monthly visits -> 76M
 sabah.com.tr  --  Monthly visits -> 75.2M
-marketwatch.com  --  Monthly visits -> 72.6M
+gemini.yahoo.com  --  Monthly visits -> 67.9M
 
 - Geography -
 Highcharts usage by websites across the globe
 Leading Countries: Websites
-United States: 12156
-China: 4338
-Russia: 2284
-India: 2081
-Germany: 1948
-United Kingdom: 1859
-France: 1725
-Brazil: 1605
-Indonesia: 1534
-Canada: 1487
-Rest of the World: 25569
+United States: 12227
+China: 4367
+Russia: 2295
+India: 2097
+Germany: 1954
+United Kingdom: 1878
+France: 1726
+Brazil: 1612
+Indonesia: 1547
+Canada: 1498
+Rest of the World: 25702

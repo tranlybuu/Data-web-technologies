@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Google Tag Manager
-Last month's change: 3.89%
-Websites: 7400716
-Unique Domains: 4864352
+Last month's change: 3.96%
+Websites: 7425394
+Unique Domains: 4879697
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Google Tag Manager is being used
-Computers Electronics & Technology: 5.07%
-Science & Education: 2.91%
+Computers Electronics & Technology: 5.06%
+Science & Education: 2.90%
 Arts & Entertainment: 2.90%
 Food & Drink: 2.56%
-Others: 86.56%
+Others: 86.59%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ tiktok.com  --  Monthly visits -> 1.4B
 - Geography -
 Google Tag Manager usage by websites across the globe
 Leading Countries: Websites
-United States: 1340387
-Japan: 548185
-Russia: 287404
-United Kingdom: 259456
-Germany: 207915
-France: 207503
-Brazil: 175899
-Italy: 175098
-India: 171808
-Canada: 171615
-Rest of the World: 2546338
+United States: 1345373
+Japan: 550312
+Russia: 288249
+United Kingdom: 260500
+Germany: 208883
+France: 208395
+Brazil: 176539
+Italy: 175933
+India: 172697
+Canada: 172428
+Rest of the World: 2556963

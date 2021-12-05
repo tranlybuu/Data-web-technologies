@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Optimizely X
-Last month's change: 2.77%
-Websites: 122476
-Unique Domains: 10490
+Last month's change: 2.74%
+Websites: 122763
+Unique Domains: 10528
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Optimizely X is being used
-Games: 17.84%
-Arts & Entertainment: 13.18%
-Computers Electronics & Technology: 10.10%
-Finance: 4.15%
-Others: 54.73%
+Games: 17.81%
+Arts & Entertainment: 13.14%
+Computers Electronics & Technology: 10.09%
+Finance: 4.14%
+Others: 54.82%
 
 
 - Related Technologies -
@@ -34,20 +34,20 @@ medium.com  --  Monthly visits -> 175M
 mayoclinic.org  --  Monthly visits -> 150.8M
 atlassian.net  --  Monthly visits -> 109.9M
 cricketwireless.com  --  Monthly visits -> 99.4M
-uber.com  --  Monthly visits -> 98.3M
 amp.cnn.com  --  Monthly visits -> 90.7M
+zendesk.com  --  Monthly visits -> 84.2M
 
 - Geography -
 Optimizely X usage by websites across the globe
 Leading Countries: Websites
-United States: 37055
-United Kingdom: 4375
-India: 3390
-Canada: 3353
-Brazil: 2732
-Germany: 2582
-Australia: 2446
+United States: 37192
+United Kingdom: 4385
+India: 3411
+Canada: 3367
+Brazil: 2740
+Germany: 2579
+Australia: 2443
 Russia: 2304
-France: 2140
-Philippines: 1592
-Rest of the World: 30455
+France: 2145
+Philippines: 1596
+Rest of the World: 30549

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Roistat
+Last month's change: 0.44%
+Websites: 22962
+Unique Domains: 13674
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Roistat is being used
+Heavy Industry & Engineering: 11.66%
+Vehicles: 9.29%
+Computers Electronics & Technology: 8.22%
+Home & Garden: 8.06%
+Others: 62.77%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Roistat -
+invitro.ru  --  Monthly visits -> 12.3M
+vazhno.ru  --  Monthly visits -> 5.6M
+yclients.com  --  Monthly visits -> 3.5M
+choiceqr.com  --  Monthly visits -> 2.8M
+activ.kz  --  Monthly visits -> 2.5M
+aptstore.ru  --  Monthly visits -> 2.2M
+tgu-dpo.ru  --  Monthly visits -> 1.6M
+halvacard.ru  --  Monthly visits -> 1.5M
+autotrade.su  --  Monthly visits -> 1.4M
+m-strana.ru  --  Monthly visits -> 1.3M
+
+- Geography -
+Roistat usage by websites across the globe
+Leading Countries: Websites
+Russia: 16370
+Ukraine: 678
+Belarus: 323
+Kazakhstan: 316
+Uzbekistan: 173
+United States: 87
+Germany: 50
+Moldova: 46
+Poland: 38
+Turkey: 33
+Rest of the World: 436

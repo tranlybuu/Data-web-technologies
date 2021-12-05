@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Tynt Insight
-Last month's change: 1.36%
-Websites: 33138
-Unique Domains: 13238
+Last month's change: 1.43%
+Websites: 33145
+Unique Domains: 13232
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Tynt Insight is being used
-Arts & Entertainment: 7.72%
-Computers Electronics & Technology: 4.77%
-Adult: 4.64%
-Science & Education: 3.60%
-Others: 79.27%
+Arts & Entertainment: 7.71%
+Computers Electronics & Technology: 4.76%
+Adult: 4.63%
+Science & Education: 3.59%
+Others: 79.31%
 
 
 - Related Technologies -
@@ -41,13 +41,13 @@ ejemplos.co  --  Monthly visits -> 18.4M
 Tynt Insight usage by websites across the globe
 Leading Countries: Websites
 United States: 3269
-Brazil: 2541
-Russia: 1181
-Indonesia: 1071
-Turkey: 915
-Spain: 869
-Malaysia: 868
-Greece: 812
-Hungary: 775
+Brazil: 2537
+Russia: 1178
+Indonesia: 1072
+Turkey: 918
+Spain: 872
+Malaysia: 869
+Greece: 811
+Hungary: 776
 Vietnam: 729
-Rest of the World: 12753
+Rest of the World: 12760

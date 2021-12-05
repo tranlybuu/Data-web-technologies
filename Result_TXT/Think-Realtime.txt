@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Think Realtime
-Last month's change: 1.15%
-Websites: 10346
-Unique Domains: 10182
+Last month's change: 1.20%
+Websites: 10345
+Unique Domains: 10171
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Think Realtime is being used
-Vehicles: 49.30%
+Vehicles: 49.31%
 Finance: 0.04%
 Jobs & Career: 0.04%
 Computers Electronics & Technology: 0.02%
-Others: 50.60%
+Others: 50.59%
 
 
 - Related Technologies -
@@ -28,6 +28,7 @@ Marin Software
 - Top Websites Using Think Realtime -
 autotrader.com  --  Monthly visits -> 23.2M
 kbb.com  --  Monthly visits -> 21.1M
+automobiles.honda.com  --  Monthly visits -> 4.6M
 subaru.com  --  Monthly visits -> 4M
 audiusa.com  --  Monthly visits -> 2.3M
 enterprisecarsales.com  --  Monthly visits -> 1.6M
@@ -35,15 +36,14 @@ motorcycles.autotrader.com  --  Monthly visits -> 799.2K
 driveway.com  --  Monthly visits -> 756.2K
 hondadealers.com  --  Monthly visits -> 736K
 echopark.com  --  Monthly visits -> 691.3K
-hertzcarsales.com  --  Monthly visits -> 492.7K
 
 - Geography -
 Think Realtime usage by websites across the globe
 Leading Countries: Websites
-United States: 9039
-Canada: 418
+United States: 9040
+Canada: 417
 Bolivia: 88
-Peru: 40
+Peru: 39
 India: 26
 Indonesia: 16
 Colombia: 14

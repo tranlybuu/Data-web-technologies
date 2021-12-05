@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Connatix
+Last month's change: 3.91%
+Websites: 129394
+Unique Domains: 12621
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Connatix is being used
+Games: 22.18%
+Arts & Entertainment: 18.64%
+Computers Electronics & Technology: 8.00%
+News & Media: 4.33%
+Others: 46.84%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Connatix -
+bing.com  --  Monthly visits -> 1.1B
+msn.com  --  Monthly visits -> 1B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+accuweather.com  --  Monthly visits -> 697.5M
+weather.com  --  Monthly visits -> 653.6M
+line.me  --  Monthly visits -> 325.5M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+theguardian.com  --  Monthly visits -> 281.9M
+coinmarketcap.com  --  Monthly visits -> 262.1M
+
+- Geography -
+Connatix usage by websites across the globe
+Leading Countries: Websites
+United States: 28451
+Taiwan: 10961
+Japan: 3301
+Brazil: 2826
+United Kingdom: 2690
+Russia: 2527
+Spain: 2334
+Canada: 2127
+Mexico: 1910
+Germany: 1864
+Rest of the World: 26627

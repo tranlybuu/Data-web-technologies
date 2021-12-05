@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AppDynamics
+Last month's change: 0.48%
+Websites: 17900
+Unique Domains: 2715
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AppDynamics is being used
+Computers Electronics & Technology: 13.59%
+Finance: 9.34%
+Science & Education: 6.52%
+Health: 5.03%
+Others: 65.53%
+
+
+- Related Technologies -
+Top Application Performance technologies
+New Relic
+Bugsnag
+Microsoft Application Insights
+Datadog
+Loggly
+
+
+- Top Websites Using AppDynamics -
+t-mobile.com  --  Monthly visits -> 229.4M
+nintendo.com  --  Monthly visits -> 59.7M
+ameritrade.com  --  Monthly visits -> 43.7M
+tdameritrade.com  --  Monthly visits -> 42.2M
+schwab.com  --  Monthly visits -> 37.6M
+vodafone.de  --  Monthly visits -> 29.8M
+myhermes.co.uk  --  Monthly visits -> 27.1M
+boots.com  --  Monthly visits -> 25.8M
+garmin.com  --  Monthly visits -> 25.7M
+auth.tdameritrade.com  --  Monthly visits -> 25.5M
+
+- Geography -
+AppDynamics usage by websites across the globe
+Leading Countries: Websites
+United States: 4637
+Japan: 1079
+India: 855
+Germany: 664
+Canada: 621
+Italy: 515
+United Kingdom: 377
+Taiwan: 358
+Russia: 315
+Australia: 277
+Rest of the World: 4484

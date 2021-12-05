@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ChartIQ
+Last month's change: 12.2%
+Websites: 41
+Unique Domains: 41
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ChartIQ is being used
+News & Media: 4.88%
+Arts & Entertainment: 2.44%
+Others: 92.68%
+None: None
+None: None
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+
+
+- Top Websites Using ChartIQ -
+trustpac.io  --  Monthly visits -> 53.5K
+latinosvideo.com  --  Monthly visits -> 53.4K
+calvin.com  --  Monthly visits -> 38.3K
+mersin.com  --  Monthly visits -> 28.1K
+worldnews.com  --  Monthly visits -> 17.2K
+wox.com  --  Monthly visits -> 12.4K
+telegrams.com  --  Monthly visits -> 11.5K
+acrobatics.com  --  Monthly visits -> 10.5K
+archive.wn.com  --  Monthly visits -> 7.9K
+freeviewtokyo.com  --  Monthly visits -> 7.4K
+
+- Geography -
+ChartIQ usage by websites across the globe
+Leading Countries: Websites
+United States: 4
+China: 3
+Bulgaria: 2
+South Korea: 2
+Venezuela: 2
+Australia: 1
+Canada: 1
+Taiwan: 1
+France: 1
+Netherlands: 1
+Rest of the World: 5

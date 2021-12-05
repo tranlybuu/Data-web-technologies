@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Ninja Access Analysis
-Last month's change: 0.53%
-Websites: 53492
-Unique Domains: 15790
+Last month's change: 0.56%
+Websites: 53575
+Unique Domains: 15806
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Ninja Access Analysis is being used
-Adult: 11.87%
-Arts & Entertainment: 9.01%
+Adult: 11.85%
+Arts & Entertainment: 8.99%
 Games: 6.56%
-Computers Electronics & Technology: 5.70%
-Others: 66.86%
+Computers Electronics & Technology: 5.69%
+Others: 66.91%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ purelovers.com  --  Monthly visits -> 14.4M
 - Geography -
 Ninja Access Analysis usage by websites across the globe
 Leading Countries: Websites
-Japan: 31771
-United States: 706
-Taiwan: 241
-South Korea: 204
-China: 188
-India: 112
+Japan: 31834
+United States: 712
+Taiwan: 243
+South Korea: 206
+China: 191
+India: 115
 Germany: 96
-Hong Kong: 94
+Hong Kong: 95
 Thailand: 86
-Canada: 82
-Rest of the World: 1249
+Canada: 83
+Rest of the World: 1251

@@ -1,16 +1,16 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Domain Name Sales
-Last month's change: 20.9%
-Websites: 11780
-Unique Domains: 11333
+Last month's change: 21.5%
+Websites: 11691
+Unique Domains: 11235
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Domain Name Sales is being used
 Computers Electronics & Technology: 0.75%
-Adult: 0.57%
+Adult: 0.56%
 Arts & Entertainment: 0.31%
 Games: 0.18%
 Others: 98.20%
@@ -40,14 +40,14 @@ digital-delivery.com  --  Monthly visits -> 322.6K
 - Geography -
 Domain Name Sales usage by websites across the globe
 Leading Countries: Websites
-United States: 2796
-China: 531
-India: 444
-Canada: 399
-United Kingdom: 356
-Germany: 266
-Japan: 253
+United States: 2766
+China: 530
+India: 441
+Canada: 395
+United Kingdom: 351
+Germany: 265
+Japan: 247
 France: 220
-South Korea: 196
-Spain: 178
-Rest of the World: 3668
+South Korea: 194
+Spain: 176
+Rest of the World: 3633

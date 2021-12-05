@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Keen
+Last month's change: 8.07%
+Websites: 15818
+Unique Domains: 8122
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Keen is being used
+Computers Electronics & Technology: 5.39%
+Business & Consumer Services: 4.30%
+Health: 2.50%
+Finance: 2.40%
+Others: 85.41%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Keen -
+nespresso.com  --  Monthly visits -> 10.7M
+community.king.com  --  Monthly visits -> 7.7M
+forums.moneysavingexpert.com  --  Monthly visits -> 6M
+crowdworks.jp  --  Monthly visits -> 5.6M
+sendibm3.com  --  Monthly visits -> 5.5M
+buzzworthy.com  --  Monthly visits -> 5.2M
+zentalk.asus.com  --  Monthly visits -> 5M
+sendinblue.com  --  Monthly visits -> 3.9M
+gethuman.com  --  Monthly visits -> 3.8M
+forums.digitalspy.com  --  Monthly visits -> 3.3M
+
+- Geography -
+Keen usage by websites across the globe
+Leading Countries: Websites
+United States: 3675
+France: 710
+United Kingdom: 529
+Canada: 413
+Japan: 371
+India: 358
+Italy: 337
+Germany: 314
+Australia: 286
+China: 214
+Rest of the World: 3427

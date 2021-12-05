@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: LinkedIn Retargeting
+Last month's change: 2.37%
+Websites: 55132
+Unique Domains: 40411
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LinkedIn Retargeting is being used
+Computers Electronics & Technology: 11.71%
+Business & Consumer Services: 9.03%
+Finance: 5.38%
+Science & Education: 5.11%
+Others: 68.77%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo
+Criteo Publisher
+Conversant Media
+Google Remarketing
+
+
+- Top Websites Using LinkedIn Retargeting -
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+wayfair.com  --  Monthly visits -> 102.4M
+americanexpress.com  --  Monthly visits -> 71M
+hotmart.com  --  Monthly visits -> 63.8M
+aws.amazon.com  --  Monthly visits -> 62.7M
+onelink.me  --  Monthly visits -> 54.5M
+box.com  --  Monthly visits -> 53.7M
+amazonaws.com  --  Monthly visits -> 50.8M
+southwest.com  --  Monthly visits -> 47.9M
+azure.com  --  Monthly visits -> 45.3M
+
+- Geography -
+LinkedIn Retargeting usage by websites across the globe
+Leading Countries: Websites
+United States: 17507
+United Kingdom: 3297
+India: 2098
+Canada: 1853
+Brazil: 1757
+Australia: 1736
+France: 1548
+Netherlands: 1289
+Italy: 1262
+Germany: 1066
+Rest of the World: 15109

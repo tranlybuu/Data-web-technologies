@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SirData
-Last month's change: 1.21%
-Websites: 66167
-Unique Domains: 18791
+Last month's change: 1.33%
+Websites: 66334
+Unique Domains: 18817
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SirData is being used
-Community & Society: 8.64%
-Science & Education: 5.91%
-Arts & Entertainment: 5.65%
-Games: 5.47%
-Others: 74.33%
+Community & Society: 8.63%
+Science & Education: 5.89%
+Arts & Entertainment: 5.64%
+Games: 5.46%
+Others: 74.38%
 
 
 - Related Technologies -
@@ -28,26 +28,26 @@ TailTarget
 - Top Websites Using SirData -
 tools.usps.com  --  Monthly visits -> 150.7M
 americanas.com.br  --  Monthly visits -> 114.8M
-mediaset.it  --  Monthly visits -> 99.5M
-groups.google.com  --  Monthly visits -> 32.5M
+tim.it  --  Monthly visits -> 41M
+news.rambler.ru  --  Monthly visits -> 38M
 bedbathandbeyond.com  --  Monthly visits -> 28.8M
 unacademy.com  --  Monthly visits -> 23.4M
 dafont.com  --  Monthly visits -> 19.9M
 distractify.com  --  Monthly visits -> 19.7M
 forocoches.com  --  Monthly visits -> 18.6M
-shoptime.com.br  --  Monthly visits -> 18M
+demotywatory.pl  --  Monthly visits -> 16.3M
 
 - Geography -
 SirData usage by websites across the globe
 Leading Countries: Websites
-Russia: 7743
-France: 4751
-United States: 2952
-Spain: 1082
-Egypt: 809
-Brazil: 746
-Germany: 684
-Italy: 650
-Saudi Arabia: 626
-United Kingdom: 580
-Rest of the World: 11572
+Russia: 7767
+France: 4790
+United States: 2957
+Spain: 1088
+Egypt: 814
+Brazil: 747
+Germany: 691
+Italy: 654
+Saudi Arabia: 627
+United Kingdom: 586
+Rest of the World: 11641

@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Google Publisher Tag
-Last month's change: 2.48%
-Websites: 326163
-Unique Domains: 73000
+Last month's change: 2.53%
+Websites: 326089
+Unique Domains: 72972
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Google Publisher Tag is being used
-Arts & Entertainment: 11.41%
+Arts & Entertainment: 11.40%
 Games: 9.39%
-Computers Electronics & Technology: 6.07%
+Computers Electronics & Technology: 6.06%
 News & Media: 5.40%
-Others: 67.73%
+Others: 67.74%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ syosetu.com  --  Monthly visits -> 237.8M
 - Geography -
 Google Publisher Tag usage by websites across the globe
 Leading Countries: Websites
-United States: 48006
-Japan: 31817
-Russia: 9392
-France: 6500
-United Kingdom: 6243
-Canada: 5486
-Germany: 5193
-Brazil: 4571
-Italy: 4211
+United States: 48026
+Japan: 31843
+Russia: 9369
+France: 6502
+United Kingdom: 6241
+Canada: 5482
+Germany: 5182
+Brazil: 4567
+Italy: 4208
 India: 3748
-Rest of the World: 64332
+Rest of the World: 64257

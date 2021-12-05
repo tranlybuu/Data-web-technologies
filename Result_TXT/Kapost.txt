@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Kapost
+Last month's change: 1.45%
+Websites: 17477
+Unique Domains: 12979
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kapost is being used
+Computers Electronics & Technology: 5.26%
+Arts & Entertainment: 3.40%
+E-commerce & Shopping: 3.28%
+Adult: 2.91%
+Others: 85.14%
+
+
+- Related Technologies -
+Top Data Management Platform technologies
+SirData
+Treasure Data
+Adobe Audience Manager
+CoolaData
+TailTarget
+
+
+- Top Websites Using Kapost -
+whatsapp.com  --  Monthly visits -> 3.1B
+livejasmin.com  --  Monthly visits -> 201.3M
+steamcommunity.com  --  Monthly visits -> 135M
+iltalehti.fi  --  Monthly visits -> 64.1M
+jasmin.com  --  Monthly visits -> 38.6M
+nettavisen.no  --  Monthly visits -> 24.6M
+parcelsapp.com  --  Monthly visits -> 23.6M
+relap.io  --  Monthly visits -> 21M
+bimbim.com  --  Monthly visits -> 20M
+totaladblock.com  --  Monthly visits -> 15.7M
+
+- Geography -
+Kapost usage by websites across the globe
+Leading Countries: Websites
+Finland: 5329
+Czech Republic: 1805
+United States: 1660
+Germany: 405
+Latvia: 320
+India: 297
+Russia: 272
+Poland: 258
+Slovakia: 258
+United Kingdom: 233
+Rest of the World: 3850

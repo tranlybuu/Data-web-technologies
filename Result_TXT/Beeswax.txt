@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Beeswax
+Last month's change: 4.85%
+Websites: 95202
+Unique Domains: 16272
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Beeswax is being used
+Science & Education: 11.31%
+Computers Electronics & Technology: 9.33%
+Arts & Entertainment: 9.25%
+Games: 6.57%
+Others: 63.54%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Beeswax -
+indeed.com  --  Monthly visits -> 587.7M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+foxnews.com  --  Monthly visits -> 283M
+trilltrill.jp  --  Monthly visits -> 217.6M
+ups.com  --  Monthly visits -> 191.9M
+dropbox.com  --  Monthly visits -> 172.5M
+ml.t-mobile.com  --  Monthly visits -> 168.4M
+tribunnews.com  --  Monthly visits -> 153.5M
+hurriyet.com.tr  --  Monthly visits -> 149.6M
+5ch.net  --  Monthly visits -> 135.3M
+
+- Geography -
+Beeswax usage by websites across the globe
+Leading Countries: Websites
+United States: 17879
+Japan: 5567
+Taiwan: 2110
+United Kingdom: 2085
+Canada: 1584
+France: 1496
+India: 1425
+Italy: 1413
+Indonesia: 1281
+Spain: 1266
+Rest of the World: 18909

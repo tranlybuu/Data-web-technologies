@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: HubSpot Vex
-Last month's change: 0.51%
-Websites: 7025
-Unique Domains: 3686
+Last month's change: 0.44%
+Websites: 7042
+Unique Domains: 3691
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where HubSpot Vex is being used
-Science & Education: 16.01%
-Computers Electronics & Technology: 3.29%
-Lifestyle: 2.35%
+Science & Education: 15.98%
+Computers Electronics & Technology: 3.28%
+Lifestyle: 2.34%
 Business & Consumer Services: 2.26%
-Others: 76.09%
+Others: 76.14%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ soychile.cl  --  Monthly visits -> 3.2M
 - Geography -
 HubSpot Vex usage by websites across the globe
 Leading Countries: Websites
-United States: 2054
-France: 231
+United States: 2060
+France: 232
 Russia: 182
-Brazil: 176
-United Kingdom: 156
-Philippines: 149
-Italy: 148
-Canada: 140
+Brazil: 177
+United Kingdom: 161
+Italy: 151
+Philippines: 148
+Canada: 139
 Germany: 134
-Mexico: 131
-Rest of the World: 1893
+Mexico: 133
+Rest of the World: 1894

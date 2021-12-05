@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: CP Polls
+Last month's change: 9.52%
+Websites: 21
+Unique Domains: 21
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CP Polls is being used
+Health: 14.29%
+Arts & Entertainment: 9.52%
+Computers Electronics & Technology: 4.76%
+Heavy Industry & Engineering: 4.76%
+Others: 66.67%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using CP Polls -
+sdp1.ru  --  Monthly visits -> 14.5K
+noticiasdecostarica.net  --  Monthly visits -> 12.6K
+schunck.nl  --  Monthly visits -> 11.8K
+vaqueradelespacio.com  --  Monthly visits -> 10.4K
+doktorattila.com  --  Monthly visits -> 9.1K
+institutodelcorazon.com  --  Monthly visits -> 4.9K
+spobip-bel.ru  --  Monthly visits -> 4.7K
+mlrt.bujkh.by  --  Monthly visits -> 2.7K
+mypricepk.com  --  Monthly visits -> 2.7K
+southflorida.focusbrasil.org  --  Monthly visits -> 2.1K
+
+- Geography -
+CP Polls usage by websites across the globe
+Leading Countries: Websites
+Russia: 3
+Belarus: 1
+Colombia: 1
+Estonia: 1
+Finland: 1
+Guatemala: 1
+Hungary: 1
+Iran: 1
+Italy: 1
+Mexico: 1
+Rest of the World: 7

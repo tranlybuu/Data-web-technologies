@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Criteo
-Last month's change: 1.87%
-Websites: 1299082
-Unique Domains: 175530
+Last month's change: 1.94%
+Websites: 1301670
+Unique Domains: 175928
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Criteo is being used
-Arts & Entertainment: 8.22%
-Science & Education: 7.76%
-Computers Electronics & Technology: 6.43%
-Games: 5.48%
-Others: 72.11%
+Arts & Entertainment: 8.21%
+Science & Education: 7.75%
+Computers Electronics & Technology: 6.42%
+Games: 5.47%
+Others: 72.14%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ espn.com  --  Monthly visits -> 628.4M
 - Geography -
 Criteo usage by websites across the globe
 Leading Countries: Websites
-United States: 120985
-Japan: 54828
-Taiwan: 36466
-France: 32746
-Russia: 31793
-Italy: 22080
-United Kingdom: 18214
-Germany: 16806
-Brazil: 16514
-Spain: 16404
-Rest of the World: 236163
+United States: 121492
+Japan: 55039
+Taiwan: 36582
+France: 32858
+Russia: 32030
+Italy: 22174
+United Kingdom: 18319
+Germany: 16852
+Brazil: 16519
+Spain: 16460
+Rest of the World: 237262

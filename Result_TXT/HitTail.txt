@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: HitTail
-Last month's change: 6.52%
-Websites: 1013
-Unique Domains: 593
+Last month's change: 6.92%
+Websites: 1012
+Unique Domains: 592
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where HitTail is being used
-Business & Consumer Services: 10.76%
-Computers Electronics & Technology: 8.88%
-Finance: 5.03%
-Community & Society: 4.54%
-Others: 70.78%
+Business & Consumer Services: 10.77%
+Computers Electronics & Technology: 8.89%
+Finance: 5.04%
+Community & Society: 4.55%
+Others: 70.75%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ luxeadventuretraveler.com  --  Monthly visits -> 135.1K
 - Geography -
 HitTail usage by websites across the globe
 Leading Countries: Websites
-United States: 338
+United States: 337
 Australia: 38
 United Kingdom: 37
 India: 35
 Canada: 34
 Italy: 25
 Germany: 20
-Netherlands: 18
+Netherlands: 17
 France: 16
 Spain: 12
-Rest of the World: 209
+Rest of the World: 210

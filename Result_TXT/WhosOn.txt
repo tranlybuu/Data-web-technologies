@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: WhosOn
-Last month's change: 1.36%
-Websites: 587
+Last month's change: 1.02%
+Websites: 588
 Unique Domains: 514
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where WhosOn is being used
-Computers Electronics & Technology: 7.84%
-Home & Garden: 6.81%
-Finance: 6.47%
-Business & Consumer Services: 4.77%
-Others: 74.11%
+Computers Electronics & Technology: 7.82%
+Home & Garden: 6.80%
+Finance: 6.63%
+Business & Consumer Services: 4.76%
+Others: 73.98%
 
 
 - Related Technologies -
@@ -27,6 +27,7 @@ Marin Software
 
 - Top Websites Using WhosOn -
 admiral.com  --  Monthly visits -> 2.8M
+hastingsdirect.com  --  Monthly visits -> 2.1M
 hsamuel.co.uk  --  Monthly visits -> 2.1M
 hoseasons.co.uk  --  Monthly visits -> 2.1M
 espares.co.uk  --  Monthly visits -> 1.3M
@@ -35,12 +36,11 @@ ernestjones.co.uk  --  Monthly visits -> 1.1M
 mobiles.co.uk  --  Monthly visits -> 1.1M
 radwell.com  --  Monthly visits -> 829.5K
 national.co.uk  --  Monthly visits -> 769.5K
-edmundsassoc.com  --  Monthly visits -> 683.9K
 
 - Geography -
 WhosOn usage by websites across the globe
 Leading Countries: Websites
-United Kingdom: 242
+United Kingdom: 243
 United States: 172
 India: 12
 France: 8

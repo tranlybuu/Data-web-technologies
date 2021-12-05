@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: arbor.js
+Last month's change: 2.27%
+Websites: 88
+Unique Domains: 78
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where arbor.js is being used
+Science & Education: 22.73%
+Computers Electronics & Technology: 6.82%
+Arts & Entertainment: 3.41%
+Law & Government: 3.41%
+Others: 63.64%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using arbor.js -
+rubese.net  --  Monthly visits -> 3.4M
+didactalia.net  --  Monthly visits -> 905.7K
+schoolware.ir  --  Monthly visits -> 319.7K
+web.positivoon.com.br  --  Monthly visits -> 280.2K
+yeastgenome.org  --  Monthly visits -> 148.8K
+wimsbios.com  --  Monthly visits -> 142.4K
+amarauna.euskadi.eus  --  Monthly visits -> 127.8K
+benjdd.com  --  Monthly visits -> 59.1K
+hs1.marzieh.sch.ir  --  Monthly visits -> 48.5K
+khanedoost.ir  --  Monthly visits -> 46.6K
+
+- Geography -
+arbor.js usage by websites across the globe
+Leading Countries: Websites
+United States: 13
+Iran: 9
+China: 7
+France: 5
+Brazil: 4
+Spain: 4
+Germany: 3
+Italy: 3
+South Korea: 3
+Netherlands: 3
+Rest of the World: 28

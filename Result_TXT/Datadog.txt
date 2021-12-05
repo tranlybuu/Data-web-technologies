@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Datadog
+Last month's change: 22.2%
+Websites: 17031
+Unique Domains: 5384
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Datadog is being used
+Computers Electronics & Technology: 6.54%
+Health: 4.96%
+Finance: 4.25%
+Business & Consumer Services: 3.89%
+Others: 80.36%
+
+
+- Related Technologies -
+Top Application Performance technologies
+New Relic
+Bugsnag
+Microsoft Application Insights
+AppDynamics
+Loggly
+
+
+- Top Websites Using Datadog -
+zillow.com  --  Monthly visits -> 263.4M
+nextdoor.com  --  Monthly visits -> 143.3M
+linktr.ee  --  Monthly visits -> 135M
+patreon.com  --  Monthly visits -> 85.2M
+op.gg  --  Monthly visits -> 79.2M
+hotpepper.jp  --  Monthly visits -> 64.8M
+lanacion.com.ar  --  Monthly visits -> 63.8M
+rakuten.com  --  Monthly visits -> 43M
+journaldesfemmes.fr  --  Monthly visits -> 40.1M
+usa.experian.com  --  Monthly visits -> 35.5M
+
+- Geography -
+Datadog usage by websites across the globe
+Leading Countries: Websites
+United States: 5686
+Canada: 2076
+United Kingdom: 1018
+Brazil: 560
+France: 505
+India: 448
+Australia: 411
+Germany: 367
+Netherlands: 283
+Japan: 271
+Rest of the World: 3830

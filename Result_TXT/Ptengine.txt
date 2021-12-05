@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Ptengine
+Last month's change: 0.24%
+Websites: 13635
+Unique Domains: 11817
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ptengine is being used
+Business & Consumer Services: 9.12%
+Computers Electronics & Technology: 6.26%
+Food & Drink: 5.51%
+Lifestyle: 5.22%
+Others: 73.90%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Ptengine -
+cityheaven.net  --  Monthly visits -> 92.6M
+girlsheaven-job.net  --  Monthly visits -> 43.3M
+live.nicovideo.jp  --  Monthly visits -> 37.1M
+prtimes.jp  --  Monthly visits -> 26.7M
+president.jp  --  Monthly visits -> 26.4M
+famitsu.com  --  Monthly visits -> 26.4M
+ch.nicovideo.jp  --  Monthly visits -> 12.2M
+ren-ai.jp  --  Monthly visits -> 12M
+uta-net.com  --  Monthly visits -> 11.9M
+thebase.in  --  Monthly visits -> 10.7M
+
+- Geography -
+Ptengine usage by websites across the globe
+Leading Countries: Websites
+Japan: 12060
+United States: 142
+Taiwan: 56
+China: 36
+Thailand: 33
+Canada: 24
+Hong Kong: 23
+Vietnam: 23
+United Kingdom: 22
+South Korea: 21
+Rest of the World: 245

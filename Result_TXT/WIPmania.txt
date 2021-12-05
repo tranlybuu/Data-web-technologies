@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: WIPmania
 Last month's change: 1.03%
-Websites: 1064
-Unique Domains: 939
+Websites: 1063
+Unique Domains: 937
 --------------------------------------
 
 
@@ -12,8 +12,8 @@ Industry verticals where WIPmania is being used
 Computers Electronics & Technology: 3.76%
 Science & Education: 2.82%
 E-commerce & Shopping: 2.63%
-Lifestyle: 2.26%
-Others: 88.53%
+Lifestyle: 2.35%
+Others: 88.43%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ hebrewsongs.com  --  Monthly visits -> 338.9K
 - Geography -
 WIPmania usage by websites across the globe
 Leading Countries: Websites
-United States: 319
-Germany: 95
+United States: 320
+Germany: 94
 Italy: 40
-Canada: 33
+Canada: 35
 United Kingdom: 33
 China: 29
 Switzerland: 29
 India: 28
-France: 21
 South Africa: 21
+Australia: 18
 Rest of the World: 300

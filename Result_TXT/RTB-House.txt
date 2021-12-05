@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: RTB House
+Last month's change: 0.53%
+Websites: 199014
+Unique Domains: 27755
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RTB House is being used
+Arts & Entertainment: 8.13%
+E-commerce & Shopping: 6.14%
+Games: 5.68%
+Vehicles: 5.38%
+Others: 74.67%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo
+Criteo Publisher
+Conversant Media
+Google Remarketing
+
+
+- Top Websites Using RTB House -
+mail.ru  --  Monthly visits -> 1B
+g1.globo.com  --  Monthly visits -> 307.6M
+avito.ru  --  Monthly visits -> 280.6M
+imgur.com  --  Monthly visits -> 237.1M
+wp.pl  --  Monthly visits -> 223.9M
+trilltrill.jp  --  Monthly visits -> 217.6M
+gismeteo.ru  --  Monthly visits -> 161.8M
+hurriyet.com.tr  --  Monthly visits -> 149.6M
+estart.jp  --  Monthly visits -> 148.4M
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+
+- Geography -
+RTB House usage by websites across the globe
+Leading Countries: Websites
+Taiwan: 18229
+United States: 16448
+Russia: 11246
+Ukraine: 7726
+Poland: 5838
+Japan: 5061
+Czech Republic: 2112
+Brazil: 2016
+Slovakia: 1979
+United Kingdom: 1820
+Rest of the World: 28213

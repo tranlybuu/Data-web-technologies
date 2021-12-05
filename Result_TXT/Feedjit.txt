@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Feedjit
+Last month's change: 1.51%
+Websites: 17665
+Unique Domains: 2877
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Feedjit is being used
+Science & Education: 4.40%
+Computers Electronics & Technology: 3.21%
+Arts & Entertainment: 3.18%
+Community & Society: 2.67%
+Others: 86.54%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Feedjit -
+pirlotvonlinehd.com  --  Monthly visits -> 1.7M
+pirlotvhd.online  --  Monthly visits -> 1.3M
+blog.dnevnik.hr  --  Monthly visits -> 848K
+yuluji.blogspot.com  --  Monthly visits -> 755.9K
+sengpielaudio.com  --  Monthly visits -> 496.9K
+equraninstitute.com  --  Monthly visits -> 365.3K
+garudamiliter.blogspot.com  --  Monthly visits -> 357.3K
+blocs.xtec.cat  --  Monthly visits -> 324.1K
+almudhafschool.com  --  Monthly visits -> 272.3K
+tavasci3-musicrewind.blogspot.com  --  Monthly visits -> 270.7K
+
+- Geography -
+Feedjit usage by websites across the globe
+Leading Countries: Websites
+United States: 2480
+Malaysia: 1359
+Indonesia: 1155
+India: 885
+Spain: 649
+Brazil: 597
+Philippines: 424
+Italy: 396
+United Kingdom: 376
+France: 374
+Rest of the World: 6109

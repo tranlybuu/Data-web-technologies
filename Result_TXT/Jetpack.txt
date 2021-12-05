@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Jetpack
+Last month's change: 6.37%
+Websites: 1617
+Unique Domains: 305
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Jetpack is being used
+Science & Education: 8.41%
+Community & Society: 7.24%
+Arts & Entertainment: 4.21%
+Computers Electronics & Technology: 4.08%
+Others: 76.07%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Jetpack -
+simplenote.com  --  Monthly visits -> 12.6M
+judithcurry.com  --  Monthly visits -> 317.3K
+eclbet3.com  --  Monthly visits -> 276.4K
+officialeclbet.wordpress.com  --  Monthly visits -> 110.2K
+acolita.com  --  Monthly visits -> 104.7K
+blog.xkcd.com  --  Monthly visits -> 85.8K
+sarkarialert.net  --  Monthly visits -> 81.1K
+06880danwoog.com  --  Monthly visits -> 76.1K
+scme.mx  --  Monthly visits -> 73.5K
+satsangaonline.com  --  Monthly visits -> 56K
+
+- Geography -
+Jetpack usage by websites across the globe
+Leading Countries: Websites
+United States: 204
+Canada: 41
+France: 29
+United Kingdom: 28
+Germany: 25
+Spain: 22
+India: 21
+Italy: 19
+Mexico: 17
+Australia: 16
+Rest of the World: 264

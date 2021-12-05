@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: MixPanel
 Last month's change: 1.22%
-Websites: 174292
-Unique Domains: 32930
+Websites: 174499
+Unique Domains: 32992
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where MixPanel is being used
 Travel & Tourism: 7.16%
-Computers Electronics & Technology: 6.78%
-Food & Drink: 4.90%
-Lifestyle: 4.86%
-Others: 76.31%
+Computers Electronics & Technology: 6.77%
+Food & Drink: 4.89%
+Lifestyle: 4.85%
+Others: 76.33%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ otomoto.pl  --  Monthly visits -> 39.8M
 - Geography -
 MixPanel usage by websites across the globe
 Leading Countries: Websites
-Taiwan: 29865
-United States: 24489
-Japan: 2855
-United Kingdom: 2537
-Poland: 2522
-Canada: 2299
-India: 2000
-Hong Kong: 1498
-Brazil: 1339
-Australia: 1221
-Rest of the World: 15670
+Taiwan: 29934
+United States: 24554
+Japan: 2853
+United Kingdom: 2536
+Poland: 2529
+Canada: 2309
+India: 2009
+Hong Kong: 1501
+Brazil: 1343
+Australia: 1227
+Rest of the World: 15707

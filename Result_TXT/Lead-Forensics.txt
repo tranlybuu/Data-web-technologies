@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Lead Forensics
+Last month's change: 1.10%
+Websites: 8248
+Unique Domains: 7406
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Lead Forensics is being used
+Business & Consumer Services: 11.08%
+Computers Electronics & Technology: 10.81%
+Heavy Industry & Engineering: 7.06%
+Finance: 3.46%
+Others: 67.59%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Lead Forensics -
+focusschoolsoftware.com  --  Monthly visits -> 9.4M
+gale.com  --  Monthly visits -> 4.2M
+esportsawards.com  --  Monthly visits -> 1.9M
+xpo.com  --  Monthly visits -> 1.9M
+servicetitan.com  --  Monthly visits -> 1.8M
+schneider.com  --  Monthly visits -> 1.6M
+webfleet.com  --  Monthly visits -> 1.4M
+globalization-partners.com  --  Monthly visits -> 1.4M
+returns.international  --  Monthly visits -> 1.4M
+civicplus.com  --  Monthly visits -> 1.3M
+
+- Geography -
+Lead Forensics usage by websites across the globe
+Leading Countries: Websites
+United States: 2433
+United Kingdom: 2223
+Germany: 277
+India: 263
+Netherlands: 176
+Canada: 160
+France: 123
+Ireland: 123
+Belgium: 119
+Poland: 104
+Rest of the World: 1872

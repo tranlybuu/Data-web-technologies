@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: gumgum
-Last month's change: 2.90%
+Last month's change: 2.89%
 Websites: 699909
 Unique Domains: 154082
 --------------------------------------

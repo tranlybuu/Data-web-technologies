@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Demandbase
-Last month's change: 5.25%
-Websites: 1314
-Unique Domains: 733
+Last month's change: 5.50%
+Websites: 1310
+Unique Domains: 730
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Demandbase is being used
-Computers Electronics & Technology: 45.89%
-Business & Consumer Services: 8.45%
-Finance: 6.09%
+Computers Electronics & Technology: 46.03%
+Business & Consumer Services: 8.24%
+Finance: 6.11%
 Heavy Industry & Engineering: 1.98%
-Others: 37.60%
+Others: 37.63%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ spark.adobe.com  --  Monthly visits -> 10.6M
 - Geography -
 Demandbase usage by websites across the globe
 Leading Countries: Websites
-United States: 475
-India: 65
+United States: 474
+India: 64
 Japan: 52
 China: 51
 Germany: 37
 United Kingdom: 28
 France: 22
-Australia: 19
+Brazil: 19
 Italy: 19
-Brazil: 18
-Rest of the World: 352
+Australia: 18
+Rest of the World: 350

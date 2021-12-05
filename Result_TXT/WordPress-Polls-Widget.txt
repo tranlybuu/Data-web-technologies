@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: WordPress Polls Widget
+Last month's change: 3.80%
+Websites: 263
+Unique Domains: 255
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WordPress Polls Widget is being used
+Arts & Entertainment: 7.98%
+Science & Education: 6.08%
+News & Media: 5.70%
+Computers Electronics & Technology: 4.18%
+Others: 76.05%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using WordPress Polls Widget -
+fish4.co.uk  --  Monthly visits -> 244.8K
+ilsaronno.it  --  Monthly visits -> 193.3K
+coverage.yugioh-card.com  --  Monthly visits -> 155.6K
+damespraatjes.nl  --  Monthly visits -> 97.9K
+dfnc.ru  --  Monthly visits -> 79.3K
+farmeramania.de  --  Monthly visits -> 69.6K
+thedailybell.com  --  Monthly visits -> 56.1K
+quizetest.it  --  Monthly visits -> 52.1K
+idfos.or.id  --  Monthly visits -> 47.4K
+sovremennoedomovodstvo.ru  --  Monthly visits -> 41.3K
+
+- Geography -
+WordPress Polls Widget usage by websites across the globe
+Leading Countries: Websites
+United States: 47
+Brazil: 12
+France: 10
+Netherlands: 10
+Germany: 9
+Italy: 9
+Poland: 9
+United Kingdom: 9
+Canada: 7
+Hungary: 6
+Rest of the World: 104

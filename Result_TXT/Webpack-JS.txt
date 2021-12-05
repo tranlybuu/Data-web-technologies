@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Webpack JS
-Last month's change: 0.51%
-Websites: 8235
-Unique Domains: 4424
+Last month's change: 0.55%
+Websites: 8293
+Unique Domains: 4451
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Webpack JS is being used
-Computers Electronics & Technology: 28.52%
-Science & Education: 17.27%
-Community & Society: 1.85%
-Finance: 1.20%
-Others: 51.16%
+Computers Electronics & Technology: 28.30%
+Science & Education: 16.97%
+Community & Society: 1.82%
+Finance: 1.19%
+Others: 51.72%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ctrip.com  --  Monthly visits -> 17.1M
 - Geography -
 Webpack JS usage by websites across the globe
 Leading Countries: Websites
-United States: 1531
-China: 792
-Japan: 490
+United States: 1536
+China: 796
+Japan: 494
+India: 301
 South Korea: 295
-India: 294
-Germany: 281
-France: 275
-United Kingdom: 240
-Brazil: 219
-Poland: 180
-Rest of the World: 2856
+Germany: 288
+France: 273
+United Kingdom: 244
+Brazil: 220
+Poland: 182
+Rest of the World: 2882

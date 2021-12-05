@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: BlueKai
+Last month's change: 6.08%
+Websites: 95435
+Unique Domains: 47384
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BlueKai is being used
+Arts & Entertainment: 6.33%
+Vehicles: 6.06%
+Computers Electronics & Technology: 4.94%
+Science & Education: 2.73%
+Others: 79.94%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using BlueKai -
+ebay.com  --  Monthly visits -> 796.6M
+espn.com  --  Monthly visits -> 628.4M
+nytimes.com  --  Monthly visits -> 317.3M
+disneyplus.com  --  Monthly visits -> 268.7M
+caliente.mx  --  Monthly visits -> 172.4M
+hurriyet.com.tr  --  Monthly visits -> 149.6M
+sahibinden.com  --  Monthly visits -> 128.9M
+milliyet.com.tr  --  Monthly visits -> 111.3M
+fantasy.espn.com  --  Monthly visits -> 96.7M
+signin.ebay.com  --  Monthly visits -> 83M
+
+- Geography -
+BlueKai usage by websites across the globe
+Leading Countries: Websites
+United States: 14052
+Indonesia: 5111
+Turkey: 4274
+Brazil: 3193
+Italy: 3026
+South Korea: 2957
+India: 2438
+Japan: 1992
+Spain: 1873
+Vietnam: 1842
+Rest of the World: 29616

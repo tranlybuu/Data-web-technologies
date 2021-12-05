@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Amazon A9
-Last month's change: 2.41%
-Websites: 1159630
-Unique Domains: 167710
+Last month's change: 2.50%
+Websites: 1162156
+Unique Domains: 168073
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Amazon A9 is being used
-Science & Education: 8.80%
-Arts & Entertainment: 8.53%
+Science & Education: 8.79%
+Arts & Entertainment: 8.52%
 Computers Electronics & Technology: 6.24%
-Games: 5.86%
-Others: 70.57%
+Games: 5.85%
+Others: 70.60%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ok.ru  --  Monthly visits -> 689.2M
 - Geography -
 Amazon A9 usage by websites across the globe
 Leading Countries: Websites
-United States: 138842
-France: 28879
-Taiwan: 27297
-Italy: 23761
-Russia: 21995
-United Kingdom: 18495
-Japan: 16339
-Spain: 16245
-Germany: 16067
-India: 15203
-Rest of the World: 212400
+United States: 139346
+France: 28982
+Taiwan: 27477
+Italy: 23845
+Russia: 22201
+United Kingdom: 18592
+Japan: 16437
+Spain: 16296
+Germany: 16126
+India: 15284
+Rest of the World: 213463

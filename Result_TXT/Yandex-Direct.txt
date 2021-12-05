@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Yandex Direct
+Last month's change: 1.11%
+Websites: 134624
+Unique Domains: 39739
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yandex Direct is being used
+Arts & Entertainment: 10.71%
+News & Media: 7.08%
+Health: 6.76%
+Vehicles: 6.04%
+Others: 69.40%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using Yandex Direct -
+avito.ru  --  Monthly visits -> 280.6M
+yabs.yandex.ru  --  Monthly visits -> 167.5M
+kinopoisk.ru  --  Monthly visits -> 138.8M
+an.yandex.ru  --  Monthly visits -> 130.7M
+m.avito.ru  --  Monthly visits -> 101.8M
+glavnoe.net  --  Monthly visits -> 94M
+tv.yandex.ru  --  Monthly visits -> 73M
+ficbook.net  --  Monthly visits -> 72M
+otvet.mail.ru  --  Monthly visits -> 56.3M
+jut.su  --  Monthly visits -> 52M
+
+- Geography -
+Yandex Direct usage by websites across the globe
+Leading Countries: Websites
+Russia: 60545
+Ukraine: 4559
+Belarus: 2659
+United States: 1349
+Kazakhstan: 1225
+Germany: 424
+United Kingdom: 275
+Uzbekistan: 232
+Canada: 213
+Netherlands: 213
+Rest of the World: 3808

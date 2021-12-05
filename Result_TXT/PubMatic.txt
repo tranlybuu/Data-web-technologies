@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: PubMatic
-Last month's change: 3.08%
-Websites: 1068505
-Unique Domains: 212304
+Last month's change: 3.14%
+Websites: 1071149
+Unique Domains: 212579
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where PubMatic is being used
-Arts & Entertainment: 9.46%
-Games: 6.51%
+Arts & Entertainment: 9.45%
+Games: 6.50%
 Computers Electronics & Technology: 6.35%
-Science & Education: 4.90%
-Others: 72.78%
+Science & Education: 4.89%
+Others: 72.80%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ebay.com  --  Monthly visits -> 796.6M
 - Geography -
 PubMatic usage by websites across the globe
 Leading Countries: Websites
-United States: 130410
-Japan: 48438
-Russia: 36098
-Taiwan: 32050
-France: 29464
-Italy: 22377
-United Kingdom: 16415
-Germany: 16299
-Spain: 14083
-India: 13999
-Rest of the World: 209688
+United States: 130898
+Japan: 48789
+Russia: 36231
+Taiwan: 32146
+France: 29570
+Italy: 22463
+United Kingdom: 16527
+Germany: 16350
+Spain: 14129
+India: 14083
+Rest of the World: 210779

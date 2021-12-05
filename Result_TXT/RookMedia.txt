@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: RookMedia
-Last month's change: 18.1%
-Websites: 7038
-Unique Domains: 6754
+Last month's change: 18.6%
+Websites: 6987
+Unique Domains: 6712
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where RookMedia is being used
-Adult: 1.11%
+Adult: 1.12%
 Computers Electronics & Technology: 0.53%
-Arts & Entertainment: 0.38%
+Arts & Entertainment: 0.39%
 Games: 0.31%
-Others: 97.67%
+Others: 97.65%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ streaminglocucionar.com  --  Monthly visits -> 122.7K
 - Geography -
 RookMedia usage by websites across the globe
 Leading Countries: Websites
-United States: 1512
-Germany: 243
-India: 227
-China: 222
-United Kingdom: 221
-Japan: 173
-Canada: 172
+United States: 1494
+Germany: 242
+India: 225
+United Kingdom: 222
+China: 219
+Japan: 171
+Canada: 169
 Sweden: 166
-Netherlands: 152
-France: 147
-Rest of the World: 2483
+Netherlands: 150
+France: 145
+Rest of the World: 2464

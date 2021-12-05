@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Prebid JS
-Last month's change: 1.45%
-Websites: 448360
-Unique Domains: 60354
+Last month's change: 1.53%
+Websites: 450242
+Unique Domains: 60175
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Prebid JS is being used
-Arts & Entertainment: 10.89%
-Games: 10.08%
-Computers Electronics & Technology: 7.94%
-Food & Drink: 4.98%
-Others: 66.11%
+Arts & Entertainment: 10.86%
+Games: 10.05%
+Computers Electronics & Technology: 7.92%
+Food & Drink: 4.97%
+Others: 66.20%
 
 
 - Related Technologies -
@@ -33,21 +33,21 @@ weather.com  --  Monthly visits -> 653.6M
 espn.com  --  Monthly visits -> 628.4M
 uol.com.br  --  Monthly visits -> 542.3M
 cnn.com  --  Monthly visits -> 510.4M
+nytimes.com  --  Monthly visits -> 317.3M
 g1.globo.com  --  Monthly visits -> 307.6M
 foxnews.com  --  Monthly visits -> 283M
-theguardian.com  --  Monthly visits -> 281.9M
 
 - Geography -
 Prebid JS usage by websites across the globe
 Leading Countries: Websites
-United States: 52932
-Japan: 45816
-Taiwan: 27272
-France: 14532
-Poland: 7197
-United Kingdom: 6675
-Russia: 6196
-Italy: 5936
-Brazil: 5574
-Germany: 5532
-Rest of the World: 73247
+United States: 53143
+Japan: 46100
+Taiwan: 27540
+France: 14640
+Poland: 7330
+United Kingdom: 6731
+Russia: 6221
+Italy: 5975
+Brazil: 5591
+Germany: 5578
+Rest of the World: 73942

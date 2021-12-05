@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Mango
+Last month's change: 0.94%
+Websites: 9007
+Unique Domains: 5471
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mango is being used
+Heavy Industry & Engineering: 15.18%
+Vehicles: 11.85%
+Home & Garden: 10.84%
+Health: 7.18%
+Others: 54.96%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+FreshCaller
+Dialogtech
+
+
+- Top Websites Using Mango -
+labirint.ru  --  Monthly visits -> 9.9M
+stolichki.ru  --  Monthly visits -> 3.1M
+1cfresh.com  --  Monthly visits -> 2.7M
+vkusvill.ru  --  Monthly visits -> 2.5M
+shop.autoeuro.ru  --  Monthly visits -> 1.2M
+bestmebelshop.ru  --  Monthly visits -> 1.1M
+megaplan.ru  --  Monthly visits -> 1.1M
+robokassa.ru  --  Monthly visits -> 942.7K
+davitamebel.ru  --  Monthly visits -> 837.9K
+tourvisor.ru  --  Monthly visits -> 820.3K
+
+- Geography -
+Mango usage by websites across the globe
+Leading Countries: Websites
+Russia: 7033
+Ukraine: 118
+Kazakhstan: 53
+Belarus: 33
+Germany: 17
+United States: 13
+Moldova: 11
+Netherlands: 9
+Turkey: 8
+Uzbekistan: 7
+Rest of the World: 75

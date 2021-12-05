@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Five9
+Last month's change: 5.06%
+Websites: 1721
+Unique Domains: 1349
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Five9 is being used
+Adult: 10.46%
+Arts & Entertainment: 6.68%
+Finance: 4.76%
+Health: 4.47%
+Others: 73.62%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using Five9 -
+adultdvdempire.com  --  Monthly visits -> 5.7M
+adultempire.com  --  Monthly visits -> 4.9M
+fromyouflowers.com  --  Monthly visits -> 2.4M
+cogeco.ca  --  Monthly visits -> 2.4M
+five9.com  --  Monthly visits -> 2.3M
+oportun.com  --  Monthly visits -> 2M
+hannaandersson.com  --  Monthly visits -> 1.9M
+shoplc.com  --  Monthly visits -> 1.8M
+llflooring.com  --  Monthly visits -> 1.6M
+app.five9.com  --  Monthly visits -> 1.4M
+
+- Geography -
+Five9 usage by websites across the globe
+Leading Countries: Websites
+United States: 850
+Canada: 76
+Italy: 74
+United Kingdom: 70
+Australia: 24
+Germany: 22
+Mexico: 19
+France: 16
+Netherlands: 15
+Brazil: 13
+Rest of the World: 190

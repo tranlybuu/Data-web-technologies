@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Mustache JS
-Last month's change: 0.28%
-Websites: 452810
-Unique Domains: 202052
+Last month's change: 0.25%
+Websites: 454667
+Unique Domains: 203175
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Mustache JS is being used
-Science & Education: 6.82%
-Computers Electronics & Technology: 3.71%
-Games: 3.62%
-Lifestyle: 2.58%
-Others: 83.27%
+Science & Education: 6.80%
+Computers Electronics & Technology: 3.69%
+Games: 3.61%
+Lifestyle: 2.57%
+Others: 83.34%
 
 
 - Related Technologies -
@@ -32,22 +32,22 @@ de.wikipedia.org  --  Monthly visits -> 125M
 fr.wikipedia.org  --  Monthly visits -> 107.2M
 wikihow.com  --  Monthly visits -> 88.3M
 zh.wikipedia.org  --  Monthly visits -> 81.5M
-premierleague.com  --  Monthly visits -> 76.9M
 weebly.com  --  Monthly visits -> 66.9M
 otto.de  --  Monthly visits -> 65.2M
 ouest-france.fr  --  Monthly visits -> 59.2M
+varzesh3.com  --  Monthly visits -> 57.4M
 
 - Geography -
 Mustache JS usage by websites across the globe
 Leading Countries: Websites
-United States: 88824
-Germany: 24838
-China: 23672
-Japan: 21352
-United Kingdom: 12428
-Canada: 12179
-France: 10054
-South Korea: 9873
-Australia: 7642
-Russia: 7567
-Rest of the World: 92876
+United States: 89410
+Germany: 25015
+China: 23351
+Japan: 21497
+United Kingdom: 12523
+Canada: 12286
+France: 10144
+South Korea: 10055
+Australia: 7699
+Russia: 7604
+Rest of the World: 93579

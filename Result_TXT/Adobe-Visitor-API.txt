@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Adobe Visitor API
-Last month's change: 1.63%
-Websites: 94210
-Unique Domains: 51978
+Last month's change: 1.60%
+Websites: 94376
+Unique Domains: 52056
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Adobe Visitor API is being used
-Vehicles: 10.00%
-Finance: 7.00%
-Computers Electronics & Technology: 5.31%
+Vehicles: 9.98%
+Finance: 6.99%
+Computers Electronics & Technology: 5.29%
 Health: 3.90%
-Others: 73.79%
+Others: 73.84%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ webmd.com  --  Monthly visits -> 137.9M
 - Geography -
 Adobe Visitor API usage by websites across the globe
 Leading Countries: Websites
-United States: 32731
-Germany: 3204
-Japan: 3169
-Canada: 3124
-United Kingdom: 2541
-France: 1779
-Australia: 1698
+United States: 32791
+Germany: 3221
+Japan: 3168
+Canada: 3126
+United Kingdom: 2548
+France: 1795
+Australia: 1702
 Italy: 1602
-Czech Republic: 1505
-India: 1505
-Rest of the World: 19599
+India: 1509
+Czech Republic: 1508
+Rest of the World: 19653

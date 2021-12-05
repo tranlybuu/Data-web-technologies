@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Callibri
+Last month's change: 2.11%
+Websites: 10030
+Unique Domains: 7651
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Callibri is being used
+Heavy Industry & Engineering: 17.46%
+Vehicles: 11.19%
+Health: 7.14%
+Home & Garden: 7.10%
+Others: 57.12%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Binotel
+Mango
+FreshCaller
+Dialogtech
+
+
+- Top Websites Using Callibri -
+koleso.ru  --  Monthly visits -> 1.3M
+postel-deluxe.ru  --  Monthly visits -> 451.4K
+chelindbank.ru  --  Monthly visits -> 413.2K
+tvoysadik.ru  --  Monthly visits -> 406.5K
+uralschool.ru  --  Monthly visits -> 397.4K
+fastbox.su  --  Monthly visits -> 394.6K
+newhospital.ru  --  Monthly visits -> 317.2K
+cleverence.ru  --  Monthly visits -> 286.5K
+novsu.ru  --  Monthly visits -> 280.2K
+eco-ug.com  --  Monthly visits -> 271.3K
+
+- Geography -
+Callibri usage by websites across the globe
+Leading Countries: Websites
+Russia: 8403
+Ukraine: 142
+Kazakhstan: 66
+Belarus: 57
+United States: 18
+Netherlands: 16
+Germany: 10
+Uzbekistan: 10
+France: 6
+Kyrgyzstan: 6
+Rest of the World: 92

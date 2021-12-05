@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Trackuity
+Last month's change: 1.83%
+Websites: 109
+Unique Domains: 75
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Trackuity is being used
+Business & Consumer Services: 22.02%
+Jobs & Career: 14.68%
+E-commerce & Shopping: 11.01%
+Finance: 3.67%
+Others: 48.62%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using Trackuity -
+immobilier.lefigaro.fr  --  Monthly visits -> 3.7M
+vdab.be  --  Monthly visits -> 2.7M
+knack.be  --  Monthly visits -> 2.5M
+meteojob.com  --  Monthly visits -> 2M
+adzuna.co.uk  --  Monthly visits -> 1.5M
+estrenarvivienda.com  --  Monthly visits -> 926.9K
+logic-immo.be  --  Monthly visits -> 762.7K
+outspot.nl  --  Monthly visits -> 668.7K
+m.adzuna.co.uk  --  Monthly visits -> 578K
+outspot.be  --  Monthly visits -> 577.7K
+
+- Geography -
+Trackuity usage by websites across the globe
+Leading Countries: Websites
+Belgium: 25
+Chile: 9
+France: 8
+Netherlands: 6
+United Kingdom: 5
+Peru: 4
+Colombia: 3
+Spain: 3
+Argentina: 2
+Germany: 2
+Rest of the World: 9

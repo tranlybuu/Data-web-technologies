@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Lotame
-Last month's change: 1.67%
-Websites: 91400
-Unique Domains: 49499
+Last month's change: 1.95%
+Websites: 92235
+Unique Domains: 49620
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Lotame is being used
-Arts & Entertainment: 6.70%
-Computers Electronics & Technology: 5.63%
-News & Media: 4.38%
-Science & Education: 3.31%
-Others: 79.97%
+Arts & Entertainment: 6.65%
+Computers Electronics & Technology: 5.59%
+News & Media: 4.34%
+Science & Education: 3.28%
+Others: 80.15%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ cbc.ca  --  Monthly visits -> 71.6M
 - Geography -
 Lotame usage by websites across the globe
 Leading Countries: Websites
-United States: 15006
-Indonesia: 4834
-Italy: 3662
-Brazil: 3037
-India: 2941
-United Kingdom: 2865
-France: 2108
-Vietnam: 1958
-Spain: 1934
-Germany: 1833
-Rest of the World: 30905
+United States: 15135
+Indonesia: 4896
+Italy: 3685
+Brazil: 3049
+India: 3013
+United Kingdom: 2883
+France: 2114
+Vietnam: 1983
+Spain: 1963
+Germany: 1855
+Rest of the World: 31341

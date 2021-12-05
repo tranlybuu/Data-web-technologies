@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Kenshoo
+Last month's change: 4.47%
+Websites: 15768
+Unique Domains: 7513
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kenshoo is being used
+Computers Electronics & Technology: 5.07%
+News & Media: 4.74%
+Vehicles: 3.99%
+Lifestyle: 3.69%
+Others: 82.50%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Kenshoo -
+etsy.com  --  Monthly visits -> 404.5M
+wetransfer.com  --  Monthly visits -> 124.4M
+nfl.com  --  Monthly visits -> 112.3M
+capitalone.com  --  Monthly visits -> 111.3M
+usatoday.com  --  Monthly visits -> 102.2M
+walgreens.com  --  Monthly visits -> 83.2M
+casasbahia.com.br  --  Monthly visits -> 70.5M
+m.casasbahia.com.br  --  Monthly visits -> 55.9M
+goodhousekeeping.com  --  Monthly visits -> 41.6M
+experian.com  --  Monthly visits -> 41.1M
+
+- Geography -
+Kenshoo usage by websites across the globe
+Leading Countries: Websites
+United States: 6115
+United Kingdom: 1129
+Canada: 396
+Germany: 315
+Italy: 291
+Netherlands: 289
+Brazil: 280
+France: 280
+India: 237
+Spain: 197
+Rest of the World: 2933

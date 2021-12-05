@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Ext JS
-Last month's change: 0.01%
-Websites: 28157
-Unique Domains: 18673
+Last month's change: 0.05%
+Websites: 28223
+Unique Domains: 18701
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Ext JS is being used
-Computers Electronics & Technology: 5.47%
-Science & Education: 5.15%
+Computers Electronics & Technology: 5.46%
+Science & Education: 5.13%
 Law & Government: 2.92%
 Finance: 2.68%
-Others: 83.79%
+Others: 83.81%
 
 
 - Related Technologies -
@@ -34,20 +34,20 @@ m.autohome.com.cn  --  Monthly visits -> 33.6M
 m.myfreecams.com  --  Monthly visits -> 27.8M
 m.livejasmin.com  --  Monthly visits -> 26.2M
 calendar.rakuten.co.jp  --  Monthly visits -> 18.3M
-korrespondent.net  --  Monthly visits -> 17.2M
 pdfdrive.com  --  Monthly visits -> 15.5M
+grupobancolombia.com  --  Monthly visits -> 15.5M
 
 - Geography -
 Ext JS usage by websites across the globe
 Leading Countries: Websites
-United States: 4696
-China: 4445
-Russia: 1919
-South Korea: 1439
-Germany: 1148
-France: 685
-Japan: 530
-Italy: 525
-United Kingdom: 516
-Taiwan: 490
-Rest of the World: 8274
+United States: 4708
+China: 4469
+Russia: 1926
+South Korea: 1443
+Germany: 1147
+France: 684
+Japan: 532
+Italy: 524
+United Kingdom: 514
+Taiwan: 492
+Rest of the World: 8294

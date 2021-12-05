@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: 1DMP
-Last month's change: 8.50%
-Websites: 2106
-Unique Domains: 217
+Last month's change: 8.56%
+Websites: 2103
+Unique Domains: 216
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where 1DMP is being used
-Jobs & Career: 59.78%
-Health: 7.69%
-Vehicles: 3.18%
-Finance: 2.99%
-Others: 26.35%
+Jobs & Career: 59.63%
+Health: 7.75%
+Vehicles: 3.19%
+Finance: 3.00%
+Others: 26.44%
 
 
 - Related Technologies -
@@ -40,8 +40,8 @@ ua.puma.com  --  Monthly visits -> 615.2K
 - Geography -
 1DMP usage by websites across the globe
 Leading Countries: Websites
-Russia: 646
-Ukraine: 31
+Russia: 644
+Ukraine: 30
 Belarus: 18
 Kazakhstan: 12
 Azerbaijan: 3

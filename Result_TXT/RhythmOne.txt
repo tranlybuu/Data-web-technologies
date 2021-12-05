@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: RhythmOne
-Last month's change: 2.07%
-Websites: 791053
-Unique Domains: 176703
+Last month's change: 2.12%
+Websites: 792709
+Unique Domains: 177023
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where RhythmOne is being used
-Arts & Entertainment: 9.86%
-Games: 7.31%
-Computers Electronics & Technology: 5.77%
+Arts & Entertainment: 9.85%
+Games: 7.30%
+Computers Electronics & Technology: 5.76%
 News & Media: 5.17%
-Others: 71.89%
+Others: 71.91%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ok.ru  --  Monthly visits -> 689.2M
 - Geography -
 RhythmOne usage by websites across the globe
 Leading Countries: Websites
-United States: 106891
-Russia: 31704
-Taiwan: 30782
-France: 25343
-Italy: 17926
-Germany: 12512
-United Kingdom: 11880
-Japan: 11841
-Spain: 10507
-India: 10440
-Rest of the World: 149445
+United States: 107226
+Russia: 31844
+Taiwan: 30878
+France: 25416
+Italy: 17981
+Germany: 12542
+United Kingdom: 11940
+Japan: 11923
+Spain: 10535
+India: 10506
+Rest of the World: 150136

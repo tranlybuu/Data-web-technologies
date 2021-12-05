@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Above
-Last month's change: 9.73%
-Websites: 81500
-Unique Domains: 59146
+Last month's change: 9.83%
+Websites: 82737
+Unique Domains: 60013
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Above is being used
-Computers Electronics & Technology: 5.50%
-Arts & Entertainment: 4.43%
-Adult: 4.36%
-Games: 1.69%
-Others: 84.02%
+Computers Electronics & Technology: 5.46%
+Arts & Entertainment: 4.39%
+Adult: 4.33%
+Games: 1.67%
+Others: 84.15%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ sueo.net  --  Monthly visits -> 770K
 - Geography -
 Above usage by websites across the globe
 Leading Countries: Websites
-United States: 14775
-China: 4925
-India: 3652
-Germany: 2766
-South Korea: 2523
-United Kingdom: 2504
-Russia: 2491
-Japan: 2180
-Canada: 1891
-Brazil: 1816
-Rest of the World: 32088
+United States: 15031
+China: 4996
+India: 3726
+Germany: 2811
+South Korea: 2563
+United Kingdom: 2559
+Russia: 2526
+Japan: 2209
+Canada: 1923
+Brazil: 1845
+Rest of the World: 32659

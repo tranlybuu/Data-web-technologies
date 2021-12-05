@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: 51.la
-Last month's change: 0.93%
-Websites: 49424
-Unique Domains: 43003
+Last month's change: 0.95%
+Websites: 49741
+Unique Domains: 43226
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where 51.la is being used
-Computers Electronics & Technology: 7.15%
-News & Media: 2.57%
-Arts & Entertainment: 2.33%
-Adult: 2.14%
-Others: 85.80%
+Computers Electronics & Technology: 7.10%
+News & Media: 2.55%
+Arts & Entertainment: 2.32%
+Adult: 2.12%
+Others: 85.90%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ wutuxs.com  --  Monthly visits -> 6.3M
 - Geography -
 51.la usage by websites across the globe
 Leading Countries: Websites
-China: 29979
-United States: 3807
-Japan: 3109
-Hong Kong: 2138
-Taiwan: 1270
-Singapore: 791
-South Korea: 632
-United Kingdom: 463
-Canada: 415
-Germany: 356
-Rest of the World: 5008
+China: 30134
+United States: 3836
+Japan: 3165
+Hong Kong: 2147
+Taiwan: 1274
+Singapore: 801
+South Korea: 636
+United Kingdom: 466
+Canada: 420
+Germany: 360
+Rest of the World: 5046

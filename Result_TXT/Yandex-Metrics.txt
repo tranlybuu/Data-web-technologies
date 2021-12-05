@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Yandex Metrics
-Last month's change: 2.45%
-Websites: 536403
-Unique Domains: 319408
+Last month's change: 2.48%
+Websites: 536187
+Unique Domains: 319215
 --------------------------------------
 
 
@@ -12,8 +12,8 @@ Industry verticals where Yandex Metrics is being used
 Heavy Industry & Engineering: 7.76%
 Computers Electronics & Technology: 7.10%
 Vehicles: 6.99%
-Arts & Entertainment: 6.19%
-Others: 71.97%
+Arts & Entertainment: 6.18%
+Others: 71.98%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ yandex.by  --  Monthly visits -> 124.6M
 - Geography -
 Yandex Metrics usage by websites across the globe
 Leading Countries: Websites
-Russia: 309732
-Ukraine: 26509
-Belarus: 14485
-Kazakhstan: 7626
-United States: 6817
-Turkey: 4394
-Germany: 3291
-Poland: 2204
+Russia: 309620
+Ukraine: 26466
+Belarus: 14477
+Kazakhstan: 7622
+United States: 6793
+Turkey: 4393
+Germany: 3288
+Poland: 2201
 France: 1714
-Netherlands: 1542
-Rest of the World: 31457
+Netherlands: 1544
+Rest of the World: 31437

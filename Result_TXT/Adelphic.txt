@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Adelphic
 Last month's change: 10.9%
-Websites: 358
-Unique Domains: 222
+Websites: 359
+Unique Domains: 221
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Adelphic is being used
-Food & Drink: 12.29%
-Health: 7.26%
-Finance: 6.70%
-Business & Consumer Services: 4.47%
-Others: 69.27%
+Food & Drink: 12.53%
+Health: 7.24%
+Finance: 6.69%
+Business & Consumer Services: 4.46%
+Others: 69.08%
 
 
 - Related Technologies -
@@ -41,7 +41,7 @@ touchofmodern.com  --  Monthly visits -> 3.4M
 Adelphic usage by websites across the globe
 Leading Countries: Websites
 United States: 287
-Canada: 12
+Canada: 13
 Australia: 5
 New Zealand: 3
 United Kingdom: 3

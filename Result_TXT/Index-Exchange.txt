@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Index Exchange
-Last month's change: 2.08%
-Websites: 861733
-Unique Domains: 192479
+Last month's change: 2.13%
+Websites: 863558
+Unique Domains: 192788
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Index Exchange is being used
 Arts & Entertainment: 9.10%
-Games: 7.03%
-Computers Electronics & Technology: 5.62%
+Games: 7.02%
+Computers Electronics & Technology: 5.61%
 News & Media: 4.87%
-Others: 73.37%
+Others: 73.39%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ebay.com  --  Monthly visits -> 796.6M
 - Geography -
 Index Exchange usage by websites across the globe
 Leading Countries: Websites
-United States: 114650
-Taiwan: 30802
-Russia: 26866
-France: 26851
-Italy: 19529
-Germany: 14387
-Japan: 14330
-United Kingdom: 13422
-Spain: 11480
-Poland: 11017
-Rest of the World: 172194
+United States: 114992
+Taiwan: 30903
+Russia: 27055
+France: 26936
+Italy: 19589
+Germany: 14421
+Japan: 14412
+United Kingdom: 13491
+Spain: 11508
+Poland: 11082
+Rest of the World: 172964

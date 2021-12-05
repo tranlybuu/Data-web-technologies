@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: LiveCall
+Last month's change: 0.39%
+Websites: 763
+Unique Domains: 537
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveCall is being used
+Travel & Tourism: 4.59%
+Business & Consumer Services: 4.19%
+Finance: 3.67%
+Computers Electronics & Technology: 2.88%
+Others: 84.67%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using LiveCall -
+gazetaprawna.pl  --  Monthly visits -> 4.1M
+oponeo.pl  --  Monthly visits -> 3.3M
+veo.co  --  Monthly visits -> 1.5M
+walutomat.pl  --  Monthly visits -> 1.2M
+travelplanet.pl  --  Monthly visits -> 1M
+serwisy.gazetaprawna.pl  --  Monthly visits -> 868.3K
+timecamp.com  --  Monthly visits -> 728.6K
+medicover.ro  --  Monthly visits -> 712K
+poezja.org  --  Monthly visits -> 516.3K
+fru.pl  --  Monthly visits -> 382.2K
+
+- Geography -
+LiveCall usage by websites across the globe
+Leading Countries: Websites
+Poland: 281
+United Kingdom: 34
+France: 33
+India: 30
+United States: 28
+Germany: 16
+Russia: 12
+Italy: 10
+Spain: 10
+Brazil: 7
+Rest of the World: 86

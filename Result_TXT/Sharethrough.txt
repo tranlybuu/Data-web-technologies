@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Sharethrough
-Last month's change: 4.80%
-Websites: 462315
-Unique Domains: 107887
+Last month's change: 4.84%
+Websites: 463790
+Unique Domains: 108265
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Sharethrough is being used
-Arts & Entertainment: 10.30%
-Games: 9.91%
+Arts & Entertainment: 10.27%
+Games: 9.89%
 Computers Electronics & Technology: 6.65%
 Science & Education: 3.98%
-Others: 69.16%
+Others: 69.21%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ok.ru  --  Monthly visits -> 689.2M
 - Geography -
 Sharethrough usage by websites across the globe
 Leading Countries: Websites
-United States: 81323
-Taiwan: 19991
-France: 19444
-Italy: 8088
-United Kingdom: 7677
-Spain: 7112
-Germany: 6947
-India: 6631
-Brazil: 6419
-Canada: 5910
-Rest of the World: 86621
+United States: 81651
+Taiwan: 20231
+France: 19519
+Italy: 8122
+United Kingdom: 7719
+Spain: 7144
+Germany: 6972
+India: 6691
+Brazil: 6448
+Canada: 5948
+Rest of the World: 87193

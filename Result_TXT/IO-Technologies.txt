@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: IO Technologies
+Last month's change: 18.0%
+Websites: 21843
+Unique Domains: 8450
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where IO Technologies is being used
+E-commerce & Shopping: 13.55%
+Lifestyle: 8.99%
+Heavy Industry & Engineering: 8.99%
+Vehicles: 8.88%
+Others: 59.60%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using IO Technologies -
+express.co.uk  --  Monthly visits -> 106.4M
+rbc.ru  --  Monthly visits -> 105.1M
+india.com  --  Monthly visits -> 93.5M
+idnes.cz  --  Monthly visits -> 79.7M
+moneycontrol.com  --  Monthly visits -> 76.8M
+thanhnien.vn  --  Monthly visits -> 54.7M
+tass.ru  --  Monthly visits -> 39.3M
+m.thanhnien.vn  --  Monthly visits -> 38.5M
+krone.at  --  Monthly visits -> 36.2M
+censor.net  --  Monthly visits -> 34.2M
+
+- Geography -
+IO Technologies usage by websites across the globe
+Leading Countries: Websites
+Ukraine: 5160
+Russia: 3297
+Belarus: 662
+Kazakhstan: 651
+United States: 168
+Czech Republic: 148
+Poland: 130
+Germany: 113
+Bulgaria: 79
+Moldova: 67
+Rest of the World: 1003

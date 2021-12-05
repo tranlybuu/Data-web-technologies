@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: TradingView Charting Library
+Last month's change: 2.28%
+Websites: 4085
+Unique Domains: 3850
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TradingView Charting Library is being used
+Finance: 29.42%
+News & Media: 3.48%
+Computers Electronics & Technology: 2.50%
+Heavy Industry & Engineering: 1.98%
+Others: 62.62%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+
+
+- Top Websites Using TradingView Charting Library -
+m.lenta.ru  --  Monthly visits -> 62M
+kitco.com  --  Monthly visits -> 11.5M
+benzinga.com  --  Monthly visits -> 10.9M
+goldprice.org  --  Monthly visits -> 9.1M
+niezalezna.pl  --  Monthly visits -> 8.5M
+nobitex.ir  --  Monthly visits -> 7.9M
+electrek.co  --  Monthly visits -> 6.4M
+moneytimes.com.br  --  Monthly visits -> 6.3M
+lainformacion.com  --  Monthly visits -> 5.7M
+lapoliticaonline.com.ar  --  Monthly visits -> 5.2M
+
+- Geography -
+TradingView Charting Library usage by websites across the globe
+Leading Countries: Websites
+United States: 764
+Russia: 315
+Japan: 233
+Canada: 192
+India: 189
+Germany: 167
+Turkey: 136
+Italy: 114
+Indonesia: 102
+Poland: 84
+Rest of the World: 1587

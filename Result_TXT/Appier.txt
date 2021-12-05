@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Appier
+Last month's change: 2.68%
+Websites: 79987
+Unique Domains: 8568
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Appier is being used
+Arts & Entertainment: 8.14%
+Science & Education: 7.72%
+Computers Electronics & Technology: 7.33%
+Travel & Tourism: 5.32%
+Others: 71.49%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Appier -
+mail.ru  --  Monthly visits -> 1B
+vnexpress.net  --  Monthly visits -> 129.5M
+itest.5ch.net  --  Monthly visits -> 97.1M
+thesun.co.uk  --  Monthly visits -> 84.1M
+goal.com  --  Monthly visits -> 74.7M
+ltn.com.tw  --  Monthly visits -> 73.4M
+pixnet.net  --  Monthly visits -> 72.3M
+allrecipes.com  --  Monthly visits -> 69M
+terra.com.br  --  Monthly visits -> 63.1M
+poki.com  --  Monthly visits -> 61M
+
+- Geography -
+Appier usage by websites across the globe
+Leading Countries: Websites
+Taiwan: 15529
+United States: 6794
+Japan: 2001
+France: 897
+United Kingdom: 843
+Hong Kong: 837
+Indonesia: 658
+Italy: 656
+Spain: 605
+Canada: 593
+Rest of the World: 9653

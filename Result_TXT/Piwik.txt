@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Piwik
-Last month's change: 0.83%
-Websites: 321908
-Unique Domains: 237051
+Last month's change: 0.84%
+Websites: 322463
+Unique Domains: 237212
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Piwik is being used
-Science & Education: 5.83%
-Computers Electronics & Technology: 4.43%
-Law & Government: 3.42%
-Health: 2.44%
-Others: 83.88%
+Science & Education: 5.82%
+Computers Electronics & Technology: 4.42%
+Law & Government: 3.41%
+Health: 2.43%
+Others: 83.91%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ eporner.com  --  Monthly visits -> 89.8M
 - Geography -
 Piwik usage by websites across the globe
 Leading Countries: Websites
-Germany: 57238
-United States: 53009
-France: 22213
-Japan: 11716
-United Kingdom: 10773
-Italy: 8886
-Netherlands: 7728
-China: 7332
-Czech Republic: 5851
-Switzerland: 5619
-Rest of the World: 88555
+Germany: 57304
+United States: 53124
+France: 22253
+Japan: 11755
+United Kingdom: 10788
+Italy: 8909
+Netherlands: 7734
+China: 7360
+Czech Republic: 5861
+Switzerland: 5622
+Rest of the World: 88765

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: TagMan
+Last month's change: 2.76%
+Websites: 398
+Unique Domains: 331
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TagMan is being used
+Travel & Tourism: 7.29%
+Computers Electronics & Technology: 5.53%
+Finance: 2.26%
+Adult: 2.01%
+Others: 82.91%
+
+
+- Related Technologies -
+Top Tag Management technologies
+Google Tag Manager
+Adobe Dynamic Tag Management
+Tealium
+Yahoo Tag Manager
+Ensighten
+
+
+- Top Websites Using TagMan -
+waitrose.com  --  Monthly visits -> 6.3M
+virginatlantic.com  --  Monthly visits -> 2.3M
+heathrow.com  --  Monthly visits -> 1.8M
+account.johnlewis.com  --  Monthly visits -> 994.6K
+flywith.virginatlantic.com  --  Monthly visits -> 686.6K
+nfl.directv.com  --  Monthly visits -> 607.1K
+naughtyhookups.com  --  Monthly visits -> 581.6K
+m.austrian.com  --  Monthly visits -> 514K
+help.virginatlantic.com  --  Monthly visits -> 395.8K
+voyage.lastminute.com  --  Monthly visits -> 354.1K
+
+- Geography -
+TagMan usage by websites across the globe
+Leading Countries: Websites
+United States: 58
+United Kingdom: 39
+India: 22
+Germany: 12
+Russia: 12
+France: 11
+Japan: 10
+Pakistan: 10
+Canada: 9
+China: 9
+Rest of the World: 121

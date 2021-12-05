@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Polymer
+Last month's change: 0.53%
+Websites: 6627
+Unique Domains: 3752
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Polymer is being used
+News & Media: 11.35%
+Computers Electronics & Technology: 6.67%
+Science & Education: 3.49%
+Sports: 1.92%
+Others: 76.58%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Polymer -
+youtu.be  --  Monthly visits -> 1B
+music.youtube.com  --  Monthly visits -> 189.7M
+usatoday.com  --  Monthly visits -> 102.2M
+youtubekids.com  --  Monthly visits -> 44.2M
+cisco.com  --  Monthly visits -> 26.1M
+amp.usatoday.com  --  Monthly visits -> 21.1M
+freep.com  --  Monthly visits -> 10.4M
+azcentral.com  --  Monthly visits -> 9M
+help.ea.com  --  Monthly visits -> 7.7M
+patents.google.com  --  Monthly visits -> 7.1M
+
+- Geography -
+Polymer usage by websites across the globe
+Leading Countries: Websites
+United States: 1840
+Germany: 409
+United Kingdom: 299
+India: 166
+South Korea: 166
+France: 114
+China: 111
+Canada: 110
+Spain: 106
+Brazil: 104
+Rest of the World: 1684

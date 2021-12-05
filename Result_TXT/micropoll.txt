@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: micropoll
+Last month's change: 1.43%
+Websites: 140
+Unique Domains: 89
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where micropoll is being used
+Arts & Entertainment: 8.57%
+Science & Education: 7.86%
+Computers Electronics & Technology: 7.14%
+Community & Society: 5.00%
+Others: 71.43%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using micropoll -
+whatsgoodattraderjoes.com  --  Monthly visits -> 159.4K
+surveyanalytics.com  --  Monthly visits -> 127.1K
+gamerboom.com  --  Monthly visits -> 67.1K
+playinfo.sportngin.com  --  Monthly visits -> 28.7K
+imapsync.lamiral.info  --  Monthly visits -> 20.3K
+middlesexvillagetrading.com  --  Monthly visits -> 19.4K
+zerobreastcancer.org  --  Monthly visits -> 18.9K
+caregiverlist.com  --  Monthly visits -> 18.4K
+miglioraroma.blogspot.com  --  Monthly visits -> 16.9K
+carolinaraptorcenter.org  --  Monthly visits -> 13.8K
+
+- Geography -
+micropoll usage by websites across the globe
+Leading Countries: Websites
+United States: 44
+Hungary: 7
+United Kingdom: 5
+Germany: 4
+Canada: 3
+Egypt: 3
+Chile: 2
+Colombia: 2
+Ireland: 2
+Israel: 2
+Rest of the World: 36

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Hubspot Ads
+Last month's change: 6.01%
+Websites: 150799
+Unique Domains: 113823
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Hubspot Ads is being used
+Computers Electronics & Technology: 9.59%
+Business & Consumer Services: 7.73%
+Finance: 3.71%
+Science & Education: 3.49%
+Others: 75.48%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Hubspot Ads -
+smallpdf.com  --  Monthly visits -> 56.5M
+adsmoloco.com  --  Monthly visits -> 50.1M
+yomiuri.co.jp  --  Monthly visits -> 47.6M
+mgid.com  --  Monthly visits -> 43.4M
+hubspot.com  --  Monthly visits -> 37.4M
+chatwork.com  --  Monthly visits -> 34.9M
+attn.tv  --  Monthly visits -> 32.6M
+prezi.com  --  Monthly visits -> 32.5M
+doctoralia.com.br  --  Monthly visits -> 28.9M
+netlify.app  --  Monthly visits -> 27.8M
+
+- Geography -
+Hubspot Ads usage by websites across the globe
+Leading Countries: Websites
+United States: 56152
+United Kingdom: 8763
+Canada: 5640
+Australia: 5231
+India: 5155
+France: 4376
+Germany: 4191
+Japan: 3865
+Brazil: 3590
+Mexico: 2803
+Rest of the World: 42326

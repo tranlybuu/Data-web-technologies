@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Blogger
-Last month's change: 1.90%
-Websites: 480798
+Last month's change: 1.98%
+Websites: 483053
 Unique Domains: 52
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Blogger is being used
-Computers Electronics & Technology: 3.07%
-Arts & Entertainment: 2.35%
-Science & Education: 2.25%
-Games: 1.06%
-Others: 91.26%
+Computers Electronics & Technology: 3.06%
+Arts & Entertainment: 2.34%
+Science & Education: 2.24%
+Games: 1.05%
+Others: 91.30%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ lewdua.blogspot.com  --  Monthly visits -> 1.4M
 - Geography -
 Blogger usage by websites across the globe
 Leading Countries: Websites
-United States: 58534
-Indonesia: 32079
-Spain: 22406
-Brazil: 20779
-India: 19383
-Japan: 18044
-Mexico: 16892
-Italy: 13504
-Malaysia: 12877
-France: 11784
-Rest of the World: 215687
+United States: 58842
+Indonesia: 32186
+Spain: 22547
+Brazil: 20831
+India: 19528
+Japan: 18155
+Mexico: 16977
+Italy: 13557
+Malaysia: 12932
+France: 11860
+Rest of the World: 216808

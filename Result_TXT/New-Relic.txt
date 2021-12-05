@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: New Relic
-Last month's change: 0.22%
-Websites: 598991
-Unique Domains: 289482
+Last month's change: 0.23%
+Websites: 600305
+Unique Domains: 289698
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where New Relic is being used
-Science & Education: 4.79%
-Computers Electronics & Technology: 3.78%
+Science & Education: 4.78%
+Computers Electronics & Technology: 3.77%
 Vehicles: 3.23%
-Business & Consumer Services: 2.69%
-Others: 85.51%
+Business & Consumer Services: 2.68%
+Others: 85.53%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ aol.com  --  Monthly visits -> 228.6M
 - Geography -
 New Relic usage by websites across the globe
 Leading Countries: Websites
-United States: 184697
-Brazil: 22000
-United Kingdom: 20824
-Japan: 19632
-Canada: 17289
-France: 12188
-Australia: 11714
-Argentina: 10565
-Germany: 9926
-India: 9721
-Rest of the World: 131516
+United States: 185073
+Brazil: 22040
+United Kingdom: 20860
+Japan: 19760
+Canada: 17357
+France: 12209
+Australia: 11728
+Argentina: 10591
+Germany: 9951
+India: 9770
+Rest of the World: 132046

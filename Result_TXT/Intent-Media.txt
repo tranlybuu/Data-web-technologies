@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Intent Media
 Last month's change: 7.09%
 Websites: 423
-Unique Domains: 286
+Unique Domains: 285
 --------------------------------------
 
 
@@ -40,7 +40,7 @@ cheaptickets.com  --  Monthly visits -> 2.4M
 - Geography -
 Intent Media usage by websites across the globe
 Leading Countries: Websites
-United States: 78
+United States: 79
 Russia: 23
 Australia: 18
 France: 13
@@ -50,4 +50,4 @@ Italy: 10
 Japan: 10
 Canada: 9
 Germany: 8
-Rest of the World: 105
+Rest of the World: 104

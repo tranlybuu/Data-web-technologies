@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: D3 JS
-Last month's change: 0.64%
+Last month's change: 0.72%
 Websites: 73854
 Unique Domains: 46649
 --------------------------------------

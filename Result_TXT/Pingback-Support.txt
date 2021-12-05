@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Pingback Support
-Last month's change: 0.83%
-Websites: 4220094
-Unique Domains: 3354980
+Last month's change: 0.89%
+Websites: 4235410
+Unique Domains: 3369693
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Pingback Support is being used
-Science & Education: 4.54%
-Computers Electronics & Technology: 4.26%
-Arts & Entertainment: 2.94%
+Science & Education: 4.53%
+Computers Electronics & Technology: 4.25%
+Arts & Entertainment: 2.93%
 Community & Society: 2.28%
-Others: 85.97%
+Others: 86.02%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ exoclick.com  --  Monthly visits -> 152.4M
 - Geography -
 Pingback Support usage by websites across the globe
 Leading Countries: Websites
-United States: 783167
-Japan: 207679
-Germany: 175392
-United Kingdom: 157311
-Italy: 151580
-France: 148625
-India: 111999
-Canada: 110993
-Spain: 108725
-Russia: 92258
-Rest of the World: 1516485
+United States: 785695
+Japan: 208406
+Germany: 176054
+United Kingdom: 157992
+Italy: 152282
+France: 149235
+India: 112773
+Canada: 111447
+Spain: 109208
+Russia: 92530
+Rest of the World: 1523899

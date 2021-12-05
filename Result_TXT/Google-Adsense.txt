@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Google Adsense
-Last month's change: 0.77%
-Websites: 3862726
-Unique Domains: 1795341
+Last month's change: 0.82%
+Websites: 3871718
+Unique Domains: 1801543
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Google Adsense is being used
-Computers Electronics & Technology: 6.89%
-Arts & Entertainment: 5.30%
-Games: 4.01%
-News & Media: 2.99%
-Others: 80.81%
+Computers Electronics & Technology: 6.87%
+Arts & Entertainment: 5.29%
+Games: 4.00%
+News & Media: 2.98%
+Others: 80.85%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ mail.yahoo.com  --  Monthly visits -> 1.3B
 - Geography -
 Google Adsense usage by websites across the globe
 Leading Countries: Websites
-United States: 513367
-Japan: 253556
-Russia: 166295
-India: 113257
-France: 101376
-Germany: 92790
-South Korea: 92379
-Brazil: 87547
-Italy: 84197
-United Kingdom: 80474
-Rest of the World: 1310265
+United States: 515045
+Japan: 253953
+Russia: 166642
+India: 113746
+France: 101703
+Germany: 93052
+South Korea: 92664
+Brazil: 87726
+Italy: 84431
+United Kingdom: 80765
+Rest of the World: 1314767

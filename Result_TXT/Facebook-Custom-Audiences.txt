@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Facebook Custom Audiences
-Last month's change: 1.19%
-Websites: 3040922
-Unique Domains: 2065958
+Last month's change: 1.21%
+Websites: 3047299
+Unique Domains: 2070008
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Facebook Custom Audiences is being used
-Computers Electronics & Technology: 4.38%
-Lifestyle: 4.14%
-Food & Drink: 3.15%
+Computers Electronics & Technology: 4.37%
+Lifestyle: 4.13%
+Food & Drink: 3.14%
 Arts & Entertainment: 3.11%
-Others: 85.22%
+Others: 85.25%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ aliexpress.com  --  Monthly visits -> 455.2M
 - Geography -
 Facebook Custom Audiences usage by websites across the globe
 Leading Countries: Websites
-United States: 642863
-Russia: 124000
-United Kingdom: 113478
-Brazil: 97292
-Japan: 86342
-Canada: 83863
-Australia: 80981
-Italy: 76705
-Germany: 64213
-France: 63877
-Rest of the World: 1069498
+United States: 644162
+Russia: 124423
+United Kingdom: 113751
+Brazil: 97581
+Japan: 86632
+Canada: 84112
+Australia: 81185
+Italy: 76932
+Germany: 64374
+France: 63975
+Rest of the World: 1072361

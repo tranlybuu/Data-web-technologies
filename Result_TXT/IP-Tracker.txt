@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: IP Tracker
+Last month's change: 0%
+Websites: 105
+Unique Domains: 84
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where IP Tracker is being used
+Computers Electronics & Technology: 29.52%
+Business & Consumer Services: 4.76%
+Finance: 2.86%
+Games: 2.86%
+Others: 60.00%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using IP Tracker -
+roddelpraat.nl  --  Monthly visits -> 1.4M
+ppcprotect.com  --  Monthly visits -> 1.2M
+yougetsignal.com  --  Monthly visits -> 769.5K
+ip-tracker.org  --  Monthly visits -> 655.5K
+heimdalsecurity.com  --  Monthly visits -> 298.8K
+hibridge.kz  --  Monthly visits -> 252.3K
+freepctech.com  --  Monthly visits -> 218.6K
+androidpcreview.com  --  Monthly visits -> 133K
+bambooloans.com  --  Monthly visits -> 114.4K
+ciberpatrulla.com  --  Monthly visits -> 70.9K
+
+- Geography -
+IP Tracker usage by websites across the globe
+Leading Countries: Websites
+United States: 20
+Germany: 6
+India: 5
+Russia: 5
+Bangladesh: 4
+Brazil: 4
+South Korea: 4
+Spain: 3
+United Kingdom: 3
+Czech Republic: 2
+Rest of the World: 35

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Yahoo Retargeting
+Last month's change: 0.70%
+Websites: 68943
+Unique Domains: 24795
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yahoo Retargeting is being used
+Arts & Entertainment: 8.27%
+Food & Drink: 7.56%
+Lifestyle: 6.94%
+Games: 6.12%
+Others: 71.11%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo
+Criteo Publisher
+Conversant Media
+Google Remarketing
+
+
+- Top Websites Using Yahoo Retargeting -
+smt.docomo.ne.jp  --  Monthly visits -> 675M
+ameblo.jp  --  Monthly visits -> 200.8M
+itmedia.co.jp  --  Monthly visits -> 131.4M
+tabelog.com  --  Monthly visits -> 94.3M
+s.tabelog.com  --  Monthly visits -> 68.1M
+hotpepper.jp  --  Monthly visits -> 64.8M
+s.kakaku.com  --  Monthly visits -> 59.9M
+zozo.jp  --  Monthly visits -> 50.1M
+yodobashi.com  --  Monthly visits -> 49.8M
+jalan.net  --  Monthly visits -> 48.8M
+
+- Geography -
+Yahoo Retargeting usage by websites across the globe
+Leading Countries: Websites
+Japan: 42728
+United States: 1631
+Taiwan: 486
+South Korea: 449
+China: 261
+Singapore: 251
+Hong Kong: 223
+Canada: 189
+United Kingdom: 157
+Thailand: 123
+Rest of the World: 1582

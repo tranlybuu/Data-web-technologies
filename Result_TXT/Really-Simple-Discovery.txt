@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Really Simple Discovery
-Last month's change: 1.61%
-Websites: 6224850
-Unique Domains: 4965318
+Last month's change: 1.65%
+Websites: 6238066
+Unique Domains: 4977236
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Really Simple Discovery is being used
-Computers Electronics & Technology: 3.94%
-Science & Education: 3.91%
+Computers Electronics & Technology: 3.93%
+Science & Education: 3.90%
 Arts & Entertainment: 2.93%
 Health: 1.91%
-Others: 87.30%
+Others: 87.33%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ play.hdvideosnet.com  --  Monthly visits -> 193.4M
 - Geography -
 Really Simple Discovery usage by websites across the globe
 Leading Countries: Websites
-United States: 1146714
-Japan: 319108
-Germany: 260609
-United Kingdom: 233764
-Italy: 219511
-France: 210810
-Canada: 163063
-India: 160749
-Spain: 154200
-Brazil: 138923
-Rest of the World: 2284788
+United States: 1148936
+Japan: 319762
+Germany: 261256
+United Kingdom: 234373
+Italy: 220131
+France: 211360
+Canada: 163485
+India: 161322
+Spain: 154597
+Brazil: 139211
+Rest of the World: 2291015

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ResponseIQ
+Last month's change: 1.33%
+Websites: 750
+Unique Domains: 669
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ResponseIQ is being used
+Travel & Tourism: 24.13%
+Business & Consumer Services: 6.27%
+Home & Garden: 4.40%
+Finance: 4.27%
+Others: 60.93%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using ResponseIQ -
+kreuzfahrtberater.de  --  Monthly visits -> 547.2K
+nationalholidays.com  --  Monthly visits -> 473.5K
+smokymtndreams.com  --  Monthly visits -> 339.3K
+thehouseshop.com  --  Monthly visits -> 338.2K
+shearings.com  --  Monthly visits -> 306.6K
+crystaltravel.co.uk  --  Monthly visits -> 270K
+amtrakvacations.com  --  Monthly visits -> 236.6K
+northshorecare.com  --  Monthly visits -> 191.1K
+belbin.com  --  Monthly visits -> 182.6K
+hayesgardenworld.co.uk  --  Monthly visits -> 181.6K
+
+- Geography -
+ResponseIQ usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 407
+United States: 115
+Germany: 30
+France: 24
+Canada: 16
+India: 15
+Ireland: 15
+Australia: 6
+Spain: 6
+Sweden: 4
+Rest of the World: 71

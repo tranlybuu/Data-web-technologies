@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Histats
-Last month's change: 0.85%
-Websites: 98113
-Unique Domains: 42480
+Last month's change: 0.86%
+Websites: 98509
+Unique Domains: 42638
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Histats is being used
-Arts & Entertainment: 6.90%
-Computers Electronics & Technology: 5.26%
-Adult: 3.48%
-Science & Education: 3.28%
-Others: 81.07%
+Arts & Entertainment: 6.87%
+Computers Electronics & Technology: 5.24%
+Adult: 3.46%
+Science & Education: 3.27%
+Others: 81.16%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ sto.cx  --  Monthly visits -> 22M
 - Geography -
 Histats usage by websites across the globe
 Leading Countries: Websites
-Indonesia: 9503
-United States: 8892
-Italy: 4913
-India: 3610
-Thailand: 3363
-Vietnam: 3147
-Brazil: 2400
-China: 2150
-Germany: 2060
-France: 2041
-Rest of the World: 27497
+Indonesia: 9525
+United States: 8963
+Italy: 4909
+India: 3657
+Thailand: 3362
+Vietnam: 3162
+Brazil: 2411
+China: 2166
+Germany: 2080
+France: 2047
+Rest of the World: 27689

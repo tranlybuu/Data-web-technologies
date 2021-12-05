@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Sonobi Media
-Last month's change: 3.16%
-Websites: 584345
-Unique Domains: 125285
+Last month's change: 3.19%
+Websites: 586072
+Unique Domains: 125768
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Sonobi Media is being used
 Arts & Entertainment: 10.01%
-Games: 8.44%
+Games: 8.43%
 Computers Electronics & Technology: 6.10%
 News & Media: 4.37%
-Others: 71.07%
+Others: 71.10%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ espn.com  --  Monthly visits -> 628.4M
 - Geography -
 Sonobi Media usage by websites across the globe
 Leading Countries: Websites
-United States: 87780
-Taiwan: 29631
-France: 20323
-Russia: 16630
-United Kingdom: 9648
-Spain: 8154
-Germany: 7587
-Brazil: 7505
-Japan: 7128
-Canada: 6799
-Rest of the World: 103447
+United States: 88137
+Taiwan: 29766
+France: 20429
+Russia: 16834
+United Kingdom: 9714
+Spain: 8182
+Germany: 7637
+Brazil: 7532
+Japan: 7194
+Canada: 6858
+Rest of the World: 104072

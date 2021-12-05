@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: ClickDensity
+Last month's change: 5.17%
+Websites: 116
+Unique Domains: 106
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ClickDensity is being used
+Computers Electronics & Technology: 7.76%
+Vehicles: 7.76%
+Science & Education: 6.90%
+Business & Consumer Services: 3.45%
+Others: 74.14%
+
+
+- Related Technologies -
+Top Tracker technologies
+Neustar
+Adloox
+Siteimprove
+163
+Marin Software
+
+
+- Top Websites Using ClickDensity -
+ebay.cn  --  Monthly visits -> 141.1K
+ikonet.com  --  Monthly visits -> 124.9K
+prikol.bigmir.net  --  Monthly visits -> 96.2K
+imop.com  --  Monthly visits -> 54.6K
+interviewgold.com  --  Monthly visits -> 44K
+donate.sidroth.org  --  Monthly visits -> 28.4K
+eclecticenglish.com  --  Monthly visits -> 25.3K
+usage.webafrica.co.za  --  Monthly visits -> 20K
+oc99.com  --  Monthly visits -> 18.3K
+pccorner.com.ph  --  Monthly visits -> 17.5K
+
+- Geography -
+ClickDensity usage by websites across the globe
+Leading Countries: Websites
+United States: 30
+China: 10
+United Kingdom: 9
+South Africa: 6
+Poland: 5
+Canada: 4
+Ukraine: 4
+Australia: 3
+Japan: 3
+Philippines: 3
+Rest of the World: 29

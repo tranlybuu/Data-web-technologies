@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: FusionCharts
+Last month's change: 0.90%
+Websites: 3336
+Unique Domains: 2250
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FusionCharts is being used
+Law & Government: 8.21%
+Finance: 7.40%
+Science & Education: 6.95%
+Computers Electronics & Technology: 6.53%
+Others: 70.89%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+
+
+- Top Websites Using FusionCharts -
+c8.net.ua  --  Monthly visits -> 20.8M
+finance.sina.com.cn  --  Monthly visits -> 19.7M
+b.c8.net.ua  --  Monthly visits -> 19.3M
+islamweb.net  --  Monthly visits -> 17.2M
+bbb.org  --  Monthly visits -> 14.9M
+scholarship.up.gov.in  --  Monthly visits -> 9.7M
+edistrict.up.gov.in  --  Monthly visits -> 3.8M
+sample-cube.com  --  Monthly visits -> 3.6M
+libremercado.com  --  Monthly visits -> 2.5M
+teb.com.tr  --  Monthly visits -> 2.1M
+
+- Geography -
+FusionCharts usage by websites across the globe
+Leading Countries: Websites
+United States: 679
+China: 286
+India: 220
+Italy: 136
+South Korea: 131
+Indonesia: 92
+Russia: 88
+France: 71
+United Kingdom: 68
+Thailand: 67
+Rest of the World: 1069

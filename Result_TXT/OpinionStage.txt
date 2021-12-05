@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: OpinionStage
+Last month's change: 0.92%
+Websites: 757
+Unique Domains: 647
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpinionStage is being used
+Arts & Entertainment: 8.19%
+News & Media: 4.76%
+Games: 3.96%
+Science & Education: 3.83%
+Others: 79.26%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using OpinionStage -
+fitgirl-repacks.site  --  Monthly visits -> 29.6M
+nettavisen.no  --  Monthly visits -> 24.6M
+thisisanfield.com  --  Monthly visits -> 4.6M
+nobelprize.org  --  Monthly visits -> 3.4M
+andauth.co  --  Monthly visits -> 2.8M
+spoilertv.com  --  Monthly visits -> 1.8M
+telebasel.ch  --  Monthly visits -> 1.4M
+real-france.fr  --  Monthly visits -> 1.3M
+dailyopinionpolls.com  --  Monthly visits -> 626.9K
+europeanbestdestinations.com  --  Monthly visits -> 623.9K
+
+- Geography -
+OpinionStage usage by websites across the globe
+Leading Countries: Websites
+United States: 196
+United Kingdom: 36
+Italy: 28
+France: 26
+Canada: 25
+Germany: 20
+India: 20
+Russia: 19
+Spain: 16
+Indonesia: 15
+Rest of the World: 264

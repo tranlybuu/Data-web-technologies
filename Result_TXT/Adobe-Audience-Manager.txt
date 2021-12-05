@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Adobe Audience Manager
+Last month's change: 0.41%
+Websites: 21899
+Unique Domains: 17039
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Adobe Audience Manager is being used
+Vehicles: 16.83%
+Finance: 7.74%
+Computers Electronics & Technology: 5.28%
+Travel & Tourism: 4.41%
+Others: 65.74%
+
+
+- Related Technologies -
+Top Data Management Platform technologies
+SirData
+Treasure Data
+Kapost
+CoolaData
+TailTarget
+
+
+- Top Websites Using Adobe Audience Manager -
+flipkart.com  --  Monthly visits -> 289.1M
+t-mobile.com  --  Monthly visits -> 229.4M
+ups.com  --  Monthly visits -> 191.9M
+homedepot.com  --  Monthly visits -> 188.4M
+fedex.com  --  Monthly visits -> 182.9M
+apps.samsung.com  --  Monthly visits -> 149.8M
+bestbuy.com  --  Monthly visits -> 138.1M
+webmd.com  --  Monthly visits -> 137.9M
+nfl.com  --  Monthly visits -> 112.3M
+cbssports.com  --  Monthly visits -> 105.3M
+
+- Geography -
+Adobe Audience Manager usage by websites across the globe
+Leading Countries: Websites
+United States: 11714
+Canada: 1015
+Japan: 567
+Australia: 563
+India: 430
+United Kingdom: 418
+Italy: 226
+Germany: 209
+China: 176
+France: 173
+Rest of the World: 3408

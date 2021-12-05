@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Krux
+Last month's change: 2.94%
+Websites: 31828
+Unique Domains: 12171
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Krux is being used
+Arts & Entertainment: 7.18%
+Science & Education: 6.43%
+News & Media: 5.57%
+Food & Drink: 4.99%
+Others: 75.84%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Krux -
+globo.com  --  Monthly visits -> 822.4M
+cnn.com  --  Monthly visits -> 510.4M
+g1.globo.com  --  Monthly visits -> 307.6M
+zillow.com  --  Monthly visits -> 263.4M
+hulu.com  --  Monthly visits -> 224.6M
+force.com  --  Monthly visits -> 188.6M
+dropbox.com  --  Monthly visits -> 172.5M
+att.com  --  Monthly visits -> 159.8M
+washingtonpost.com  --  Monthly visits -> 145M
+repubblica.it  --  Monthly visits -> 138.4M
+
+- Geography -
+Krux usage by websites across the globe
+Leading Countries: Websites
+United States: 9558
+Italy: 1542
+France: 1210
+Finland: 918
+Canada: 803
+United Kingdom: 629
+Australia: 625
+Brazil: 594
+Spain: 479
+Mexico: 319
+Rest of the World: 3497

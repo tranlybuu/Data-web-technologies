@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: EyeNewton
+Last month's change: 0.87%
+Websites: 688
+Unique Domains: 470
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where EyeNewton is being used
+Business & Consumer Services: 25.73%
+Heavy Industry & Engineering: 15.12%
+Home & Garden: 13.52%
+Vehicles: 5.52%
+Others: 40.12%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using EyeNewton -
+novostroy.ru  --  Monthly visits -> 273.7K
+setlgroup.ru  --  Monthly visits -> 189.7K
+novostroy.su  --  Monthly visits -> 152.7K
+topdetal.ru  --  Monthly visits -> 144.1K
+kdc.clinic  --  Monthly visits -> 82.5K
+solnce-gorod.ru  --  Monthly visits -> 76.7K
+spbhomes.ru  --  Monthly visits -> 69.8K
+futurist.rbi.ru  --  Monthly visits -> 65.9K
+arsagera.ru  --  Monthly visits -> 50.5K
+msk.alexfitness.ru  --  Monthly visits -> 49.9K
+
+- Geography -
+EyeNewton usage by websites across the globe
+Leading Countries: Websites
+Russia: 534
+Ukraine: 8
+China: 2
+Germany: 2
+Kazakhstan: 2
+Sweden: 2
+Uzbekistan: 2
+Estonia: 1
+Hungary: 1
+Japan: 1
+Rest of the World: 6

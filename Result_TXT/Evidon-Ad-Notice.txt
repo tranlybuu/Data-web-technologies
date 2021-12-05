@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Evidon Ad Notice
-Last month's change: 12.8%
-Websites: 421
-Unique Domains: 373
+Last month's change: 13.1%
+Websites: 420
+Unique Domains: 372
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Evidon Ad Notice is being used
-Business & Consumer Services: 14.25%
-Food & Drink: 11.16%
-Arts & Entertainment: 8.55%
-Vehicles: 7.13%
-Others: 58.91%
+Business & Consumer Services: 14.29%
+Food & Drink: 11.19%
+Arts & Entertainment: 8.57%
+Vehicles: 7.14%
+Others: 58.81%
 
 
 - Related Technologies -
@@ -34,13 +34,13 @@ nestle.com  --  Monthly visits -> 1.7M
 irishcentral.com  --  Monthly visits -> 1.1M
 abogado.com  --  Monthly visits -> 926.1K
 chevrolet.ca  --  Monthly visits -> 554K
-broscience.com  --  Monthly visits -> 451.7K
 seonkyounglongest.com  --  Monthly visits -> 448.6K
+silverrecyclers.com  --  Monthly visits -> 415.2K
 
 - Geography -
 Evidon Ad Notice usage by websites across the globe
 Leading Countries: Websites
-United States: 111
+United States: 110
 Canada: 16
 Germany: 15
 United Kingdom: 14

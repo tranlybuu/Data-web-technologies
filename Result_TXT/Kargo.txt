@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Kargo
+Last month's change: 0.59%
+Websites: 135586
+Unique Domains: 13662
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kargo is being used
+Games: 18.87%
+Arts & Entertainment: 18.41%
+Food & Drink: 4.80%
+Science & Education: 4.18%
+Others: 53.75%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using Kargo -
+yahoo.com  --  Monthly visits -> 3.5B
+globo.com  --  Monthly visits -> 822.4M
+fandom.com  --  Monthly visits -> 795.9M
+bbc.co.uk  --  Monthly visits -> 649.5M
+cnn.com  --  Monthly visits -> 510.4M
+bbc.com  --  Monthly visits -> 465.1M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+aol.com  --  Monthly visits -> 228.6M
+marca.com  --  Monthly visits -> 220.3M
+t-online.de  --  Monthly visits -> 160.3M
+
+- Geography -
+Kargo usage by websites across the globe
+Leading Countries: Websites
+United States: 27661
+France: 11265
+United Kingdom: 2617
+Russia: 1866
+Canada: 1853
+Brazil: 1728
+Germany: 1548
+Philippines: 1290
+Australia: 1273
+Mexico: 1155
+Rest of the World: 16365

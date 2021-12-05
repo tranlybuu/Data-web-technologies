@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Amplitude
-Last month's change: 1.00%
-Websites: 38107
-Unique Domains: 14540
+Last month's change: 0.91%
+Websites: 38574
+Unique Domains: 14535
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Amplitude is being used
-Computers Electronics & Technology: 9.36%
-Finance: 4.42%
-Business & Consumer Services: 3.58%
-Games: 3.02%
-Others: 79.63%
+Computers Electronics & Technology: 9.20%
+Finance: 4.37%
+Business & Consumer Services: 3.59%
+Games: 2.99%
+Others: 79.84%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ go.xhamsterlive.com  --  Monthly visits -> 73.6M
 - Geography -
 Amplitude usage by websites across the globe
 Leading Countries: Websites
-United States: 12912
-United Kingdom: 1724
-Canada: 1237
-Russia: 1172
-France: 1153
-India: 1025
-Germany: 897
-Brazil: 863
-Australia: 721
-South Korea: 660
-Rest of the World: 10626
+United States: 13104
+United Kingdom: 1753
+Canada: 1268
+Russia: 1190
+France: 1174
+India: 1036
+Germany: 912
+Brazil: 873
+Australia: 733
+South Korea: 654
+Rest of the World: 10758

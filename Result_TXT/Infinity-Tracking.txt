@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Infinity Tracking
+Last month's change: 1.45%
+Websites: 1445
+Unique Domains: 1229
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Infinity Tracking is being used
+Business & Consumer Services: 9.69%
+Finance: 9.07%
+Travel & Tourism: 6.85%
+Health: 5.67%
+Others: 68.72%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using Infinity Tracking -
+telegraph.co.uk  --  Monthly visits -> 46.5M
+viator.com  --  Monthly visits -> 11.7M
+dnb.com  --  Monthly visits -> 10.6M
+talktalk.co.uk  --  Monthly visits -> 8.3M
+britishgas.co.uk  --  Monthly visits -> 8.2M
+rackspace.com  --  Monthly visits -> 7.9M
+specsavers.co.uk  --  Monthly visits -> 4.1M
+coop.co.uk  --  Monthly visits -> 4M
+waldenu.edu  --  Monthly visits -> 3.3M
+gartner.com  --  Monthly visits -> 3.1M
+
+- Geography -
+Infinity Tracking usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 711
+United States: 234
+Ireland: 30
+Spain: 24
+Canada: 23
+Germany: 23
+France: 21
+Australia: 19
+India: 15
+China: 12
+Rest of the World: 223

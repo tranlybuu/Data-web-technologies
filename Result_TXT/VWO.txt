@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: VWO
-Last month's change: 0.10%
-Websites: 52741
-Unique Domains: 29195
+Last month's change: 0.03%
+Websites: 52910
+Unique Domains: 29254
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where VWO is being used
-Computers Electronics & Technology: 6.91%
-Business & Consumer Services: 5.56%
-Finance: 4.67%
+Computers Electronics & Technology: 6.87%
+Business & Consumer Services: 5.54%
+Finance: 4.66%
 Health: 3.90%
-Others: 78.96%
+Others: 79.03%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ gazzetta.it  --  Monthly visits -> 70.1M
 - Geography -
 VWO usage by websites across the globe
 Leading Countries: Websites
-United States: 14800
-United Kingdom: 3255
-Netherlands: 1587
-Canada: 1416
-Germany: 1179
-Australia: 1164
-Japan: 1017
-India: 914
-France: 858
-Spain: 726
-Rest of the World: 11287
+United States: 14860
+United Kingdom: 3266
+Netherlands: 1594
+Canada: 1426
+Germany: 1186
+Australia: 1170
+Japan: 1025
+India: 922
+France: 865
+Italy: 731
+Rest of the World: 11327

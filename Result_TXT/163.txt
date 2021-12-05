@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: 163
 Last month's change: 0.14%
-Websites: 28617
+Websites: 28692
 Unique Domains: 61
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where 163 is being used
-Arts & Entertainment: 14.87%
-Games: 4.23%
+Arts & Entertainment: 14.83%
+Games: 4.22%
 Computers Electronics & Technology: 1.97%
 Lifestyle: 1.62%
-Others: 77.31%
+Others: 77.36%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ open.163.com  --  Monthly visits -> 2.3M
 - Geography -
 163 usage by websites across the globe
 Leading Countries: Websites
-China: 2579
-United States: 509
-Taiwan: 499
-Hong Kong: 303
-Canada: 272
-Australia: 163
-Singapore: 156
+China: 2610
+United States: 512
+Taiwan: 504
+Hong Kong: 312
+Canada: 276
+Australia: 170
+Singapore: 159
 Vietnam: 129
-Japan: 115
-Mongolia: 110
-Rest of the World: 582
+Japan: 118
+Mongolia: 111
+Rest of the World: 591

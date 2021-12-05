@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Tealium
-Last month's change: 1.72%
-Websites: 48877
-Unique Domains: 29306
+Last month's change: 1.76%
+Websites: 48972
+Unique Domains: 29305
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Tealium is being used
-Computers Electronics & Technology: 7.37%
-Finance: 6.58%
-Vehicles: 6.25%
-Lifestyle: 3.61%
-Others: 76.20%
+Computers Electronics & Technology: 7.36%
+Finance: 6.56%
+Vehicles: 6.24%
+Lifestyle: 3.60%
+Others: 76.24%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ups.com  --  Monthly visits -> 191.9M
 - Geography -
 Tealium usage by websites across the globe
 Leading Countries: Websites
-United States: 16112
-Germany: 2758
-United Kingdom: 2313
-Canada: 1429
-Netherlands: 1355
-France: 1285
-Australia: 978
-Italy: 851
-Spain: 834
-Belgium: 616
-Rest of the World: 10913
+United States: 16148
+Germany: 2768
+United Kingdom: 2311
+Canada: 1431
+Netherlands: 1357
+France: 1288
+Australia: 980
+Italy: 853
+Spain: 835
+Belgium: 617
+Rest of the World: 10951

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AB Tasty
+Last month's change: 1.01%
+Websites: 8086
+Unique Domains: 4226
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AB Tasty is being used
+Jobs & Career: 8.98%
+Lifestyle: 7.69%
+Travel & Tourism: 5.94%
+Finance: 4.25%
+Others: 73.14%
+
+
+- Related Technologies -
+Top A/B Testing technologies
+Optimizely
+Optimizely X
+Google Optimize
+VWO
+Convert
+
+
+- Top Websites Using AB Tasty -
+leboncoin.fr  --  Monthly visits -> 143.8M
+programme-tv.net  --  Monthly visits -> 73.4M
+ouest-france.fr  --  Monthly visits -> 59.2M
+journaldesfemmes.fr  --  Monthly visits -> 40.1M
+kmail-lists.com  --  Monthly visits -> 30.2M
+manage.kmail-lists.com  --  Monthly visits -> 30.1M
+tf1.fr  --  Monthly visits -> 29M
+srf.ch  --  Monthly visits -> 28.8M
+service-public.fr  --  Monthly visits -> 28.4M
+leroymerlin.fr  --  Monthly visits -> 28.4M
+
+- Geography -
+AB Tasty usage by websites across the globe
+Leading Countries: Websites
+France: 1488
+Brazil: 1178
+United States: 871
+Spain: 503
+United Kingdom: 366
+Germany: 354
+Belgium: 148
+Italy: 144
+Netherlands: 113
+Australia: 108
+Rest of the World: 1103

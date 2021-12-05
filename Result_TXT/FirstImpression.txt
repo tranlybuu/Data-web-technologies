@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: FirstImpression
+Last month's change: 0.27%
+Websites: 83541
+Unique Domains: 8602
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FirstImpression is being used
+Games: 32.36%
+Arts & Entertainment: 22.04%
+Computers Electronics & Technology: 7.57%
+Science & Education: 2.79%
+Others: 35.25%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using FirstImpression -
+support.google.com  --  Monthly visits -> 1.5B
+bing.com  --  Monthly visits -> 1.1B
+msn.com  --  Monthly visits -> 1B
+fandom.com  --  Monthly visits -> 795.9M
+mediafire.com  --  Monthly visits -> 267.6M
+marca.com  --  Monthly visits -> 220.3M
+cn.bing.com  --  Monthly visits -> 188.7M
+hurriyet.com.tr  --  Monthly visits -> 149.6M
+news18.com  --  Monthly visits -> 129.3M
+milliyet.com.tr  --  Monthly visits -> 111.3M
+
+- Geography -
+FirstImpression usage by websites across the globe
+Leading Countries: Websites
+United States: 18247
+Japan: 3854
+Russia: 2541
+Brazil: 2395
+United Kingdom: 2024
+Germany: 1672
+Spain: 1646
+Finland: 1590
+Mexico: 1391
+Canada: 1385
+Rest of the World: 21133

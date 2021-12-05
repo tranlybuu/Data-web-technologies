@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: ParkLogic
-Last month's change: 4.57%
-Websites: 26880
-Unique Domains: 21046
+Last month's change: 4.58%
+Websites: 27149
+Unique Domains: 21221
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where ParkLogic is being used
-Computers Electronics & Technology: 5.75%
-Arts & Entertainment: 4.48%
-Adult: 4.45%
-Games: 2.10%
-Others: 83.21%
+Computers Electronics & Technology: 5.71%
+Arts & Entertainment: 4.46%
+Adult: 4.40%
+Games: 2.08%
+Others: 83.34%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ww7.viid.me  --  Monthly visits -> 257K
 - Geography -
 ParkLogic usage by websites across the globe
 Leading Countries: Websites
-United States: 5276
-Japan: 1319
-Germany: 1065
-China: 1037
-India: 1014
-United Kingdom: 853
-Brazil: 784
-France: 687
-Italy: 583
-Canada: 553
-Rest of the World: 11061
+United States: 5350
+Japan: 1330
+Germany: 1069
+China: 1042
+India: 1029
+United Kingdom: 865
+Brazil: 787
+France: 693
+Italy: 596
+Canada: 560
+Rest of the World: 11180

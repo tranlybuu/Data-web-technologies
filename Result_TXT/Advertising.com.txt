@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Advertising.com
-Last month's change: 2.04%
-Websites: 751447
-Unique Domains: 174321
+Last month's change: 2.19%
+Websites: 753192
+Unique Domains: 174760
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Advertising.com is being used
 Arts & Entertainment: 9.58%
-Games: 7.60%
+Games: 7.59%
 Computers Electronics & Technology: 5.88%
 News & Media: 5.02%
-Others: 71.92%
+Others: 71.93%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ fandom.com  --  Monthly visits -> 795.9M
 - Geography -
 Advertising.com usage by websites across the globe
 Leading Countries: Websites
-United States: 102284
-Taiwan: 30745
-France: 25297
-Russia: 23979
-Italy: 17993
-Japan: 14679
-Germany: 12671
-United Kingdom: 10907
-Spain: 10575
-Brazil: 9754
-Rest of the World: 138304
+United States: 102609
+Taiwan: 30841
+France: 25376
+Russia: 24196
+Italy: 18054
+Japan: 14757
+Germany: 12701
+United Kingdom: 10977
+Spain: 10607
+Brazil: 9788
+Rest of the World: 139027

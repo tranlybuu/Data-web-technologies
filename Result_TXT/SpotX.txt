@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SpotX
-Last month's change: 1.99%
-Websites: 776866
-Unique Domains: 173504
+Last month's change: 2.06%
+Websites: 778405
+Unique Domains: 173697
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SpotX is being used
-Arts & Entertainment: 10.03%
-Games: 7.45%
+Arts & Entertainment: 10.02%
+Games: 7.44%
 Computers Electronics & Technology: 5.95%
-News & Media: 5.40%
-Others: 71.17%
+News & Media: 5.39%
+Others: 71.20%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ accuweather.com  --  Monthly visits -> 697.5M
 - Geography -
 SpotX usage by websites across the globe
 Leading Countries: Websites
-United States: 99107
-Taiwan: 30930
-Russia: 28911
-France: 25650
-Italy: 18378
-Germany: 13316
-Japan: 12093
-United Kingdom: 11525
-Spain: 10958
-Brazil: 9928
-Rest of the World: 145483
+United States: 99433
+Taiwan: 31028
+Russia: 29032
+France: 25728
+Italy: 18437
+Germany: 13345
+Japan: 12174
+United Kingdom: 11591
+Spain: 10988
+Brazil: 9962
+Rest of the World: 146100

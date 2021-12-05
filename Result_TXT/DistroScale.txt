@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: DistroScale
+Last month's change: 2.15%
+Websites: 83258
+Unique Domains: 3825
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DistroScale is being used
+Games: 33.02%
+Arts & Entertainment: 24.23%
+Computers Electronics & Technology: 7.37%
+Science & Education: 2.63%
+Others: 32.75%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using DistroScale -
+fandom.com  --  Monthly visits -> 795.9M
+imgur.com  --  Monthly visits -> 237.1M
+9anime.to  --  Monthly visits -> 108.9M
+express.co.uk  --  Monthly visits -> 106.4M
+i.imgur.com  --  Monthly visits -> 95M
+aajtak.in  --  Monthly visits -> 91.6M
+independent.co.uk  --  Monthly visits -> 90.9M
+mirror.co.uk  --  Monthly visits -> 79.4M
+m.imgur.com  --  Monthly visits -> 75.8M
+indiatoday.in  --  Monthly visits -> 69.7M
+
+- Geography -
+DistroScale usage by websites across the globe
+Leading Countries: Websites
+United States: 21977
+United Kingdom: 2577
+Russia: 2487
+Brazil: 2425
+Canada: 1893
+Spain: 1731
+Japan: 1556
+Germany: 1538
+Poland: 1409
+Mexico: 1379
+Rest of the World: 20117

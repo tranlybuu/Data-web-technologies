@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Errorception
-Last month's change: 1.08%
-Websites: 475975
-Unique Domains: 59025
+Last month's change: 1.03%
+Websites: 476737
+Unique Domains: 58935
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Errorception is being used
-Arts & Entertainment: 14.34%
-Games: 8.94%
-Adult: 8.36%
-News & Media: 4.21%
-Others: 64.15%
+Arts & Entertainment: 14.32%
+Games: 8.93%
+Adult: 8.35%
+News & Media: 4.19%
+Others: 64.21%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ bbc.com  --  Monthly visits -> 465.1M
 - Geography -
 Errorception usage by websites across the globe
 Leading Countries: Websites
-United States: 85830
-Russia: 19406
-France: 13587
-United Kingdom: 9780
-Canada: 9053
-Italy: 7646
-Germany: 6502
-Brazil: 5782
-Spain: 5252
-Australia: 4471
-Rest of the World: 70368
+United States: 86134
+Russia: 19457
+France: 13623
+United Kingdom: 9821
+Canada: 9099
+Italy: 7667
+Germany: 6529
+Brazil: 5788
+Spain: 5261
+Australia: 4493
+Rest of the World: 70568

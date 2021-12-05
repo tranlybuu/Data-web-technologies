@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Foundation
-Last month's change: 0.35%
-Websites: 227769
-Unique Domains: 176778
+Last month's change: 0.36%
+Websites: 228099
+Unique Domains: 177127
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Foundation is being used
 Science & Education: 4.67%
-Computers Electronics & Technology: 3.39%
-Health: 2.73%
+Computers Electronics & Technology: 3.38%
+Health: 2.72%
 Arts & Entertainment: 2.41%
-Others: 86.81%
+Others: 86.83%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ gofundme.com  --  Monthly visits -> 34.3M
 - Geography -
 Foundation usage by websites across the globe
 Leading Countries: Websites
-United States: 64960
-Germany: 13470
-United Kingdom: 13377
-Canada: 9246
-France: 8132
-Netherlands: 7269
-Australia: 6335
-Italy: 5264
-Poland: 3865
-Russia: 3824
-Rest of the World: 64149
+United States: 65035
+Germany: 13499
+United Kingdom: 13394
+Canada: 9263
+France: 8157
+Netherlands: 7277
+Australia: 6348
+Italy: 5278
+Poland: 3863
+Russia: 3826
+Rest of the World: 64281

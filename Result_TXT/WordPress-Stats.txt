@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: WordPress Stats
+Last month's change: 15.4%
+Websites: 18669
+Unique Domains: 10032
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WordPress Stats is being used
+Science & Education: 4.80%
+Computers Electronics & Technology: 3.97%
+Community & Society: 3.34%
+Arts & Entertainment: 2.98%
+Others: 84.90%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using WordPress Stats -
+wordpress.com  --  Monthly visits -> 345.6M
+files.wordpress.com  --  Monthly visits -> 39.3M
+wp.com  --  Monthly visits -> 35.9M
+po-kaki-to.com  --  Monthly visits -> 15.1M
+ourworldindata.org  --  Monthly visits -> 8.8M
+wp.me  --  Monthly visits -> 2.6M
+dumbingofage.com  --  Monthly visits -> 2.4M
+ninefornews.nl  --  Monthly visits -> 2M
+dramabeans.com  --  Monthly visits -> 1.8M
+valdemarsro.dk  --  Monthly visits -> 1.7M
+
+- Geography -
+WordPress Stats usage by websites across the globe
+Leading Countries: Websites
+United States: 3330
+Japan: 758
+United Kingdom: 580
+Germany: 495
+France: 463
+Canada: 441
+India: 376
+Italy: 375
+Spain: 354
+Australia: 289
+Rest of the World: 4414

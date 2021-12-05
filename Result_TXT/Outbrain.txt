@@ -1,18 +1,18 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Outbrain
-Last month's change: 2.00%
-Websites: 470705
-Unique Domains: 76652
+Last month's change: 2.05%
+Websites: 471596
+Unique Domains: 76770
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Outbrain is being used
 Arts & Entertainment: 10.64%
-Games: 9.40%
+Games: 9.39%
 Computers Electronics & Technology: 5.80%
-News & Media: 4.56%
+News & Media: 4.57%
 Others: 69.60%
 
 
@@ -40,14 +40,14 @@ cnn.com  --  Monthly visits -> 510.4M
 - Geography -
 Outbrain usage by websites across the globe
 Leading Countries: Websites
-United States: 56518
-France: 20902
-Russia: 16352
-Italy: 13883
-Taiwan: 13496
-Japan: 7638
-Germany: 6900
-Spain: 6735
-United Kingdom: 6335
-Brazil: 5802
-Rest of the World: 80280
+United States: 56722
+France: 20958
+Russia: 16534
+Italy: 13933
+Taiwan: 13313
+Japan: 7687
+Germany: 6916
+Spain: 6772
+United Kingdom: 6360
+Brazil: 5818
+Rest of the World: 80719

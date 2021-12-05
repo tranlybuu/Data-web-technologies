@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: RadiumOne
-Last month's change: 8.55%
-Websites: 737
-Unique Domains: 547
+Last month's change: 9.75%
+Websites: 728
+Unique Domains: 543
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where RadiumOne is being used
 Arts & Entertainment: 10.85%
-Travel & Tourism: 8.82%
-Vehicles: 8.41%
-Sports: 6.24%
-Others: 65.67%
+Travel & Tourism: 8.65%
+Vehicles: 8.52%
+Sports: 6.32%
+Others: 65.66%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ one2car.com  --  Monthly visits -> 1.4M
 - Geography -
 RadiumOne usage by websites across the globe
 Leading Countries: Websites
-United States: 278
-United Kingdom: 82
+United States: 272
+United Kingdom: 81
 France: 39
 Canada: 20
 Australia: 19
-Netherlands: 14
+Netherlands: 13
 Denmark: 12
 Italy: 10
 Germany: 9
 Spain: 9
-Rest of the World: 99
+Rest of the World: 98

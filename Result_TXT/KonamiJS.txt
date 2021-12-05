@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: KonamiJS
+Last month's change: 1.85%
+Websites: 3739
+Unique Domains: 2885
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where KonamiJS is being used
+Computers Electronics & Technology: 6.55%
+Business & Consumer Services: 4.73%
+Science & Education: 4.68%
+Games: 4.17%
+Others: 79.86%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using KonamiJS -
+reuters.com  --  Monthly visits -> 73.4M
+tvanouvelles.ca  --  Monthly visits -> 16.4M
+nzz.ch  --  Monthly visits -> 15.6M
+fimfiction.net  --  Monthly visits -> 13.3M
+femina.fr  --  Monthly visits -> 12.8M
+elcolombiano.com  --  Monthly visits -> 6.7M
+omocoro.jp  --  Monthly visits -> 6.1M
+rcvlink.com  --  Monthly visits -> 5.4M
+go.rcvlink.com  --  Monthly visits -> 5.4M
+laprensa.hn  --  Monthly visits -> 4.5M
+
+- Geography -
+KonamiJS usage by websites across the globe
+Leading Countries: Websites
+United States: 1451
+China: 316
+France: 227
+Japan: 162
+Canada: 153
+United Kingdom: 95
+Spain: 67
+Germany: 61
+Netherlands: 46
+Brazil: 44
+Rest of the World: 709

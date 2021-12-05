@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Hotkeys
-Last month's change: 16.7%
+Last month's change: 11.1%
 Websites: 18
 Unique Domains: 11
 --------------------------------------

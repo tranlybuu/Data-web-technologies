@@ -1,17 +1,17 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: FreeWheel
-Last month's change: 1.43%
-Websites: 703580
-Unique Domains: 143732
+Last month's change: 1.50%
+Websites: 704789
+Unique Domains: 143757
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where FreeWheel is being used
 Arts & Entertainment: 9.74%
-Games: 7.88%
-Computers Electronics & Technology: 5.86%
+Games: 7.87%
+Computers Electronics & Technology: 5.85%
 News & Media: 5.02%
 Others: 71.51%
 
@@ -40,14 +40,14 @@ weather.com  --  Monthly visits -> 653.6M
 - Geography -
 FreeWheel usage by websites across the globe
 Leading Countries: Websites
-United States: 83088
-Taiwan: 31042
-France: 24821
-Russia: 23993
-Italy: 17612
-Germany: 12271
-United Kingdom: 9819
-Spain: 9743
-Japan: 9139
-Brazil: 8809
-Rest of the World: 127799
+United States: 83275
+Taiwan: 31137
+France: 24881
+Russia: 24195
+Italy: 17659
+Germany: 12291
+United Kingdom: 9847
+Spain: 9765
+Japan: 9202
+Brazil: 8833
+Rest of the World: 128260

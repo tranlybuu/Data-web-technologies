@@ -1,9 +1,9 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Clicky
 Last month's change: 0.27%
-Websites: 41640
-Unique Domains: 35716
+Websites: 41672
+Unique Domains: 35735
 --------------------------------------
 
 
@@ -11,9 +11,9 @@ Unique Domains: 35716
 Industry verticals where Clicky is being used
 Vehicles: 7.83%
 Computers Electronics & Technology: 6.59%
-Arts & Entertainment: 3.16%
+Arts & Entertainment: 3.15%
 Science & Education: 2.68%
-Others: 79.73%
+Others: 79.75%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ alvolante.it  --  Monthly visits -> 5.6M
 - Geography -
 Clicky usage by websites across the globe
 Leading Countries: Websites
-United States: 17412
-United Kingdom: 1846
-Canada: 1579
-France: 1375
-India: 1172
-Netherlands: 1156
+United States: 17419
+United Kingdom: 1851
+Canada: 1581
+France: 1376
+India: 1173
+Netherlands: 1157
 Germany: 1146
-Australia: 741
-Italy: 681
-Brazil: 619
-Rest of the World: 10203
+Australia: 739
+Italy: 684
+Brazil: 620
+Rest of the World: 10216

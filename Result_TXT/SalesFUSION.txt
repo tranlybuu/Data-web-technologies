@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: SalesFUSION
-Last month's change: 2.75%
-Websites: 255
-Unique Domains: 227
+Last month's change: 2.38%
+Websites: 252
+Unique Domains: 224
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where SalesFUSION is being used
-Computers Electronics & Technology: 15.69%
-Business & Consumer Services: 8.24%
-Heavy Industry & Engineering: 7.06%
-News & Media: 4.71%
-Others: 64.31%
+Computers Electronics & Technology: 15.87%
+Business & Consumer Services: 8.33%
+Heavy Industry & Engineering: 6.75%
+News & Media: 4.76%
+Others: 64.29%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ teamsoftware.com  --  Monthly visits -> 141.7K
 - Geography -
 SalesFUSION usage by websites across the globe
 Leading Countries: Websites
-United States: 138
+United States: 135
 Canada: 11
 United Kingdom: 11
 India: 9
 Germany: 5
+Japan: 5
 Australia: 4
 France: 4
-Japan: 4
 New Zealand: 4
-Vietnam: 4
+Ireland: 3
 Rest of the World: 44

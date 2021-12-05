@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Graphiq
+Last month's change: 1.92%
+Websites: 782
+Unique Domains: 412
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Graphiq is being used
+Computers Electronics & Technology: 10.23%
+Science & Education: 9.08%
+Arts & Entertainment: 3.71%
+Business & Consumer Services: 2.94%
+Others: 74.04%
+
+
+- Related Technologies -
+Top Charting technologies
+Google Charts
+Highcharts
+TradingView
+amCharts
+TradingView Widget
+
+
+- Top Websites Using Graphiq -
+ps.w.org  --  Monthly visits -> 773.3K
+allmyfaves.com  --  Monthly visits -> 451K
+mccc.edu  --  Monthly visits -> 272.9K
+stonehill.edu  --  Monthly visits -> 195.7K
+dinosaurpictures.org  --  Monthly visits -> 189.8K
+amp.modbee.com  --  Monthly visits -> 167.3K
+libraryguides.missouri.edu  --  Monthly visits -> 161.6K
+sexinfoonline.com  --  Monthly visits -> 143.5K
+hendrix.edu  --  Monthly visits -> 119K
+genealogytoday.com  --  Monthly visits -> 103.5K
+
+- Geography -
+Graphiq usage by websites across the globe
+Leading Countries: Websites
+United States: 292
+India: 43
+United Kingdom: 23
+Canada: 18
+Japan: 16
+Australia: 14
+Germany: 14
+Brazil: 13
+France: 13
+Philippines: 9
+Rest of the World: 180

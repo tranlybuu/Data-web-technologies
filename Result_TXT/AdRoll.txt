@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AdRoll
+Last month's change: 1.50%
+Websites: 73601
+Unique Domains: 53530
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AdRoll is being used
+Computers Electronics & Technology: 8.37%
+Business & Consumer Services: 5.57%
+Lifestyle: 4.98%
+Health: 3.99%
+Others: 77.10%
+
+
+- Related Technologies -
+Top Retargeting technologies
+Facebook Custom Audiences
+Criteo
+Criteo Publisher
+Conversant Media
+Google Remarketing
+
+
+- Top Websites Using AdRoll -
+wordpress.com  --  Monthly visits -> 345.6M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+force.com  --  Monthly visits -> 188.6M
+linktr.ee  --  Monthly visits -> 135M
+slack.com  --  Monthly visits -> 124.7M
+tenki.jp  --  Monthly visits -> 104.7M
+crunchyroll.com  --  Monthly visits -> 67.9M
+flickr.com  --  Monthly visits -> 58.7M
+service-now.com  --  Monthly visits -> 56.7M
+box.com  --  Monthly visits -> 53.7M
+
+- Geography -
+AdRoll usage by websites across the globe
+Leading Countries: Websites
+United States: 34802
+Australia: 3281
+United Kingdom: 2767
+Canada: 2619
+India: 2148
+Germany: 1027
+France: 998
+Japan: 823
+Italy: 766
+Brazil: 621
+Rest of the World: 13312

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Sputnik
+Last month's change: 0.34%
+Websites: 19841
+Unique Domains: 5805
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sputnik is being used
+Law & Government: 39.71%
+Science & Education: 31.70%
+Health: 4.37%
+Arts & Entertainment: 1.57%
+Others: 22.66%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Sputnik -
+pochta.ru  --  Monthly visits -> 30.8M
+sudrf.ru  --  Monthly visits -> 10.3M
+rosminzdrav.ru  --  Monthly visits -> 8.6M
+fssp.gov.ru  --  Monthly visits -> 8.2M
+rospotrebnadzor.ru  --  Monthly visits -> 7.3M
+nso.ru  --  Monthly visits -> 5.3M
+fss.ru  --  Monthly visits -> 5.1M
+permkrai.ru  --  Monthly visits -> 4.9M
+admhmao.ru  --  Monthly visits -> 4.7M
+ukraina.ru  --  Monthly visits -> 4.6M
+
+- Geography -
+Sputnik usage by websites across the globe
+Leading Countries: Websites
+Russia: 14706
+Ukraine: 274
+Kazakhstan: 74
+Belarus: 71
+Netherlands: 19
+United States: 15
+Germany: 13
+Moldova: 13
+Turkey: 10
+Poland: 9
+Rest of the World: 116

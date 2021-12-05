@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: LockerDome
+Last month's change: 3.97%
+Websites: 504
+Unique Domains: 202
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LockerDome is being used
+Sports: 7.94%
+News & Media: 6.35%
+Arts & Entertainment: 4.76%
+Community & Society: 3.37%
+Others: 77.58%
+
+
+- Related Technologies -
+Top Polls and Quizzes technologies
+Carambola
+WP-Polls
+YOP Poll
+Polldaddy
+ProProfs
+
+
+- Top Websites Using LockerDome -
+euroleague.net  --  Monthly visits -> 3.8M
+tribalfootball.com  --  Monthly visits -> 1.4M
+ncronline.org  --  Monthly visits -> 1.2M
+dinarguru.com  --  Monthly visits -> 1.2M
+trumptrainnews.com  --  Monthly visits -> 894.3K
+makeupandbeauty.com  --  Monthly visits -> 873.2K
+wng.org  --  Monthly visits -> 862.6K
+lockerdome.com  --  Monthly visits -> 721.3K
+iotwreport.com  --  Monthly visits -> 679.6K
+wolfstreet.com  --  Monthly visits -> 617.3K
+
+- Geography -
+LockerDome usage by websites across the globe
+Leading Countries: Websites
+United States: 175
+India: 12
+Russia: 12
+United Kingdom: 11
+Canada: 10
+Brazil: 6
+Australia: 4
+Greece: 4
+Italy: 4
+Japan: 4
+Rest of the World: 85

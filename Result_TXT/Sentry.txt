@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Sentry
+Last month's change: 1.98%
+Websites: 4088
+Unique Domains: 2078
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sentry is being used
+Science & Education: 6.36%
+Computers Electronics & Technology: 5.43%
+Finance: 3.01%
+Food & Drink: 2.81%
+Others: 82.39%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Sentry -
+overleaf.com  --  Monthly visits -> 25.8M
+evite.com  --  Monthly visits -> 18.7M
+iubenda.com  --  Monthly visits -> 5.1M
+busbud.com  --  Monthly visits -> 4.4M
+play.tv2.no  --  Monthly visits -> 4.4M
+loggi.com  --  Monthly visits -> 3.4M
+whoeasy.com  --  Monthly visits -> 2.8M
+powtoon.com  --  Monthly visits -> 2.5M
+easistent.com  --  Monthly visits -> 2.3M
+instamojo.com  --  Monthly visits -> 2.3M
+
+- Geography -
+Sentry usage by websites across the globe
+Leading Countries: Websites
+Poland: 1010
+United States: 668
+United Kingdom: 122
+Netherlands: 108
+Brazil: 90
+Hungary: 85
+Canada: 79
+Romania: 67
+Japan: 60
+Slovakia: 58
+Rest of the World: 690

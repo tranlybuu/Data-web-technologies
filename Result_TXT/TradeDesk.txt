@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: TradeDesk
+Last month's change: 1.94%
+Websites: 107094
+Unique Domains: 61831
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TradeDesk is being used
+Arts & Entertainment: 7.11%
+Games: 6.88%
+Vehicles: 6.14%
+Travel & Tourism: 4.69%
+Others: 75.18%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using TradeDesk -
+samsung.com  --  Monthly visits -> 805.5M
+spotify.com  --  Monthly visits -> 422.6M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+zillow.com  --  Monthly visits -> 263.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+hulu.com  --  Monthly visits -> 224.6M
+ups.com  --  Monthly visits -> 191.9M
+definition.org  --  Monthly visits -> 189M
+hbomax.com  --  Monthly visits -> 179.1M
+dropbox.com  --  Monthly visits -> 172.5M
+
+- Geography -
+TradeDesk usage by websites across the globe
+Leading Countries: Websites
+United States: 52658
+Japan: 8807
+Australia: 3304
+Canada: 2846
+United Kingdom: 2834
+Germany: 1935
+France: 1685
+India: 1038
+Italy: 962
+Brazil: 874
+Rest of the World: 14811

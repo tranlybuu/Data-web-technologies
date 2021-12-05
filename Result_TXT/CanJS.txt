@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: CanJS
-Last month's change: 0.71%
-Websites: 19993
-Unique Domains: 16165
+Last month's change: 0.70%
+Websites: 20027
+Unique Domains: 16194
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where CanJS is being used
-Computers Electronics & Technology: 3.83%
+Computers Electronics & Technology: 3.82%
 Travel & Tourism: 3.01%
 Science & Education: 2.80%
 News & Media: 2.49%
-Others: 87.88%
+Others: 87.89%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ m.qq.com  --  Monthly visits -> 13.5M
 - Geography -
 CanJS usage by websites across the globe
 Leading Countries: Websites
-Italy: 8805
-United States: 1425
-China: 636
+Italy: 8807
+United States: 1429
+China: 640
 Germany: 514
-Russia: 466
-United Kingdom: 415
-France: 365
-Spain: 279
-Canada: 238
+Russia: 465
+United Kingdom: 417
+France: 366
+Spain: 281
+Canada: 239
 Vietnam: 235
-Rest of the World: 4446
+Rest of the World: 4464

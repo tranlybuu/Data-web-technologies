@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AT Internet
+Last month's change: 3.66%
+Websites: 24438
+Unique Domains: 9124
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AT Internet is being used
+Arts & Entertainment: 6.42%
+Hobbies & Leisure: 5.52%
+Science & Education: 4.45%
+Adult: 3.93%
+Others: 79.67%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using AT Internet -
+t-online.de  --  Monthly visits -> 160.3M
+leboncoin.fr  --  Monthly visits -> 143.8M
+gazzetta.it  --  Monthly visits -> 70.1M
+tagesschau.de  --  Monthly visits -> 67.5M
+francetvinfo.fr  --  Monthly visits -> 62.5M
+credit-agricole.fr  --  Monthly visits -> 62.2M
+ouest-france.fr  --  Monthly visits -> 59.2M
+dw.com  --  Monthly visits -> 50M
+idealista.com  --  Monthly visits -> 45.6M
+m.soundcloud.com  --  Monthly visits -> 37.5M
+
+- Geography -
+AT Internet usage by websites across the globe
+Leading Countries: Websites
+France: 8700
+Germany: 764
+Russia: 575
+United States: 572
+Belgium: 292
+Spain: 239
+Canada: 196
+Switzerland: 182
+United Kingdom: 155
+Ukraine: 141
+Rest of the World: 2611

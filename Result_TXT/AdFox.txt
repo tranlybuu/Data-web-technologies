@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: AdFox
+Last month's change: 1.05%
+Websites: 57631
+Unique Domains: 1125
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AdFox is being used
+Arts & Entertainment: 21.73%
+News & Media: 16.10%
+Community & Society: 5.27%
+Health: 5.25%
+Others: 51.65%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using AdFox -
+yandex.ru  --  Monthly visits -> 3.9B
+lenta.ru  --  Monthly visits -> 133.1M
+yandex.com  --  Monthly visits -> 120.8M
+rt.com  --  Monthly visits -> 120.6M
+rambler.ru  --  Monthly visits -> 114M
+livejournal.com  --  Monthly visits -> 75.3M
+pikabu.ru  --  Monthly visits -> 70.8M
+championat.com  --  Monthly visits -> 65.3M
+m.lenta.ru  --  Monthly visits -> 62M
+music.yandex.ru  --  Monthly visits -> 51.5M
+
+- Geography -
+AdFox usage by websites across the globe
+Leading Countries: Websites
+Russia: 17004
+United States: 2502
+Ukraine: 2033
+Belarus: 683
+United Kingdom: 441
+Germany: 409
+Canada: 371
+Israel: 240
+Netherlands: 210
+Australia: 194
+Rest of the World: 3200

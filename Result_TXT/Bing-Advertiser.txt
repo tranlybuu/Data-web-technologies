@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Bing Advertiser
-Last month's change: 0.93%
-Websites: 286543
-Unique Domains: 176176
+Last month's change: 0.96%
+Websites: 287075
+Unique Domains: 176342
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Bing Advertiser is being used
-Computers Electronics & Technology: 6.96%
+Computers Electronics & Technology: 6.94%
 Lifestyle: 5.16%
 Business & Consumer Services: 4.76%
-Vehicles: 4.34%
-Others: 78.77%
+Vehicles: 4.33%
+Others: 78.81%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ foxnews.com  --  Monthly visits -> 283M
 - Geography -
 Bing Advertiser usage by websites across the globe
 Leading Countries: Websites
-United States: 107859
-United Kingdom: 17636
-Canada: 9724
-Germany: 9356
-France: 8614
-Australia: 7296
-Netherlands: 6143
-Taiwan: 4698
-Italy: 4663
-India: 4645
-Rest of the World: 54310
+United States: 108008
+United Kingdom: 17685
+Canada: 9744
+Germany: 9368
+France: 8645
+Australia: 7309
+Netherlands: 6156
+Taiwan: 4729
+Italy: 4677
+India: 4654
+Rest of the World: 54501

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Bizible
+Last month's change: 0.34%
+Websites: 14753
+Unique Domains: 3631
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bizible is being used
+Computers Electronics & Technology: 21.13%
+Business & Consumer Services: 8.11%
+Finance: 6.05%
+Science & Education: 3.73%
+Others: 60.98%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using Bizible -
+schoology.com  --  Monthly visits -> 96.7M
+adjust.com  --  Monthly visits -> 86.1M
+shopping.naver.com  --  Monthly visits -> 85.5M
+app.adjust.com  --  Monthly visits -> 81.4M
+shopify.com  --  Monthly visits -> 57.5M
+asana.com  --  Monthly visits -> 45.5M
+afreecatv.com  --  Monthly visits -> 42.3M
+powerschool.com  --  Monthly visits -> 35.3M
+post.pinterest.com  --  Monthly visits -> 32.7M
+medallia.com  --  Monthly visits -> 29.6M
+
+- Geography -
+Bizible usage by websites across the globe
+Leading Countries: Websites
+United States: 4606
+United Kingdom: 505
+Canada: 370
+South Korea: 329
+Germany: 319
+Japan: 314
+India: 307
+Australia: 272
+France: 246
+Brazil: 244
+Rest of the World: 2690

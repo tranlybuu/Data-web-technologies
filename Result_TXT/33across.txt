@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: 33across
-Last month's change: 1.81%
-Websites: 1144384
-Unique Domains: 192007
+Last month's change: 1.86%
+Websites: 1146499
+Unique Domains: 192327
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where 33across is being used
 Arts & Entertainment: 8.68%
-Science & Education: 8.57%
-Computers Electronics & Technology: 6.11%
+Science & Education: 8.55%
+Computers Electronics & Technology: 6.10%
 Games: 5.72%
-Others: 70.92%
+Others: 70.95%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ wordpress.com  --  Monthly visits -> 345.6M
 - Geography -
 33across usage by websites across the globe
 Leading Countries: Websites
-United States: 135992
-France: 28615
-Italy: 22799
-Taiwan: 20985
-Russia: 20971
-United Kingdom: 18357
-Indonesia: 17944
-Spain: 16809
-Brazil: 16477
-India: 15023
-Rest of the World: 229550
+United States: 136466
+France: 28721
+Italy: 22872
+Russia: 21175
+Taiwan: 20845
+United Kingdom: 18469
+Indonesia: 17989
+Spain: 16869
+Brazil: 16516
+India: 15127
+Rest of the World: 230588

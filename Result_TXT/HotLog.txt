@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: HotLog
+Last month's change: 1.68%
+Websites: 17068
+Unique Domains: 11315
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HotLog is being used
+Science & Education: 12.33%
+Arts & Entertainment: 9.27%
+Computers Electronics & Technology: 8.76%
+Heavy Industry & Engineering: 7.05%
+Others: 62.58%
+
+
+- Related Technologies -
+Top Analytics technologies
+Google Analytics
+Facebook Domain Insights
+33across
+comScore ScorecardResearch
+Yandex Metrics
+
+
+- Top Websites Using HotLog -
+litnet.com  --  Monthly visits -> 52.4M
+booknet.com  --  Monthly visits -> 6.9M
+vsetv.com  --  Monthly visits -> 4.9M
+pravoslavie.ru  --  Monthly visits -> 4M
+volganet.ru  --  Monthly visits -> 3.4M
+startpage.co.il  --  Monthly visits -> 3.3M
+bluesystem.me  --  Monthly visits -> 3M
+gamesisart.ru  --  Monthly visits -> 2.9M
+date.bluesystem.top  --  Monthly visits -> 2.6M
+akipress.org  --  Monthly visits -> 2.5M
+
+- Geography -
+HotLog usage by websites across the globe
+Leading Countries: Websites
+Russia: 9992
+Ukraine: 1769
+Belarus: 332
+Kazakhstan: 300
+United States: 174
+Germany: 117
+Moldova: 84
+Uzbekistan: 70
+Latvia: 58
+Netherlands: 55
+Rest of the World: 890

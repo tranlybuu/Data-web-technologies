@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Google AdWords Advertiser
 Last month's change: 1.16%
-Websites: 1624867
-Unique Domains: 1138731
+Websites: 1627853
+Unique Domains: 1140524
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Google AdWords Advertiser is being used
-Computers Electronics & Technology: 5.40%
-Lifestyle: 4.44%
-Business & Consumer Services: 3.59%
-Vehicles: 3.39%
-Others: 83.19%
+Computers Electronics & Technology: 5.39%
+Lifestyle: 4.43%
+Business & Consumer Services: 3.58%
+Vehicles: 3.38%
+Others: 83.22%
 
 
 - Related Technologies -
@@ -26,28 +26,28 @@ Bing Universal Advertiser
 
 
 - Top Websites Using Google AdWords Advertiser -
+youtube.com  --  Monthly visits -> 34.6B
 classroom.google.com  --  Monthly visits -> 1.4B
 roblox.com  --  Monthly visits -> 1B
 google.com.br  --  Monthly visits -> 795.6M
 taboola.com  --  Monthly visits -> 503M
-walmart.com  --  Monthly visits -> 440.6M
 etsy.com  --  Monthly visits -> 404.5M
-booking.com  --  Monthly visits -> 401.9M
 outbrain.com  --  Monthly visits -> 373M
 web.roblox.com  --  Monthly visits -> 352.5M
+wordpress.com  --  Monthly visits -> 345.6M
 pixiv.net  --  Monthly visits -> 328.4M
 
 - Geography -
 Google AdWords Advertiser usage by websites across the globe
 Leading Countries: Websites
-United States: 341642
-Japan: 125652
-United Kingdom: 59159
-Brazil: 52666
-Russia: 49622
-Canada: 42651
-Poland: 38615
-Australia: 38596
-India: 37495
-Germany: 36101
-Rest of the World: 541839
+United States: 342216
+Japan: 125948
+United Kingdom: 59290
+Brazil: 52803
+Russia: 49751
+Canada: 42757
+Australia: 38696
+Poland: 38685
+India: 37606
+Germany: 36172
+Rest of the World: 543097

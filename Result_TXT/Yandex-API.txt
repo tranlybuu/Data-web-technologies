@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Yandex API
-Last month's change: 2.32%
-Websites: 39853
-Unique Domains: 26715
+Last month's change: 2.40%
+Websites: 39818
+Unique Domains: 26637
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Yandex API is being used
 Arts & Entertainment: 9.39%
-Heavy Industry & Engineering: 7.94%
+Heavy Industry & Engineering: 7.93%
 Science & Education: 6.58%
-Computers Electronics & Technology: 6.57%
-Others: 69.52%
+Computers Electronics & Technology: 6.56%
+Others: 69.54%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ egov.kz  --  Monthly visits -> 5.8M
 - Geography -
 Yandex API usage by websites across the globe
 Leading Countries: Websites
-Russia: 24245
-Ukraine: 2523
-Belarus: 893
+Russia: 24220
+Ukraine: 2519
+Belarus: 895
 Kazakhstan: 605
-United States: 277
+United States: 276
 Germany: 178
 Uzbekistan: 131
 Moldova: 121
 Netherlands: 106
-Poland: 96
-Rest of the World: 1645
+Poland: 95
+Rest of the World: 1639

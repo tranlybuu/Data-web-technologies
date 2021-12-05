@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: RingCentral
+Last month's change: 4.69%
+Websites: 341
+Unique Domains: 316
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RingCentral is being used
+Computers Electronics & Technology: 9.68%
+Finance: 5.57%
+Business & Consumer Services: 4.99%
+Health: 4.11%
+Others: 75.66%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using RingCentral -
+ringcentral.com  --  Monthly visits -> 8.8M
+meetings.ringcentral.com  --  Monthly visits -> 2.3M
+login.ringcentral.com  --  Monthly visits -> 1.7M
+finance.alot.com  --  Monthly visits -> 1.1M
+goantiquing.net  --  Monthly visits -> 676.1K
+cuit.columbia.edu  --  Monthly visits -> 408.5K
+support.ringcentral.com  --  Monthly visits -> 297.6K
+ringcentral.zoom.us  --  Monthly visits -> 286.9K
+act.leadnow.ca  --  Monthly visits -> 157.2K
+iaapa.org  --  Monthly visits -> 154K
+
+- Geography -
+RingCentral usage by websites across the globe
+Leading Countries: Websites
+United States: 220
+Canada: 32
+India: 12
+Australia: 6
+Kenya: 4
+Pakistan: 4
+Philippines: 4
+Spain: 3
+Thailand: 3
+Turkey: 3
+Rest of the World: 27

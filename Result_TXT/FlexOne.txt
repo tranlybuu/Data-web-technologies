@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: FlexOne
+Last month's change: 0.66%
+Websites: 81115
+Unique Domains: 3983
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FlexOne is being used
+Computers Electronics & Technology: 16.44%
+Arts & Entertainment: 10.95%
+Games: 8.88%
+Food & Drink: 8.19%
+Others: 55.54%
+
+
+- Related Technologies -
+Top Advertising technologies
+Ads Txt
+AppNexus
+Amazon A9
+PubMatic
+RhythmOne
+
+
+- Top Websites Using FlexOne -
+yahoo.co.jp  --  Monthly visits -> 2.3B
+m.yahoo.co.jp  --  Monthly visits -> 669.2M
+trilltrill.jp  --  Monthly visits -> 217.6M
+ameblo.jp  --  Monthly visits -> 200.8M
+cookpad.com  --  Monthly visits -> 134.3M
+itmedia.co.jp  --  Monthly visits -> 131.4M
+gamewith.jp  --  Monthly visits -> 128.6M
+news.livedoor.com  --  Monthly visits -> 119.5M
+kakaku.com  --  Monthly visits -> 113.3M
+rdsig.yahoo.co.jp  --  Monthly visits -> 111.6M
+
+- Geography -
+FlexOne usage by websites across the globe
+Leading Countries: Websites
+Japan: 43734
+United States: 463
+South Korea: 129
+China: 127
+Taiwan: 106
+Germany: 66
+Thailand: 64
+United Kingdom: 62
+Hong Kong: 54
+Vietnam: 54
+Rest of the World: 847

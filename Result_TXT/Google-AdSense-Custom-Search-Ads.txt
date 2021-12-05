@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Google AdSense Custom Search Ads
+Last month's change: 16.9%
+Websites: 211531
+Unique Domains: 140481
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google AdSense Custom Search Ads is being used
+Computers Electronics & Technology: 5.95%
+Arts & Entertainment: 4.31%
+Science & Education: 4.23%
+Adult: 2.84%
+Others: 82.67%
+
+
+- Related Technologies -
+Top Publisher Ad Server technologies
+DoubleClick
+Google Adsense
+OpenX
+Rubicon Project
+Index Exchange
+
+
+- Top Websites Using Google AdSense Custom Search Ads -
+douban.com  --  Monthly visits -> 166.3M
+ebay-kleinanzeigen.de  --  Monthly visits -> 160.9M
+itmedia.co.jp  --  Monthly visits -> 131.4M
+olx.com.br  --  Monthly visits -> 115.8M
+olx.pl  --  Monthly visits -> 108.8M
+belnovosti.by  --  Monthly visits -> 104.9M
+independent.co.uk  --  Monthly visits -> 90.9M
+wikihow.com  --  Monthly visits -> 88.3M
+gamer.com.tw  --  Monthly visits -> 74.7M
+kohls.com  --  Monthly visits -> 73.7M
+
+- Geography -
+Google AdSense Custom Search Ads usage by websites across the globe
+Leading Countries: Websites
+United States: 30722
+Japan: 13950
+India: 7138
+China: 5873
+United Kingdom: 5473
+Russia: 5337
+Germany: 4972
+Italy: 3811
+France: 3772
+Canada: 3593
+Rest of the World: 62707

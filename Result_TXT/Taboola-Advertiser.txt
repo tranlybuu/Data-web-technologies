@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Taboola Advertiser
+Last month's change: 1.64%
+Websites: 118875
+Unique Domains: 41566
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Taboola Advertiser is being used
+News & Media: 7.41%
+Arts & Entertainment: 6.03%
+Community & Society: 5.95%
+Computers Electronics & Technology: 5.55%
+Others: 75.06%
+
+
+- Related Technologies -
+Top Advertisers technologies
+Facebook Advertiser
+Google AdWords Advertiser
+DoubleClick Advertiser
+LinkedIn Advertiser
+Bing Advertiser
+
+
+- Top Websites Using Taboola Advertiser -
+weather.com  --  Monthly visits -> 653.6M
+sohu.com  --  Monthly visits -> 268.9M
+marca.com  --  Monthly visits -> 220.3M
+bild.de  --  Monthly visits -> 206.6M
+animeflv.net  --  Monthly visits -> 194.1M
+kompas.com  --  Monthly visits -> 194M
+dcinside.com  --  Monthly visits -> 193.5M
+definition.org  --  Monthly visits -> 189M
+force.com  --  Monthly visits -> 188.6M
+t-online.de  --  Monthly visits -> 160.3M
+
+- Geography -
+Taboola Advertiser usage by websites across the globe
+Leading Countries: Websites
+United States: 14842
+France: 5828
+Brazil: 3689
+India: 3478
+Germany: 2706
+United Kingdom: 2530
+Spain: 2226
+Israel: 1879
+Japan: 1626
+Russia: 1566
+Rest of the World: 26820

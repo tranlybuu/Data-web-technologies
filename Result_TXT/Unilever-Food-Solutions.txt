@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Unilever Food Solutions
-Last month's change: 0.95%
-Websites: 629
-Unique Domains: 511
+Last month's change: 1.11%
+Websites: 632
+Unique Domains: 513
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Unilever Food Solutions is being used
-Food & Drink: 27.98%
-Lifestyle: 9.54%
-Health: 5.25%
-Arts & Entertainment: 2.86%
-Others: 54.37%
+Food & Drink: 27.85%
+Lifestyle: 9.49%
+Health: 5.22%
+Arts & Entertainment: 2.85%
+Others: 54.59%
 
 
 - Related Technologies -
@@ -42,7 +42,7 @@ Unilever Food Solutions usage by websites across the globe
 Leading Countries: Websites
 United States: 74
 Indonesia: 33
-Germany: 28
+Germany: 29
 India: 26
 United Kingdom: 24
 Netherlands: 21
@@ -50,4 +50,4 @@ Brazil: 20
 Italy: 16
 France: 14
 Canada: 13
-Rest of the World: 297
+Rest of the World: 299

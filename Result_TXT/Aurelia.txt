@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Aurelia
+Last month's change: 0.06%
+Websites: 1597
+Unique Domains: 981
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Aurelia is being used
+Finance: 8.02%
+Jobs & Career: 7.33%
+Food & Drink: 4.95%
+Computers Electronics & Technology: 3.01%
+Others: 76.71%
+
+
+- Related Technologies -
+Top JavaScript technologies
+jQuery
+Bootstrap
+Modernizr
+jQuery UI
+Slick
+
+
+- Top Websites Using Aurelia -
+qualtrics.com  --  Monthly visits -> 72.5M
+thelott.com  --  Monthly visits -> 16.6M
+careers.microsoft.com  --  Monthly visits -> 3.6M
+my.voya.com  --  Monthly visits -> 2.5M
+play.stmath.com  --  Monthly visits -> 2.1M
+filmstaden.se  --  Monthly visits -> 1.8M
+photocardportal.tfl.gov.uk  --  Monthly visits -> 1.1M
+mylu.liberty.edu  --  Monthly visits -> 959K
+fplgameweek.com  --  Monthly visits -> 933K
+central.axxessweb.com  --  Monthly visits -> 905.1K
+
+- Geography -
+Aurelia usage by websites across the globe
+Leading Countries: Websites
+United States: 409
+Germany: 116
+United Kingdom: 52
+Australia: 41
+Canada: 40
+Denmark: 40
+France: 40
+Netherlands: 39
+India: 37
+Switzerland: 37
+Rest of the World: 423

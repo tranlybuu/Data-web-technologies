@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 05/12/2021
+Technology: Ringostat
+Last month's change: 1.15%
+Websites: 1825
+Unique Domains: 1400
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ringostat is being used
+Home & Garden: 13.10%
+Heavy Industry & Engineering: 10.58%
+Vehicles: 8.49%
+Computers Electronics & Technology: 7.73%
+Others: 60.11%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using Ringostat -
+ua.jooble.org  --  Monthly visits -> 3.7M
+citrus.ua  --  Monthly visits -> 2.5M
+eldorado.ua  --  Monthly visits -> 2.1M
+dobrobut.com  --  Monthly visits -> 1.9M
+infoshina.com.ua  --  Monthly visits -> 1M
+shiny-diski.com.ua  --  Monthly visits -> 928.9K
+florium.ua  --  Monthly visits -> 609.9K
+viyar.ua  --  Monthly visits -> 473.5K
+ukrtelecom.ua  --  Monthly visits -> 409.7K
+m.shiny-diski.com.ua  --  Monthly visits -> 401.4K
+
+- Geography -
+Ringostat usage by websites across the globe
+Leading Countries: Websites
+Ukraine: 939
+Russia: 371
+Kazakhstan: 165
+Belarus: 23
+United States: 23
+Poland: 8
+Bulgaria: 7
+Israel: 7
+Germany: 6
+Latvia: 5
+Rest of the World: 54

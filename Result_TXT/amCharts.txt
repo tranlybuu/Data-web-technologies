@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: amCharts
-Last month's change: 0.04%
-Websites: 7061
-Unique Domains: 5240
+Last month's change: 0.13%
+Websites: 7062
+Unique Domains: 5245
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where amCharts is being used
-Finance: 10.93%
+Finance: 10.92%
 Law & Government: 6.73%
 Games: 6.06%
 Computers Electronics & Technology: 5.49%
-Others: 70.78%
+Others: 70.80%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ banki.ru  --  Monthly visits -> 10.7M
 - Geography -
 amCharts usage by websites across the globe
 Leading Countries: Websites
-United States: 908
+United States: 907
 Japan: 543
-South Korea: 451
-India: 393
+South Korea: 452
+India: 392
 Russia: 376
 Germany: 218
 Canada: 166
 Poland: 161
 France: 158
-China: 139
-Rest of the World: 2586
+United Kingdom: 139
+Rest of the World: 2588

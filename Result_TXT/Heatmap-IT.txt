@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Heatmap IT
-Last month's change: 1.43%
-Websites: 58661
-Unique Domains: 43968
+Last month's change: 1.56%
+Websites: 58955
+Unique Domains: 44149
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Heatmap IT is being used
-Computers Electronics & Technology: 6.76%
-Business & Consumer Services: 4.80%
+Computers Electronics & Technology: 6.73%
+Business & Consumer Services: 4.79%
 Finance: 3.86%
-Lifestyle: 3.61%
-Others: 80.97%
+Lifestyle: 3.59%
+Others: 81.04%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ springer.com  --  Monthly visits -> 47.4M
 - Geography -
 Heatmap IT usage by websites across the globe
 Leading Countries: Websites
-Japan: 14718
-United States: 9722
-Germany: 3201
-United Kingdom: 2092
-Italy: 1583
-India: 1526
-France: 1312
-Canada: 1129
-Australia: 1125
-Brazil: 1078
-Rest of the World: 13900
+Japan: 14828
+United States: 9767
+Germany: 3220
+United Kingdom: 2094
+Italy: 1589
+India: 1530
+France: 1325
+Canada: 1133
+Australia: 1130
+Brazil: 1086
+Rest of the World: 13978

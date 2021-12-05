@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Marin Software
-Last month's change: 1.85%
-Websites: 15213
-Unique Domains: 5826
+Last month's change: 1.91%
+Websites: 15209
+Unique Domains: 5822
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Marin Software is being used
-Science & Education: 5.84%
+Science & Education: 5.83%
 Business & Consumer Services: 4.58%
-Computers Electronics & Technology: 4.44%
-Health: 4.23%
-Others: 80.91%
+Computers Electronics & Technology: 4.42%
+Health: 4.24%
+Others: 80.93%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ mgmresorts.com  --  Monthly visits -> 6.7M
 - Geography -
 Marin Software usage by websites across the globe
 Leading Countries: Websites
-United States: 5519
-United Kingdom: 459
-Australia: 362
-Canada: 359
+United States: 5513
+United Kingdom: 461
+Australia: 363
+Canada: 358
 India: 193
 Germany: 118
 France: 117
 Spain: 94
-Italy: 84
+Italy: 83
 Netherlands: 80
-Rest of the World: 1777
+Rest of the World: 1778

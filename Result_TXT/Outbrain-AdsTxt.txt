@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Outbrain AdsTxt
-Last month's change: 6.41%
-Websites: 313300
-Unique Domains: 68811
+Last month's change: 6.44%
+Websites: 314537
+Unique Domains: 68956
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Outbrain AdsTxt is being used
-Games: 12.03%
-Arts & Entertainment: 11.86%
-Computers Electronics & Technology: 6.34%
+Games: 12.01%
+Arts & Entertainment: 11.84%
+Computers Electronics & Technology: 6.35%
 News & Media: 5.79%
-Others: 63.97%
+Others: 64.02%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ cnn.com  --  Monthly visits -> 510.4M
 - Geography -
 Outbrain AdsTxt usage by websites across the globe
 Leading Countries: Websites
-United States: 51962
-France: 16573
-Russia: 15769
-Italy: 10732
-Japan: 6895
-Germany: 6166
-Spain: 6005
-United Kingdom: 5661
-Brazil: 5090
-Poland: 4745
-Rest of the World: 67057
+United States: 52187
+France: 16674
+Russia: 15955
+Italy: 10793
+Japan: 6948
+Germany: 6186
+Spain: 6042
+United Kingdom: 5692
+Brazil: 5105
+Poland: 4764
+Rest of the World: 67546

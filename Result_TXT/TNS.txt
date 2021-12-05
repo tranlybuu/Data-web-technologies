@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: TNS
-Last month's change: 0.51%
-Websites: 63672
+Last month's change: 0.53%
+Websites: 63790
 Unique Domains: 1701
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where TNS is being used
-Arts & Entertainment: 20.83%
-News & Media: 15.85%
-Community & Society: 5.40%
+Arts & Entertainment: 20.80%
+News & Media: 15.83%
+Community & Society: 5.41%
 Hobbies & Leisure: 5.07%
-Others: 52.86%
+Others: 52.90%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ ozon.ru  --  Monthly visits -> 128.2M
 - Geography -
 TNS usage by websites across the globe
 Leading Countries: Websites
-Russia: 19577
-United States: 2712
-Ukraine: 2352
+Russia: 19637
+United States: 2731
+Ukraine: 2358
 Belarus: 542
-United Kingdom: 484
-Germany: 466
-Canada: 403
-Kazakhstan: 290
-Netherlands: 253
+United Kingdom: 488
+Germany: 468
+Canada: 407
+Kazakhstan: 294
+Netherlands: 255
 Israel: 249
-Rest of the World: 3721
+Rest of the World: 3738

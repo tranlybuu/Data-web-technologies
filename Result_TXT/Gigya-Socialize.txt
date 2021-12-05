@@ -1,19 +1,19 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Gigya Socialize
-Last month's change: 1.94%
-Websites: 5884
-Unique Domains: 2589
+Last month's change: 2.00%
+Websites: 5889
+Unique Domains: 2593
 --------------------------------------
 
 
 - Top Industry Verticals -
 Industry verticals where Gigya Socialize is being used
-News & Media: 7.95%
-Arts & Entertainment: 6.75%
-Computers Electronics & Technology: 6.29%
-Vehicles: 5.22%
-Others: 73.79%
+News & Media: 7.96%
+Arts & Entertainment: 6.72%
+Computers Electronics & Technology: 6.23%
+Vehicles: 5.21%
+Others: 73.87%
 
 
 - Related Technologies -
@@ -40,14 +40,14 @@ buienradar.nl  --  Monthly visits -> 42M
 - Geography -
 Gigya Socialize usage by websites across the globe
 Leading Countries: Websites
-United States: 867
-Spain: 395
-Netherlands: 280
-United Kingdom: 222
-Italy: 210
-Brazil: 160
-France: 129
+United States: 869
+Spain: 393
+Netherlands: 282
+United Kingdom: 221
+Italy: 211
+Brazil: 158
+France: 130
+Portugal: 118
 Germany: 116
-Portugal: 116
-Canada: 114
-Rest of the World: 1469
+Canada: 115
+Rest of the World: 1470

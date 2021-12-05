@@ -1,7 +1,7 @@
 - Basic Information about Technology -
-Crawl date: 04/12/2021
+Crawl date: 05/12/2021
 Technology: Gatsby
-Last month's change: 2.93%
+Last month's change: 2.87%
 Websites: 39057
 Unique Domains: 30829
 --------------------------------------

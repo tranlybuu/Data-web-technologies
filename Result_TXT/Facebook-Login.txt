@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Facebook Login
+Last month's change: 1.69%
+Websites: 94278
+Unique Domains: 56597
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Facebook Login is being used
+Computers Electronics & Technology: 5.72%
+Arts & Entertainment: 4.05%
+Games: 3.91%
+Science & Education: 3.34%
+Others: 82.99%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Okta
+Auth0
+LinkedIn Login
+
+
+- Top Websites Using Facebook Login -
+instagram.com  --  Monthly visits -> 6.4B
+vk.com  --  Monthly visits -> 1.5B
+fandom.com  --  Monthly visits -> 795.9M
+imdb.com  --  Monthly visits -> 511M
+outbrain.com  --  Monthly visits -> 373M
+m.imdb.com  --  Monthly visits -> 227.9M
+wattpad.com  --  Monthly visits -> 187.7M
+away.vk.com  --  Monthly visits -> 158.6M
+l.instagram.com  --  Monthly visits -> 149.6M
+genius.com  --  Monthly visits -> 91.8M
+
+- Geography -
+Facebook Login usage by websites across the globe
+Leading Countries: Websites
+United States: 20456
+United Kingdom: 3362
+India: 3156
+South Korea: 2782
+Canada: 2272
+Brazil: 2228
+France: 2059
+Australia: 1867
+Italy: 1834
+Poland: 1716
+Rest of the World: 29752

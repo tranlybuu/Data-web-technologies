@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Moxie
+Last month's change: 0.30%
+Websites: 336
+Unique Domains: 249
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Moxie is being used
+Computers Electronics & Technology: 22.92%
+Finance: 13.99%
+Gambling: 6.25%
+Business & Consumer Services: 4.17%
+Others: 52.68%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Moxie -
+hp.com  --  Monthly visits -> 72.5M
+bovada.lv  --  Monthly visits -> 62.6M
+dell.com  --  Monthly visits -> 55.9M
+schwab.com  --  Monthly visits -> 37.6M
+store.hp.com  --  Monthly visits -> 7.2M
+adameve.com  --  Monthly visits -> 6.6M
+northerntool.com  --  Monthly visits -> 6.2M
+vitacost.com  --  Monthly visits -> 5M
+deals.dell.com  --  Monthly visits -> 4.4M
+www8.hp.com  --  Monthly visits -> 4.4M
+
+- Geography -
+Moxie usage by websites across the globe
+Leading Countries: Websites
+United States: 129
+Canada: 19
+United Kingdom: 15
+India: 10
+China: 9
+Japan: 9
+Australia: 8
+Germany: 6
+France: 5
+Russia: 5
+Rest of the World: 59

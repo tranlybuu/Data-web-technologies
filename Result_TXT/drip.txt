@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: drip
+Last month's change: 0.22%
+Websites: 10883
+Unique Domains: 8843
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where drip is being used
+Computers Electronics & Technology: 9.25%
+Business & Consumer Services: 6.23%
+Health: 4.14%
+Lifestyle: 3.32%
+Others: 77.06%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using drip -
+clickup.com  --  Monthly visits -> 19.3M
+tcgplayer.com  --  Monthly visits -> 13.6M
+baeldung.com  --  Monthly visits -> 8.7M
+realpython.com  --  Monthly visits -> 5.2M
+vshred.com  --  Monthly visits -> 5.1M
+sadhguru.org  --  Monthly visits -> 4.8M
+letscookin.com  --  Monthly visits -> 4.6M
+isha.sadhguru.org  --  Monthly visits -> 4.2M
+zeno.fm  --  Monthly visits -> 3.3M
+wistia.com  --  Monthly visits -> 3.2M
+
+- Geography -
+drip usage by websites across the globe
+Leading Countries: Websites
+United States: 5038
+United Kingdom: 592
+Canada: 528
+Australia: 414
+India: 289
+Netherlands: 202
+Germany: 200
+France: 162
+Brazil: 131
+Italy: 123
+Rest of the World: 2169

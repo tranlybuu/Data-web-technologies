@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OoyalaPlayer
+Last month's change: 3.96%
+Websites: 3589
+Unique Domains: 2389
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OoyalaPlayer is being used
+Computers Electronics & Technology: 6.38%
+Arts & Entertainment: 6.32%
+Sports: 4.24%
+News & Media: 3.59%
+Others: 79.47%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+UStream
+
+
+- Top Websites Using OoyalaPlayer -
+dell.com  --  Monthly visits -> 55.9M
+skysports.com  --  Monthly visits -> 54M
+nymag.com  --  Monthly visits -> 12.8M
+chanel.com  --  Monthly visits -> 8.8M
+ripost.hu  --  Monthly visits -> 8.6M
+todayonline.com  --  Monthly visits -> 8.3M
+complex.com  --  Monthly visits -> 8.1M
+deals.dell.com  --  Monthly visits -> 4.4M
+hotair.com  --  Monthly visits -> 3M
+elfcosmetics.com  --  Monthly visits -> 2.5M
+
+- Geography -
+OoyalaPlayer usage by websites across the globe
+Leading Countries: Websites
+United States: 1488
+United Kingdom: 151
+Japan: 93
+India: 85
+Canada: 83
+France: 80
+Australia: 67
+Germany: 55
+Spain: 55
+Italy: 50
+Rest of the World: 848

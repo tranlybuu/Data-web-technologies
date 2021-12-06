@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Salesforce Live Agent
+Last month's change: 1.74%
+Websites: 21045
+Unique Domains: 8303
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Salesforce Live Agent is being used
+Computers Electronics & Technology: 7.47%
+Finance: 5.51%
+Lifestyle: 5.01%
+Science & Education: 4.67%
+Others: 77.33%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Zoho CRM
+CiviCRM
+Pipedrive
+
+
+- Top Websites Using Salesforce Live Agent -
+force.com  --  Monthly visits -> 188.6M
+fedex.com  --  Monthly visits -> 182.9M
+salesforce.com  --  Monthly visits -> 96.7M
+shutterstock.com  --  Monthly visits -> 75.5M
+gap.com  --  Monthly visits -> 63.1M
+playstation.com  --  Monthly visits -> 61.5M
+dell.com  --  Monthly visits -> 55.9M
+realestate.com.au  --  Monthly visits -> 55.4M
+betking.com  --  Monthly visits -> 53.2M
+mheducation.com  --  Monthly visits -> 40.7M
+
+- Geography -
+Salesforce Live Agent usage by websites across the globe
+Leading Countries: Websites
+United States: 8752
+United Kingdom: 1059
+Canada: 770
+Australia: 546
+Germany: 445
+India: 348
+Japan: 325
+Italy: 309
+France: 300
+Netherlands: 291
+Rest of the World: 4508

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BookingBug
+Last month's change: 0.26%
+Websites: 385
+Unique Domains: 333
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BookingBug is being used
+Lifestyle: 11.69%
+Health: 5.19%
+Business & Consumer Services: 2.86%
+Food & Drink: 2.86%
+Others: 77.40%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using BookingBug -
+bedbathandbeyond.com  --  Monthly visits -> 28.8M
+diy.com  --  Monthly visits -> 21.5M
+buybuybaby.com  --  Monthly visits -> 5.3M
+bedbathandbeyond.ca  --  Monthly visits -> 3.1M
+signaturehardware.com  --  Monthly visits -> 1.2M
+bhldn.com  --  Monthly visits -> 1.1M
+ernestjones.co.uk  --  Monthly visits -> 1.1M
+trade-point.co.uk  --  Monthly visits -> 715.2K
+skygarden.london  --  Monthly visits -> 653.5K
+windcave.com  --  Monthly visits -> 636.9K
+
+- Geography -
+BookingBug usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 145
+United States: 113
+Australia: 16
+Canada: 12
+Ireland: 7
+France: 5
+Hong Kong: 3
+New Zealand: 3
+Norway: 3
+Philippines: 3
+Rest of the World: 28

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Web Fonts
+Last month's change: 0.66%
+Websites: 13269337
+Unique Domains: 9216147
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Web Fonts is being used
+Computers Electronics & Technology: 4.01%
+Science & Education: 3.30%
+Arts & Entertainment: 2.70%
+Health: 1.78%
+Others: 88.21%
+
+
+- Related Technologies -
+Top Fonts technologies
+Font Awesome
+Typekit
+fonts.com
+Easy Fonts
+None
+
+
+- Top Websites Using Google Web Fonts -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+m.youtube.com  --  Monthly visits -> 5.9B
+drive.google.com  --  Monthly visits -> 2.8B
+pornhub.com  --  Monthly visits -> 2.2B
+support.google.com  --  Monthly visits -> 1.5B
+xhamster.com  --  Monthly visits -> 1.4B
+play.google.com  --  Monthly visits -> 1.2B
+youtu.be  --  Monthly visits -> 1B
+us02web.zoom.us  --  Monthly visits -> 799.9M
+
+- Geography -
+Google Web Fonts usage by websites across the globe
+Leading Countries: Websites
+United States: 2505344
+Japan: 592817
+United Kingdom: 478118
+Russia: 471759
+Germany: 456065
+France: 422666
+Italy: 390427
+India: 349939
+Canada: 345111
+Brazil: 301356
+Rest of the World: 4759477

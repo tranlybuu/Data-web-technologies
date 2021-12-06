@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Verizon EdgeCast
+Last month's change: 8.68%
+Websites: 4964
+Unique Domains: 4359
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Verizon EdgeCast is being used
+Computers Electronics & Technology: 3.99%
+Arts & Entertainment: 3.59%
+Adult: 2.14%
+Lifestyle: 1.99%
+Others: 88.30%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Verizon EdgeCast -
+pbs.twimg.com  --  Monthly visits -> 104.5M
+asus.com  --  Monthly visits -> 101.4M
+redfin.com  --  Monthly visits -> 81.8M
+cheatsheet.com  --  Monthly visits -> 71.2M
+w3schools.com  --  Monthly visits -> 65.3M
+video.twimg.com  --  Monthly visits -> 50.6M
+verizon.com  --  Monthly visits -> 49.4M
+td.com  --  Monthly visits -> 43.2M
+m.soundcloud.com  --  Monthly visits -> 37.5M
+rivals.com  --  Monthly visits -> 28.9M
+
+- Geography -
+Verizon EdgeCast usage by websites across the globe
+Leading Countries: Websites
+United States: 1764
+United Kingdom: 793
+Canada: 114
+India: 88
+Japan: 77
+France: 72
+Australia: 62
+Philippines: 54
+Germany: 49
+Russia: 48
+Rest of the World: 808

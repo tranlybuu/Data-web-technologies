@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenGraph Url Entity
+Last month's change: 1.49%
+Websites: 12198648
+Unique Domains: 7817932
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenGraph Url Entity is being used
+Arts & Entertainment: 4.35%
+Computers Electronics & Technology: 4.24%
+Science & Education: 3.18%
+Games: 2.26%
+Others: 85.97%
+
+
+- Related Technologies -
+Top Open Graph Tags technologies
+Open Graph Protocol
+OpenGraph Description Entity
+OpenGraph Type Entity
+OpenGraph Image Entity
+OpenGraph Site Name Entity
+
+
+- Top Websites Using OpenGraph Url Entity -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+
+- Geography -
+OpenGraph Url Entity usage by websites across the globe
+Leading Countries: Websites
+United States: 2314029
+Japan: 718397
+United Kingdom: 436207
+Germany: 422155
+Russia: 384453
+France: 375205
+Canada: 314373
+Italy: 299488
+South Korea: 298403
+Brazil: 230721
+Rest of the World: 3909262

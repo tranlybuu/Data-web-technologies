@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Zendesk Chat
+Last month's change: 1.59%
+Websites: 166542
+Unique Domains: 111791
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Zendesk Chat is being used
+Computers Electronics & Technology: 7.31%
+Lifestyle: 4.80%
+Business & Consumer Services: 3.67%
+Finance: 3.32%
+Others: 80.90%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+HubSpot Chat
+
+
+- Top Websites Using Zendesk Chat -
+binomo-web.com  --  Monthly visits -> 63.7M
+ryanair.com  --  Monthly visits -> 45.5M
+agoda.com  --  Monthly visits -> 40.2M
+gtv.org  --  Monthly visits -> 35.7M
+jstor.org  --  Monthly visits -> 30.2M
+mybookie.ag  --  Monthly visits -> 29.1M
+betika.com  --  Monthly visits -> 23.7M
+coinsbit.io  --  Monthly visits -> 22.7M
+ciceksepeti.com  --  Monthly visits -> 22.6M
+juicyads.com  --  Monthly visits -> 21.9M
+
+- Geography -
+Zendesk Chat usage by websites across the globe
+Leading Countries: Websites
+United States: 32296
+United Kingdom: 8680
+Brazil: 6701
+Italy: 6077
+France: 5397
+India: 5076
+Spain: 4745
+Australia: 4347
+Netherlands: 3927
+Canada: 3834
+Rest of the World: 56733

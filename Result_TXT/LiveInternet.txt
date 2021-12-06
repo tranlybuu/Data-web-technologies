@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LiveInternet
+Last month's change: 1.30%
+Websites: 398184
+Unique Domains: 202808
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveInternet is being used
+Arts & Entertainment: 7.92%
+Science & Education: 7.44%
+Heavy Industry & Engineering: 5.83%
+Vehicles: 5.73%
+Others: 73.08%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+Google Translate
+W3 Total Cache
+
+
+- Top Websites Using LiveInternet -
+mail.ru  --  Monthly visits -> 1B
+ok.ru  --  Monthly visits -> 689.2M
+m.ok.ru  --  Monthly visits -> 190.4M
+gismeteo.ru  --  Monthly visits -> 161.8M
+lenta.ru  --  Monthly visits -> 133.1M
+daftsex.com  --  Monthly visits -> 118.8M
+news.mail.ru  --  Monthly visits -> 118.6M
+rbc.ru  --  Monthly visits -> 105.1M
+glavnoe.net  --  Monthly visits -> 94M
+noodlemagazine.com  --  Monthly visits -> 91.2M
+
+- Geography -
+LiveInternet usage by websites across the globe
+Leading Countries: Websites
+Russia: 180086
+Ukraine: 36559
+United States: 7552
+Belarus: 6389
+Kazakhstan: 5415
+Germany: 3801
+France: 2240
+India: 2066
+Italy: 1838
+Poland: 1648
+Rest of the World: 32240

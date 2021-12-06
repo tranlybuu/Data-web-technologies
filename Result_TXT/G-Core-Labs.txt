@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: G-Core Labs
+Last month's change: 8.82%
+Websites: 68
+Unique Domains: 48
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where G-Core Labs is being used
+Computers Electronics & Technology: 41.18%
+Jobs & Career: 14.71%
+Games: 4.41%
+Business & Consumer Services: 2.94%
+Others: 36.76%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using G-Core Labs -
+perm.hh.ru  --  Monthly visits -> 518.2K
+techjury.net  --  Monthly visits -> 481.9K
+gcdn.co  --  Monthly visits -> 369.6K
+gcorelabs.com  --  Monthly visits -> 335.4K
+kentik.com  --  Monthly visits -> 241.4K
+peeringdb.com  --  Monthly visits -> 178.7K
+it-world.ru  --  Monthly visits -> 89.4K
+sankt-peterburg.jobfilter.ru  --  Monthly visits -> 80.5K
+looking.house  --  Monthly visits -> 77.6K
+scale.yandex.ru  --  Monthly visits -> 69.6K
+
+- Geography -
+G-Core Labs usage by websites across the globe
+Leading Countries: Websites
+Russia: 20
+United States: 9
+China: 6
+Belarus: 2
+Germany: 2
+Poland: 2
+United Kingdom: 2
+Brazil: 1
+Chile: 1
+Taiwan: 1
+Rest of the World: 16

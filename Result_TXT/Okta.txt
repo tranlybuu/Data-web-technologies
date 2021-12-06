@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Okta
+Last month's change: 0.64%
+Websites: 22385
+Unique Domains: 5618
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Okta is being used
+Computers Electronics & Technology: 18.25%
+Finance: 7.71%
+Business & Consumer Services: 5.45%
+Science & Education: 4.53%
+Others: 64.07%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Auth0
+LinkedIn Login
+
+
+- Top Websites Using Okta -
+okta.com  --  Monthly visits -> 140.8M
+service-now.com  --  Monthly visits -> 56.7M
+cybozu.com  --  Monthly visits -> 26.5M
+auth0.com  --  Monthly visits -> 25.7M
+arcot.com  --  Monthly visits -> 15.6M
+safeway.com  --  Monthly visits -> 12.7M
+id.churchofjesuschrist.org  --  Monthly visits -> 12.6M
+techtarget.com  --  Monthly visits -> 8.1M
+s3-eu-west-1.amazonaws.com  --  Monthly visits -> 8M
+lms.monash.edu  --  Monthly visits -> 8M
+
+- Geography -
+Okta usage by websites across the globe
+Leading Countries: Websites
+United States: 11648
+United Kingdom: 863
+Canada: 758
+Australia: 713
+India: 649
+Japan: 347
+Germany: 288
+France: 262
+Netherlands: 209
+Poland: 194
+Rest of the World: 3606

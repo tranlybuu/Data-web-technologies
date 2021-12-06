@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Jira
+Last month's change: 0.41%
+Websites: 10475
+Unique Domains: 7294
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Jira is being used
+Computers Electronics & Technology: 22.34%
+Science & Education: 2.83%
+Finance: 1.63%
+Sports: 1.09%
+Others: 72.11%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using Jira -
+confluence.atlassian.com  --  Monthly visits -> 1.8M
+stackify.com  --  Monthly visits -> 1.2M
+tproger.ru  --  Monthly visits -> 1.2M
+bugs.mojang.com  --  Monthly visits -> 1.1M
+docs.chaosgroup.com  --  Monthly visits -> 864.6K
+identidad.usal.es  --  Monthly visits -> 845.2K
+jfrog.com  --  Monthly visits -> 798.4K
+bugs.opera.com  --  Monthly visits -> 671.7K
+cwiki.apache.org  --  Monthly visits -> 641.8K
+funet.fi  --  Monthly visits -> 630.3K
+
+- Geography -
+Jira usage by websites across the globe
+Leading Countries: Websites
+United States: 1614
+Germany: 1068
+China: 1009
+Russia: 820
+Poland: 352
+United Kingdom: 265
+Ukraine: 264
+India: 246
+Netherlands: 240
+Canada: 233
+Rest of the World: 3920

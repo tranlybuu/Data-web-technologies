@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twitter
+Last month's change: 0.99%
+Websites: 2105476
+Unique Domains: 1164991
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twitter is being used
+Arts & Entertainment: 5.89%
+Computers Electronics & Technology: 5.87%
+Science & Education: 4.75%
+Games: 3.26%
+Others: 80.22%
+
+
+- Related Technologies -
+Top Social technologies
+Instagram
+Instagram Links
+Facebook Connect
+Facebook Social Plugins
+Google+ Platform
+
+
+- Top Websites Using Twitter -
+twitter.com  --  Monthly visits -> 6.7B
+yahoo.com  --  Monthly visits -> 3.5B
+fandom.com  --  Monthly visits -> 795.9M
+weather.com  --  Monthly visits -> 653.6M
+espn.com  --  Monthly visits -> 628.4M
+t.me  --  Monthly visits -> 573.7M
+uol.com.br  --  Monthly visits -> 542.3M
+cnn.com  --  Monthly visits -> 510.4M
+bbc.com  --  Monthly visits -> 465.1M
+spotify.com  --  Monthly visits -> 422.6M
+
+- Geography -
+Twitter usage by websites across the globe
+Leading Countries: Websites
+Japan: 372158
+United States: 348726
+United Kingdom: 80917
+France: 62256
+Canada: 47701
+Spain: 42467
+Italy: 40424
+India: 37741
+Brazil: 35308
+Germany: 33947
+Rest of the World: 495868

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Apple Music
+Last month's change: 3.84%
+Websites: 547
+Unique Domains: 426
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Apple Music is being used
+Arts & Entertainment: 41.68%
+Computers Electronics & Technology: 3.84%
+Games: 1.83%
+Lifestyle: 1.10%
+Others: 51.55%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Apple Music -
+appleshinja.com  --  Monthly visits -> 890K
+thefader.com  --  Monthly visits -> 785.9K
+thatgrapejuice.net  --  Monthly visits -> 723.5K
+edsheeran.com  --  Monthly visits -> 515K
+worshiptutorials.com  --  Monthly visits -> 192.4K
+pusatporn.net  --  Monthly visits -> 165K
+masseyhall.mhrth.com  --  Monthly visits -> 133.1K
+music.metason.net  --  Monthly visits -> 112.9K
+trackmusik.fr  --  Monthly visits -> 100.7K
+rapradar.com  --  Monthly visits -> 99.5K
+
+- Geography -
+Apple Music usage by websites across the globe
+Leading Countries: Websites
+Japan: 131
+United States: 119
+United Kingdom: 20
+France: 19
+Germany: 14
+India: 11
+Canada: 10
+Australia: 8
+Spain: 8
+Indonesia: 7
+Rest of the World: 116

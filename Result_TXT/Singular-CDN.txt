@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Singular CDN
+Last month's change: 4.21%
+Websites: 95
+Unique Domains: 72
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Singular CDN is being used
+Adult: 22.11%
+Law & Government: 6.32%
+Computers Electronics & Technology: 4.21%
+E-commerce & Shopping: 2.11%
+Others: 65.26%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Singular CDN -
+agclub7.site  --  Monthly visits -> 1.6M
+brasileirinhas.com.br  --  Monthly visits -> 1M
+midassorte.com.br  --  Monthly visits -> 413K
+apostaganha.bet  --  Monthly visits -> 373K
+acasadasbrasileirinhas.com.br  --  Monthly visits -> 327K
+mobile.apostaganha.bet  --  Monthly visits -> 286.7K
+koetzadvocacia.com.br  --  Monthly visits -> 187.6K
+blog.advbox.com.br  --  Monthly visits -> 110.6K
+coliseumleiloes.com.br  --  Monthly visits -> 101.9K
+f5news.com.br  --  Monthly visits -> 98.2K
+
+- Geography -
+Singular CDN usage by websites across the globe
+Leading Countries: Websites
+Brazil: 66
+Germany: 2
+Portugal: 2
+Angola: 1
+Italy: 1
+Spain: 1
+Turkey: 1
+United Kingdom: 1

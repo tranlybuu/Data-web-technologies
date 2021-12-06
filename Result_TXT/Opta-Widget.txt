@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Opta Widget
+Last month's change: 0.97%
+Websites: 1134
+Unique Domains: 751
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Opta Widget is being used
+Sports: 43.47%
+News & Media: 17.90%
+Arts & Entertainment: 3.53%
+Gambling: 2.73%
+Others: 32.36%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Opta Widget -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+t-online.de  --  Monthly visits -> 160.3M
+thesun.co.uk  --  Monthly visits -> 84.1M
+mirror.co.uk  --  Monthly visits -> 79.4M
+clarin.com  --  Monthly visits -> 76.5M
+ansa.it  --  Monthly visits -> 72.8M
+ole.com.ar  --  Monthly visits -> 46.8M
+tgcom24.mediaset.it  --  Monthly visits -> 46M
+telecinco.es  --  Monthly visits -> 46M
+elcomercio.pe  --  Monthly visits -> 45.8M
+
+- Geography -
+Opta Widget usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 294
+United States: 75
+Germany: 69
+Spain: 60
+Italy: 43
+Argentina: 25
+Australia: 22
+Colombia: 20
+Portugal: 19
+Chile: 17
+Rest of the World: 231

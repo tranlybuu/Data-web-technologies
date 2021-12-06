@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: RegOnline
+Last month's change: 0.34%
+Websites: 298
+Unique Domains: 237
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RegOnline is being used
+Computers Electronics & Technology: 12.08%
+Science & Education: 10.40%
+Health: 3.69%
+Business & Consumer Services: 2.68%
+Others: 71.14%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using RegOnline -
+4chan.org  --  Monthly visits -> 45.1M
+4channel.org  --  Monthly visits -> 41.8M
+boards.4chan.org  --  Monthly visits -> 39.3M
+i.4cdn.org  --  Monthly visits -> 10.5M
+carnegieendowment.org  --  Monthly visits -> 923.8K
+aapm.org  --  Monthly visits -> 313.1K
+tizen.org  --  Monthly visits -> 252.6K
+w3.aapm.org  --  Monthly visits -> 164K
+wiki.owasp.org  --  Monthly visits -> 96.3K
+cbhd.org  --  Monthly visits -> 51.4K
+
+- Geography -
+RegOnline usage by websites across the globe
+Leading Countries: Websites
+United States: 158
+Canada: 12
+Germany: 10
+India: 9
+United Kingdom: 8
+China: 4
+South Korea: 4
+Poland: 4
+Brazil: 3
+Italy: 3
+Rest of the World: 60

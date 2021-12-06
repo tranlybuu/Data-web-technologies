@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Zoho Chat
+Last month's change: 2.98%
+Websites: 20956
+Unique Domains: 18048
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Zoho Chat is being used
+Computers Electronics & Technology: 8.63%
+Business & Consumer Services: 5.20%
+Finance: 2.72%
+Science & Education: 2.72%
+Others: 80.73%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Zoho Chat -
+zoho.com  --  Monthly visits -> 51M
+crm.zoho.com  --  Monthly visits -> 5.6M
+zoho.eu  --  Monthly visits -> 5.5M
+adjarabet.com  --  Monthly visits -> 5.2M
+forms.zohopublic.com  --  Monthly visits -> 4.5M
+zoho.in  --  Monthly visits -> 4.5M
+runsignup.com  --  Monthly visits -> 3.5M
+order.place  --  Monthly visits -> 3.3M
+jurnal.id  --  Monthly visits -> 3.1M
+goodtherapy.org  --  Monthly visits -> 2.9M
+
+- Geography -
+Zoho Chat usage by websites across the globe
+Leading Countries: Websites
+United States: 6048
+India: 1823
+Canada: 1041
+Australia: 971
+United Kingdom: 916
+Japan: 729
+Mexico: 553
+Brazil: 371
+France: 371
+Spain: 323
+Rest of the World: 6356

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Listrak
+Last month's change: 2.10%
+Websites: 2238
+Unique Domains: 1630
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Listrak is being used
+Lifestyle: 20.64%
+Home & Garden: 10.86%
+Sports: 9.12%
+Food & Drink: 5.23%
+Others: 54.16%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Listrak -
+spirithalloween.com  --  Monthly visits -> 17.4M
+halloweencostumes.com  --  Monthly visits -> 10.3M
+palmettostatearmory.com  --  Monthly visits -> 8.2M
+sportsmans.com  --  Monthly visits -> 7.5M
+kingarthurbaking.com  --  Monthly visits -> 6.4M
+almanac.com  --  Monthly visits -> 6.1M
+ar15.com  --  Monthly visits -> 5.8M
+denverpost.com  --  Monthly visits -> 5.8M
+tarot.com  --  Monthly visits -> 5.7M
+journeys.com  --  Monthly visits -> 5.4M
+
+- Geography -
+Listrak usage by websites across the globe
+Leading Countries: Websites
+United States: 1532
+Canada: 122
+United Kingdom: 40
+Germany: 27
+Australia: 24
+France: 21
+India: 13
+Hong Kong: 9
+Singapore: 7
+Brazil: 6
+Rest of the World: 119

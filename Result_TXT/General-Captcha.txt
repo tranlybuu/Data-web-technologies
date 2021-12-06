@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: General Captcha
+Last month's change: 0.54%
+Websites: 1515651
+Unique Domains: 1064216
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where General Captcha is being used
+Computers Electronics & Technology: 4.83%
+Science & Education: 4.05%
+Arts & Entertainment: 2.70%
+Health: 2.48%
+Others: 85.93%
+
+
+- Related Technologies -
+Top Captcha technologies
+reCAPTCHA
+WP reCAPTCHA
+KeyCAPTCHA
+NuCaptcha
+Coinhive Captcha
+
+
+- Top Websites Using General Captcha -
+mail.google.com  --  Monthly visits -> 11.3B
+docs.google.com  --  Monthly visits -> 5.6B
+accounts.google.com  --  Monthly visits -> 4.5B
+yandex.ru  --  Monthly visits -> 3.9B
+pornhub.com  --  Monthly visits -> 2.2B
+zoom.us  --  Monthly visits -> 2B
+vk.com  --  Monthly visits -> 1.5B
+calendar.google.com  --  Monthly visits -> 1.3B
+roblox.com  --  Monthly visits -> 1B
+us02web.zoom.us  --  Monthly visits -> 799.9M
+
+- Geography -
+General Captcha usage by websites across the globe
+Leading Countries: Websites
+United States: 228419
+Russia: 114659
+Germany: 88089
+France: 55262
+China: 51836
+United Kingdom: 47107
+Japan: 42162
+India: 38555
+Italy: 35760
+Canada: 29932
+Rest of the World: 512841

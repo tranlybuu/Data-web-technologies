@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BoldChat
+Last month's change: 0.54%
+Websites: 5883
+Unique Domains: 4529
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BoldChat is being used
+Vehicles: 7.67%
+Computers Electronics & Technology: 7.00%
+Finance: 6.51%
+Business & Consumer Services: 4.01%
+Others: 74.81%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using BoldChat -
+byjus.com  --  Monthly visits -> 54.3M
+groupon.com  --  Monthly visits -> 24.7M
+cox.com  --  Monthly visits -> 19.8M
+cibc.com  --  Monthly visits -> 19.7M
+rogers.com  --  Monthly visits -> 19.7M
+uscellular.com  --  Monthly visits -> 19.5M
+acehardware.com  --  Monthly visits -> 15.7M
+gotowebinar.com  --  Monthly visits -> 14.7M
+cibconline.cibc.com  --  Monthly visits -> 14.4M
+plannedparenthood.org  --  Monthly visits -> 13.8M
+
+- Geography -
+BoldChat usage by websites across the globe
+Leading Countries: Websites
+United States: 2937
+United Kingdom: 311
+Canada: 273
+India: 138
+France: 69
+Germany: 69
+China: 67
+Italy: 63
+Japan: 58
+Australia: 57
+Rest of the World: 1033

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UserLike
+Last month's change: 28.0%
+Websites: 1295
+Unique Domains: 1143
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UserLike is being used
+Computers Electronics & Technology: 5.56%
+Vehicles: 4.63%
+Travel & Tourism: 3.71%
+Business & Consumer Services: 3.63%
+Others: 82.47%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using UserLike -
+shop-farmacia.it  --  Monthly visits -> 1.6M
+ukpostbox.com  --  Monthly visits -> 444.4K
+careshop.de  --  Monthly visits -> 353.7K
+prettynailshop24.de  --  Monthly visits -> 321.7K
+userlike.com  --  Monthly visits -> 264.6K
+allianz.ch  --  Monthly visits -> 251.6K
+kibek.de  --  Monthly visits -> 242.9K
+lsat.prep101.com  --  Monthly visits -> 210.5K
+mercedes-benz.co.za  --  Monthly visits -> 206.9K
+autoland.de  --  Monthly visits -> 204K
+
+- Geography -
+UserLike usage by websites across the globe
+Leading Countries: Websites
+Germany: 532
+Switzerland: 67
+Austria: 57
+France: 51
+United States: 46
+Netherlands: 38
+United Kingdom: 38
+Italy: 26
+Belgium: 14
+Spain: 13
+Rest of the World: 155

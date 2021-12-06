@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Stitcher
+Last month's change: 11.3%
+Websites: 17636
+Unique Domains: 15420
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Stitcher is being used
+Arts & Entertainment: 7.36%
+Business & Consumer Services: 5.53%
+Community & Society: 5.27%
+Health: 4.71%
+Others: 77.14%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Stitcher -
+washingtonpost.com  --  Monthly visits -> 145M
+sports.yahoo.com  --  Monthly visits -> 119.3M
+cbssports.com  --  Monthly visits -> 105.3M
+fantasysports.yahoo.com  --  Monthly visits -> 91.7M
+wsj.com  --  Monthly visits -> 74.1M
+ctvnews.ca  --  Monthly visits -> 64.8M
+startpage.com  --  Monthly visits -> 61.3M
+wiley.com  --  Monthly visits -> 46.5M
+theatlantic.com  --  Monthly visits -> 31.3M
+eatthis.com  --  Monthly visits -> 26M
+
+- Geography -
+Stitcher usage by websites across the globe
+Leading Countries: Websites
+United States: 10873
+United Kingdom: 802
+Canada: 690
+Australia: 451
+Germany: 376
+India: 330
+France: 234
+Brazil: 196
+Netherlands: 188
+Philippines: 160
+Rest of the World: 2620

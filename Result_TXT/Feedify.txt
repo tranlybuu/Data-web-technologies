@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Feedify
+Last month's change: 0.16%
+Websites: 623
+Unique Domains: 465
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Feedify is being used
+News & Media: 24.88%
+Science & Education: 8.99%
+Jobs & Career: 6.42%
+Law & Government: 5.94%
+Others: 53.77%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using Feedify -
+learninsta.com  --  Monthly visits -> 24.2M
+indiatvnews.com  --  Monthly visits -> 12.3M
+prabhatkhabar.com  --  Monthly visits -> 10.2M
+aplustopper.com  --  Monthly visits -> 9.8M
+successcds.net  --  Monthly visits -> 9.3M
+tv9marathi.com  --  Monthly visits -> 6.2M
+ncertbooks.guru  --  Monthly visits -> 5.8M
+indiatv.in  --  Monthly visits -> 5.8M
+tellychakkar.com  --  Monthly visits -> 5.3M
+kalerkantho.com  --  Monthly visits -> 4.8M
+
+- Geography -
+Feedify usage by websites across the globe
+Leading Countries: Websites
+India: 295
+Bangladesh: 38
+Indonesia: 36
+United States: 25
+Brazil: 15
+Nigeria: 6
+United Arab Emirates: 6
+United Kingdom: 6
+Canada: 4
+Greece: 4
+Rest of the World: 49

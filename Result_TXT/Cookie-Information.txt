@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cookie Information
+Last month's change: 7.54%
+Websites: 9373
+Unique Domains: 7488
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cookie Information is being used
+Home & Garden: 5.23%
+Computers Electronics & Technology: 5.00%
+Health: 4.22%
+Science & Education: 3.96%
+Others: 81.59%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+CookieBot
+
+
+- Top Websites Using Cookie Information -
+ipaper.io  --  Monthly visits -> 16M
+dmi.dk  --  Monthly visits -> 5.6M
+telia.fi  --  Monthly visits -> 5.4M
+borsen.dk  --  Monthly visits -> 4.9M
+profil.yousee.dk  --  Monthly visits -> 4M
+ecco.com  --  Monthly visits -> 3.9M
+coop.dk  --  Monthly visits -> 3.7M
+power.no  --  Monthly visits -> 3.4M
+karkkainen.com  --  Monthly visits -> 3.4M
+webmail.yousee.dk  --  Monthly visits -> 3.3M
+
+- Geography -
+Cookie Information usage by websites across the globe
+Leading Countries: Websites
+Denmark: 4692
+Norway: 879
+Sweden: 588
+Germany: 355
+Finland: 348
+United States: 242
+United Kingdom: 187
+Netherlands: 129
+Belgium: 126
+France: 109
+Rest of the World: 1146

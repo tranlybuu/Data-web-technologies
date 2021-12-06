@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SeatEngine
+Last month's change: 1.75%
+Websites: 285
+Unique Domains: 203
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SeatEngine is being used
+Arts & Entertainment: 29.82%
+Food & Drink: 9.47%
+Sports: 3.86%
+Travel & Tourism: 2.46%
+Others: 54.39%
+
+
+- Related Technologies -
+Top Ticketing technologies
+Tickera
+RezOvation
+Tessitura Network
+FlameConcepts
+TopTix
+
+
+- Top Websites Using SeatEngine -
+ktvu.com  --  Monthly visits -> 2.3M
+theminimalists.com  --  Monthly visits -> 243.2K
+heliumcomedy.com  --  Monthly visits -> 189.9K
+xpn.org  --  Monthly visits -> 110.2K
+thecomicscomic.com  --  Monthly visits -> 92.2K
+buffalo.heliumcomedy.com  --  Monthly visits -> 87.8K
+philadelphia.heliumcomedy.com  --  Monthly visits -> 86.6K
+goodnightscomedy.com  --  Monthly visits -> 74.9K
+st-louis.heliumcomedy.com  --  Monthly visits -> 67.7K
+indianapolis.heliumcomedy.com  --  Monthly visits -> 66.5K
+
+- Geography -
+SeatEngine usage by websites across the globe
+Leading Countries: Websites
+United States: 230
+Canada: 5
+Australia: 2
+Brazil: 2
+Turkey: 2
+United Kingdom: 2
+Bahrain: 1
+Armenia: 1
+China: 1
+Denmark: 1
+Rest of the World: 5

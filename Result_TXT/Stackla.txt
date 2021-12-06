@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Stackla
+Last month's change: 2.07%
+Websites: 726
+Unique Domains: 585
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Stackla is being used
+Travel & Tourism: 18.73%
+Sports: 10.47%
+Science & Education: 9.92%
+Arts & Entertainment: 6.06%
+Others: 54.82%
+
+
+- Related Technologies -
+Top Content Curation technologies
+Curated
+STRÖER
+Foursixty
+Curalate
+Olapic
+
+
+- Top Websites Using Stackla -
+kia.com  --  Monthly visits -> 20.5M
+tamu.edu  --  Monthly visits -> 11.5M
+maryland.gov  --  Monthly visits -> 9M
+thefa.com  --  Monthly visits -> 6M
+cricket.com.au  --  Monthly visits -> 2.8M
+curaleaf.com  --  Monthly visits -> 2.5M
+mazdausa.com  --  Monthly visits -> 2.4M
+universal-music.co.jp  --  Monthly visits -> 2.1M
+rci.com  --  Monthly visits -> 2.1M
+montgomerycountymd.gov  --  Monthly visits -> 1.8M
+
+- Geography -
+Stackla usage by websites across the globe
+Leading Countries: Websites
+United States: 194
+Australia: 115
+United Kingdom: 115
+New Zealand: 16
+Singapore: 16
+Japan: 13
+Canada: 12
+Netherlands: 11
+China: 10
+France: 10
+Rest of the World: 120

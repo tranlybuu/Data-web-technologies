@@ -1,0 +1,47 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: KeyMetric
+Last month's change: 5.88%
+Websites: 34
+Unique Domains: 29
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where KeyMetric is being used
+Vehicles: 20.59%
+Business & Consumer Services: 11.76%
+Computers Electronics & Technology: 5.88%
+Finance: 2.94%
+Others: 58.82%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using KeyMetric -
+pepboys.com  --  Monthly visits -> 2.4M
+expressoil.com  --  Monthly visits -> 306.3K
+harborone.com  --  Monthly visits -> 138.8K
+condo-world.com  --  Monthly visits -> 76.7K
+scentair.com  --  Monthly visits -> 70K
+alphacard.com  --  Monthly visits -> 49K
+mailboxworks.com  --  Monthly visits -> 36.6K
+advancedauto.com  --  Monthly visits -> 31.9K
+providenceeye.com  --  Monthly visits -> 30.8K
+videosurveillance.com  --  Monthly visits -> 24.5K
+
+- Geography -
+KeyMetric usage by websites across the globe
+Leading Countries: Websites
+United States: 26
+Belize: 1
+India: 1
+New Zealand: 1
+Turkey: 1

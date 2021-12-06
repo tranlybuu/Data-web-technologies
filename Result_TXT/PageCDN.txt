@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PageCDN
+Last month's change: 7.14%
+Websites: 420
+Unique Domains: 362
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PageCDN is being used
+Computers Electronics & Technology: 10.71%
+Games: 4.29%
+Science & Education: 2.14%
+Arts & Entertainment: 1.90%
+Others: 80.95%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using PageCDN -
+mrpcgamer.co  --  Monthly visits -> 1.3M
+cheetah-editor.builderall.com  --  Monthly visits -> 655.9K
+salvationarmy.org  --  Monthly visits -> 626K
+yearn.finance  --  Monthly visits -> 509.9K
+gbay.duetro.de  --  Monthly visits -> 453.3K
+giadinhonline.vn  --  Monthly visits -> 387.9K
+sastedeal.com  --  Monthly visits -> 252.3K
+iwakuroleplay.com  --  Monthly visits -> 236K
+blackdahliaroleplaying.com  --  Monthly visits -> 234.9K
+community.pega.com  --  Monthly visits -> 203K
+
+- Geography -
+PageCDN usage by websites across the globe
+Leading Countries: Websites
+United States: 88
+France: 27
+United Kingdom: 21
+India: 20
+Canada: 17
+Poland: 17
+Germany: 14
+Indonesia: 13
+Brazil: 12
+Japan: 10
+Rest of the World: 159

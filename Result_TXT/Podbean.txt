@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Podbean
+Last month's change: 3.50%
+Websites: 35125
+Unique Domains: 25154
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Podbean is being used
+Arts & Entertainment: 7.78%
+Community & Society: 5.49%
+Science & Education: 4.51%
+Computers Electronics & Technology: 3.63%
+Others: 78.59%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Libsyn
+BuzzSprout
+Stitcher
+
+
+- Top Websites Using Podbean -
+cbssports.com  --  Monthly visits -> 105.3M
+adp.com  --  Monthly visits -> 82.4M
+rottentomatoes.com  --  Monthly visits -> 67.3M
+247sports.com  --  Monthly visits -> 56.4M
+harvard.edu  --  Monthly visits -> 50.5M
+bitchute.com  --  Monthly visits -> 41.6M
+thairath.co.th  --  Monthly visits -> 30.5M
+mako.co.il  --  Monthly visits -> 26.4M
+runescape.wiki  --  Monthly visits -> 21.4M
+rawstory.com  --  Monthly visits -> 19.9M
+
+- Geography -
+Podbean usage by websites across the globe
+Leading Countries: Websites
+United States: 14984
+United Kingdom: 2135
+Canada: 1445
+Australia: 980
+India: 796
+Germany: 711
+Sweden: 555
+Brazil: 440
+France: 413
+Netherlands: 410
+Rest of the World: 6984

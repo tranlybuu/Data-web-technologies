@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Rumble
+Last month's change: 24.9%
+Websites: 2751
+Unique Domains: 2427
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Rumble is being used
+News & Media: 29.70%
+Community & Society: 9.41%
+Health: 3.78%
+Law & Government: 3.71%
+Others: 53.40%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+UStream
+
+
+- Top Websites Using Rumble -
+rumble.com  --  Monthly visits -> 132M
+thegatewaypundit.com  --  Monthly visits -> 35.6M
+standardnews.com  --  Monthly visits -> 33.5M
+mapquest.com  --  Monthly visits -> 26.6M
+townhall.com  --  Monthly visits -> 12.6M
+beforeitsnews.com  --  Monthly visits -> 9.5M
+snopes.com  --  Monthly visits -> 9.4M
+pjmedia.com  --  Monthly visits -> 9.4M
+makeleio.gr  --  Monthly visits -> 9.1M
+dailycaller.com  --  Monthly visits -> 8M
+
+- Geography -
+Rumble usage by websites across the globe
+Leading Countries: Websites
+United States: 1483
+Canada: 106
+France: 104
+Italy: 86
+Germany: 83
+United Kingdom: 69
+Australia: 57
+Netherlands: 53
+Greece: 44
+Japan: 40
+Rest of the World: 588

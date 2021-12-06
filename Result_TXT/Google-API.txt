@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google API
+Last month's change: 16.9%
+Websites: 9832655
+Unique Domains: 7173137
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google API is being used
+Computers Electronics & Technology: 4.55%
+Science & Education: 3.51%
+Arts & Entertainment: 2.68%
+Health: 2.03%
+Others: 87.24%
+
+
+- Related Technologies -
+Top Other technologies
+Minute Media
+SBTech
+Clarifai
+None
+None
+
+
+- Top Websites Using Google API -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+mail.google.com  --  Monthly visits -> 11.3B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+accounts.google.com  --  Monthly visits -> 4.5B
+drive.google.com  --  Monthly visits -> 2.8B
+bit.ly  --  Monthly visits -> 2.4B
+pornhub.com  --  Monthly visits -> 2.2B
+support.google.com  --  Monthly visits -> 1.5B
+
+- Geography -
+Google API usage by websites across the globe
+Leading Countries: Websites
+United States: 2066844
+Japan: 595112
+Russia: 387745
+United Kingdom: 387452
+Germany: 363504
+France: 338293
+Italy: 289219
+India: 282347
+Canada: 274834
+Brazil: 240224
+Rest of the World: 3794136

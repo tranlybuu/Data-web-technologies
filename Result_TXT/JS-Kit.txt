@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: JS-Kit
+Last month's change: 0.66%
+Websites: 912
+Unique Domains: 417
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where JS-Kit is being used
+Computers Electronics & Technology: 8.44%
+Arts & Entertainment: 6.91%
+Science & Education: 4.61%
+Community & Society: 4.28%
+Others: 75.77%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using JS-Kit -
+wikidot.com  --  Monthly visits -> 18.5M
+app.discord.com  --  Monthly visits -> 9.5M
+web.discord.com  --  Monthly visits -> 735.7K
+wdfiles.com  --  Monthly visits -> 539.4K
+romanoimpero.com  --  Monthly visits -> 217.6K
+lacan.com  --  Monthly visits -> 148.9K
+informationclearinghouse.info  --  Monthly visits -> 147.6K
+geracaobenfica.blogspot.com  --  Monthly visits -> 117K
+earth.li  --  Monthly visits -> 94.8K
+emezeta.com  --  Monthly visits -> 94.1K
+
+- Geography -
+JS-Kit usage by websites across the globe
+Leading Countries: Websites
+United States: 207
+Brazil: 47
+France: 26
+Indonesia: 25
+Japan: 24
+United Kingdom: 24
+Spain: 23
+India: 22
+Malaysia: 20
+Italy: 19
+Rest of the World: 306

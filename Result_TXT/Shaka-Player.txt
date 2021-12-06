@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Shaka Player
+Last month's change: 5.17%
+Websites: 3491
+Unique Domains: 1715
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Shaka Player is being used
+Computers Electronics & Technology: 8.91%
+Arts & Entertainment: 8.45%
+Sports: 6.30%
+Games: 3.81%
+Others: 72.53%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Shaka Player -
+kompas.com  --  Monthly visits -> 194M
+hurriyet.com.tr  --  Monthly visits -> 149.6M
+telecinco.es  --  Monthly visits -> 46M
+m.ebay.com  --  Monthly visits -> 44.2M
+metro.co.uk  --  Monthly visits -> 34.1M
+ebay.fr  --  Monthly visits -> 32.8M
+sportingnews.com  --  Monthly visits -> 24M
+m.cda.pl  --  Monthly visits -> 19.2M
+ebay.es  --  Monthly visits -> 17.7M
+regional.kompas.com  --  Monthly visits -> 15.8M
+
+- Geography -
+Shaka Player usage by websites across the globe
+Leading Countries: Websites
+South Korea: 682
+United States: 602
+India: 121
+United Kingdom: 94
+Russia: 81
+Spain: 81
+Czech Republic: 77
+Germany: 67
+Canada: 59
+Brazil: 52
+Rest of the World: 885

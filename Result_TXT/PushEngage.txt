@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PushEngage
+Last month's change: 0.20%
+Websites: 3025
+Unique Domains: 2579
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PushEngage is being used
+Computers Electronics & Technology: 7.67%
+News & Media: 5.32%
+Finance: 4.46%
+Lifestyle: 4.30%
+Others: 78.25%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using PushEngage -
+anandabazar.com  --  Monthly visits -> 44.7M
+milanuncios.com  --  Monthly visits -> 37.4M
+fantacalcio.it  --  Monthly visits -> 33.1M
+brideexperts.com  --  Monthly visits -> 32.7M
+ajio.com  --  Monthly visits -> 31.4M
+blikk.hu  --  Monthly visits -> 27.1M
+prothomalo.com  --  Monthly visits -> 26.2M
+theepochtimes.com  --  Monthly visits -> 24.6M
+timesnownews.com  --  Monthly visits -> 24.1M
+newindianexpress.com  --  Monthly visits -> 12.7M
+
+- Geography -
+PushEngage usage by websites across the globe
+Leading Countries: Websites
+United States: 782
+India: 434
+Pakistan: 91
+United Kingdom: 82
+Germany: 68
+Turkey: 65
+Netherlands: 60
+Australia: 56
+Romania: 53
+Brazil: 44
+Rest of the World: 944

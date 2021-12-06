@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Omnisend
+Last month's change: 12.3%
+Websites: 12314
+Unique Domains: 10554
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Omnisend is being used
+Lifestyle: 8.83%
+Business & Consumer Services: 2.76%
+Food & Drink: 2.40%
+E-commerce & Shopping: 2.39%
+Others: 83.62%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Omnisend -
+soundestlink.com  --  Monthly visits -> 6.2M
+myaccount.boostmobile.com  --  Monthly visits -> 5.3M
+luvmehair.com  --  Monthly visits -> 2.7M
+shop.luvmehair.com  --  Monthly visits -> 2.5M
+appliancesconnection.com  --  Monthly visits -> 2.2M
+nuubu.com  --  Monthly visits -> 1.9M
+cvbankas.lt  --  Monthly visits -> 1.9M
+lelo.com  --  Monthly visits -> 1.8M
+crazy-factory.com  --  Monthly visits -> 1.3M
+onthehub.com  --  Monthly visits -> 903.9K
+
+- Geography -
+Omnisend usage by websites across the globe
+Leading Countries: Websites
+United States: 4323
+United Kingdom: 756
+Australia: 611
+Canada: 583
+Lithuania: 370
+India: 264
+Germany: 263
+France: 223
+Italy: 169
+South Africa: 156
+Rest of the World: 3108

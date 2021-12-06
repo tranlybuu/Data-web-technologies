@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Wowza
+Last month's change: 1.33%
+Websites: 377
+Unique Domains: 300
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Wowza is being used
+Computers Electronics & Technology: 5.57%
+Arts & Entertainment: 3.98%
+Law & Government: 3.71%
+News & Media: 3.45%
+Others: 83.29%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Wowza -
+wect.com  --  Monthly visits -> 966.4K
+wowza.com  --  Monthly visits -> 277.5K
+i-vrdc.com  --  Monthly visits -> 249.2K
+trans7.co.id  --  Monthly visits -> 245.7K
+iplacex.cl  --  Monthly visits -> 243.4K
+stream3.hndt.com  --  Monthly visits -> 197.5K
+fise.it  --  Monthly visits -> 188.2K
+stream.hndt.com  --  Monthly visits -> 186.6K
+logghe-geert.be  --  Monthly visits -> 162K
+gazzettamatin.com  --  Monthly visits -> 152.3K
+
+- Geography -
+Wowza usage by websites across the globe
+Leading Countries: Websites
+United States: 76
+Italy: 12
+Germany: 10
+United Kingdom: 10
+Canada: 8
+France: 8
+Spain: 8
+Poland: 7
+Chile: 6
+Indonesia: 6
+Rest of the World: 100

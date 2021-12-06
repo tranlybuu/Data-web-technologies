@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ActivEngage
+Last month's change: 19.3%
+Websites: 1802
+Unique Domains: 1730
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ActivEngage is being used
+Vehicles: 46.45%
+Finance: 0.11%
+Business & Consumer Services: 0.06%
+Jobs & Career: 0.06%
+Others: 53.33%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using ActivEngage -
+audiusa.com  --  Monthly visits -> 2.3M
+akinsford.com  --  Monthly visits -> 181.2K
+usautosales.info  --  Monthly visits -> 127.4K
+fremontmotors.com  --  Monthly visits -> 126K
+earnhardttoyota.com  --  Monthly visits -> 125.6K
+carlocktoyotaoftupelo.com  --  Monthly visits -> 111.3K
+rosevilletoyota.com  --  Monthly visits -> 98.3K
+prestigeimports.com  --  Monthly visits -> 82.4K
+autonationtoyotatempe.com  --  Monthly visits -> 81.8K
+audifs.com  --  Monthly visits -> 81.2K
+
+- Geography -
+ActivEngage usage by websites across the globe
+Leading Countries: Websites
+United States: 1449
+Bolivia: 47
+Canada: 38
+Peru: 36
+India: 6
+Indonesia: 6
+Jamaica: 4
+Colombia: 3
+Vietnam: 3
+Algeria: 2
+Rest of the World: 25

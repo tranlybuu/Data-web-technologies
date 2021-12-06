@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: GoSquared
+Last month's change: 0.94%
+Websites: 4154
+Unique Domains: 3323
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where GoSquared is being used
+Computers Electronics & Technology: 7.80%
+Community & Society: 4.26%
+Science & Education: 3.01%
+Business & Consumer Services: 2.41%
+Others: 82.52%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using GoSquared -
+alza.cz  --  Monthly visits -> 19.2M
+passeidireto.com  --  Monthly visits -> 14.4M
+indodax.com  --  Monthly visits -> 12.5M
+shop.coles.com.au  --  Monthly visits -> 10.7M
+mo.gov  --  Monthly visits -> 9.2M
+alza.sk  --  Monthly visits -> 6.8M
+mobalytics.gg  --  Monthly visits -> 6.3M
+triviaboss.com  --  Monthly visits -> 4.5M
+noen.at  --  Monthly visits -> 3.6M
+cettire.com  --  Monthly visits -> 2.8M
+
+- Geography -
+GoSquared usage by websites across the globe
+Leading Countries: Websites
+United States: 1172
+United Kingdom: 485
+Brazil: 163
+Germany: 152
+Australia: 135
+Canada: 102
+India: 96
+France: 93
+Turkey: 68
+Netherlands: 65
+Rest of the World: 1076

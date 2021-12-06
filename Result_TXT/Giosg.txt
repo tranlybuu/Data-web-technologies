@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Giosg
+Last month's change: 0%
+Websites: 1699
+Unique Domains: 1432
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Giosg is being used
+Business & Consumer Services: 7.47%
+Finance: 6.89%
+Science & Education: 5.59%
+E-commerce & Shopping: 5.53%
+Others: 74.51%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Giosg -
+op.fi  --  Monthly visits -> 16.7M
+nokia.com  --  Monthly visits -> 6.5M
+s-pankki.fi  --  Monthly visits -> 3.7M
+tokmanni.fi  --  Monthly visits -> 3.2M
+kjell.com  --  Monthly visits -> 3.2M
+webmail.elisa.fi  --  Monthly visits -> 2.9M
+mtv.fi  --  Monthly visits -> 2.6M
+tuni.fi  --  Monthly visits -> 2.5M
+cmore.fi  --  Monthly visits -> 2.4M
+xxl.no  --  Monthly visits -> 1.9M
+
+- Geography -
+Giosg usage by websites across the globe
+Leading Countries: Websites
+Finland: 1095
+United Kingdom: 126
+Sweden: 113
+Norway: 27
+Netherlands: 19
+Estonia: 18
+United States: 17
+Germany: 14
+Poland: 14
+Lithuania: 11
+Rest of the World: 98

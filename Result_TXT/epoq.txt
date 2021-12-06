@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: epoq
+Last month's change: 0.28%
+Websites: 362
+Unique Domains: 287
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where epoq is being used
+Lifestyle: 15.47%
+E-commerce & Shopping: 10.77%
+Sports: 10.50%
+Home & Garden: 10.22%
+Others: 53.04%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using epoq -
+alternate.de  --  Monthly visits -> 4.9M
+hagebau.de  --  Monthly visits -> 2.7M
+manor.ch  --  Monthly visits -> 2.5M
+rosebikes.de  --  Monthly visits -> 2M
+fahrrad-xxl.de  --  Monthly visits -> 1.8M
+carhartt-wip.com  --  Monthly visits -> 1.7M
+babymarkt.de  --  Monthly visits -> 1.7M
+goertz.de  --  Monthly visits -> 1.7M
+exlibris.ch  --  Monthly visits -> 1.6M
+m.hagebau.de  --  Monthly visits -> 1.5M
+
+- Geography -
+epoq usage by websites across the globe
+Leading Countries: Websites
+Germany: 141
+Switzerland: 24
+Austria: 20
+France: 14
+Netherlands: 10
+Spain: 9
+Italy: 8
+Poland: 8
+United States: 8
+Belgium: 7
+Rest of the World: 55

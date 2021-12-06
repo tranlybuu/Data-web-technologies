@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MLBAM
+Last month's change: 0.48%
+Websites: 1043
+Unique Domains: 752
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MLBAM is being used
+Sports: 29.91%
+Arts & Entertainment: 4.89%
+Computers Electronics & Technology: 3.36%
+Science & Education: 3.07%
+Others: 58.77%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using MLBAM -
+mlb.com  --  Monthly visits -> 88.5M
+ranker.com  --  Monthly visits -> 21.1M
+m.ranker.com  --  Monthly visits -> 10.9M
+fivethirtyeight.com  --  Monthly visits -> 10.2M
+mlblists.com  --  Monthly visits -> 4.3M
+stacker.com  --  Monthly visits -> 2.8M
+alldebrid.com  --  Monthly visits -> 2.5M
+sports-reference.com  --  Monthly visits -> 2.3M
+m.mlb.com  --  Monthly visits -> 2M
+acethinker.com  --  Monthly visits -> 2M
+
+- Geography -
+MLBAM usage by websites across the globe
+Leading Countries: Websites
+United States: 639
+Canada: 31
+Japan: 29
+India: 20
+South Korea: 16
+France: 10
+Philippines: 10
+United Kingdom: 9
+Australia: 8
+Italy: 8
+Rest of the World: 109

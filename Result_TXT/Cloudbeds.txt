@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cloudbeds
+Last month's change: 6.63%
+Websites: 2216
+Unique Domains: 2160
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cloudbeds is being used
+Travel & Tourism: 21.21%
+Food & Drink: 1.13%
+Sports: 0.72%
+Hobbies & Leisure: 0.50%
+Others: 76.44%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using Cloudbeds -
+flights.google.com  --  Monthly visits -> 9.2M
+cloudbeds.com  --  Monthly visits -> 3.2M
+hotels.cloudbeds.com  --  Monthly visits -> 2.9M
+aimultiple.com  --  Monthly visits -> 498.1K
+memphistours.com  --  Monthly visits -> 256.7K
+shutupandsitdown.com  --  Monthly visits -> 210.1K
+centarahotelsresorts.com  --  Monthly visits -> 205.4K
+visitcos.com  --  Monthly visits -> 200.6K
+ottawatourism.ca  --  Monthly visits -> 194.1K
+caridestinasi.com  --  Monthly visits -> 192.3K
+
+- Geography -
+Cloudbeds usage by websites across the globe
+Leading Countries: Websites
+United States: 781
+Canada: 114
+Australia: 76
+Brazil: 73
+Mexico: 72
+United Kingdom: 68
+Spain: 62
+Argentina: 54
+Thailand: 49
+India: 46
+Rest of the World: 687

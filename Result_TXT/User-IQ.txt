@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: User IQ
+Last month's change: 1.68%
+Websites: 1550
+Unique Domains: 57
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where User IQ is being used
+Community & Society: 48.39%
+Jobs & Career: 5.48%
+Pets & Animals: 4.00%
+Science & Education: 3.03%
+Others: 39.10%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using User IQ -
+manheim.com  --  Monthly visits -> 2.6M
+ove.com  --  Monthly visits -> 438.8K
+passport.carnegielearning.com  --  Monthly visits -> 384.2K
+publish.manheim.com  --  Monthly visits -> 327.1K
+customer.nextgearcapital.com  --  Monthly visits -> 261.1K
+simulcast.manheim.com  --  Monthly visits -> 201.3K
+oxblue.com  --  Monthly visits -> 191.6K
+app.oxblue.com  --  Monthly visits -> 128K
+csudh.techsmithrelay.com  --  Monthly visits -> 103K
+thejar.ccbchurch.com  --  Monthly visits -> 100.2K
+
+- Geography -
+User IQ usage by websites across the globe
+Leading Countries: Websites
+United States: 896
+Canada: 37
+Australia: 11
+Brazil: 7
+Philippines: 4
+Belgium: 2
+Jamaica: 2
+Singapore: 2
+United Kingdom: 2
+Belarus: 1
+Rest of the World: 11

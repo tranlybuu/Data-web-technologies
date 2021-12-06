@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Peek
+Last month's change: 22.0%
+Websites: 1197
+Unique Domains: 1192
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Peek is being used
+Travel & Tourism: 11.28%
+Food & Drink: 7.85%
+Sports: 7.35%
+Vehicles: 1.84%
+Others: 71.68%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Booker
+Vagaro
+
+
+- Top Websites Using Peek -
+book.peek.com  --  Monthly visits -> 971.9K
+bikebandit.com  --  Monthly visits -> 801.7K
+pro-app.peek.com  --  Monthly visits -> 222.3K
+ghostcitytours.com  --  Monthly visits -> 217.3K
+thextremexperience.com  --  Monthly visits -> 192.3K
+summitbicycles.com  --  Monthly visits -> 184.7K
+visitaruba.com  --  Monthly visits -> 182.7K
+strawberrytours.com  --  Monthly visits -> 172.8K
+bucketlisters.com  --  Monthly visits -> 152.6K
+itraveljerusalem.com  --  Monthly visits -> 152.2K
+
+- Geography -
+Peek usage by websites across the globe
+Leading Countries: Websites
+United States: 981
+Canada: 46
+Mexico: 19
+United Kingdom: 9
+Australia: 5
+Philippines: 5
+Poland: 5
+Spain: 5
+Brazil: 4
+Israel: 4
+Rest of the World: 62

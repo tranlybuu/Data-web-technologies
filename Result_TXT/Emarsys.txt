@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Emarsys
+Last month's change: 0.82%
+Websites: 15977
+Unique Domains: 8707
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Emarsys is being used
+Lifestyle: 14.10%
+Computers Electronics & Technology: 6.59%
+E-commerce & Shopping: 6.17%
+Pets & Animals: 4.57%
+Others: 68.58%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Emarsys -
+livejasmin.com  --  Monthly visits -> 201.3M
+shein.com  --  Monthly visits -> 139.4M
+m.shein.com  --  Monthly visits -> 65.5M
+welt.de  --  Monthly visits -> 63M
+digikala.com  --  Monthly visits -> 61.5M
+jasmin.com  --  Monthly visits -> 38.6M
+krone.at  --  Monthly visits -> 36.2M
+coppel.com  --  Monthly visits -> 35.8M
+us.shein.com  --  Monthly visits -> 30.4M
+m.livejasmin.com  --  Monthly visits -> 26.2M
+
+- Geography -
+Emarsys usage by websites across the globe
+Leading Countries: Websites
+United States: 2289
+Germany: 2100
+France: 842
+United Kingdom: 734
+Russia: 624
+Australia: 388
+Austria: 365
+Hungary: 348
+Switzerland: 304
+Italy: 255
+Rest of the World: 3943

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Infusionsoft
+Last month's change: 0.50%
+Websites: 20600
+Unique Domains: 16814
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Infusionsoft is being used
+Business & Consumer Services: 10.18%
+Health: 7.70%
+Finance: 5.51%
+Community & Society: 4.84%
+Others: 71.76%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Infusionsoft -
+economictimes.com  --  Monthly visits -> 20.5M
+infusionsoft.com  --  Monthly visits -> 5.9M
+vshred.com  --  Monthly visits -> 5.1M
+vanderbilt.edu  --  Monthly visits -> 4.6M
+classiccars.com  --  Monthly visits -> 3.7M
+astrostyle.com  --  Monthly visits -> 2.7M
+nofap.com  --  Monthly visits -> 2.3M
+wallstreetoasis.com  --  Monthly visits -> 2M
+smallbiztrends.com  --  Monthly visits -> 1.9M
+thrivecart.com  --  Monthly visits -> 1.8M
+
+- Geography -
+Infusionsoft usage by websites across the globe
+Leading Countries: Websites
+United States: 10011
+United Kingdom: 1325
+Canada: 955
+Australia: 926
+Brazil: 514
+India: 442
+Italy: 262
+Philippines: 259
+Germany: 225
+Mexico: 203
+Rest of the World: 3401

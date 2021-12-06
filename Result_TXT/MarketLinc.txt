@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MarketLinc
+Last month's change: 10.4%
+Websites: 2500
+Unique Domains: 88
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MarketLinc is being used
+Science & Education: 12.52%
+Health: 7.16%
+Community & Society: 6.72%
+Sports: 5.84%
+Others: 67.76%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using MarketLinc -
+kaspersky.com  --  Monthly visits -> 10.5M
+freemake.com  --  Monthly visits -> 10.4M
+bpp.eset.com  --  Monthly visits -> 7.9M
+formstack.com  --  Monthly visits -> 7.2M
+pointclickcare.com  --  Monthly visits -> 5.6M
+gonitro.com  --  Monthly visits -> 883.2K
+logicmonitor.com  --  Monthly visits -> 781.6K
+kaspersky.com.br  --  Monthly visits -> 645.5K
+intelex.com  --  Monthly visits -> 390.4K
+gwi.com  --  Monthly visits -> 331.1K
+
+- Geography -
+MarketLinc usage by websites across the globe
+Leading Countries: Websites
+United States: 1357
+Canada: 145
+United Kingdom: 101
+Australia: 89
+India: 15
+Russia: 14
+Ireland: 13
+New Zealand: 13
+France: 12
+Sweden: 12
+Rest of the World: 255

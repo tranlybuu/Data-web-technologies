@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: reCAPTCHA
+Last month's change: 4.29%
+Websites: 4157321
+Unique Domains: 2861099
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where reCAPTCHA is being used
+Computers Electronics & Technology: 5.64%
+Science & Education: 3.73%
+Arts & Entertainment: 3.41%
+Games: 2.61%
+Others: 84.62%
+
+
+- Related Technologies -
+Top Captcha technologies
+General Captcha
+WP reCAPTCHA
+KeyCAPTCHA
+NuCaptcha
+Coinhive Captcha
+
+
+- Top Websites Using reCAPTCHA -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+m.youtube.com  --  Monthly visits -> 5.9B
+xvideos.com  --  Monthly visits -> 3.4B
+pornhub.com  --  Monthly visits -> 2.2B
+support.google.com  --  Monthly visits -> 1.5B
+play.google.com  --  Monthly visits -> 1.2B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+globo.com  --  Monthly visits -> 822.4M
+samsung.com  --  Monthly visits -> 805.5M
+
+- Geography -
+reCAPTCHA usage by websites across the globe
+Leading Countries: Websites
+United States: 798842
+Japan: 214787
+Russia: 192720
+United Kingdom: 159814
+France: 149573
+Germany: 119657
+Italy: 111085
+Canada: 105679
+India: 95754
+Spain: 91670
+Rest of the World: 1425008

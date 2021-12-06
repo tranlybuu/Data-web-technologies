@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Podiant
+Last month's change: 0.43%
+Websites: 231
+Unique Domains: 200
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Podiant is being used
+Arts & Entertainment: 7.79%
+Games: 4.33%
+Science & Education: 3.90%
+Computers Electronics & Technology: 3.46%
+Others: 80.52%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Podiant -
+hubhopper.com  --  Monthly visits -> 1.5M
+podtrac.com  --  Monthly visits -> 401.9K
+radiopublic.com  --  Monthly visits -> 204.7K
+dicetower.com  --  Monthly visits -> 194.3K
+likewise.com  --  Monthly visits -> 181.2K
+onehourprofessor.com  --  Monthly visits -> 153.9K
+meta-nomad.net  --  Monthly visits -> 151K
+memphisflyer.com  --  Monthly visits -> 128.7K
+ecosophia.dreamwidth.org  --  Monthly visits -> 120.5K
+fallingfruit.org  --  Monthly visits -> 98.5K
+
+- Geography -
+Podiant usage by websites across the globe
+Leading Countries: Websites
+United States: 103
+United Kingdom: 25
+Canada: 12
+India: 6
+Australia: 5
+Germany: 5
+France: 4
+Israel: 4
+Switzerland: 3
+United Arab Emirates: 3
+Rest of the World: 33

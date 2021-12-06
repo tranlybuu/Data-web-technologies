@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CookieBot
+Last month's change: 5.37%
+Websites: 99168
+Unique Domains: 83224
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CookieBot is being used
+Computers Electronics & Technology: 5.16%
+Business & Consumer Services: 3.54%
+Health: 3.20%
+Heavy Industry & Engineering: 3.19%
+Others: 84.91%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+UK Cookie Consent
+
+
+- Top Websites Using CookieBot -
+animeflv.net  --  Monthly visits -> 194.1M
+app.link  --  Monthly visits -> 120.6M
+m.animeflv.net  --  Monthly visits -> 106.1M
+www3.animeflv.net  --  Monthly visits -> 87M
+adjust.com  --  Monthly visits -> 86.1M
+sabah.com.tr  --  Monthly visits -> 75.2M
+m.sabah.com.tr  --  Monthly visits -> 55.6M
+issuu.com  --  Monthly visits -> 43.4M
+r.srvtrck.com  --  Monthly visits -> 42.3M
+dr.dk  --  Monthly visits -> 40.1M
+
+- Geography -
+CookieBot usage by websites across the globe
+Leading Countries: Websites
+Germany: 18728
+Italy: 9925
+United States: 7452
+Netherlands: 7367
+United Kingdom: 5654
+Denmark: 5171
+Spain: 4637
+France: 3823
+Romania: 2271
+Belgium: 2095
+Rest of the World: 24833

@@ -1,0 +1,47 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Tessitura Network
+Last month's change: 0.62%
+Websites: 161
+Unique Domains: 156
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tessitura Network is being used
+Arts & Entertainment: 33.54%
+Travel & Tourism: 15.53%
+Food & Drink: 13.66%
+Science & Education: 6.83%
+Others: 30.43%
+
+
+- Related Technologies -
+Top Ticketing technologies
+Tickera
+SeatEngine
+RezOvation
+FlameConcepts
+TopTix
+
+
+- Top Websites Using Tessitura Network -
+my.tdf.org  --  Monthly visits -> 327.1K
+my.mnzoo.org  --  Monthly visits -> 138.8K
+my.sciencemuseum.org.uk  --  Monthly visits -> 136.5K
+my.arttix.org  --  Monthly visits -> 117.3K
+ticketing.almeida.co.uk  --  Monthly visits -> 109.6K
+tickets.austintheatre.org  --  Monthly visits -> 100.3K
+order.cso.org  --  Monthly visits -> 86.7K
+tessitura.com  --  Monthly visits -> 80K
+my.ballet.ca  --  Monthly visits -> 70.2K
+my.oldvictheatre.com  --  Monthly visits -> 55K
+
+- Geography -
+Tessitura Network usage by websites across the globe
+Leading Countries: Websites
+United States: 122
+Canada: 14
+United Kingdom: 7
+Australia: 1
+Mexico: 1

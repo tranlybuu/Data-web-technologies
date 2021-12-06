@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Handtalk
+Last month's change: 5.20%
+Websites: 558
+Unique Domains: 351
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Handtalk is being used
+Science & Education: 11.29%
+Law & Government: 10.75%
+Health: 7.35%
+Finance: 6.99%
+Others: 63.62%
+
+
+- Related Technologies -
+Top Multilingual technologies
+Multilingual Support
+WPML Multilingual
+Transifex
+Bablic
+None
+
+
+- Top Websites Using Handtalk -
+americanas.com.br  --  Monthly visits -> 114.8M
+prefeitura.sp.gov.br  --  Monthly visits -> 9.3M
+catho.com.br  --  Monthly visits -> 8M
+voeazul.com.br  --  Monthly visits -> 7.6M
+minhaconta.americanas.com.br  --  Monthly visits -> 6.7M
+tnh1.com.br  --  Monthly visits -> 3.5M
+soubarato.com.br  --  Monthly visits -> 3.3M
+mrv.com.br  --  Monthly visits -> 3.2M
+unimed.coop.br  --  Monthly visits -> 3.2M
+maxmilhas.com.br  --  Monthly visits -> 2.5M
+
+- Geography -
+Handtalk usage by websites across the globe
+Leading Countries: Websites
+Brazil: 377
+Portugal: 2
+Japan: 1
+Netherlands: 1
+Paraguay: 1
+Ukraine: 1

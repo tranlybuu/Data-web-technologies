@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: VHX
+Last month's change: 2.75%
+Websites: 2833
+Unique Domains: 1765
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where VHX is being used
+Arts & Entertainment: 10.80%
+Community & Society: 5.93%
+Computers Electronics & Technology: 3.46%
+Lifestyle: 3.32%
+Others: 76.49%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using VHX -
+rezka.ag  --  Monthly visits -> 91.8M
+onelink.me  --  Monthly visits -> 54.5M
+powerschool.com  --  Monthly visits -> 35.3M
+blog.sina.com.cn  --  Monthly visits -> 19.6M
+mymovies.it  --  Monthly visits -> 6.5M
+nartag.com  --  Monthly visits -> 5.5M
+dashlane.com  --  Monthly visits -> 3.4M
+byoblu.com  --  Monthly visits -> 2.9M
+egybest.cool  --  Monthly visits -> 2.7M
+watch.sideplus.com  --  Monthly visits -> 2.6M
+
+- Geography -
+VHX usage by websites across the globe
+Leading Countries: Websites
+United States: 1095
+United Kingdom: 119
+Canada: 118
+India: 69
+Germany: 60
+France: 53
+Italy: 53
+Australia: 47
+China: 40
+Netherlands: 34
+Rest of the World: 663

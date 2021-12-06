@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SnapEngage
+Last month's change: 1.84%
+Websites: 4351
+Unique Domains: 3188
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SnapEngage is being used
+Computers Electronics & Technology: 10.32%
+Health: 6.83%
+Business & Consumer Services: 6.07%
+Finance: 4.37%
+Others: 72.42%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using SnapEngage -
+dropbox.com  --  Monthly visits -> 172.5M
+pubs.acs.org  --  Monthly visits -> 10.1M
+singlecare.com  --  Monthly visits -> 4.8M
+turbosquid.com  --  Monthly visits -> 4.7M
+centralreach.com  --  Monthly visits -> 3.9M
+paper.dropbox.com  --  Monthly visits -> 2.8M
+mobymax.com  --  Monthly visits -> 2.7M
+iowa.gov  --  Monthly visits -> 2.6M
+wacom.com  --  Monthly visits -> 2.6M
+ecstuning.com  --  Monthly visits -> 2.6M
+
+- Geography -
+SnapEngage usage by websites across the globe
+Leading Countries: Websites
+United States: 1796
+United Kingdom: 410
+Canada: 155
+Germany: 115
+Australia: 114
+Netherlands: 77
+France: 71
+Brazil: 61
+Mexico: 60
+India: 58
+Rest of the World: 908

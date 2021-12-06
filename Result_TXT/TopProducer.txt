@@ -1,0 +1,38 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TopProducer
+Last month's change: 16.7%
+Websites: 6
+Unique Domains: 6
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TopProducer is being used
+Business & Consumer Services: 33.33%
+Others: 66.67%
+None: None
+None: None
+None: None
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using TopProducer -
+bluesummithomes.com  --  Monthly visits -> 11.3K
+neurealty.com  --  Monthly visits -> 3.5K
+charlestonhomelistings.com  --  Monthly visits -> 709.81
+carinirealtors.com  --  Monthly visits -> 275.76
+fitzgerald-realestate.com  --  Monthly visits -> 270.04
+
+- Geography -
+TopProducer usage by websites across the globe
+Leading Countries: Websites
+United States: 5

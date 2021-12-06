@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CookieBAR
+Last month's change: 1.95%
+Websites: 256
+Unique Domains: 235
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CookieBAR is being used
+Computers Electronics & Technology: 4.69%
+Travel & Tourism: 4.30%
+Health: 3.13%
+E-commerce & Shopping: 2.73%
+Others: 85.16%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+CookieBot
+
+
+- Top Websites Using CookieBAR -
+coolconversion.com  --  Monthly visits -> 2.8M
+conversor-de-medidas.com  --  Monthly visits -> 1.3M
+recepty.aktuality.sk  --  Monthly visits -> 666.4K
+wordkeg.com  --  Monthly visits -> 328K
+saangeltree.org  --  Monthly visits -> 227.6K
+prijsvergelijken.nl  --  Monthly visits -> 196.6K
+centralleiloes.com.br  --  Monthly visits -> 179K
+ibridge.fr  --  Monthly visits -> 122K
+shinobilegends.com  --  Monthly visits -> 109.1K
+slaskie.travel  --  Monthly visits -> 105K
+
+- Geography -
+CookieBAR usage by websites across the globe
+Leading Countries: Websites
+Germany: 49
+Italy: 30
+Romania: 27
+France: 16
+United States: 15
+Netherlands: 14
+Hungary: 13
+Poland: 13
+United Kingdom: 11
+Czech Republic: 9
+Rest of the World: 47

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MTalk
+Last month's change: 0.79%
+Websites: 2660
+Unique Domains: 2485
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MTalk is being used
+E-commerce & Shopping: 2.67%
+Lifestyle: 1.77%
+Computers Electronics & Technology: 1.65%
+Health: 0.83%
+Others: 93.08%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using MTalk -
+raaga.com  --  Monthly visits -> 1.6M
+kipa.co.il  --  Monthly visits -> 1.1M
+cyclowiki.org  --  Monthly visits -> 920.7K
+game-dictionary.net  --  Monthly visits -> 712.6K
+sixshop.com  --  Monthly visits -> 504.7K
+sunlife.com.vn  --  Monthly visits -> 336.1K
+chat.libero.it  --  Monthly visits -> 282.9K
+oa.suse.edu.cn  --  Monthly visits -> 172K
+aftershokz.kr  --  Monthly visits -> 169.6K
+skcarrental.com  --  Monthly visits -> 160.8K
+
+- Geography -
+MTalk usage by websites across the globe
+Leading Countries: Websites
+South Korea: 1934
+China: 312
+United States: 74
+France: 40
+Russia: 30
+Hong Kong: 16
+United Kingdom: 13
+Japan: 12
+India: 11
+Australia: 10
+Rest of the World: 131

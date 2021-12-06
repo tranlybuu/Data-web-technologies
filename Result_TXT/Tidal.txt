@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Tidal
+Last month's change: 3.32%
+Websites: 301
+Unique Domains: 261
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tidal is being used
+Arts & Entertainment: 37.54%
+Computers Electronics & Technology: 8.97%
+Lifestyle: 1.66%
+E-commerce & Shopping: 1.33%
+Others: 50.50%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Tidal -
+tidal.com  --  Monthly visits -> 5.5M
+offer.tidal.com  --  Monthly visits -> 1.4M
+login.tidal.com  --  Monthly visits -> 1.4M
+revolt.tv  --  Monthly visits -> 1.1M
+cgm.pl  --  Monthly visits -> 723.9K
+itromso.no  --  Monthly visits -> 703.3K
+2dopeboyz.com  --  Monthly visits -> 378.9K
+dali-speakers.com  --  Monthly visits -> 233.9K
+avstore.ro  --  Monthly visits -> 230K
+visioncasino.net  --  Monthly visits -> 199.8K
+
+- Geography -
+Tidal usage by websites across the globe
+Leading Countries: Websites
+United States: 101
+United Kingdom: 14
+France: 13
+Canada: 12
+Poland: 9
+Germany: 8
+Italy: 8
+Denmark: 7
+Netherlands: 7
+Norway: 7
+Rest of the World: 85

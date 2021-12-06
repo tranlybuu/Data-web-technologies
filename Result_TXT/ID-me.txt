@@ -1,0 +1,52 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ID me
+Last month's change: 5.57%
+Websites: 287
+Unique Domains: 172
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ID me is being used
+Vehicles: 52.61%
+Finance: 6.62%
+Sports: 4.88%
+Lifestyle: 4.53%
+Others: 31.36%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using ID me -
+va.gov  --  Monthly visits -> 35.8M
+myhealth.va.gov  --  Monthly visits -> 18.2M
+truecar.com  --  Monthly visits -> 11.5M
+zennioptical.com  --  Monthly visits -> 6.4M
+manscaped.com  --  Monthly visits -> 3.3M
+clarksusa.com  --  Monthly visits -> 2.1M
+seaworld.com  --  Monthly visits -> 1.8M
+allenedmonds.com  --  Monthly visits -> 894.2K
+android-top.com  --  Monthly visits -> 804K
+hellobello.com  --  Monthly visits -> 455.2K
+
+- Geography -
+ID me usage by websites across the globe
+Leading Countries: Websites
+United States: 246
+Canada: 3
+Hong Kong: 2
+Australia: 1
+Bolivia: 1
+China: 1
+Cyprus: 1
+Peru: 1
+Russia: 1
+United Arab Emirates: 1

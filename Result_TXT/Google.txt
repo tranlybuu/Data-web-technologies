@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google
+Last month's change: 1.77%
+Websites: 20291675
+Unique Domains: 12576314
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google is being used
+Computers Electronics & Technology: 4.47%
+Science & Education: 3.51%
+Arts & Entertainment: 3.40%
+Games: 1.99%
+Others: 86.63%
+
+
+- Related Technologies -
+Top Information Technology technologies
+Facebook
+Amazon
+IBM
+Oracle
+Oracle Cloud
+
+
+- Top Websites Using Google -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+mail.google.com  --  Monthly visits -> 11.3B
+twitter.com  --  Monthly visits -> 6.7B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+accounts.google.com  --  Monthly visits -> 4.5B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+
+- Geography -
+Google usage by websites across the globe
+Leading Countries: Websites
+United States: 3648607
+Japan: 1202754
+Russia: 789937
+Germany: 726722
+United Kingdom: 704943
+France: 605546
+Italy: 517063
+Canada: 492844
+India: 473908
+Brazil: 415119
+Rest of the World: 6966817

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HTML5 SVG Tag
+Last month's change: 3.20%
+Websites: 9689571
+Unique Domains: 5724492
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HTML5 SVG Tag is being used
+Computers Electronics & Technology: 4.64%
+Arts & Entertainment: 4.39%
+Science & Education: 3.48%
+Games: 2.38%
+Others: 85.11%
+
+
+- Related Technologies -
+Top HTML Tags technologies
+HTML5 Video Tag
+HTML5 Canvas Tag
+HTML5 Embed Tag
+HTML5 Audio Tag
+None
+
+
+- Top Websites Using HTML5 SVG Tag -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+mail.google.com  --  Monthly visits -> 11.3B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+wikipedia.org  --  Monthly visits -> 5.3B
+accounts.google.com  --  Monthly visits -> 4.5B
+yandex.ru  --  Monthly visits -> 3.9B
+
+- Geography -
+HTML5 SVG Tag usage by websites across the globe
+Leading Countries: Websites
+United States: 1991927
+Russia: 385918
+United Kingdom: 375414
+Germany: 347533
+Japan: 310315
+France: 275025
+Canada: 257892
+Italy: 220382
+India: 213247
+Brazil: 212924
+Rest of the World: 3166023

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenGraph Site Name Entity
+Last month's change: 1.53%
+Websites: 10401183
+Unique Domains: 6789204
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenGraph Site Name Entity is being used
+Arts & Entertainment: 4.51%
+Computers Electronics & Technology: 4.34%
+Science & Education: 3.15%
+Games: 2.38%
+Others: 85.62%
+
+
+- Related Technologies -
+Top Open Graph Tags technologies
+Open Graph Protocol
+OpenGraph Url Entity
+OpenGraph Description Entity
+OpenGraph Type Entity
+OpenGraph Image Entity
+
+
+- Top Websites Using OpenGraph Site Name Entity -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+whatsapp.com  --  Monthly visits -> 3.1B
+
+- Geography -
+OpenGraph Site Name Entity usage by websites across the globe
+Leading Countries: Websites
+United States: 2042444
+Japan: 682096
+United Kingdom: 387324
+Germany: 361260
+France: 324670
+Canada: 277939
+Italy: 261513
+Russia: 236558
+South Korea: 222927
+Australia: 208688
+Rest of the World: 3333144

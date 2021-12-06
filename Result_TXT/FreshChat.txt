@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FreshChat
+Last month's change: 0.45%
+Websites: 14593
+Unique Domains: 10574
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FreshChat is being used
+Computers Electronics & Technology: 9.59%
+Finance: 5.01%
+Business & Consumer Services: 4.15%
+Lifestyle: 3.98%
+Others: 77.27%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using FreshChat -
+bookmyshow.com  --  Monthly visits -> 29.3M
+in.bookmyshow.com  --  Monthly visits -> 28.1M
+freshdesk.com  --  Monthly visits -> 24.6M
+moe.gov.sa  --  Monthly visits -> 20.8M
+practo.com  --  Monthly visits -> 10.7M
+topperlearning.com  --  Monthly visits -> 9.8M
+platzi.com  --  Monthly visits -> 9.1M
+upstox.com  --  Monthly visits -> 9.1M
+vieon.vn  --  Monthly visits -> 8.4M
+upward.careers  --  Monthly visits -> 7.5M
+
+- Geography -
+FreshChat usage by websites across the globe
+Leading Countries: Websites
+United States: 3345
+India: 1164
+United Kingdom: 736
+Canada: 470
+Australia: 410
+Brazil: 384
+Netherlands: 335
+Germany: 304
+France: 299
+Vietnam: 285
+Rest of the World: 5035

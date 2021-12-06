@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HTTPS
+Last month's change: 2.37%
+Websites: 17957688
+Unique Domains: 10413334
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HTTPS is being used
+Computers Electronics & Technology: 5.04%
+Science & Education: 3.74%
+Arts & Entertainment: 3.32%
+Games: 2.13%
+Others: 85.78%
+
+
+- Related Technologies -
+Top Document Standard technologies
+HTML5 DocType
+X-UA-Compatible
+Content Security Policy
+P3P Policy
+Adobe Flash Embed
+
+
+- Top Websites Using HTTPS -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+mail.google.com  --  Monthly visits -> 11.3B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+wikipedia.org  --  Monthly visits -> 5.3B
+
+- Geography -
+HTTPS usage by websites across the globe
+Leading Countries: Websites
+United States: 3387999
+Japan: 909795
+Germany: 783220
+Russia: 666897
+United Kingdom: 657332
+France: 521121
+Canada: 444978
+China: 442320
+Italy: 417624
+India: 385127
+Rest of the World: 6045136

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OSM Player
+Last month's change: 1.17%
+Websites: 257
+Unique Domains: 217
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OSM Player is being used
+Science & Education: 10.51%
+Community & Society: 7.39%
+Computers Electronics & Technology: 7.00%
+News & Media: 5.84%
+Others: 69.26%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using OSM Player -
+conmebol.com  --  Monthly visits -> 864.1K
+policenet.gr  --  Monthly visits -> 397.9K
+armada.mil.co  --  Monthly visits -> 383.5K
+unipampa.edu.br  --  Monthly visits -> 320.5K
+wildatheart.org  --  Monthly visits -> 306K
+storageaccess.net  --  Monthly visits -> 285.4K
+fhi360.org  --  Monthly visits -> 187.1K
+masralarabia.net  --  Monthly visits -> 111K
+sexaholicsanonymous.eu  --  Monthly visits -> 79.1K
+m.masralarabia.net  --  Monthly visits -> 76.7K
+
+- Geography -
+OSM Player usage by websites across the globe
+Leading Countries: Websites
+United States: 58
+France: 13
+Canada: 8
+Germany: 8
+Italy: 8
+Spain: 8
+United Kingdom: 8
+Brazil: 7
+Argentina: 6
+Australia: 5
+Rest of the World: 100

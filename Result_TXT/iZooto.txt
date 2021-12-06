@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: iZooto
+Last month's change: 12.3%
+Websites: 7794
+Unique Domains: 5852
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where iZooto is being used
+Lifestyle: 8.30%
+News & Media: 7.70%
+Adult: 6.44%
+E-commerce & Shopping: 5.44%
+Others: 72.12%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+Pushnami
+cleverpush
+PushPushGo
+TruePush
+
+
+- Top Websites Using iZooto -
+news18.com  --  Monthly visits -> 129.3M
+india.com  --  Monthly visits -> 93.5M
+aajtak.in  --  Monthly visits -> 91.6M
+indianexpress.com  --  Monthly visits -> 80.2M
+moneycontrol.com  --  Monthly visits -> 76.8M
+suara.com  --  Monthly visits -> 76M
+indiatoday.in  --  Monthly visits -> 69.7M
+jpnn.com  --  Monthly visits -> 51.6M
+m.jpnn.com  --  Monthly visits -> 38.9M
+sanook.com  --  Monthly visits -> 36.8M
+
+- Geography -
+iZooto usage by websites across the globe
+Leading Countries: Websites
+Taiwan: 2727
+Hong Kong: 948
+India: 862
+United States: 618
+Indonesia: 228
+Malaysia: 188
+Philippines: 79
+United Kingdom: 77
+Thailand: 67
+Japan: 57
+Rest of the World: 751

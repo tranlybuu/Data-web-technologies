@@ -1,0 +1,52 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Ventuno
+Last month's change: 1.19%
+Websites: 84
+Unique Domains: 56
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Ventuno is being used
+News & Media: 44.05%
+Arts & Entertainment: 9.52%
+Vehicles: 7.14%
+Computers Electronics & Technology: 5.95%
+Others: 33.33%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Ventuno -
+tamil.oneindia.com  --  Monthly visits -> 17.4M
+newindianexpress.com  --  Monthly visits -> 12.7M
+mykhel.com  --  Monthly visits -> 5.7M
+tamil.filmibeat.com  --  Monthly visits -> 5.5M
+drivespark.com  --  Monthly visits -> 4.3M
+gizbot.com  --  Monthly visits -> 3.7M
+dinakaran.com  --  Monthly visits -> 2.7M
+telugu.filmibeat.com  --  Monthly visits -> 2.6M
+sunstar.com.ph  --  Monthly visits -> 1.6M
+tamil.drivespark.com  --  Monthly visits -> 1.5M
+
+- Geography -
+Ventuno usage by websites across the globe
+Leading Countries: Websites
+India: 57
+United States: 4
+United Arab Emirates: 3
+Australia: 2
+Philippines: 2
+Bahrain: 1
+Germany: 1
+Hong Kong: 1
+Hungary: 1
+United Kingdom: 1

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CareSoft
+Last month's change: 2.28%
+Websites: 263
+Unique Domains: 208
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CareSoft is being used
+Computers Electronics & Technology: 11.41%
+News & Media: 8.75%
+E-commerce & Shopping: 7.98%
+Lifestyle: 3.80%
+Others: 68.06%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using CareSoft -
+cellphones.com.vn  --  Monthly visits -> 9.4M
+gearvn.com  --  Monthly visits -> 2.2M
+hanoicomputer.vn  --  Monthly visits -> 1.7M
+hungmobile.vn  --  Monthly visits -> 760.8K
+pharmacity.vn  --  Monthly visits -> 730.2K
+dienthoaivui.com.vn  --  Monthly visits -> 703.7K
+phucanh.vn  --  Monthly visits -> 691K
+ntlogistics.vn  --  Monthly visits -> 617.2K
+nguyencongpc.vn  --  Monthly visits -> 474.5K
+fastcare.vn  --  Monthly visits -> 316.4K
+
+- Geography -
+CareSoft usage by websites across the globe
+Leading Countries: Websites
+Vietnam: 229
+Austria: 1
+Canada: 1
+Taiwan: 1
+Ecuador: 1
+Hong Kong: 1
+Iran: 1
+Japan: 1
+Spain: 1
+Thailand: 1
+Rest of the World: 1

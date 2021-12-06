@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MaxMind
+Last month's change: 5.39%
+Websites: 798
+Unique Domains: 670
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MaxMind is being used
+Computers Electronics & Technology: 8.02%
+Arts & Entertainment: 3.51%
+Health: 3.38%
+Lifestyle: 2.76%
+Others: 82.33%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using MaxMind -
+fujifilm.com  --  Monthly visits -> 4.6M
+babeshows.co.uk  --  Monthly visits -> 587.1K
+datingbridgelp.info  --  Monthly visits -> 321.7K
+erotickerande.cz  --  Monthly visits -> 220.3K
+fbpurity.com  --  Monthly visits -> 210.4K
+savour-life.com.au  --  Monthly visits -> 186.9K
+chia-anime.me  --  Monthly visits -> 184.6K
+epravesh.com  --  Monthly visits -> 168.1K
+fucktheslut.net  --  Monthly visits -> 148.8K
+main.mgs.srv.br  --  Monthly visits -> 146.3K
+
+- Geography -
+MaxMind usage by websites across the globe
+Leading Countries: Websites
+Spain: 131
+United States: 130
+France: 45
+Canada: 18
+Germany: 18
+India: 18
+Mexico: 17
+Brazil: 16
+China: 15
+Italy: 15
+Rest of the World: 267

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Anchor
+Last month's change: 13.6%
+Websites: 35639
+Unique Domains: 31303
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Anchor is being used
+Science & Education: 6.01%
+Computers Electronics & Technology: 5.02%
+Arts & Entertainment: 4.61%
+Community & Society: 3.79%
+Others: 80.57%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Podbean
+Libsyn
+BuzzSprout
+Stitcher
+
+
+- Top Websites Using Anchor -
+blog.discord.com  --  Monthly visits -> 193.5M
+climatempo.com.br  --  Monthly visits -> 42M
+bitchute.com  --  Monthly visits -> 41.6M
+calendly.com  --  Monthly visits -> 30.8M
+snaptik.app  --  Monthly visits -> 28.6M
+rtlnieuws.nl  --  Monthly visits -> 28.3M
+orange.es  --  Monthly visits -> 27.8M
+substack.com  --  Monthly visits -> 26M
+pcgamer.com  --  Monthly visits -> 26M
+itslearning.com  --  Monthly visits -> 25.1M
+
+- Geography -
+Anchor usage by websites across the globe
+Leading Countries: Websites
+United States: 13112
+United Kingdom: 2010
+Brazil: 1728
+Germany: 1482
+Canada: 1274
+India: 1021
+France: 940
+Japan: 786
+Australia: 696
+Netherlands: 650
+Rest of the World: 10237

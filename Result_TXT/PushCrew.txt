@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PushCrew
+Last month's change: 3.82%
+Websites: 5342
+Unique Domains: 3616
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PushCrew is being used
+Computers Electronics & Technology: 8.69%
+Business & Consumer Services: 5.90%
+Finance: 5.05%
+Games: 3.80%
+Others: 76.56%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using PushCrew -
+spendwithpennies.com  --  Monthly visits -> 11.6M
+bitcasino.io  --  Monthly visits -> 7.3M
+americascardroom.eu  --  Monthly visits -> 7.1M
+checkpeople.com  --  Monthly visits -> 6.9M
+soccernews.nl  --  Monthly visits -> 6.2M
+oilprice.com  --  Monthly visits -> 6.2M
+geforcenow.com  --  Monthly visits -> 5.4M
+bossip.com  --  Monthly visits -> 5.3M
+similarweb.com  --  Monthly visits -> 5M
+therecipecritic.com  --  Monthly visits -> 4.6M
+
+- Geography -
+PushCrew usage by websites across the globe
+Leading Countries: Websites
+United States: 1064
+Brazil: 483
+India: 192
+Italy: 162
+France: 147
+Turkey: 124
+Germany: 117
+United Kingdom: 116
+Poland: 89
+Canada: 82
+Rest of the World: 1349

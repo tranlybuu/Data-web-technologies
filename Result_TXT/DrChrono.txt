@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: DrChrono
+Last month's change: 0.69%
+Websites: 145
+Unique Domains: 143
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DrChrono is being used
+Health: 10.34%
+Others: 89.66%
+None: None
+None: None
+None: None
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using DrChrono -
+stdcenterny.com  --  Monthly visits -> 281K
+urgentlyorthoaz.com  --  Monthly visits -> 63.2K
+elderaffairs.org  --  Monthly visits -> 47.7K
+elderaffairs.state.fl.us  --  Monthly visits -> 18.5K
+pacificpsychcenters.com  --  Monthly visits -> 16.5K
+medicalcarddoctors.com  --  Monthly visits -> 14.4K
+familymedicmemphis.squarespace.com  --  Monthly visits -> 13.5K
+chicagospineandsports.com  --  Monthly visits -> 12.5K
+eyelasikaustin.com  --  Monthly visits -> 11.6K
+urgentcare247.com  --  Monthly visits -> 10.9K
+
+- Geography -
+DrChrono usage by websites across the globe
+Leading Countries: Websites
+United States: 111
+Canada: 3
+Philippines: 2
+Australia: 1
+Bahamas: 1
+China: 1
+Germany: 1
+Greece: 1
+India: 1
+Kenya: 1
+Rest of the World: 8

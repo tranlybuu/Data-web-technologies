@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Rezdy
+Last month's change: 2.09%
+Websites: 3162
+Unique Domains: 2444
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Rezdy is being used
+Travel & Tourism: 25.62%
+Food & Drink: 6.64%
+Sports: 3.70%
+Vehicles: 1.27%
+Others: 62.78%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Bookeo
+Doctolib
+Schedulicity
+
+
+- Top Websites Using Rezdy -
+freetoursbyfoot.com  --  Monthly visits -> 1.2M
+rezdy.com  --  Monthly visits -> 1.1M
+concreteplayground.com  --  Monthly visits -> 632.5K
+chelsea.co.nz  --  Monthly visits -> 551.1K
+perthmint.com  --  Monthly visits -> 437.9K
+activities.marriott.com  --  Monthly visits -> 377.5K
+app.rezdy.com  --  Monthly visits -> 259.4K
+thebend.rezdy.com  --  Monthly visits -> 236.1K
+topendsafari.rezdy.com  --  Monthly visits -> 223.3K
+cedarcreekorchard.rezdy.com  --  Monthly visits -> 220K
+
+- Geography -
+Rezdy usage by websites across the globe
+Leading Countries: Websites
+Australia: 1252
+United States: 627
+New Zealand: 232
+United Kingdom: 117
+Canada: 91
+India: 30
+France: 29
+Sweden: 29
+Spain: 25
+Germany: 24
+Rest of the World: 352

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ListFinder
+Last month's change: 0.42%
+Websites: 1416
+Unique Domains: 1222
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ListFinder is being used
+Business & Consumer Services: 26.69%
+Computers Electronics & Technology: 17.02%
+Heavy Industry & Engineering: 8.69%
+Food & Drink: 4.17%
+Others: 43.43%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using ListFinder -
+fullcast.jp  --  Monthly visits -> 7M
+sp.fullcast.jp  --  Monthly visits -> 6.5M
+showcase-tv.com  --  Monthly visits -> 5.1M
+j-motto.co.jp  --  Monthly visits -> 4.8M
+qa.itmedia.co.jp  --  Monthly visits -> 2.9M
+www1.j-motto.co.jp  --  Monthly visits -> 2.6M
+tokyo-gas.co.jp  --  Monthly visits -> 2.1M
+energy.rakuten.co.jp  --  Monthly visits -> 2M
+home.tokyo-gas.co.jp  --  Monthly visits -> 1.2M
+it-trend.jp  --  Monthly visits -> 1.2M
+
+- Geography -
+ListFinder usage by websites across the globe
+Leading Countries: Websites
+Japan: 1353
+United States: 8
+South Korea: 4
+Vietnam: 4
+United Kingdom: 3
+Hong Kong: 2
+China: 1
+Ecuador: 1
+France: 1
+Italy: 1
+Rest of the World: 5

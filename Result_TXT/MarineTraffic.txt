@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MarineTraffic
+Last month's change: 1.37%
+Websites: 948
+Unique Domains: 888
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MarineTraffic is being used
+Travel & Tourism: 12.76%
+Business & Consumer Services: 9.49%
+News & Media: 7.70%
+Vehicles: 3.69%
+Others: 66.35%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using MarineTraffic -
+aftership.com  --  Monthly visits -> 15.7M
+marinetraffic.com  --  Monthly visits -> 15.7M
+ipma.pt  --  Monthly visits -> 12.7M
+apkshub.com  --  Monthly visits -> 2.8M
+lamma.rete.toscana.it  --  Monthly visits -> 2.6M
+tu.no  --  Monthly visits -> 1.9M
+agderposten.no  --  Monthly visits -> 1.7M
+packageradar.com  --  Monthly visits -> 831.5K
+android.biblprog.org.ua  --  Monthly visits -> 789.9K
+lofotposten.no  --  Monthly visits -> 657.5K
+
+- Geography -
+MarineTraffic usage by websites across the globe
+Leading Countries: Websites
+United States: 121
+Germany: 81
+Greece: 81
+Russia: 79
+United Kingdom: 65
+Italy: 44
+Netherlands: 43
+Norway: 42
+France: 39
+Canada: 21
+Rest of the World: 285

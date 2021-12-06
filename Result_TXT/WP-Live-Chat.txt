@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WP Live Chat
+Last month's change: 13.3%
+Websites: 3220
+Unique Domains: 3144
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WP Live Chat is being used
+Computers Electronics & Technology: 3.29%
+Science & Education: 2.58%
+Law & Government: 1.71%
+Health: 1.46%
+Others: 90.96%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using WP Live Chat -
+hscni.net  --  Monthly visits -> 665K
+justice.gouv.qc.ca  --  Monthly visits -> 350.5K
+compensa.pl  --  Monthly visits -> 334K
+themenustar2.com  --  Monthly visits -> 212.7K
+errorsnomore.com  --  Monthly visits -> 182.7K
+royalwayit.com  --  Monthly visits -> 168.4K
+colombiamagicfashion.com  --  Monthly visits -> 160K
+tvjapan.net  --  Monthly visits -> 156.3K
+lapaz.bo  --  Monthly visits -> 147.5K
+icunet.group  --  Monthly visits -> 134.1K
+
+- Geography -
+WP Live Chat usage by websites across the globe
+Leading Countries: Websites
+United States: 422
+Italy: 200
+United Kingdom: 162
+India: 135
+Australia: 91
+France: 85
+Spain: 82
+Germany: 81
+Indonesia: 80
+Canada: 73
+Rest of the World: 1515

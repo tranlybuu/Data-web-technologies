@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Recart
+Last month's change: 10.5%
+Websites: 2387
+Unique Domains: 2031
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Recart is being used
+Lifestyle: 16.84%
+Business & Consumer Services: 3.94%
+Food & Drink: 3.48%
+E-commerce & Shopping: 3.27%
+Others: 72.48%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Recart -
+groovelife.com  --  Monthly visits -> 1.3M
+youngla.com  --  Monthly visits -> 1M
+motelrocks.com  --  Monthly visits -> 968.4K
+aelfriceden.com  --  Monthly visits -> 790.4K
+indestructibleshoes.com  --  Monthly visits -> 720.8K
+taotronics.com  --  Monthly visits -> 658K
+axparis.com  --  Monthly visits -> 654.4K
+bulksupplements.com  --  Monthly visits -> 639.8K
+blendjet.com  --  Monthly visits -> 631.6K
+goosecreekcandle.com  --  Monthly visits -> 612.2K
+
+- Geography -
+Recart usage by websites across the globe
+Leading Countries: Websites
+United States: 941
+Australia: 134
+United Kingdom: 112
+France: 80
+Canada: 71
+Italy: 46
+Hungary: 44
+India: 40
+Germany: 36
+China: 34
+Rest of the World: 552

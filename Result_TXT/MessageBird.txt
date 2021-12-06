@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MessageBird
+Last month's change: 8.10%
+Websites: 531
+Unique Domains: 487
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MessageBird is being used
+Computers Electronics & Technology: 9.23%
+Lifestyle: 5.27%
+E-commerce & Shopping: 3.58%
+Finance: 3.20%
+Others: 78.72%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using MessageBird -
+selfridges.com  --  Monthly visits -> 6M
+aramex.com.au  --  Monthly visits -> 1.6M
+expert.nl  --  Monthly visits -> 1.1M
+tickets.formula1.com  --  Monthly visits -> 1.1M
+despachantedok.com.br  --  Monthly visits -> 1M
+koaj.co  --  Monthly visits -> 870.4K
+bumrungrad.com  --  Monthly visits -> 805.9K
+ohmyfi.com  --  Monthly visits -> 764.5K
+uhs-hardware.com  --  Monthly visits -> 681.2K
+messagebird.com  --  Monthly visits -> 491.8K
+
+- Geography -
+MessageBird usage by websites across the globe
+Leading Countries: Websites
+Netherlands: 67
+Mexico: 42
+United States: 42
+Indonesia: 35
+Colombia: 33
+Brazil: 31
+United Kingdom: 23
+Spain: 17
+India: 16
+Germany: 13
+Rest of the World: 189

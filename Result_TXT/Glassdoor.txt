@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Glassdoor
+Last month's change: 2.48%
+Websites: 1292
+Unique Domains: 1049
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Glassdoor is being used
+Computers Electronics & Technology: 15.87%
+Jobs & Career: 10.60%
+Finance: 10.14%
+Business & Consumer Services: 9.91%
+Others: 53.48%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Glassdoor -
+intuit.com  --  Monthly visits -> 108.9M
+asana.com  --  Monthly visits -> 45.5M
+sfgate.com  --  Monthly visits -> 25.9M
+duosecurity.com  --  Monthly visits -> 22.3M
+mathworks.com  --  Monthly visits -> 15.4M
+glassdoor.co.in  --  Monthly visits -> 10.8M
+aweber.com  --  Monthly visits -> 8.8M
+creditsesame.com  --  Monthly visits -> 7.8M
+bazaarvoice.com  --  Monthly visits -> 7.7M
+redhat.com  --  Monthly visits -> 7.4M
+
+- Geography -
+Glassdoor usage by websites across the globe
+Leading Countries: Websites
+United States: 779
+United Kingdom: 48
+Germany: 33
+India: 32
+Canada: 28
+China: 22
+France: 16
+Japan: 14
+Australia: 12
+Poland: 11
+Rest of the World: 181

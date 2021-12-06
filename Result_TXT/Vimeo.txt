@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Vimeo
+Last month's change: 1.50%
+Websites: 829415
+Unique Domains: 685359
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Vimeo is being used
+Computers Electronics & Technology: 4.08%
+Science & Education: 3.81%
+Arts & Entertainment: 3.35%
+Business & Consumer Services: 2.76%
+Others: 85.99%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+VideoJS
+Facebook Video
+jPlayer
+HTTP Live Streaming (HLS)
+
+
+- Top Websites Using Vimeo -
+yandex.ru  --  Monthly visits -> 3.9B
+zen.yandex.ru  --  Monthly visits -> 539.3M
+spotify.com  --  Monthly visits -> 422.6M
+outbrain.com  --  Monthly visits -> 373M
+m.chaturbate.com  --  Monthly visits -> 225.1M
+quizlet.com  --  Monthly visits -> 178.4M
+blackboard.com  --  Monthly visits -> 167.2M
+market.yandex.ru  --  Monthly visits -> 140M
+mercari.com  --  Monthly visits -> 126.6M
+opera.com  --  Monthly visits -> 112.5M
+
+- Geography -
+Vimeo usage by websites across the globe
+Leading Countries: Websites
+United States: 255939
+United Kingdom: 51493
+Germany: 32312
+France: 31439
+Canada: 28631
+Australia: 23638
+Italy: 20291
+Netherlands: 19925
+Spain: 19845
+Brazil: 17689
+Rest of the World: 248679

@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CallTracks
+Last month's change: 2.56%
+Websites: 39
+Unique Domains: 36
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CallTracks is being used
+Finance: 12.82%
+Computers Electronics & Technology: 7.69%
+Home & Garden: 7.69%
+Heavy Industry & Engineering: 5.13%
+Others: 66.67%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using CallTracks -
+landc.co.uk  --  Monthly visits -> 520K
+discountappliancecentre.com  --  Monthly visits -> 48.9K
+sandown-group.co.uk  --  Monthly visits -> 46.9K
+vanmonster.com  --  Monthly visits -> 45.9K
+pettitts.co.uk  --  Monthly visits -> 39.4K
+northgatevehiclehire.co.uk  --  Monthly visits -> 32.5K
+coolpool.co.il  --  Monthly visits -> 32.3K
+revive.digital  --  Monthly visits -> 17.8K
+averyhealthcare.co.uk  --  Monthly visits -> 15.5K
+safesitefacilities.co.uk  --  Monthly visits -> 14.1K
+
+- Geography -
+CallTracks usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 25
+Israel: 4
+United States: 4
+Germany: 1
+India: 1
+Netherlands: 1
+Pakistan: 1
+South Africa: 1

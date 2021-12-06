@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Filestack
+Last month's change: 1.06%
+Websites: 7642
+Unique Domains: 3201
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Filestack is being used
+Computers Electronics & Technology: 11.42%
+Business & Consumer Services: 5.97%
+Community & Society: 5.59%
+Science & Education: 4.91%
+Others: 72.11%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Filestack -
+sejda.com  --  Monthly visits -> 7.4M
+suicidegirls.com  --  Monthly visits -> 2.1M
+adecco.it  --  Monthly visits -> 1.7M
+m.profession.hu  --  Monthly visits -> 1.2M
+adecco.fr  --  Monthly visits -> 1.1M
+codewithmosh.com  --  Monthly visits -> 985.5K
+adecco.es  --  Monthly visits -> 856.4K
+photocrowd.com  --  Monthly visits -> 823.3K
+moments.pastbook.com  --  Monthly visits -> 792.2K
+secure.zenefits.com  --  Monthly visits -> 774K
+
+- Geography -
+Filestack usage by websites across the globe
+Leading Countries: Websites
+United States: 2391
+United Kingdom: 299
+India: 287
+Canada: 263
+France: 214
+Spain: 177
+Australia: 167
+Italy: 140
+Germany: 123
+Brazil: 84
+Rest of the World: 1884

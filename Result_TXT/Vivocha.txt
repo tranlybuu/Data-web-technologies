@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Vivocha
+Last month's change: 2.70%
+Websites: 333
+Unique Domains: 221
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Vivocha is being used
+Finance: 24.92%
+Food & Drink: 8.11%
+Lifestyle: 5.71%
+Travel & Tourism: 4.80%
+Others: 56.46%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Vivocha -
+sisal.it  --  Monthly visits -> 7.5M
+webmail.infocert.it  --  Monthly visits -> 4.1M
+m.sisal.it  --  Monthly visits -> 3.1M
+insee.fr  --  Monthly visits -> 2.3M
+game.co.za  --  Monthly visits -> 1.3M
+cib.hu  --  Monthly visits -> 1M
+bancaintesa.rs  --  Monthly visits -> 870.2K
+icaew.com  --  Monthly visits -> 822.1K
+pbz.hr  --  Monthly visits -> 800.2K
+genertel.it  --  Monthly visits -> 734.3K
+
+- Geography -
+Vivocha usage by websites across the globe
+Leading Countries: Websites
+Italy: 127
+France: 25
+United Kingdom: 16
+United States: 9
+Belgium: 5
+India: 5
+Netherlands: 5
+Croatia: 4
+Germany: 4
+Hungary: 4
+Rest of the World: 43

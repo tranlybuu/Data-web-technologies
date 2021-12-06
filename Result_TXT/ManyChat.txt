@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ManyChat
+Last month's change: 83.8%
+Websites: 6938
+Unique Domains: 5322
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ManyChat is being used
+Business & Consumer Services: 6.13%
+Computers Electronics & Technology: 5.98%
+Lifestyle: 4.06%
+Health: 3.21%
+Others: 80.61%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using ManyChat -
+verdesmares.com.br  --  Monthly visits -> 17.9M
+diariodonordeste.verdesmares.com.br  --  Monthly visits -> 17.8M
+oantagonista.com  --  Monthly visits -> 12.3M
+clickfunnels.com  --  Monthly visits -> 10.8M
+occ.com.mx  --  Monthly visits -> 10.2M
+manychat.com  --  Monthly visits -> 4.5M
+bgr.com  --  Monthly visits -> 4.3M
+lebanondebate.com  --  Monthly visits -> 3.3M
+petel.bg  --  Monthly visits -> 3.2M
+ukrinform.ua  --  Monthly visits -> 2.9M
+
+- Geography -
+ManyChat usage by websites across the globe
+Leading Countries: Websites
+United States: 2304
+United Kingdom: 341
+Italy: 302
+Canada: 299
+Australia: 284
+France: 228
+India: 192
+Germany: 160
+Brazil: 150
+Philippines: 145
+Rest of the World: 2527

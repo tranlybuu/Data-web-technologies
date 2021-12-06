@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LiveRamp
+Last month's change: 21.0%
+Websites: 40035
+Unique Domains: 19277
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveRamp is being used
+Games: 15.38%
+Arts & Entertainment: 13.33%
+Vehicles: 7.97%
+Computers Electronics & Technology: 7.21%
+Others: 56.11%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using LiveRamp -
+samsung.com  --  Monthly visits -> 805.5M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+foxnews.com  --  Monthly visits -> 283M
+healthline.com  --  Monthly visits -> 276.6M
+hulu.com  --  Monthly visits -> 224.6M
+ups.com  --  Monthly visits -> 191.9M
+definition.org  --  Monthly visits -> 189M
+dropbox.com  --  Monthly visits -> 172.5M
+apps.samsung.com  --  Monthly visits -> 149.8M
+itsthevibe.com  --  Monthly visits -> 138.7M
+
+- Geography -
+LiveRamp usage by websites across the globe
+Leading Countries: Websites
+United States: 23590
+United Kingdom: 1808
+Canada: 1013
+Brazil: 620
+Australia: 615
+India: 605
+Philippines: 536
+Germany: 501
+Russia: 497
+France: 460
+Rest of the World: 6515

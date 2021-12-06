@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Resova
+Last month's change: 1.13%
+Websites: 529
+Unique Domains: 353
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Resova is being used
+Food & Drink: 12.29%
+Arts & Entertainment: 1.89%
+Games: 1.89%
+Sports: 1.70%
+Others: 82.23%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using Resova -
+tramitesmre.cancilleria.gov.co  --  Monthly visits -> 595.9K
+resova.co.uk  --  Monthly visits -> 315.5K
+resova.us  --  Monthly visits -> 238.3K
+worldofescapes.com  --  Monthly visits -> 128.4K
+sparetimeentertainment.com  --  Monthly visits -> 117.6K
+breakoutgames.com  --  Monthly visits -> 116.9K
+prestamos.bbva.pe  --  Monthly visits -> 114.8K
+escapetheroom.com  --  Monthly visits -> 100.9K
+perplexit.resova.us  --  Monthly visits -> 93K
+resova.com  --  Monthly visits -> 90.4K
+
+- Geography -
+Resova usage by websites across the globe
+Leading Countries: Websites
+United States: 242
+United Kingdom: 69
+Canada: 32
+Australia: 20
+Hungary: 6
+Argentina: 5
+New Zealand: 5
+Spain: 5
+Denmark: 3
+Germany: 3
+Rest of the World: 33

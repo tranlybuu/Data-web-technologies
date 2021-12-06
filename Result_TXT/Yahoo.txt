@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Yahoo
+Last month's change: 0.38%
+Websites: 231556
+Unique Domains: 160026
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yahoo is being used
+Computers Electronics & Technology: 6.37%
+Heavy Industry & Engineering: 5.58%
+Arts & Entertainment: 5.00%
+Lifestyle: 4.88%
+Others: 78.17%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Yahoo -
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+yahoo.co.jp  --  Monthly visits -> 2.3B
+mail.yahoo.com  --  Monthly visits -> 1.3B
+news.yahoo.co.jp  --  Monthly visits -> 886M
+smt.docomo.ne.jp  --  Monthly visits -> 675M
+m.yahoo.co.jp  --  Monthly visits -> 669.2M
+zen.yandex.ru  --  Monthly visits -> 539.3M
+headlines.yahoo.co.jp  --  Monthly visits -> 470.7M
+mail.yandex.ru  --  Monthly visits -> 445.7M
+
+- Geography -
+Yahoo usage by websites across the globe
+Leading Countries: Websites
+Russia: 81674
+Japan: 59380
+United States: 21165
+Ukraine: 5086
+Belarus: 2598
+India: 1960
+Kazakhstan: 1786
+Turkey: 1428
+Canada: 1359
+Taiwan: 1329
+Rest of the World: 18970

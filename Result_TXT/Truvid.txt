@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Truvid
+Last month's change: 5.08%
+Websites: 19442
+Unique Domains: 268
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Truvid is being used
+Travel & Tourism: 11.04%
+Lifestyle: 6.49%
+E-commerce & Shopping: 5.56%
+Food & Drink: 4.99%
+Others: 71.93%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Bitmovin
+Vzaar
+UStream
+Tout
+
+
+- Top Websites Using Truvid -
+unotv.com  --  Monthly visits -> 111.2M
+istoe.com.br  --  Monthly visits -> 49.3M
+climatempo.com.br  --  Monthly visits -> 42M
+news.ltn.com.tw  --  Monthly visits -> 30.3M
+news.tvbs.com.tw  --  Monthly visits -> 26.2M
+noticias.r7.com  --  Monthly visits -> 20.8M
+correiobraziliense.com.br  --  Monthly visits -> 17.5M
+star.ettoday.net  --  Monthly visits -> 15.9M
+wowkeren.com  --  Monthly visits -> 12.6M
+recordtv.r7.com  --  Monthly visits -> 11.5M
+
+- Geography -
+Truvid usage by websites across the globe
+Leading Countries: Websites
+Taiwan: 2654
+Hong Kong: 133
+Brazil: 83
+United States: 67
+Japan: 25
+Malaysia: 24
+China: 20
+India: 19
+Vietnam: 18
+Israel: 15
+Rest of the World: 133

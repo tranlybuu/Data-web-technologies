@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UserEcho
+Last month's change: 0.84%
+Websites: 1069
+Unique Domains: 600
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UserEcho is being used
+Computers Electronics & Technology: 33.86%
+Arts & Entertainment: 6.55%
+Games: 5.61%
+Finance: 4.30%
+Others: 49.67%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using UserEcho -
+gismeteo.ru  --  Monthly visits -> 161.8M
+kinopoisk.ru  --  Monthly visits -> 138.8M
+gismeteo.ua  --  Monthly visits -> 33.3M
+seekingalpha.com  --  Monthly visits -> 22.5M
+gismeteo.kz  --  Monthly visits -> 18.5M
+newssearch.yandex.ru  --  Monthly visits -> 12.8M
+gismeteo.by  --  Monthly visits -> 11.1M
+plus.yandex.ru  --  Monthly visits -> 8.7M
+megogo.net  --  Monthly visits -> 8.6M
+megogo.ru  --  Monthly visits -> 7.9M
+
+- Geography -
+UserEcho usage by websites across the globe
+Leading Countries: Websites
+Russia: 349
+United States: 132
+Ukraine: 57
+India: 25
+United Kingdom: 22
+China: 17
+France: 17
+Poland: 17
+Brazil: 15
+Czech Republic: 15
+Rest of the World: 190

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bablic
+Last month's change: 14.0%
+Websites: 937
+Unique Domains: 791
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bablic is being used
+Computers Electronics & Technology: 4.80%
+Business & Consumer Services: 4.06%
+Lifestyle: 3.84%
+Health: 2.88%
+Others: 84.42%
+
+
+- Related Technologies -
+Top Multilingual technologies
+Multilingual Support
+WPML Multilingual
+Transifex
+Handtalk
+None
+
+
+- Top Websites Using Bablic -
+nationalgeographic.org  --  Monthly visits -> 4.8M
+bswhealth.com  --  Monthly visits -> 2.8M
+powtoon.com  --  Monthly visits -> 2.5M
+fleshlight.com  --  Monthly visits -> 1.5M
+skyprivate.com  --  Monthly visits -> 828.1K
+stellar.org  --  Monthly visits -> 571.8K
+alternativeairlines.com  --  Monthly visits -> 503.7K
+accounts.skyprivate.com  --  Monthly visits -> 442.3K
+lecol.cc  --  Monthly visits -> 426.4K
+metz.dk  --  Monthly visits -> 415.1K
+
+- Geography -
+Bablic usage by websites across the globe
+Leading Countries: Websites
+United States: 200
+Canada: 74
+France: 49
+Germany: 45
+Japan: 41
+United Kingdom: 39
+Italy: 28
+Spain: 28
+India: 21
+Russia: 17
+Rest of the World: 288

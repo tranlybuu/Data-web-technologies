@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: JStream
+Last month's change: 0.57%
+Websites: 525
+Unique Domains: 374
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where JStream is being used
+Heavy Industry & Engineering: 12.95%
+Business & Consumer Services: 11.81%
+Food & Drink: 8.38%
+Finance: 8.00%
+Others: 58.86%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using JStream -
+canon.com  --  Monthly visits -> 4.5M
+webcdn.stream.ne.jp  --  Monthly visits -> 4.2M
+resonabank.co.jp  --  Monthly visits -> 2.8M
+kintetsu.co.jp  --  Monthly visits -> 2M
+daiwahouse.co.jp  --  Monthly visits -> 1.6M
+resona-gr.co.jp  --  Monthly visits -> 1.6M
+bs.benefit-one.co.jp  --  Monthly visits -> 1.5M
+faq.aeon.co.jp  --  Monthly visits -> 1.3M
+bsfuji.tv  --  Monthly visits -> 1.2M
+global.canon  --  Monthly visits -> 955K
+
+- Geography -
+JStream usage by websites across the globe
+Leading Countries: Websites
+Japan: 433
+United States: 7
+South Korea: 4
+India: 3
+Belgium: 2
+Germany: 2
+Philippines: 2
+Russia: 2
+Australia: 1
+Cambodia: 1
+Rest of the World: 5

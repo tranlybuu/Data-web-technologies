@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Flowplayer HLS
+Last month's change: 0.83%
+Websites: 1081
+Unique Domains: 702
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Flowplayer HLS is being used
+Arts & Entertainment: 8.33%
+News & Media: 6.66%
+Science & Education: 4.53%
+Adult: 4.07%
+Others: 76.41%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Flowplayer HLS -
+dinamalar.com  --  Monthly visits -> 9.8M
+usc.edu  --  Monthly visits -> 9.1M
+one.co.il  --  Monthly visits -> 6.3M
+atv.hu  --  Monthly visits -> 6M
+5-tv.ru  --  Monthly visits -> 5.8M
+vtvgo.vn  --  Monthly visits -> 3.1M
+srugim.co.il  --  Monthly visits -> 2.9M
+news-front.info  --  Monthly visits -> 2.6M
+m.atv.hu  --  Monthly visits -> 2.6M
+vtvgiaitri.vn  --  Monthly visits -> 2.1M
+
+- Geography -
+Flowplayer HLS usage by websites across the globe
+Leading Countries: Websites
+United States: 142
+Spain: 56
+Brazil: 45
+Russia: 44
+Thailand: 38
+Germany: 37
+India: 31
+Italy: 30
+United Kingdom: 29
+Turkey: 27
+Rest of the World: 324

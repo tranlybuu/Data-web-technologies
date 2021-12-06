@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: VoterVoice
+Last month's change: 2.66%
+Websites: 1390
+Unique Domains: 1240
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where VoterVoice is being used
+Health: 14.03%
+Community & Society: 9.71%
+Law & Government: 6.19%
+Science & Education: 5.18%
+Others: 64.89%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Blackbaud
+Countable Action
+Salsa Labs
+
+
+- Top Websites Using VoterVoice -
+usccb.org  --  Monthly visits -> 6.2M
+aafp.org  --  Monthly visits -> 5.2M
+bible.usccb.org  --  Monthly visits -> 5M
+lifesitenews.com  --  Monthly visits -> 3.7M
+aao.org  --  Monthly visits -> 3.2M
+arthritis.org  --  Monthly visits -> 1.7M
+borgenproject.org  --  Monthly visits -> 1.5M
+acc.org  --  Monthly visits -> 1.4M
+findglocal.com  --  Monthly visits -> 1.3M
+epilepsy.com  --  Monthly visits -> 999.5K
+
+- Geography -
+VoterVoice usage by websites across the globe
+Leading Countries: Websites
+United States: 1179
+India: 21
+Canada: 19
+Philippines: 18
+Australia: 8
+Colombia: 5
+United Kingdom: 5
+Italy: 4
+Ukraine: 4
+Germany: 3
+Rest of the World: 49

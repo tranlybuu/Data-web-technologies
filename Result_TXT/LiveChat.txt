@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LiveChat
+Last month's change: 0.35%
+Websites: 59926
+Unique Domains: 49250
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveChat is being used
+Computers Electronics & Technology: 6.38%
+Business & Consumer Services: 4.38%
+Lifestyle: 3.61%
+Finance: 3.27%
+Others: 82.36%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using LiveChat -
+betplay.com.co  --  Monthly visits -> 36.1M
+powerschool.com  --  Monthly visits -> 35.3M
+rummycircle.com  --  Monthly visits -> 31.9M
+banggood.com  --  Monthly visits -> 28.6M
+rikvip.us  --  Monthly visits -> 27.7M
+tai.rikvip.us  --  Monthly visits -> 27.6M
+man.club  --  Monthly visits -> 26M
+gamebai.man.club  --  Monthly visits -> 25M
+compass.education  --  Monthly visits -> 17M
+manclub.live  --  Monthly visits -> 16.1M
+
+- Geography -
+LiveChat usage by websites across the globe
+Leading Countries: Websites
+United States: 18018
+United Kingdom: 4521
+Australia: 2929
+Canada: 2426
+Poland: 1735
+India: 1508
+Germany: 1216
+Indonesia: 1210
+Netherlands: 1140
+Italy: 1028
+Rest of the World: 17600

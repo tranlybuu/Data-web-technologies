@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenID
+Last month's change: 0.88%
+Websites: 528540
+Unique Domains: 61350
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenID is being used
+Science & Education: 14.10%
+Community & Society: 8.16%
+Arts & Entertainment: 6.91%
+Computers Electronics & Technology: 6.73%
+Others: 64.10%
+
+
+- Related Technologies -
+Top Login Provider technologies
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+LinkedIn Login
+
+
+- Top Websites Using OpenID -
+wordpress.com  --  Monthly visits -> 345.6M
+world-fusigi.net  --  Monthly visits -> 43.8M
+files.wordpress.com  --  Monthly visits -> 39.3M
+wp.com  --  Monthly visits -> 35.9M
+simplenote.com  --  Monthly visits -> 12.6M
+rabitsokuhou.2chblog.jp  --  Monthly visits -> 9.6M
+rawdevart.com  --  Monthly visits -> 7.6M
+trendmergers.com  --  Monthly visits -> 7.1M
+yalla-shoot.today  --  Monthly visits -> 6M
+techbrinks.com  --  Monthly visits -> 3.6M
+
+- Geography -
+OpenID usage by websites across the globe
+Leading Countries: Websites
+United States: 56319
+Indonesia: 15976
+United Kingdom: 10817
+Spain: 9165
+Italy: 8473
+France: 8108
+Canada: 8011
+India: 7801
+Brazil: 7663
+Japan: 7076
+Rest of the World: 106840

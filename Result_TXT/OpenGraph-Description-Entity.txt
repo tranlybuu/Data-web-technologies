@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenGraph Description Entity
+Last month's change: 1.48%
+Websites: 12073579
+Unique Domains: 7597583
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenGraph Description Entity is being used
+Arts & Entertainment: 4.42%
+Computers Electronics & Technology: 4.34%
+Science & Education: 3.21%
+Games: 2.31%
+Others: 85.73%
+
+
+- Related Technologies -
+Top Open Graph Tags technologies
+Open Graph Protocol
+OpenGraph Url Entity
+OpenGraph Type Entity
+OpenGraph Image Entity
+OpenGraph Site Name Entity
+
+
+- Top Websites Using OpenGraph Description Entity -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+whatsapp.com  --  Monthly visits -> 3.1B
+netflix.com  --  Monthly visits -> 2.7B
+amazon.com  --  Monthly visits -> 2.5B
+
+- Geography -
+OpenGraph Description Entity usage by websites across the globe
+Leading Countries: Websites
+United States: 2222000
+Japan: 713821
+Germany: 429953
+United Kingdom: 426189
+France: 370399
+Russia: 369669
+South Korea: 305096
+Canada: 300689
+Italy: 298494
+Brazil: 230307
+Rest of the World: 3845037

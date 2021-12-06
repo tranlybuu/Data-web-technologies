@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MapQuest
+Last month's change: 4.07%
+Websites: 2751
+Unique Domains: 2672
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MapQuest is being used
+Health: 2.18%
+Science & Education: 1.96%
+Vehicles: 1.96%
+Community & Society: 1.45%
+Others: 92.44%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using MapQuest -
+pennlive.com  --  Monthly visits -> 4.5M
+kob.com  --  Monthly visits -> 2.1M
+lacrossecounty.org  --  Monthly visits -> 600.2K
+stores.stopandshop.com  --  Monthly visits -> 546.8K
+restaurants.subway.com  --  Monthly visits -> 469.8K
+globalincidentmap.com  --  Monthly visits -> 461.4K
+quakes.globalincidentmap.com  --  Monthly visits -> 418.8K
+mortgageblog.com  --  Monthly visits -> 328K
+stores.giantfoodstores.com  --  Monthly visits -> 288.1K
+stores.giantfood.com  --  Monthly visits -> 281K
+
+- Geography -
+MapQuest usage by websites across the globe
+Leading Countries: Websites
+United States: 1876
+Canada: 73
+Germany: 53
+India: 40
+Philippines: 34
+United Kingdom: 29
+Pakistan: 19
+Italy: 17
+France: 16
+China: 14
+Rest of the World: 218

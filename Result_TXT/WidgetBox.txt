@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WidgetBox
+Last month's change: 3.44%
+Websites: 3024
+Unique Domains: 1046
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WidgetBox is being used
+Science & Education: 6.88%
+Community & Society: 3.90%
+Arts & Entertainment: 2.94%
+Games: 1.98%
+Others: 84.29%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using WidgetBox -
+7newsbelize.com  --  Monthly visits -> 718K
+lamebook.com  --  Monthly visits -> 650.2K
+contiwan.com  --  Monthly visits -> 360.1K
+duboiscountyherald.com  --  Monthly visits -> 188.2K
+ijser.org  --  Monthly visits -> 163.5K
+iranianyellowpage.ca  --  Monthly visits -> 161.3K
+freeonline.org  --  Monthly visits -> 155.1K
+richyli.com  --  Monthly visits -> 141.1K
+thumbnet.net  --  Monthly visits -> 125.2K
+terraeantiqvae.com  --  Monthly visits -> 122.9K
+
+- Geography -
+WidgetBox usage by websites across the globe
+Leading Countries: Websites
+United States: 628
+Malaysia: 123
+India: 88
+Canada: 75
+Spain: 71
+Brazil: 65
+Italy: 65
+United Kingdom: 63
+Greece: 57
+France: 47
+Rest of the World: 801

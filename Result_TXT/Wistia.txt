@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Wistia
+Last month's change: 2.26%
+Websites: 50186
+Unique Domains: 34851
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Wistia is being used
+Computers Electronics & Technology: 9.34%
+Business & Consumer Services: 7.04%
+Health: 4.70%
+Science & Education: 4.31%
+Others: 74.61%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Wistia -
+instructure.com  --  Monthly visits -> 573.1M
+myshopify.com  --  Monthly visits -> 119.3M
+coinbase.com  --  Monthly visits -> 92.2M
+shopify.com  --  Monthly visits -> 57.5M
+mheducation.com  --  Monthly visits -> 40.7M
+kmail-lists.com  --  Monthly visits -> 30.2M
+manage.kmail-lists.com  --  Monthly visits -> 30.1M
+docusign.com  --  Monthly visits -> 28.7M
+liftoff.io  --  Monthly visits -> 27.5M
+itslearning.com  --  Monthly visits -> 25.1M
+
+- Geography -
+Wistia usage by websites across the globe
+Leading Countries: Websites
+United States: 21658
+United Kingdom: 2485
+Canada: 1615
+Australia: 1545
+Germany: 1253
+India: 1136
+France: 918
+Brazil: 606
+Italy: 567
+Netherlands: 530
+Rest of the World: 10506

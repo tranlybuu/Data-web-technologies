@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Enable
+Last month's change: 5.92%
+Websites: 4239
+Unique Domains: 3967
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Enable is being used
+Food & Drink: 4.60%
+Health: 3.49%
+Community & Society: 3.02%
+Travel & Tourism: 2.71%
+Others: 86.18%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Enable -
+kikar.co.il  --  Monthly visits -> 3.7M
+ice.co.il  --  Monthly visits -> 3.6M
+srugim.co.il  --  Monthly visits -> 2.9M
+bizportal.co.il  --  Monthly visits -> 2.8M
+mobile.srugim.co.il  --  Monthly visits -> 2.2M
+kipa.co.il  --  Monthly visits -> 1.1M
+geektime.co.il  --  Monthly visits -> 959.4K
+breville.com  --  Monthly visits -> 901.6K
+rimon.net.il  --  Monthly visits -> 518K
+20il.co.il  --  Monthly visits -> 489.3K
+
+- Geography -
+Enable usage by websites across the globe
+Leading Countries: Websites
+Israel: 3604
+United States: 139
+United Kingdom: 21
+Germany: 18
+Canada: 14
+India: 11
+Japan: 11
+Netherlands: 9
+Belgium: 8
+Poland: 8
+Rest of the World: 142

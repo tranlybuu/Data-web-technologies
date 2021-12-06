@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Sugester
+Last month's change: 0%
+Websites: 67
+Unique Domains: 57
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sugester is being used
+Computers Electronics & Technology: 11.94%
+Business & Consumer Services: 7.46%
+Finance: 5.97%
+E-commerce & Shopping: 4.48%
+Others: 70.15%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using Sugester -
+fakturownia.pl  --  Monthly visits -> 1.7M
+superkid.pl  --  Monthly visits -> 396.4K
+othertees.com  --  Monthly visits -> 242.7K
+vosfactures.fr  --  Monthly visits -> 217.1K
+poloniusz.pl  --  Monthly visits -> 164.1K
+sugester.pl  --  Monthly visits -> 123.4K
+fakturownia.net  --  Monthly visits -> 91K
+hurtelektryczny.pl  --  Monthly visits -> 85.4K
+invoiceocean.com  --  Monthly visits -> 84.5K
+booklet.pl  --  Monthly visits -> 82.2K
+
+- Geography -
+Sugester usage by websites across the globe
+Leading Countries: Websites
+Poland: 47
+France: 4
+Ukraine: 2
+Croatia: 1
+Czech Republic: 1
+Guatemala: 1
+India: 1
+Malaysia: 1
+Mexico: 1
+Moldova: 1
+Rest of the World: 3

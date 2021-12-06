@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Infor CloudSuite
+Last month's change: 1.32%
+Websites: 151
+Unique Domains: 106
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Infor CloudSuite is being used
+Law & Government: 27.15%
+Health: 18.54%
+Science & Education: 7.95%
+Jobs & Career: 3.31%
+Others: 43.05%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using Infor CloudSuite -
+rush.edu  --  Monthly visits -> 2.1M
+ynhhs.org  --  Monthly visits -> 1.7M
+metrohealth.org  --  Monthly visits -> 866.7K
+cuyahogacounty.us  --  Monthly visits -> 809.8K
+bexar.org  --  Monthly visits -> 783.4K
+lifespan.org  --  Monthly visits -> 772.9K
+childrens.com  --  Monthly visits -> 644.4K
+greenville.k12.sc.us  --  Monthly visits -> 498K
+middlesexhealth.org  --  Monthly visits -> 485.8K
+chsbuffalo.org  --  Monthly visits -> 444.9K
+
+- Geography -
+Infor CloudSuite usage by websites across the globe
+Leading Countries: Websites
+United States: 114
+Australia: 7
+India: 3
+Bangladesh: 2
+Argentina: 1
+Canada: 1
+China: 1
+Indonesia: 1

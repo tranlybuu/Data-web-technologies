@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ChinaCache
+Last month's change: 10.9%
+Websites: 331
+Unique Domains: 173
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ChinaCache is being used
+News & Media: 18.73%
+Law & Government: 10.57%
+Computers Electronics & Technology: 9.97%
+Travel & Tourism: 7.85%
+Others: 52.87%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using ChinaCache -
+people.com.cn  --  Monthly visits -> 20M
+m.chevrolet.com.cn  --  Monthly visits -> 6.7M
+m.buick.com.cn  --  Monthly visits -> 5.4M
+mini.cadillac.com.cn  --  Monthly visits -> 3.5M
+ent.163.com  --  Monthly visits -> 2.8M
+sports.163.com  --  Monthly visits -> 2.2M
+tech.163.com  --  Monthly visits -> 1.6M
+images.samsung.com  --  Monthly visits -> 1.1M
+house.163.com  --  Monthly visits -> 888.2K
+ashford.com  --  Monthly visits -> 680.1K
+
+- Geography -
+ChinaCache usage by websites across the globe
+Leading Countries: Websites
+China: 234
+United States: 19
+Hong Kong: 11
+Taiwan: 3
+South Korea: 3
+Singapore: 3
+United Kingdom: 3
+Belgium: 2
+Canada: 2
+Japan: 2
+Rest of the World: 18

@@ -1,0 +1,46 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LeadReactor
+Last month's change: 0%
+Websites: 99
+Unique Domains: 99
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LeadReactor is being used
+Finance: 10.10%
+Business & Consumer Services: 5.05%
+E-commerce & Shopping: 4.04%
+Heavy Industry & Engineering: 4.04%
+Others: 76.77%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using LeadReactor -
+lendi.pl  --  Monthly visits -> 105.4K
+edenred.pl  --  Monthly visits -> 59.3K
+pczk.com.pl  --  Monthly visits -> 39.1K
+flotex.pl  --  Monthly visits -> 26.4K
+pompy-tech.pl  --  Monthly visits -> 16.3K
+finpack.pl  --  Monthly visits -> 14.9K
+qverty.pl  --  Monthly visits -> 12.4K
+ratujemylaptopa.pl  --  Monthly visits -> 11.3K
+nordicsklep.pl  --  Monthly visits -> 11.2K
+radmal.pl  --  Monthly visits -> 10.5K
+
+- Geography -
+LeadReactor usage by websites across the globe
+Leading Countries: Websites
+Poland: 93
+Ireland: 1
+Sweden: 1
+Turkey: 1

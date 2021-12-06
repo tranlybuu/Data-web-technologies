@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Baidu Search Box
+Last month's change: 4.50%
+Websites: 45237
+Unique Domains: 36188
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Baidu Search Box is being used
+Computers Electronics & Technology: 8.76%
+Arts & Entertainment: 5.02%
+Games: 4.51%
+News & Media: 3.58%
+Others: 78.14%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Baidu Search Box -
+baidu.com  --  Monthly visits -> 5.6B
+m.baidu.com  --  Monthly visits -> 2.9B
+zhidao.baidu.com  --  Monthly visits -> 687.7M
+tieba.baidu.com  --  Monthly visits -> 453.1M
+baike.baidu.com  --  Monthly visits -> 357.2M
+jingyan.baidu.com  --  Monthly visits -> 232.5M
+hao123.com  --  Monthly visits -> 120.6M
+firefoxchina.cn  --  Monthly visits -> 109.4M
+zh.wikipedia.org  --  Monthly visits -> 81.5M
+huya.com  --  Monthly visits -> 80.3M
+
+- Geography -
+Baidu Search Box usage by websites across the globe
+Leading Countries: Websites
+China: 27745
+United States: 4392
+Hong Kong: 1675
+Taiwan: 1091
+Japan: 844
+United Kingdom: 566
+Singapore: 504
+Canada: 499
+Australia: 461
+India: 306
+Rest of the World: 4113

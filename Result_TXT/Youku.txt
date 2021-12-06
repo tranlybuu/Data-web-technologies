@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Youku
+Last month's change: 29.3%
+Websites: 85651
+Unique Domains: 16654
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Youku is being used
+Computers Electronics & Technology: 12.34%
+E-commerce & Shopping: 10.08%
+Lifestyle: 6.72%
+Games: 4.72%
+Others: 66.13%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Truvid
+Bitmovin
+Vzaar
+UStream
+Tout
+
+
+- Top Websites Using Youku -
+aliexpress.com  --  Monthly visits -> 455.2M
+tieba.baidu.com  --  Monthly visits -> 453.1M
+m.taobao.com  --  Monthly visits -> 176.1M
+sm.cn  --  Monthly visits -> 121.5M
+alibaba.com  --  Monthly visits -> 94.3M
+aliexpress.ru  --  Monthly visits -> 92.5M
+s.taobao.com  --  Monthly visits -> 77.1M
+m.sm.cn  --  Monthly visits -> 76.1M
+2345.com  --  Monthly visits -> 63.4M
+login.aliexpress.com  --  Monthly visits -> 58.9M
+
+- Geography -
+Youku usage by websites across the globe
+Leading Countries: Websites
+China: 57706
+Hong Kong: 4937
+United States: 4104
+Russia: 2509
+Taiwan: 2316
+South Korea: 2121
+Singapore: 1495
+Japan: 1486
+Malaysia: 549
+Canada: 547
+Rest of the World: 6864

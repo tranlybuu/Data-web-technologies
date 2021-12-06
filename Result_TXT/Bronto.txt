@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bronto
+Last month's change: 1.65%
+Websites: 1818
+Unique Domains: 1507
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bronto is being used
+Lifestyle: 15.07%
+Home & Garden: 7.70%
+Food & Drink: 5.06%
+Sports: 4.90%
+Others: 67.27%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Bronto -
+acehardware.com  --  Monthly visits -> 15.7M
+lulus.com  --  Monthly visits -> 8.7M
+americascardroom.eu  --  Monthly visits -> 7.1M
+trekbikes.com  --  Monthly visits -> 6.5M
+hibbett.com  --  Monthly visits -> 5.9M
+bootbarn.com  --  Monthly visits -> 3.6M
+repairclinic.com  --  Monthly visits -> 2.8M
+remax.ca  --  Monthly visits -> 1.9M
+tartecosmetics.com  --  Monthly visits -> 1.9M
+deals.adamandeve.com  --  Monthly visits -> 1.5M
+
+- Geography -
+Bronto usage by websites across the globe
+Leading Countries: Websites
+United States: 823
+United Kingdom: 73
+Australia: 49
+Canada: 47
+Germany: 24
+New Zealand: 15
+Brazil: 12
+France: 12
+Spain: 12
+India: 11
+Rest of the World: 173

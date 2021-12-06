@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MapBox
+Last month's change: 6.78%
+Websites: 17711
+Unique Domains: 7162
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MapBox is being used
+Computers Electronics & Technology: 11.89%
+Finance: 5.58%
+Science & Education: 4.55%
+Business & Consumer Services: 4.45%
+Others: 73.53%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+OpenStreetMap
+
+
+- Top Websites Using MapBox -
+facebook.com  --  Monthly visits -> 21.1B
+l.facebook.com  --  Monthly visits -> 1.4B
+apps.facebook.com  --  Monthly visits -> 269.2M
+fbcdn.net  --  Monthly visits -> 268.1M
+web.facebook.com  --  Monthly visits -> 134.3M
+weather.yahoo.co.jp  --  Monthly visits -> 98.6M
+badoo.com  --  Monthly visits -> 87.8M
+airbnb.com  --  Monthly visits -> 73.6M
+tweetdeck.twitter.com  --  Monthly visits -> 62.2M
+flickr.com  --  Monthly visits -> 58.7M
+
+- Geography -
+MapBox usage by websites across the globe
+Leading Countries: Websites
+United States: 8339
+United Kingdom: 683
+Canada: 540
+Germany: 531
+France: 505
+Australia: 387
+India: 364
+Poland: 340
+Netherlands: 310
+Japan: 243
+Rest of the World: 3534

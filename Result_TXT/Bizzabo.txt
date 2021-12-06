@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bizzabo
+Last month's change: 2.13%
+Websites: 986
+Unique Domains: 824
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bizzabo is being used
+Computers Electronics & Technology: 10.95%
+Business & Consumer Services: 10.34%
+Science & Education: 8.42%
+Finance: 5.17%
+Others: 65.11%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using Bizzabo -
+techcrunch.com  --  Monthly visits -> 16.2M
+egnyte.com  --  Monthly visits -> 3.4M
+movableink.com  --  Monthly visits -> 2.8M
+intechopen.com  --  Monthly visits -> 2.7M
+hirevue.com  --  Monthly visits -> 2.6M
+snowflake.com  --  Monthly visits -> 2.5M
+pixton.com  --  Monthly visits -> 1.4M
+bankofireland.com  --  Monthly visits -> 1.1M
+snowflakecomputing.com  --  Monthly visits -> 1M
+coindeskkorea.com  --  Monthly visits -> 844.5K
+
+- Geography -
+Bizzabo usage by websites across the globe
+Leading Countries: Websites
+United States: 518
+United Kingdom: 51
+India: 50
+Canada: 30
+Germany: 22
+Australia: 15
+Brazil: 14
+China: 12
+France: 10
+Ireland: 10
+Rest of the World: 186

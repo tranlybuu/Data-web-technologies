@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SnapCall
+Last month's change: 0%
+Websites: 57
+Unique Domains: 28
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SnapCall is being used
+Sports: 28.07%
+Finance: 5.26%
+Computers Electronics & Technology: 3.51%
+Home & Garden: 3.51%
+Others: 59.65%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using SnapCall -
+azimo.com  --  Monthly visits -> 400K
+brompton.com  --  Monthly visits -> 380K
+dashboard.paystack.com  --  Monthly visits -> 357.7K
+mistermenuiserie.com  --  Monthly visits -> 345.8K
+cafpi.fr  --  Monthly visits -> 183.3K
+agram.fr  --  Monthly visits -> 66.7K
+cn.brompton.com  --  Monthly visits -> 66.6K
+fr.brompton.com  --  Monthly visits -> 65.2K
+help.devialet.com  --  Monthly visits -> 63.3K
+us.brompton.com  --  Monthly visits -> 59K
+
+- Geography -
+SnapCall usage by websites across the globe
+Leading Countries: Websites
+France: 14
+United Kingdom: 5
+United States: 5
+Germany: 3
+India: 3
+Spain: 3
+Belgium: 2
+Japan: 2
+Mexico: 2
+Nigeria: 2
+Rest of the World: 14

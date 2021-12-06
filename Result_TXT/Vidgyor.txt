@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Vidgyor
+Last month's change: 6.06%
+Websites: 99
+Unique Domains: 49
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Vidgyor is being used
+News & Media: 42.42%
+Arts & Entertainment: 6.06%
+Finance: 6.06%
+Computers Electronics & Technology: 4.04%
+Others: 41.41%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Vidgyor -
+asianetnews.com  --  Monthly visits -> 35M
+abplive.com  --  Monthly visits -> 30.4M
+lokmat.news18.com  --  Monthly visits -> 12.3M
+hindi.asianetnews.com  --  Monthly visits -> 9.1M
+indiatv.in  --  Monthly visits -> 5.8M
+assam.news18.com  --  Monthly visits -> 5.4M
+tamil.news18.com  --  Monthly visits -> 5.1M
+malayalam.news18.com  --  Monthly visits -> 4.4M
+bengali.abplive.com  --  Monthly visits -> 4.1M
+news24online.com  --  Monthly visits -> 3.9M
+
+- Geography -
+Vidgyor usage by websites across the globe
+Leading Countries: Websites
+India: 50
+Canada: 3
+Portugal: 2
+United Kingdom: 2
+United States: 2
+Australia: 1
+Bangladesh: 1
+Cambodia: 1
+Germany: 1
+Greece: 1
+Rest of the World: 5

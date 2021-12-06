@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HapYak
+Last month's change: 5.41%
+Websites: 148
+Unique Domains: 108
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HapYak is being used
+Health: 18.92%
+Computers Electronics & Technology: 16.22%
+Finance: 6.08%
+Business & Consumer Services: 3.38%
+Others: 55.41%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using HapYak -
+nxp.com  --  Monthly visits -> 1.9M
+voltarengel.com  --  Monthly visits -> 851.9K
+northerntrust.com  --  Monthly visits -> 488.1K
+hitachivantara.com  --  Monthly visits -> 416.2K
+gskpro.com  --  Monthly visits -> 332K
+ntrs.com  --  Monthly visits -> 287.8K
+biocompare.com  --  Monthly visits -> 284.2K
+trelegy.com  --  Monthly visits -> 210.7K
+future.aicpa.org  --  Monthly visits -> 200.3K
+cabenuva.com  --  Monthly visits -> 173.1K
+
+- Geography -
+HapYak usage by websites across the globe
+Leading Countries: Websites
+United States: 70
+China: 6
+India: 3
+South Korea: 3
+Sweden: 3
+Switzerland: 3
+Brazil: 2
+Mexico: 2
+Spain: 2
+Thailand: 2
+Rest of the World: 12

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Baidu Maps
+Last month's change: 1.31%
+Websites: 64157
+Unique Domains: 53388
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Baidu Maps is being used
+Computers Electronics & Technology: 4.24%
+News & Media: 3.09%
+Business & Consumer Services: 2.70%
+Science & Education: 1.89%
+Others: 88.07%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Naver map
+MapBox
+OpenStreetMap
+
+
+- Top Websites Using Baidu Maps -
+daohang.qq.com  --  Monthly visits -> 25.8M
+weather.com.cn  --  Monthly visits -> 24.1M
+yiche.com  --  Monthly visits -> 16.5M
+hao.360.com  --  Monthly visits -> 16.1M
+qoo10.jp  --  Monthly visits -> 15.1M
+m.weather.com.cn  --  Monthly visits -> 13.2M
+51job.com  --  Monthly visits -> 9.9M
+chanel.com  --  Monthly visits -> 8.8M
+ourplay.net  --  Monthly visits -> 8.7M
+icauto.com.cn  --  Monthly visits -> 8.4M
+
+- Geography -
+Baidu Maps usage by websites across the globe
+Leading Countries: Websites
+China: 51846
+United States: 2753
+Hong Kong: 2410
+Taiwan: 920
+Japan: 915
+Singapore: 525
+United Kingdom: 281
+South Korea: 280
+India: 213
+Russia: 209
+Rest of the World: 2835

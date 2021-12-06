@@ -1,0 +1,44 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Lemonwhale
+Last month's change: None%
+Websites: 9
+Unique Domains: 8
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Lemonwhale is being used
+Computers Electronics & Technology: 22.22%
+Finance: 11.11%
+Hobbies & Leisure: 11.11%
+News & Media: 11.11%
+Others: 44.44%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+UStream
+
+
+- Top Websites Using Lemonwhale -
+mobil.nsd.se  --  Monthly visits -> 298.1K
+mobil.unt.se  --  Monthly visits -> 181.5K
+mobil.eposten.se  --  Monthly visits -> 21.7K
+unt.com  --  Monthly visits -> 4K
+gotlandstidningar.se  --  Monthly visits -> 3.4K
+bankier.tv  --  Monthly visits -> 2.8K
+datacenter.computerwoche.de  --  Monthly visits -> 2.6K
+images.computerwoche.de  --  Monthly visits -> 2.2K
+
+- Geography -
+Lemonwhale usage by websites across the globe
+Leading Countries: Websites
+Germany: 2
+Sweden: 2
+Mexico: 1
+Poland: 1

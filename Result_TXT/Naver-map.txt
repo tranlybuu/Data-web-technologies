@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Naver map
+Last month's change: 0.45%
+Websites: 18490
+Unique Domains: 5769
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Naver map is being used
+E-commerce & Shopping: 7.08%
+Jobs & Career: 5.21%
+Computers Electronics & Technology: 3.12%
+Travel & Tourism: 3.06%
+Others: 81.53%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+MapBox
+OpenStreetMap
+
+
+- Top Websites Using Naver map -
+smartstore.naver.com  --  Monthly visits -> 90.1M
+kin.naver.com  --  Monthly visits -> 52.6M
+map.naver.com  --  Monthly visits -> 45M
+land.naver.com  --  Monthly visits -> 12.2M
+renaultsamsungm.com  --  Monthly visits -> 6.4M
+hankookilbo.com  --  Monthly visits -> 4.7M
+brand.naver.com  --  Monthly visits -> 4.1M
+booking.naver.com  --  Monthly visits -> 3.1M
+yanolja.com  --  Monthly visits -> 1.9M
+booking.kayak.com  --  Monthly visits -> 1.7M
+
+- Geography -
+Naver map usage by websites across the globe
+Leading Countries: Websites
+South Korea: 14140
+United States: 139
+Japan: 34
+Canada: 19
+Taiwan: 17
+United Kingdom: 14
+Germany: 12
+Vietnam: 12
+Australia: 11
+Hong Kong: 11
+Rest of the World: 172

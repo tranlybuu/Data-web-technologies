@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: NuCaptcha
+Last month's change: 2.65%
+Websites: 943
+Unique Domains: 686
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where NuCaptcha is being used
+Science & Education: 4.88%
+Community & Society: 2.65%
+Computers Electronics & Technology: 2.33%
+News & Media: 1.59%
+Others: 88.55%
+
+
+- Related Technologies -
+Top Captcha technologies
+reCAPTCHA
+General Captcha
+WP reCAPTCHA
+KeyCAPTCHA
+Coinhive Captcha
+
+
+- Top Websites Using NuCaptcha -
+beyondblue.org.au  --  Monthly visits -> 868.2K
+polytechnique.fr  --  Monthly visits -> 733.7K
+zoetisus.com  --  Monthly visits -> 340.5K
+ebs.ie  --  Monthly visits -> 272.5K
+polytechnique.edu  --  Monthly visits -> 252.5K
+lemarin.ouest-france.fr  --  Monthly visits -> 154.5K
+ebuah.uah.es  --  Monthly visits -> 129.2K
+webstudent.mu-varna.bg  --  Monthly visits -> 128.3K
+lyluanchinhtri.vn  --  Monthly visits -> 117.9K
+www2.zoetisus.com  --  Monthly visits -> 110.7K
+
+- Geography -
+NuCaptcha usage by websites across the globe
+Leading Countries: Websites
+France: 268
+Belgium: 80
+United States: 69
+Spain: 49
+Italy: 24
+Brazil: 20
+Vietnam: 17
+Russia: 14
+Netherlands: 13
+Canada: 12
+Rest of the World: 205

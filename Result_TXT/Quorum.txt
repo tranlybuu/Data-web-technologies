@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Quorum
+Last month's change: 7.68%
+Websites: 495
+Unique Domains: 398
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Quorum is being used
+Health: 13.94%
+Law & Government: 11.31%
+Community & Society: 8.28%
+Finance: 4.24%
+Others: 62.22%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Blackbaud
+Countable Action
+Salsa Labs
+
+
+- Top Websites Using Quorum -
+cancer.net  --  Monthly visits -> 3.7M
+blog.mozilla.org  --  Monthly visits -> 663.4K
+nraila.org  --  Monthly visits -> 469.4K
+beefree.io  --  Monthly visits -> 435.3K
+currentaffairs.org  --  Monthly visits -> 431.9K
+ducks.org  --  Monthly visits -> 430.8K
+thehotline.org  --  Monthly visits -> 410.2K
+aoa.org  --  Monthly visits -> 387.4K
+equinor.com  --  Monthly visits -> 353.7K
+abcfinancial.com  --  Monthly visits -> 351.8K
+
+- Geography -
+Quorum usage by websites across the globe
+Leading Countries: Websites
+United States: 396
+Brazil: 5
+India: 5
+Canada: 3
+Colombia: 3
+Mexico: 3
+Pakistan: 3
+Philippines: 3
+Australia: 2
+China: 2
+Rest of the World: 37

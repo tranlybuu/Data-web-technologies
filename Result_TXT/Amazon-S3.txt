@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Amazon S3
+Last month's change: 1.18%
+Websites: 445989
+Unique Domains: 265836
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Amazon S3 is being used
+Computers Electronics & Technology: 4.73%
+Science & Education: 4.39%
+Lifestyle: 2.72%
+Arts & Entertainment: 2.71%
+Others: 85.45%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+Akamai
+
+
+- Top Websites Using Amazon S3 -
+yahoo.com  --  Monthly visits -> 3.5B
+en.wikipedia.org  --  Monthly visits -> 1.4B
+msn.com  --  Monthly visits -> 1B
+samsung.com  --  Monthly visits -> 805.5M
+accuweather.com  --  Monthly visits -> 697.5M
+indeed.com  --  Monthly visits -> 587.7M
+amazon.de  --  Monthly visits -> 498.4M
+outbrain.com  --  Monthly visits -> 373M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+stackoverflow.com  --  Monthly visits -> 288.8M
+
+- Geography -
+Amazon S3 usage by websites across the globe
+Leading Countries: Websites
+United States: 164157
+United Kingdom: 19807
+Japan: 14814
+Canada: 13695
+India: 11679
+Brazil: 10816
+Germany: 9827
+Australia: 9740
+France: 8563
+Spain: 5322
+Rest of the World: 97142

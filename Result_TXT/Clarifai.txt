@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Clarifai
+Last month's change: 0%
+Websites: 11
+Unique Domains: 10
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Clarifai is being used
+Computers Electronics & Technology: 36.36%
+Heavy Industry & Engineering: 9.09%
+Lifestyle: 9.09%
+Reference Materials: 9.09%
+Others: 36.36%
+
+
+- Related Technologies -
+Top Other technologies
+Google API
+Minute Media
+SBTech
+None
+None
+
+
+- Top Websites Using Clarifai -
+mafluence.com  --  Monthly visits -> 33.9K
+app.influencermarketinghub.com  --  Monthly visits -> 28.3K
+perko.com  --  Monthly visits -> 16.9K
+help.clarifai.com  --  Monthly visits -> 6K
+docs.clarifai.com  --  Monthly visits -> 5.9K
+shoppinglinks.com  --  Monthly visits -> 4.5K
+au.mozaico.com  --  Monthly visits -> 1.7K
+monkirep.com  --  Monthly visits -> 551.61
+sartechnology.ca  --  Monthly visits -> 466.41
+source.architizer.com  --  Monthly visits -> 305.86
+
+- Geography -
+Clarifai usage by websites across the globe
+Leading Countries: Websites
+United States: 4
+Australia: 1
+Brazil: 1
+Canada: 1
+South Korea: 1
+Russia: 1
+United Kingdom: 1

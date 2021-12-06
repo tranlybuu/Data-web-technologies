@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Meta Description
+Last month's change: 0.57%
+Websites: 17763450
+Unique Domains: 11276817
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Meta Description is being used
+Computers Electronics & Technology: 4.64%
+Arts & Entertainment: 3.67%
+Science & Education: 3.21%
+Games: 2.00%
+Others: 86.48%
+
+
+- Related Technologies -
+Top Meta Tags technologies
+Meta http-equiv
+Canonical Tag
+Favicon Tag
+Meta Robot
+Meta Keywords
+
+
+- Top Websites Using Meta Description -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+mail.google.com  --  Monthly visits -> 11.3B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+baidu.com  --  Monthly visits -> 5.6B
+wikipedia.org  --  Monthly visits -> 5.3B
+
+- Geography -
+Meta Description usage by websites across the globe
+Leading Countries: Websites
+United States: 2904993
+Japan: 1191442
+Russia: 754461
+China: 723767
+Germany: 702458
+United Kingdom: 580474
+France: 531517
+Italy: 417739
+Canada: 386828
+South Korea: 365438
+Rest of the World: 5677981

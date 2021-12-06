@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: THEOplayer
+Last month's change: 0.73%
+Websites: 545
+Unique Domains: 372
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where THEOplayer is being used
+Arts & Entertainment: 14.31%
+News & Media: 6.06%
+Computers Electronics & Technology: 3.67%
+Sports: 3.12%
+Others: 72.84%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using THEOplayer -
+wetteronline.de  --  Monthly visits -> 42.5M
+tv2.no  --  Monthly visits -> 33.6M
+sporza.be  --  Monthly visits -> 13.5M
+standaard.be  --  Monthly visits -> 11.8M
+m.nieuwsblad.be  --  Monthly visits -> 9.4M
+gva.be  --  Monthly visits -> 9.2M
+indiegogo.com  --  Monthly visits -> 8.1M
+hbvl.be  --  Monthly visits -> 5.8M
+limburger.nl  --  Monthly visits -> 4.6M
+rtl.lu  --  Monthly visits -> 4.2M
+
+- Geography -
+THEOplayer usage by websites across the globe
+Leading Countries: Websites
+United States: 102
+United Kingdom: 60
+Belgium: 39
+Japan: 28
+Canada: 26
+Netherlands: 23
+Ukraine: 20
+Italy: 19
+Germany: 14
+Australia: 12
+Rest of the World: 131

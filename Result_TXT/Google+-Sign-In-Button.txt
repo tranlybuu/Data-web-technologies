@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google+ Sign-In Button
+Last month's change: 1.42%
+Websites: 95541
+Unique Domains: 31026
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google+ Sign-In Button is being used
+Computers Electronics & Technology: 11.50%
+Science & Education: 4.94%
+Games: 3.44%
+Business & Consumer Services: 3.28%
+Others: 76.85%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Facebook Login
+Okta
+Auth0
+LinkedIn Login
+
+
+- Top Websites Using Google+ Sign-In Button -
+vk.com  --  Monthly visits -> 1.5B
+xhamster.com  --  Monthly visits -> 1.4B
+linkedin.com  --  Monthly visits -> 1.4B
+fandom.com  --  Monthly visits -> 795.9M
+imdb.com  --  Monthly visits -> 511M
+outbrain.com  --  Monthly visits -> 373M
+pixiv.net  --  Monthly visits -> 328.4M
+xhgeo.com  --  Monthly visits -> 278M
+xhamster16.desi  --  Monthly visits -> 263M
+m.imdb.com  --  Monthly visits -> 227.9M
+
+- Geography -
+Google+ Sign-In Button usage by websites across the globe
+Leading Countries: Websites
+United States: 26866
+Japan: 5259
+India: 4656
+United Kingdom: 4347
+Canada: 3585
+Australia: 2312
+Germany: 2264
+France: 1664
+South Korea: 1469
+Brazil: 1295
+Rest of the World: 29519

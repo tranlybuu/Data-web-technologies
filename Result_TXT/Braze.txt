@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Braze
+Last month's change: 16.2%
+Websites: 7689
+Unique Domains: 5674
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Braze is being used
+Computers Electronics & Technology: 4.54%
+Arts & Entertainment: 4.43%
+Health: 3.41%
+Food & Drink: 3.08%
+Others: 84.54%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Braze -
+canva.com  --  Monthly visits -> 289.4M
+hepsiburada.com  --  Monthly visits -> 108.9M
+preview.disneyplus.com  --  Monthly visits -> 49.8M
+overstock.com  --  Monthly visits -> 31.8M
+kumparan.com  --  Monthly visits -> 31.5M
+paramountplus.com  --  Monthly visits -> 28.5M
+starplus.com  --  Monthly visits -> 27.7M
+lapresse.ca  --  Monthly visits -> 27.1M
+m.kumparan.com  --  Monthly visits -> 25.2M
+iheart.com  --  Monthly visits -> 24.2M
+
+- Geography -
+Braze usage by websites across the globe
+Leading Countries: Websites
+United States: 2835
+Canada: 346
+United Kingdom: 319
+Australia: 249
+Germany: 213
+France: 197
+India: 181
+Italy: 161
+Spain: 141
+South Korea: 131
+Rest of the World: 2045

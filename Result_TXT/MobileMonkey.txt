@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MobileMonkey
+Last month's change: 90.4%
+Websites: 395
+Unique Domains: 394
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MobileMonkey is being used
+Computers Electronics & Technology: 4.30%
+Business & Consumer Services: 3.54%
+Food & Drink: 2.53%
+Health: 2.53%
+Others: 87.09%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using MobileMonkey -
+51talk.ph  --  Monthly visits -> 667.9K
+creoate.com  --  Monthly visits -> 577.1K
+nuevaya.com.ni  --  Monthly visits -> 493.7K
+mobilemonkey.com  --  Monthly visits -> 359.4K
+cartorio.info  --  Monthly visits -> 348.1K
+cartorionobrasil.com.br  --  Monthly visits -> 314.1K
+boo.world  --  Monthly visits -> 289.9K
+ecartorios.com  --  Monthly visits -> 234.3K
+buyarrive.com  --  Monthly visits -> 203.9K
+prisonfellowship.org  --  Monthly visits -> 179.3K
+
+- Geography -
+MobileMonkey usage by websites across the globe
+Leading Countries: Websites
+United States: 107
+Canada: 23
+Italy: 17
+Australia: 15
+India: 15
+United Kingdom: 15
+Poland: 11
+Vietnam: 11
+Mexico: 9
+Philippines: 9
+Rest of the World: 163

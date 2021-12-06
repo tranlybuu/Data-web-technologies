@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Agora
+Last month's change: 7.82%
+Websites: 307
+Unique Domains: 112
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Agora is being used
+Community & Society: 18.24%
+Computers Electronics & Technology: 7.17%
+Business & Consumer Services: 3.58%
+Finance: 3.26%
+Others: 67.75%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Agora -
+sharechat.com  --  Monthly visits -> 36.8M
+b.sharechat.com  --  Monthly visits -> 25.5M
+eharmony.com  --  Monthly visits -> 5M
+parship.de  --  Monthly visits -> 3.1M
+elitepartner.de  --  Monthly visits -> 1.5M
+community.elitepartner.de  --  Monthly visits -> 975.2K
+kw.parship.de  --  Monthly visits -> 769.6K
+agora.io  --  Monthly visits -> 716.7K
+legalbet.ru  --  Monthly visits -> 641.5K
+eharmony.co.uk  --  Monthly visits -> 620.4K
+
+- Geography -
+Agora usage by websites across the globe
+Leading Countries: Websites
+United States: 46
+United Kingdom: 24
+Germany: 16
+China: 15
+Hong Kong: 14
+India: 14
+Switzerland: 13
+Netherlands: 12
+Singapore: 11
+Philippines: 9
+Rest of the World: 96

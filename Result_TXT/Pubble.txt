@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Pubble
+Last month's change: 2.97%
+Websites: 370
+Unique Domains: 293
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pubble is being used
+Science & Education: 16.22%
+Computers Electronics & Technology: 5.95%
+Home & Garden: 4.86%
+Lifestyle: 4.05%
+Others: 68.92%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Pubble -
+washingtonpost.com  --  Monthly visits -> 145M
+pavers.co.uk  --  Monthly visits -> 2.5M
+lboro.ac.uk  --  Monthly visits -> 2.2M
+ucd.ie  --  Monthly visits -> 2.2M
+wlv.ac.uk  --  Monthly visits -> 947.9K
+woodies.ie  --  Monthly visits -> 913.8K
+dcu.ie  --  Monthly visits -> 725.6K
+maynoothuniversity.ie  --  Monthly visits -> 524.7K
+migros-impuls.ch  --  Monthly visits -> 465.6K
+nuigalway.ie  --  Monthly visits -> 372.4K
+
+- Geography -
+Pubble usage by websites across the globe
+Leading Countries: Websites
+Ireland: 118
+United Kingdom: 74
+United States: 60
+Italy: 8
+Canada: 6
+Germany: 5
+Netherlands: 5
+India: 4
+Switzerland: 4
+Indonesia: 3
+Rest of the World: 54

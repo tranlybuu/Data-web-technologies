@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Recruitics
+Last month's change: 7.70%
+Websites: 1377
+Unique Domains: 805
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Recruitics is being used
+Jobs & Career: 35.73%
+Science & Education: 14.67%
+Health: 4.79%
+Business & Consumer Services: 2.40%
+Others: 42.41%
+
+
+- Related Technologies -
+Top Marketing technologies
+Google Marketing Platform
+Adobe Marketing Cloud
+Civic
+Zotabox
+On24
+
+
+- Top Websites Using Recruitics -
+indeed.com  --  Monthly visits -> 587.7M
+uber.com  --  Monthly visits -> 98.3M
+miro.com  --  Monthly visits -> 25M
+it.indeed.com  --  Monthly visits -> 18.7M
+conv.indeed.com  --  Monthly visits -> 17.6M
+governmentjobs.com  --  Monthly visits -> 9.1M
+1stdibs.com  --  Monthly visits -> 5M
+nl.indeed.com  --  Monthly visits -> 5M
+zippia.com  --  Monthly visits -> 4.4M
+trip.uber.com  --  Monthly visits -> 4.3M
+
+- Geography -
+Recruitics usage by websites across the globe
+Leading Countries: Websites
+United States: 865
+United Kingdom: 81
+Canada: 39
+India: 27
+France: 18
+Australia: 15
+Germany: 10
+Brazil: 8
+Philippines: 8
+Italy: 7
+Rest of the World: 119

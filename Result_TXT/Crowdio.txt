@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Crowdio
+Last month's change: 0%
+Websites: 341
+Unique Domains: 332
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Crowdio is being used
+Travel & Tourism: 3.52%
+Vehicles: 3.52%
+Home & Garden: 3.23%
+Business & Consumer Services: 2.64%
+Others: 87.10%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Crowdio -
+timeplan.dk  --  Monthly visits -> 402.4K
+timeplan-software.com  --  Monthly visits -> 396.1K
+peugeot.dk  --  Monthly visits -> 134.4K
+advokatfirmaet-ge.dk  --  Monthly visits -> 95.9K
+codan.dk  --  Monthly visits -> 83.9K
+safeticket.dk  --  Monthly visits -> 83.2K
+sendentanke.dk  --  Monthly visits -> 70.2K
+dekra.dk  --  Monthly visits -> 63.1K
+ballisager.com  --  Monthly visits -> 52.1K
+dokument24.dk  --  Monthly visits -> 51.1K
+
+- Geography -
+Crowdio usage by websites across the globe
+Leading Countries: Websites
+Denmark: 281
+Sweden: 7
+Norway: 5
+United States: 4
+Germany: 3
+Australia: 2
+Canada: 2
+Poland: 2
+Slovakia: 2
+United Kingdom: 2
+Rest of the World: 10

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Mail.Ru Group
+Last month's change: 2.34%
+Websites: 44280
+Unique Domains: 28344
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mail.Ru Group is being used
+Arts & Entertainment: 9.08%
+Computers Electronics & Technology: 8.02%
+Science & Education: 6.62%
+Vehicles: 5.95%
+Others: 70.33%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Mail.Ru Group -
+avito.ru  --  Monthly visits -> 280.6M
+ria.ru  --  Monthly visits -> 136.6M
+rezka.ag  --  Monthly visits -> 91.8M
+drom.ru  --  Monthly visits -> 64.6M
+browser.yandex.ru  --  Monthly visits -> 27.3M
+vidal.ru  --  Monthly visits -> 26.8M
+aif.ru  --  Monthly visits -> 25.6M
+kinogo.la  --  Monthly visits -> 23.5M
+livetv.sx  --  Monthly visits -> 22.6M
+doramy.club  --  Monthly visits -> 20.3M
+
+- Geography -
+Mail.Ru Group usage by websites across the globe
+Leading Countries: Websites
+Russia: 26744
+Ukraine: 2669
+Belarus: 871
+Kazakhstan: 706
+United States: 549
+Germany: 225
+Moldova: 163
+France: 148
+Poland: 142
+Uzbekistan: 141
+Rest of the World: 2263

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ExpertSender
+Last month's change: 0.92%
+Websites: 1200
+Unique Domains: 528
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ExpertSender is being used
+Health: 13.92%
+Lifestyle: 9.58%
+Business & Consumer Services: 6.17%
+E-commerce & Shopping: 5.75%
+Others: 64.58%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using ExpertSender -
+market.yandex.ru  --  Monthly visits -> 140M
+dnevnik.ru  --  Monthly visits -> 49.2M
+schools.dnevnik.ru  --  Monthly visits -> 31.7M
+vseinstrumenti.ru  --  Monthly visits -> 22.5M
+voetbalprimeur.nl  --  Monthly visits -> 13.7M
+login.dnevnik.ru  --  Monthly visits -> 11.6M
+banki.ru  --  Monthly visits -> 10.7M
+ccc.eu  --  Monthly visits -> 8.2M
+storiespace.com  --  Monthly visits -> 7.4M
+coomeet.com  --  Monthly visits -> 7.4M
+
+- Geography -
+ExpertSender usage by websites across the globe
+Leading Countries: Websites
+Russia: 314
+France: 265
+Poland: 77
+United States: 35
+Brazil: 34
+Belgium: 13
+Ukraine: 13
+Kazakhstan: 9
+Germany: 7
+Canada: 6
+Rest of the World: 80

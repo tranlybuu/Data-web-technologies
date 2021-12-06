@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Botmaker
+Last month's change: 97.2%
+Websites: 248
+Unique Domains: 221
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Botmaker is being used
+Law & Government: 18.15%
+Finance: 14.52%
+Computers Electronics & Technology: 8.47%
+Science & Education: 6.45%
+Others: 52.42%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Botmaker -
+argentina.gob.ar  --  Monthly visits -> 42.7M
+buenosaires.gob.ar  --  Monthly visits -> 12.9M
+descomplica.com.br  --  Monthly visits -> 10.6M
+movistar.com.pe  --  Monthly visits -> 8.3M
+gba.gob.ar  --  Monthly visits -> 7.5M
+gba.gov.ar  --  Monthly visits -> 5.5M
+tottus.com.pe  --  Monthly visits -> 3.8M
+jus.gov.ar  --  Monthly visits -> 3.1M
+mendoza.gov.ar  --  Monthly visits -> 2.2M
+plataforma.coderhouse.com  --  Monthly visits -> 1.6M
+
+- Geography -
+Botmaker usage by websites across the globe
+Leading Countries: Websites
+Argentina: 141
+Brazil: 31
+Colombia: 14
+Mexico: 11
+Peru: 11
+Chile: 8
+Panama: 8
+Costa Rica: 6
+Dominican Republic: 4
+Ecuador: 3
+Rest of the World: 11

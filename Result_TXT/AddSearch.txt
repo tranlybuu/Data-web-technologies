@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: AddSearch
+Last month's change: 6.82%
+Websites: 1951
+Unique Domains: 1646
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AddSearch is being used
+Computers Electronics & Technology: 11.38%
+Heavy Industry & Engineering: 10.76%
+Health: 5.64%
+Business & Consumer Services: 5.23%
+Others: 66.99%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+Captify
+
+
+- Top Websites Using AddSearch -
+overleaf.com  --  Monthly visits -> 25.8M
+telia.fi  --  Monthly visits -> 5.4M
+inacap.cl  --  Monthly visits -> 3.3M
+lonestar.edu  --  Monthly visits -> 3M
+f-secure.com  --  Monthly visits -> 2.3M
+paytrail.com  --  Monthly visits -> 2M
+barracudanetworks.com  --  Monthly visits -> 2M
+portales.inacap.cl  --  Monthly visits -> 1.8M
+crowdstrike.com  --  Monthly visits -> 1.8M
+sans.org  --  Monthly visits -> 1.7M
+
+- Geography -
+AddSearch usage by websites across the globe
+Leading Countries: Websites
+United States: 719
+Finland: 123
+United Kingdom: 96
+Germany: 94
+Canada: 70
+Australia: 66
+Italy: 50
+Netherlands: 31
+Switzerland: 31
+Norway: 30
+Rest of the World: 574

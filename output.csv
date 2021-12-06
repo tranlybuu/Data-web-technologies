@@ -323,3 +323,646 @@ Date,NameTechnology,P1month,TechCategory,UniqueDomains,Websites
 05/12/2021,FreeSpee,0.84%,Call Tracking,818,954
 05/12/2021,LiveCall,0.39%,Call Tracking,537,763
 05/12/2021,ResponseIQ,1.33%,Call Tracking,669,750
+Date,NameTechnology,P1month,TechCategory,UniqueDomains,Websites
+06/12/2021,Chaser,2.38%,Call Tracking,195,252
+06/12/2021,Smith,17.1%,Call Tracking,149,175
+06/12/2021,IfByPhone,6.37%,Call Tracking,150,157
+06/12/2021,SiteCall,2.58%,Call Tracking,127,155
+06/12/2021,LeadReactor,0%,Call Tracking,99,99
+06/12/2021,Invoca,2.35%,Call Tracking,80,85
+06/12/2021,Velocify,0%,Call Tracking,71,77
+06/12/2021,SnapCall,0%,Call Tracking,28,57
+06/12/2021,Delacon,5.66%,Call Tracking,42,53
+06/12/2021,CallTracks,2.56%,Call Tracking,36,39
+06/12/2021,Lucep,0%,Call Tracking,39,39
+06/12/2021,KeyMetric,5.88%,Call Tracking,29,34
+06/12/2021,CallTrackingMetrics,3.70%,Call Tracking,26,27
+06/12/2021,ResponseTap,8.33%,Call Tracking,24,24
+06/12/2021,CallFire,10.5%,Call Tracking,17,19
+06/12/2021,OpenID,0.88%,Login Provider,61350,528540
+06/12/2021,Google+ Sign-In Button,1.42%,Login Provider,31026,95541
+06/12/2021,Facebook Login,1.69%,Login Provider,56597,94278
+06/12/2021,Okta,0.64%,Login Provider,5618,22385
+06/12/2021,Auth0,1.50%,Login Provider,2394,5999
+06/12/2021,LinkedIn Login,2.78%,Login Provider,3565,5961
+06/12/2021,Twitter Login,1.06%,Login Provider,3370,4132
+06/12/2021,OneLogin,1.35%,Login Provider,418,2376
+06/12/2021,Janrain,2.24%,Login Provider,1828,2323
+06/12/2021,MemberMouse,0.92%,Login Provider,723,762
+06/12/2021,ID me,5.57%,Login Provider,172,287
+06/12/2021,Social Plus,0.67%,Login Provider,128,149
+06/12/2021,Naver Search,10.5%,Site Search,8778,23590
+06/12/2021,Algolia,1.18%,Site Search,19079,23229
+06/12/2021,Hupso,0.66%,Site Search,3281,3464
+06/12/2021,SiteSearch 360,8.71%,Site Search,2307,2940
+06/12/2021,Captify,3.11%,Site Search,1693,2249
+06/12/2021,AddSearch,6.82%,Site Search,1646,1951
+06/12/2021,Sooqr,0.83%,Site Search,995,1205
+06/12/2021,Zoomd,32.2%,Site Search,853,990
+06/12/2021,Sajari,0%,Site Search,335,574
+06/12/2021,LinkUp,2.30%,Site Search,317,391
+06/12/2021,Bing Web Search API,2.30%,Site Search,63,87
+06/12/2021,Multilingual Support,0.95%,Multilingual,1136254,1704129
+06/12/2021,WPML Multilingual,1.92%,Multilingual,242735,260753
+06/12/2021,Transifex,3.22%,Multilingual,531,1334
+06/12/2021,Bablic,14.0%,Multilingual,791,937
+06/12/2021,Handtalk,5.20%,Multilingual,351,558
+06/12/2021,OneSignal,0.03%,Push Notifications,91981,171136
+06/12/2021,iZooto,12.3%,Push Notifications,5852,7794
+06/12/2021,Pushnami,3.00%,Push Notifications,1575,2534
+06/12/2021,cleverpush,0.88%,Push Notifications,1616,2497
+06/12/2021,PushPushGo,0.51%,Push Notifications,803,2141
+06/12/2021,TruePush,0.99%,Push Notifications,1567,1816
+06/12/2021,Aimtell,0.29%,Push Notifications,1355,1704
+06/12/2021,WonderPush,23.4%,Push Notifications,674,829
+06/12/2021,PushWoosh,3.98%,Push Notifications,350,754
+06/12/2021,Feedify,0.16%,Push Notifications,465,623
+06/12/2021,PushWorld,0.65%,Push Notifications,308,614
+06/12/2021,Batch,5.39%,Push Notifications,328,557
+06/12/2021,PushAssist,2.66%,Push Notifications,333,489
+06/12/2021,PushProfit,2.30%,Push Notifications,342,348
+06/12/2021,NotifyVisitors,1.79%,Push Notifications,205,335
+06/12/2021,Mepuzz,1.55%,Push Notifications,228,258
+06/12/2021,WebPush,1.73%,Push Notifications,108,173
+06/12/2021,FoxPush,7.45%,Push Notifications,129,161
+06/12/2021,Frizbit,1.87%,Push Notifications,85,107
+06/12/2021,Pushbullet,0%,Push Notifications,65,79
+06/12/2021,InformVisitors,None%,Push Notifications,14,21
+06/12/2021,Notifyfox,None%,Push Notifications,4,4
+06/12/2021,Bitcoin Acceptance,2.70%,Cryptocurrency,159439,230314
+06/12/2021,Monero Acceptance,7.23%,Cryptocurrency,31264,33011
+06/12/2021,Litecoin Acceptance,5.59%,Cryptocurrency,18729,23047
+06/12/2021,Bitcoin Address Link,0.36%,Cryptocurrency,1884,2503
+06/12/2021,Coinhive Miner,5.61%,Cryptocurrency,1359,1890
+06/12/2021,Coinbase,3.91%,Cryptocurrency,1576,1738
+06/12/2021,Coinbase Commerce,5.05%,Cryptocurrency,1298,1406
+06/12/2021,CoinDesk,0.99%,Cryptocurrency,245,304
+06/12/2021,JSEcoin,4.66%,Cryptocurrency,209,279
+06/12/2021,CoinGate,2.94%,Cryptocurrency,32,34
+06/12/2021,Bitcoin Miner,4.76%,Cryptocurrency,15,21
+06/12/2021,Stripe - Bitcoin,11.8%,Cryptocurrency,13,17
+06/12/2021,LCX Digital,None%,Cryptocurrency,2,2
+06/12/2021,Google,1.77%,Information Technology,12576314,20291675
+06/12/2021,Facebook,0.95%,Information Technology,5236844,8957372
+06/12/2021,Amazon,1.81%,Information Technology,1707558,4157882
+06/12/2021,IBM,0.87%,Information Technology,10518,16222
+06/12/2021,Oracle,0.53%,Information Technology,6401,8309
+06/12/2021,News API,2.16%,API,110,139
+06/12/2021,Google Marketing Platform,2.96%,Marketing,6548173,10229974
+06/12/2021,HubSpot,2.73%,Marketing,156910,212620
+06/12/2021,Adobe Marketing Cloud,1.11%,Marketing,85816,156517
+06/12/2021,Klaviyo,3.46%,Marketing,95649,109974
+06/12/2021,Civic,5.81%,Marketing,52547,101460
+06/12/2021,Pardot,0.84%,Marketing,42708,94899
+06/12/2021,Marketo,1.23%,Marketing,24388,48854
+06/12/2021,TowerData,17.0%,Marketing,22953,44697
+06/12/2021,Dotomi,1.70%,Marketing,7241,40433
+06/12/2021,LiveRamp,21.0%,Marketing,19277,40035
+06/12/2021,Zotabox,2.35%,Marketing,24815,28690
+06/12/2021,RD Station,1.79%,Marketing,20897,26222
+06/12/2021,SiteWit,3.52%,Marketing,18731,24874
+06/12/2021,Infusionsoft,0.50%,Marketing,16814,20600
+06/12/2021,Privy,61.1%,Marketing,16221,17527
+06/12/2021,Emarsys,0.82%,Marketing,8707,15977
+06/12/2021,Mautic,2.06%,Marketing,11747,13969
+06/12/2021,Eloqua,0.39%,Marketing,9225,13739
+06/12/2021,SharpSpring,2.05%,Marketing,10913,12304
+06/12/2021,Omnisend,12.3%,Marketing,10554,12314
+06/12/2021,On24,13.4%,Marketing,5831,11684
+06/12/2021,GetResponse,0.03%,Marketing,9473,11034
+06/12/2021,drip,0.22%,Marketing,8843,10883
+06/12/2021,Curated,0.58%,Marketing,874,10405
+06/12/2021,TownNews,2.82%,Marketing,4849,9847
+06/12/2021,STRÖER,13.5%,Marketing,6077,8703
+06/12/2021,Braze,16.2%,Marketing,5674,7689
+06/12/2021,Salesforce Marketing Cloud,0.66%,Marketing,5730,6936
+06/12/2021,SALESmanago,0.06%,Marketing,4553,6393
+06/12/2021,Flocktory,1.28%,Marketing,788,5387
+06/12/2021,Customer.io,0.88%,Marketing,2943,5020
+06/12/2021,Mindbox,1.67%,Marketing,1045,4970
+06/12/2021,Act-On,2.04%,Marketing,3630,4813
+06/12/2021,deadline funnel,2.93%,Marketing,3821,4581
+06/12/2021,TEKGROUP,0.23%,Marketing,3514,4275
+06/12/2021,Intice,33.5%,Marketing,4028,4029
+06/12/2021,BlueConic,0.75%,Marketing,2402,3992
+06/12/2021,Zmags,0.37%,Marketing,3222,3767
+06/12/2021,adRom,5.27%,Marketing,2121,3664
+06/12/2021,ReferralCandy,1.19%,Marketing,2396,3521
+06/12/2021,Kairos3,1.82%,Marketing,2510,3515
+06/12/2021,Gleam,1.02%,Marketing,2974,3338
+06/12/2021,Foursixty,0.12%,Marketing,2610,3250
+06/12/2021,Bow Now,5.40%,Marketing,2845,3035
+06/12/2021,Talkable,1.77%,Marketing,2117,2995
+06/12/2021,Joomag,0.57%,Marketing,2599,2986
+06/12/2021,Fomo,1.71%,Marketing,2491,2924
+06/12/2021,Curalate,0.45%,Marketing,1094,2870
+06/12/2021,MyNewsDesk,88.5%,Marketing,2473,2832
+06/12/2021,Neustar AdAdvisor,3.60%,Marketing,1350,2807
+06/12/2021,FreshMarketer,3.09%,Marketing,1812,2718
+06/12/2021,Selligent,1.46%,Marketing,1756,2599
+06/12/2021,Ceros,4.57%,Marketing,1856,2431
+06/12/2021,Recart,10.5%,Marketing,2031,2387
+06/12/2021,mrp,2.85%,Marketing,1708,2350
+06/12/2021,DotDigital,2.68%,Marketing,1907,2315
+06/12/2021,Ontraport,1.53%,Marketing,1980,2295
+06/12/2021,Listrak,2.10%,Marketing,1630,2238
+06/12/2021,Exponea,2.56%,Marketing,1450,2230
+06/12/2021,Atavist,0.23%,Marketing,1203,2165
+06/12/2021,atomz,0.94%,Marketing,1680,2016
+06/12/2021,Satori,1.27%,Marketing,1350,1891
+06/12/2021,Egoi,1.23%,Marketing,1560,1865
+06/12/2021,Bronto,1.65%,Marketing,1507,1818
+06/12/2021,SpringBot,11.9%,Marketing,1603,1716
+06/12/2021,Olapic,1.81%,Marketing,1013,1495
+06/12/2021,Samba,32.9%,Marketing,248,1491
+06/12/2021,ListFinder,0.42%,Marketing,1222,1416
+06/12/2021,BDash,0.86%,Marketing,961,1391
+06/12/2021,Recruitics,7.70%,Marketing,805,1377
+06/12/2021,Pixlee,0.36%,Marketing,1136,1375
+06/12/2021,SendSay,0.23%,Marketing,966,1313
+06/12/2021,SmarterHQ,1.75%,Marketing,809,1255
+06/12/2021,iPresso,0%,Marketing,180,1232
+06/12/2021,IFDO,3.98%,Marketing,772,1205
+06/12/2021,ExpertSender,0.92%,Marketing,528,1200
+06/12/2021,Deqwas,0.09%,Marketing,850,1100
+06/12/2021,Viral Loops,3.20%,Marketing,903,1064
+06/12/2021,Octane AI,10.5%,Marketing,894,1030
+06/12/2021,SheKnows,4.55%,Marketing,885,968
+06/12/2021,mapp,2.37%,Marketing,689,886
+06/12/2021,FriendBuy,1.70%,Marketing,642,884
+06/12/2021,Vision Critical,2.82%,Marketing,439,851
+06/12/2021,Shanon,2.21%,Marketing,590,815
+06/12/2021,Speee,4.70%,Marketing,449,788
+06/12/2021,Netcore,0.77%,Marketing,502,779
+06/12/2021,eBay Partner Network,0.26%,Marketing,644,765
+06/12/2021,Addaptive,2.23%,Marketing,551,761
+06/12/2021,Stackla,2.07%,Marketing,585,726
+06/12/2021,Copernica,6.94%,Marketing,659,706
+06/12/2021,Iterable,2.80%,Marketing,417,642
+06/12/2021,Ometria,1.73%,Marketing,422,635
+06/12/2021,SPREAD,1.42%,Marketing,514,633
+06/12/2021,CDK Digital Marketing,8.11%,Marketing,574,629
+06/12/2021,Tagboard,2.39%,Marketing,399,585
+06/12/2021,segmint,1.49%,Marketing,164,538
+06/12/2021,Boomtrain,2.27%,Marketing,324,529
+06/12/2021,Tune,34.0%,Marketing,324,527
+06/12/2021,Bound,2.68%,Marketing,344,522
+06/12/2021,UrbanAirship,6.04%,Marketing,223,513
+06/12/2021,Twemoji,1.14%,Widget,3974105,4922402
+06/12/2021,reCAPTCHA,4.29%,Widget,2861099,4157321
+06/12/2021,Google Maps,1.07%,Widget,3411540,3889108
+06/12/2021,Yoast SEO,2.31%,Widget,2075104,2216593
+06/12/2021,FancyBox,0.30%,Widget,1244480,1556583
+06/12/2021,General Captcha,0.54%,Widget,1064216,1515651
+06/12/2021,Gravatar,0.61%,Widget,174290,738170
+06/12/2021,LiveInternet,1.30%,Widget,202808,398184
+06/12/2021,Google Translate,0.96%,Widget,245237,353655
+06/12/2021,W3 Total Cache,0.03%,Widget,284261,295330
+06/12/2021,Yahoo,0.38%,Widget,160026,231556
+06/12/2021,WP Super Cache,10.7%,Widget,210260,222901
+06/12/2021,Lockerz Share,0.55%,Widget,186073,212894
+06/12/2021,Hatena,1.04%,Widget,69964,182891
+06/12/2021,Leaflet,2.90%,Widget,134248,171131
+06/12/2021,LinkedIn Plugins,2.05%,Widget,108454,147765
+06/12/2021,Popup Maker,1.96%,Widget,136964,141924
+06/12/2021,Adobe Dynamic mBox,0.08%,Widget,90235,137817
+06/12/2021,Glyphicons,1.12%,Widget,57983,113410
+06/12/2021,Baidu Maps,1.31%,Widget,53388,64157
+06/12/2021,Matterport,4.18%,Widget,47539,50859
+06/12/2021,Kaereba,3.51%,Widget,42767,47068
+06/12/2021,Baidu Search Box,4.50%,Widget,36188,45237
+06/12/2021,Mail.Ru Group,2.34%,Widget,28344,44280
+06/12/2021,Flag Counter,1.44%,Widget,10829,42466
+06/12/2021,Gigya,1.06%,Widget,7645,28372
+06/12/2021,whos.amung.us,1.89%,Widget,7178,25416
+06/12/2021,Google Programmable Search Engine,1.48%,Widget,14532,20283
+06/12/2021,Naver map,0.45%,Widget,5769,18490
+06/12/2021,Eager,2.22%,Widget,13267,18356
+06/12/2021,VKontakte Widgets,2.05%,Widget,11743,18173
+06/12/2021,MapBox,6.78%,Widget,7162,17711
+06/12/2021,Google Widgets,3.46%,Widget,6748,15855
+06/12/2021,OpenStreetMap,11.4%,Widget,12784,14516
+06/12/2021,Gigya Beacon,3.12%,Widget,1661,13636
+06/12/2021,StumbleUpon Widgets,4.84%,Widget,11349,13538
+06/12/2021,Vantage,1.06%,Widget,12745,13139
+06/12/2021,Reddit,1.07%,Widget,7621,13030
+06/12/2021,SumoMe,3.98%,Widget,10554,12956
+06/12/2021,Adobe Spark Links,3.33%,Widget,10009,12468
+06/12/2021,Share42,1.22%,Widget,9273,12178
+06/12/2021,BugHerd,1.18%,Widget,9236,11376
+06/12/2021,OpenLayers,0.04%,Widget,8873,11314
+06/12/2021,Informer Widget,4.27%,Widget,5718,9954
+06/12/2021,Ning,0.36%,Widget,1782,8704
+06/12/2021,Filestack,1.06%,Widget,3201,7642
+06/12/2021,iPerceptions,0.30%,Widget,6424,7092
+06/12/2021,WP reCAPTCHA,1.65%,Widget,6328,6774
+06/12/2021,MapTiler,11.6%,Widget,4145,6584
+06/12/2021,SleekNote,2.89%,Widget,5478,6436
+06/12/2021,PushCrew,3.82%,Widget,3616,5342
+06/12/2021,Contact At Once!,23.9%,Widget,5049,5169
+06/12/2021,Alexa Widget,2.58%,Widget,2084,5071
+06/12/2021,Usabilla,1.17%,Widget,2701,4947
+06/12/2021,Spot.IM,0.88%,Widget,1364,4756
+06/12/2021,Enable,5.92%,Widget,3967,4239
+06/12/2021,geoPlugin,1.61%,Widget,3440,4102
+06/12/2021,Unofficial GitHub Buttons,0.71%,Widget,2262,3939
+06/12/2021,Digg Widget,4.94%,Widget,2685,3687
+06/12/2021,CallPage,0.14%,Widget,2990,3549
+06/12/2021,Swiftype,0.51%,Widget,2104,3152
+06/12/2021,PushEngage,0.20%,Widget,2579,3025
+06/12/2021,WidgetBox,3.44%,Widget,1046,3024
+06/12/2021,Alexa Traffic Rank,2.59%,Widget,1829,2938
+06/12/2021,UpSellit,3.48%,Widget,1561,2930
+06/12/2021,Bing Maps,4.95%,Widget,1698,2866
+06/12/2021,MapQuest,4.07%,Widget,2672,2751
+06/12/2021,Twilio,0.26%,Widget,2385,2691
+06/12/2021,NetworkedBlogs,4.11%,Widget,615,2678
+06/12/2021,Dun and BradStreet,1.12%,Widget,2115,2595
+06/12/2021,Po.st,6.29%,Widget,1318,2482
+06/12/2021,Google Places,20.4%,Widget,2240,2377
+06/12/2021,24LOG,0.13%,Widget,1105,2377
+06/12/2021,Amazon Polly,2.80%,Widget,2158,2287
+06/12/2021,Firefly,6.45%,Widget,262,2265
+06/12/2021,ClickTripz,2.31%,Widget,689,2118
+06/12/2021,jobs2careers,3.71%,Widget,464,2047
+06/12/2021,Wibiya Toolbar,3.92%,Widget,989,1962
+06/12/2021,Flattr Button,2.05%,Widget,1100,1951
+06/12/2021,ActivEngage,19.3%,Widget,1730,1802
+06/12/2021,LinksAlpha,5.64%,Widget,1666,1754
+06/12/2021,Increment P,0.73%,Widget,1365,1635
+06/12/2021,Trumba,0.59%,Widget,607,1520
+06/12/2021,Glassdoor,2.48%,Widget,1049,1292
+06/12/2021,Revolver Maps,1.79%,Widget,432,1285
+06/12/2021,MapLoco,0.72%,Widget,418,1257
+06/12/2021,Amadeus,0.32%,Widget,1136,1241
+06/12/2021,Buffer Button,6.48%,Widget,1142,1203
+06/12/2021,Opta Widget,0.97%,Widget,751,1134
+06/12/2021,Tint,2.15%,Widget,1033,1115
+06/12/2021,DiggThis,1.13%,Widget,640,1059
+06/12/2021,KeyCAPTCHA,4.20%,Widget,984,1023
+06/12/2021,Carto,20.7%,Widget,812,994
+06/12/2021,Showcase,1.63%,Widget,867,983
+06/12/2021,[24]7.ai,6.05%,Widget,691,959
+06/12/2021,MarineTraffic,1.37%,Widget,888,948
+06/12/2021,NuCaptcha,2.65%,Widget,686,943
+06/12/2021,JS-Kit,0.66%,Widget,417,912
+06/12/2021,TwitterCounter,3.08%,Widget,533,877
+06/12/2021,MaxMind,5.39%,Widget,670,798
+06/12/2021,Cookie Consent,4.26%,Privacy,2342404,3598885
+06/12/2021,Cookie Notice,6.58%,Privacy,300771,313632
+06/12/2021,GDPR Cookie Consent,5.97%,Privacy,224140,231474
+06/12/2021,OneTrust,6.15%,Privacy,56752,201856
+06/12/2021,CookieBot,5.37%,Privacy,83224,99168
+06/12/2021,UK Cookie Consent,11.1%,Privacy,50345,52894
+06/12/2021,iubenda,2.77%,Privacy,48381,51876
+06/12/2021,TrustArc,2.30%,Privacy,8603,27744
+06/12/2021,PrimeBox CookieBar,1.12%,Privacy,21866,26923
+06/12/2021,Cookie Script,4.23%,Privacy,19074,23829
+06/12/2021,UserCentrics,95.0%,Privacy,9185,10305
+06/12/2021,Cookie Information,7.54%,Privacy,7488,9373
+06/12/2021,Digicert,4.17%,Privacy,5072,6864
+06/12/2021,Evidon Notice,4.66%,Privacy,4490,5043
+06/12/2021,Evidon Site Notice,2.14%,Privacy,3240,3412
+06/12/2021,CookieHub,15.4%,Privacy,2397,2720
+06/12/2021,AdOpt,15.2%,Privacy,1682,1959
+06/12/2021,LegalMonster,9.93%,Privacy,486,554
+06/12/2021,CookieBAR,1.95%,Privacy,235,256
+06/12/2021,CookieQ,15.9%,Privacy,65,69
+06/12/2021,TRUSTe Notice,13.6%,Privacy,16,22
+06/12/2021,GDN Notice,None%,Privacy,5,9
+06/12/2021,Microsoft Notice,None%,Privacy,1,1
+06/12/2021,Pulse360 Notice,100.0%,Privacy,1,1
+06/12/2021,AOL OBA Notice,100.0%,Privacy,1,1
+06/12/2021,CloudFlare,2.36%,Content Delivery Network,2137698,3150422
+06/12/2021,Amazon S3,1.18%,Content Delivery Network,265836,445989
+06/12/2021,Amazon CloudFront,3.20%,Content Delivery Network,175167,399097
+06/12/2021,Google Cloud Storage,14.3%,Content Delivery Network,245583,324969
+06/12/2021,Fastly,9.15%,Content Delivery Network,146528,276338
+06/12/2021,Akamai,2.69%,Content Delivery Network,71103,174921
+06/12/2021,Akamai Edge,0.28%,Content Delivery Network,45784,108654
+06/12/2021,Cloudinary,7.04%,Content Delivery Network,56233,82551
+06/12/2021,StackPath,6.33%,Content Delivery Network,25948,31303
+06/12/2021,Imgix,76.8%,Content Delivery Network,10195,15017
+06/12/2021,Bunny CDN,80.2%,Content Delivery Network,8024,9978
+06/12/2021,Highwinds,11.0%,Content Delivery Network,5520,6288
+06/12/2021,Limelight Networks,0.80%,Content Delivery Network,2540,5869
+06/12/2021,Verizon EdgeCast,8.68%,Content Delivery Network,4359,4964
+06/12/2021,GoCache,0.65%,Content Delivery Network,2275,2944
+06/12/2021,MaxCDN,6.13%,Content Delivery Network,973,1419
+Date,NameTechnology,P1month,TechCategory,UniqueDomains,Websites
+06/12/2021,THEOplayer,0.73%,Audio Video Media,372,545
+06/12/2021,Apple Music,3.84%,Audio Video Media,426,547
+06/12/2021,DailyMotion Cloud,3.18%,Audio Video Media,263,409
+06/12/2021,Wowza,1.33%,Audio Video Media,300,377
+06/12/2021,Clip Syndicate,7.28%,Audio Video Media,269,371
+06/12/2021,Qbrick,0.56%,Audio Video Media,267,358
+06/12/2021,Youbora,0%,Audio Video Media,207,302
+06/12/2021,Tidal,3.32%,Audio Video Media,261,301
+06/12/2021,OSM Player,1.17%,Audio Video Media,217,257
+06/12/2021,Podiant,0.43%,Audio Video Media,200,231
+06/12/2021,HapYak,5.41%,Audio Video Media,108,148
+06/12/2021,Wibbitz,0%,Audio Video Media,99,145
+06/12/2021,EyeView,10.4%,Audio Video Media,101,135
+06/12/2021,StreamRail,25.5%,Audio Video Media,23,102
+06/12/2021,Millvi,3.06%,Audio Video Media,81,98
+06/12/2021,Ventuno,1.19%,Audio Video Media,56,84
+06/12/2021,Video Tap,35.1%,Audio Video Media,73,74
+06/12/2021,Videojs Contrib HLS,1.67%,Audio Video Media,21,60
+06/12/2021,UnreelMe,10.9%,Audio Video Media,26,46
+06/12/2021,Narando,9.09%,Audio Video Media,40,44
+06/12/2021,Media Source Extensions,4.55%,Audio Video Media,38,44
+06/12/2021,Rapt Media,2.94%,Audio Video Media,29,34
+06/12/2021,BlueStreak,0%,Audio Video Media,24,27
+06/12/2021,Wochit,None%,Audio Video Media,23,26
+06/12/2021,Tyroo,8.33%,Audio Video Media,10,12
+06/12/2021,Greta,10.0%,Audio Video Media,10,10
+06/12/2021,Lemonwhale,None%,Audio Video Media,8,9
+06/12/2021,SuggesTV,None%,Audio Video Media,7,9
+06/12/2021,NexPlayer,16.7%,Audio Video Media,6,6
+06/12/2021,Roku,None%,Audio Video Media,3,3
+06/12/2021,Tawk To,0.70%,Live Chat,165185,184151
+06/12/2021,Zendesk Chat,1.59%,Live Chat,111791,166542
+06/12/2021,Facebook Messenger Chat,4.09%,Live Chat,132919,144714
+06/12/2021,JivoChat,1.23%,Live Chat,101725,137439
+06/12/2021,Tidio Live Chat,3.26%,Live Chat,61676,65677
+06/12/2021,HubSpot Chat,2.26%,Live Chat,45234,61692
+06/12/2021,LiveChat,0.35%,Live Chat,49250,59926
+06/12/2021,Drift,2.77%,Live Chat,28376,50525
+06/12/2021,SmartSupp,0.82%,Live Chat,32644,35365
+06/12/2021,Ada Support,0.50%,Live Chat,1263,30502
+06/12/2021,Zoho Chat,2.98%,Live Chat,18048,20956
+06/12/2021,Olark,2.74%,Live Chat,15604,19536
+06/12/2021,FreshChat,0.45%,Live Chat,10574,14593
+06/12/2021,LivePerson,3.22%,Live Chat,9413,13798
+06/12/2021,MyLiveChat,2.50%,Live Chat,8297,9416
+06/12/2021,Attentive,6.78%,Live Chat,6487,8949
+06/12/2021,Chatango,0.98%,Live Chat,2662,7441
+06/12/2021,ManyChat,83.8%,Live Chat,5322,6938
+06/12/2021,LiveZilla,2.23%,Live Chat,6090,7070
+06/12/2021,RedHelper,1.00%,Live Chat,4896,6525
+06/12/2021,Provide Support,1.49%,Live Chat,4297,6359
+06/12/2021,Skype Web SDK,0.06%,Live Chat,3022,6282
+06/12/2021,BoldChat,0.54%,Live Chat,4529,5883
+06/12/2021,Skype Web Control,1.50%,Live Chat,5191,5666
+06/12/2021,LiveAgent,1.07%,Live Chat,3393,4675
+06/12/2021,SnapEngage,1.84%,Live Chat,3188,4351
+06/12/2021,Comm100,0.68%,Live Chat,3199,4109
+06/12/2021,PostScript,2.54%,Live Chat,3030,3463
+06/12/2021,Skype status,0.87%,Live Chat,2732,3347
+06/12/2021,WP Live Chat,13.3%,Live Chat,3144,3220
+06/12/2021,Live Help Now,1.48%,Live Chat,2214,2707
+06/12/2021,MTalk,0.79%,Live Chat,2485,2660
+06/12/2021,MarketLinc,10.4%,Live Chat,88,2500
+06/12/2021,Formilla,2.10%,Live Chat,2318,2434
+06/12/2021,Ngage,3.73%,Live Chat,2242,2305
+06/12/2021,ClickDesk,3.20%,Live Chat,1946,2096
+06/12/2021,iAdvize,1.23%,Live Chat,1246,1950
+06/12/2021,Live800,0.92%,Live Chat,1473,1838
+06/12/2021,uhChat,0.94%,Live Chat,1709,1802
+06/12/2021,Giosg,0%,Live Chat,1432,1699
+06/12/2021,FindLaw,27.1%,Live Chat,1642,1665
+06/12/2021,Subiz,6.52%,Live Chat,1383,1533
+06/12/2021,UserLike,28.0%,Live Chat,1143,1295
+06/12/2021,Pure Chat,4.81%,Live Chat,1077,1164
+06/12/2021,RocketChat,2.46%,Live Chat,931,1136
+06/12/2021,Gorgias,3.79%,Live Chat,901,1083
+06/12/2021,HappyFox Chat,1.20%,Live Chat,666,836
+06/12/2021,vChat,4.69%,Live Chat,746,789
+06/12/2021,Whisbi,5.98%,Live Chat,651,719
+06/12/2021,Zingaya,2.96%,Live Chat,378,574
+06/12/2021,Spot.IM LiveChat,1.91%,Live Chat,357,523
+06/12/2021,CometChat,5.97%,Live Chat,435,519
+06/12/2021,iFlyChat,3.33%,Live Chat,477,511
+06/12/2021,ClientChatLive,1.97%,Live Chat,483,507
+06/12/2021,ProProfs Chat,2.22%,Live Chat,369,451
+06/12/2021,ReadyChat,0.93%,Live Chat,324,431
+06/12/2021,ZyraTalk,22.9%,Live Chat,400,415
+06/12/2021,Chamo,1.75%,Live Chat,354,399
+06/12/2021,MobileMonkey,90.4%,Live Chat,394,395
+06/12/2021,Pubble,2.97%,Live Chat,293,370
+06/12/2021,AliveChat,2.17%,Live Chat,310,368
+06/12/2021,Crowdio,0%,Live Chat,332,341
+06/12/2021,Moxie,0.30%,Live Chat,249,336
+06/12/2021,Vivocha,2.70%,Live Chat,221,333
+06/12/2021,CoBrowser,0.70%,Live Chat,211,286
+06/12/2021,Kayako,2.46%,Live Chat,194,285
+06/12/2021,REVE Chat,0.36%,Live Chat,250,277
+06/12/2021,Engati,2.55%,Live Chat,234,274
+06/12/2021,Botmaker,97.2%,Live Chat,221,248
+06/12/2021,HelpOnClick,5.29%,Live Chat,211,227
+06/12/2021,stryng,0.96%,Live Chat,204,208
+06/12/2021,ChatWing,3.41%,Live Chat,79,205
+06/12/2021,DontGo,2.51%,Live Chat,193,199
+06/12/2021,Casengo,2.12%,Live Chat,183,189
+06/12/2021,InteliWise,1.61%,Live Chat,61,186
+06/12/2021,SMSBump,12.0%,Live Chat,166,183
+06/12/2021,Lime Talk,3.85%,Live Chat,168,182
+06/12/2021,Click and Chat,2.05%,Live Chat,134,146
+06/12/2021,Velaro,1.75%,Live Chat,105,114
+06/12/2021,HomeServiceChats,7.45%,Live Chat,93,94
+06/12/2021,LiveSupport,4.40%,Live Chat,87,91
+06/12/2021,Intaker,22.2%,Live Chat,87,90
+06/12/2021,Chatnox,8.14%,Live Chat,85,86
+06/12/2021,Vee24,17.9%,Live Chat,73,78
+06/12/2021,FocalScope,2.70%,Live Chat,72,74
+06/12/2021,Zenvia,98.6%,Live Chat,64,70
+06/12/2021,CommonBox,94.0%,Live Chat,44,50
+06/12/2021,chat.io,0%,Live Chat,46,49
+06/12/2021,Bontact,4.76%,Live Chat,42,42
+06/12/2021,RingDNA,0%,Live Chat,31,36
+06/12/2021,LiveAdmins,0%,Live Chat,30,31
+06/12/2021,RumbleTalk,0%,Live Chat,23,27
+06/12/2021,HeyBubble,3.85%,Live Chat,25,26
+06/12/2021,ChatPirate,11.5%,Live Chat,24,26
+06/12/2021,ApexChat,0%,Live Chat,24,25
+06/12/2021,Amplify AI,91.7%,Live Chat,19,24
+06/12/2021,Katana,13.0%,Live Chat,22,23
+06/12/2021,LiveChatNow,None%,Live Chat,15,18
+06/12/2021,RetentionRocket,5.88%,Live Chat,14,17
+06/12/2021,Zendesk,0.08%,Customer Communication,167795,894911
+06/12/2021,LINE,0.77%,Customer Communication,167468,257105
+06/12/2021,Intercom,0.79%,Customer Communication,44131,90865
+06/12/2021,Crisp,1.60%,Customer Communication,19786,24892
+06/12/2021,Stella Service,3.54%,Customer Communication,8690,15309
+06/12/2021,AirCall,12.5%,Customer Communication,413,8001
+06/12/2021,Venyoo,0.86%,Customer Communication,3486,5108
+06/12/2021,UserVoice,2.65%,Customer Communication,2717,4373
+06/12/2021,GoSquared,0.94%,Customer Communication,3323,4154
+06/12/2021,eGain,0.30%,Customer Communication,2639,3685
+06/12/2021,Customer IO,5.61%,Customer Communication,1541,2942
+06/12/2021,Elevio,1.67%,Customer Communication,1723,2393
+06/12/2021,User IQ,1.68%,Customer Communication,57,1550
+06/12/2021,Virtual Spirits,2.19%,Customer Communication,1191,1276
+06/12/2021,Gubagoo,5.42%,Customer Communication,1133,1163
+06/12/2021,MessengerPeople,0.43%,Customer Communication,885,1159
+06/12/2021,UserEcho,0.84%,Customer Communication,600,1069
+06/12/2021,Smooch,0.10%,Customer Communication,817,1012
+06/12/2021,Kustomer,3.09%,Customer Communication,467,874
+06/12/2021,Movidesk,3.47%,Customer Communication,558,806
+06/12/2021,MessageBird,8.10%,Customer Communication,487,531
+06/12/2021,NanoRep,1.98%,Customer Communication,401,506
+06/12/2021,Dixa,1.98%,Customer Communication,389,454
+06/12/2021,Help Scout,8.43%,Customer Communication,270,344
+06/12/2021,Agora,7.82%,Customer Communication,112,307
+06/12/2021,TalkBox,4.93%,Customer Communication,274,284
+06/12/2021,Staff Start,10.1%,Customer Communication,192,277
+06/12/2021,Slaask,8.09%,Customer Communication,236,272
+06/12/2021,CareSoft,2.28%,Customer Communication,208,263
+06/12/2021,Blinger,0.93%,Customer Communication,131,216
+06/12/2021,Emojics,0%,Customer Communication,193,208
+06/12/2021,Infobip,4.58%,Customer Communication,123,153
+06/12/2021,Emotive,17.1%,Customer Communication,70,76
+06/12/2021,BounceHelp,2.74%,Customer Communication,69,73
+06/12/2021,Hivebrite,None%,Customer Communication,2,2
+06/12/2021,autosend,None%,Customer Communication,1,1
+06/12/2021,Salesforce,0.13%,Customer Relationship Management,44118,96155
+06/12/2021,Freshdesk,0.31%,Customer Relationship Management,13818,30917
+06/12/2021,Salesforce Live Agent,1.74%,Customer Relationship Management,8303,21045
+06/12/2021,Zoho CRM,1.06%,Customer Relationship Management,6748,7749
+06/12/2021,CiviCRM,2.28%,Customer Relationship Management,5515,6622
+06/12/2021,Pipedrive,3.31%,Customer Relationship Management,6022,6498
+06/12/2021,Lithium Technologies,8.31%,Customer Relationship Management,988,4213
+06/12/2021,EveryAction,2.15%,Customer Relationship Management,2339,3434
+06/12/2021,Agile CRM,1.23%,Customer Relationship Management,2742,3097
+06/12/2021,17hats,2.94%,Customer Relationship Management,1784,2140
+06/12/2021,FreshSales,3.61%,Customer Relationship Management,1529,2048
+06/12/2021,Microsoft Dynamics 365,20.3%,Customer Relationship Management,1438,1758
+06/12/2021,K CRM,0.96%,Customer Relationship Management,489,519
+06/12/2021,Base Lead Capture Form,5.56%,Customer Relationship Management,124,126
+06/12/2021,Sugester,0%,Customer Relationship Management,57,67
+06/12/2021,NeonCRM,19.0%,Customer Relationship Management,36,42
+06/12/2021,CloudCherry,10.0%,Customer Relationship Management,8,10
+06/12/2021,TopProducer,16.7%,Customer Relationship Management,6,6
+06/12/2021,Eventbrite,2.39%,Booking,75908,93318
+06/12/2021,AcuityScheduling,1.56%,Booking,17611,22491
+06/12/2021,MindBody,0.57%,Booking,11067,11400
+06/12/2021,Splash,13.9%,Booking,5071,10785
+06/12/2021,FareHarbor,5.23%,Booking,8988,9124
+06/12/2021,AddEvent,0.89%,Booking,6291,8672
+06/12/2021,Setmore,2.16%,Booking,4820,7252
+06/12/2021,Brown Paper Tickets,1.64%,Booking,4402,5130
+06/12/2021,Cvent,10.2%,Booking,3173,4189
+06/12/2021,BandsInTown,23.6%,Booking,3694,3907
+06/12/2021,Rezdy,2.09%,Booking,2444,3162
+06/12/2021,Etix,5.39%,Booking,2881,3138
+06/12/2021,Bookeo,1.75%,Booking,3010,3145
+06/12/2021,eTouches,0.55%,Booking,2602,3079
+06/12/2021,CheckFront,2.02%,Booking,2245,3024
+06/12/2021,Doctolib,25.1%,Booking,1842,1871
+06/12/2021,Booker,3.15%,Booking,1749,1777
+06/12/2021,Schedulicity,1.75%,Booking,1672,1719
+06/12/2021,Tickera,2.38%,Booking,1341,1386
+06/12/2021,Appointy,3.30%,Booking,1081,1332
+06/12/2021,Vcita,27.8%,Booking,1333,1333
+06/12/2021,ShowClix,3.79%,Booking,1214,1321
+06/12/2021,Peek,22.0%,Booking,1192,1197
+06/12/2021,Genbook,0%,Booking,1069,1118
+06/12/2021,Bizzabo,2.13%,Booking,824,986
+06/12/2021,Vagaro,3.69%,Booking,956,976
+06/12/2021,CitySpark,1.42%,Booking,757,914
+06/12/2021,TicketWeb,1.34%,Booking,633,749
+06/12/2021,TrekkSoft,0.86%,Booking,600,699
+06/12/2021,Resova,1.13%,Booking,353,529
+06/12/2021,BookingBug,0.26%,Booking,333,385
+06/12/2021,Reservio,2.21%,Booking,301,362
+06/12/2021,Salon Runner,2.58%,Booking,340,349
+06/12/2021,RegOnline,0.34%,Booking,237,298
+06/12/2021,SeatEngine,1.75%,Booking,203,285
+06/12/2021,Liftopia,0%,Booking,182,268
+06/12/2021,GetOccasion,0.38%,Booking,257,265
+06/12/2021,RezOvation,7.65%,Booking,196,196
+06/12/2021,BrushFire,3.37%,Booking,118,178
+06/12/2021,Tessitura Network,0.62%,Booking,156,161
+06/12/2021,DrChrono,0.69%,Booking,143,145
+06/12/2021,StarBoardSuite,1.80%,Booking,78,111
+06/12/2021,FlyEasy,4.48%,Booking,66,67
+06/12/2021,RoomKey,15.2%,Booking,50,66
+06/12/2021,SpinGo,3.70%,Booking,48,54
+06/12/2021,TicketsWest,7.14%,Booking,42,42
+06/12/2021,Evolero,10.7%,Booking,28,28
+06/12/2021,Donicus,5.88%,Booking,17,17
+06/12/2021,FlameConcepts,None%,Booking,5,5
+06/12/2021,Tradologic,None%,Trading Platforms,2,2
+06/12/2021,TechFinancials,0%,Trading Platforms,1,1
+06/12/2021,TradeSmarter,None%,Trading Platforms,1,1
+06/12/2021,Spotware,None%,Trading Platforms,1,1
+06/12/2021,Instagram,2.54%,Social,4872561,6535794
+06/12/2021,Instagram Links,2.53%,Social,4858773,6524613
+06/12/2021,Facebook Connect,0.45%,Social,3532075,5406173
+06/12/2021,Facebook Social Plugins,0.18%,Social,2565752,3744547
+06/12/2021,Twitter,0.99%,Social,1164991,2105476
+06/12/2021,Google+ Platform,1.15%,Social,561089,1431425
+06/12/2021,Facebook Like Button,1.69%,Social,828525,1338477
+06/12/2021,Google +1 Button,1.42%,Social,418071,1185395
+06/12/2021,Twitter Button,0.90%,Social,551367,1039910
+06/12/2021,AddThis,2.69%,Social,526322,780214
+06/12/2021,Facebook Page Administration,0.07%,Social,367214,562670
+06/12/2021,Facebook Social Graph,4.62%,Social,246678,388191
+06/12/2021,Pinterest,0.63%,Social,191130,333600
+06/12/2021,Instagram Feed for WordPress,2.79%,Social,281960,294277
+06/12/2021,Twitter Timeline Widget,1.65%,Social,112837,149168
+06/12/2021,Live Journal,2.60%,Social,41609,136124
+06/12/2021,ShareThis,4.11%,Social,63059,78476
+06/12/2021,Instagram API,8.15%,Social,35164,43939
+06/12/2021,Weibo Share,3.67%,Social,24818,31395
+06/12/2021,BuddyPress,0.35%,Social,27577,30190
+06/12/2021,Shareaholic,2.25%,Social,22289,23849
+06/12/2021,Instagram Badges,2.55%,Social,8250,14260
+06/12/2021,Podium,6.68%,Social,8529,8819
+06/12/2021,Zalo,2.28%,Social,5691,7716
+06/12/2021,Oneall,0.46%,Social,5745,6370
+06/12/2021,Flickr Badge,0.57%,Social,4461,5971
+06/12/2021,OpenShareCount,1.09%,Social,965,2018
+06/12/2021,Simply Instagram,2.87%,Social,926,941
+06/12/2021,Conversions Box,1.58%,Social,335,444
+06/12/2021,Twitter Grid,3.17%,Social,297,347
+06/12/2021,Trendemon,13.8%,Social,115,218
+06/12/2021,Sphere,5.88%,Social,10,17
+06/12/2021,Niice,None%,Social,2,4
+06/12/2021,FreshWorks,0.68%,Business Solutions,26180,48215
+06/12/2021,DocuSign,2.37%,Business Solutions,14413,32416
+06/12/2021,Wild Apricot,12.9%,Business Solutions,16773,26856
+06/12/2021,Teachable,3.16%,Business Solutions,15613,23378
+06/12/2021,Dropbox,0.55%,Business Solutions,4098,21501
+06/12/2021,Jira,0.41%,Business Solutions,7294,10475
+06/12/2021,SalesLoft,3.93%,Business Solutions,2532,5781
+06/12/2021,TalentLMS,3.94%,Business Solutions,1476,2814
+06/12/2021,TeamWork,2.80%,Business Solutions,1312,2289
+06/12/2021,Cloudbeds,6.63%,Business Solutions,2160,2216
+06/12/2021,Psyma,2.67%,Business Solutions,801,1611
+06/12/2021,Mews,3.63%,Business Solutions,1002,1047
+06/12/2021,epoq,0.28%,Business Solutions,287,362
+06/12/2021,Infor CloudSuite,1.32%,Business Solutions,106,151
+06/12/2021,informa,2.19%,Business Solutions,105,137
+06/12/2021,mHelpDesk,8.22%,Business Solutions,71,73
+06/12/2021,Lufthansa airplus servicekarten,14.0%,Business Solutions,30,43
+06/12/2021,Cision,0.55%,Advocacy,68294,76417
+06/12/2021,BBB Seals,2.22%,Advocacy,16633,17751
+06/12/2021,Blackbaud,1.55%,Advocacy,9037,11385
+06/12/2021,Countable Action,0.22%,Advocacy,1574,2736
+06/12/2021,Salsa Labs,2.23%,Advocacy,1792,2552
+06/12/2021,MobileCause,4.16%,Advocacy,1994,2189
+06/12/2021,VoterVoice,2.66%,Advocacy,1240,1390
+06/12/2021,Phone2Action,3.39%,Advocacy,1163,1328
+06/12/2021,CQ Engage,4.15%,Advocacy,911,1133
+06/12/2021,Quorum,7.68%,Advocacy,398,495
+06/12/2021,actionkit,0%,Advocacy,217,281
+06/12/2021,Blue State Digital,1.79%,Advocacy,205,224
+06/12/2021,Aristotle 360,4.80%,Advocacy,119,125
+06/12/2021,CrowdSkout,4.65%,Advocacy,80,86
+06/12/2021,SparkInfluence,0%,Advocacy,29,45
+06/12/2021,OneClickPolitics,15.4%,Advocacy,13,13
+06/12/2021,Revolution Messaging,11.1%,Advocacy,9,9
+06/12/2021,Softedge,None%,Advocacy,1,1
+06/12/2021,Google API,16.9%,Other,7173137,9832655
+06/12/2021,Minute Media,3.33%,Other,1223,4018
+06/12/2021,SBTech,5.84%,Other,96,137
+06/12/2021,Clarifai,0%,Other,10,11
+06/12/2021,HTML5 DocType,0.94%,Document Standard,14925385,25515327
+06/12/2021,UTF-8,0.84%,Document Standard,13171424,22391933
+06/12/2021,HTTPS,2.37%,Document Standard,10413334,17957688
+06/12/2021,Meta Description,0.57%,Document Standard,11276817,17763450
+06/12/2021,Meta http-equiv,0.26%,Document Standard,10778634,17695397
+06/12/2021,Open Graph Protocol,1.39%,Document Standard,8392025,13405260
+06/12/2021,Canonical Tag,1.70%,Document Standard,8961208,13384628
+06/12/2021,Google Web Fonts,0.66%,Document Standard,9216147,13269337

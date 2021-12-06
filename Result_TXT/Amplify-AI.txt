@@ -1,0 +1,46 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Amplify AI
+Last month's change: 91.7%
+Websites: 24
+Unique Domains: 19
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Amplify AI is being used
+News & Media: 33.33%
+Law & Government: 25.00%
+Arts & Entertainment: 12.50%
+Jobs & Career: 4.17%
+Others: 25.00%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Amplify AI -
+indianexpress.com  --  Monthly visits -> 80.2M
+topperlearning.com  --  Monthly visits -> 9.8M
+tamil.news18.com  --  Monthly visits -> 5.1M
+mygov.in  --  Monthly visits -> 4.7M
+latestly.com  --  Monthly visits -> 4.2M
+newsable.asianetnews.com  --  Monthly visits -> 3.8M
+telugu.asianetnews.com  --  Monthly visits -> 1.1M
+cinemaexpress.com  --  Monthly visits -> 525.3K
+epaper.indianexpress.com  --  Monthly visits -> 416.6K
+archive.indianexpress.com  --  Monthly visits -> 385.9K
+
+- Geography -
+Amplify AI usage by websites across the globe
+Leading Countries: Websites
+India: 14
+United States: 8
+Maldives: 1
+United Arab Emirates: 1

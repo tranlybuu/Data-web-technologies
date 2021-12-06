@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MapTiler
+Last month's change: 11.6%
+Websites: 6584
+Unique Domains: 4145
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MapTiler is being used
+Lifestyle: 2.86%
+Travel & Tourism: 2.57%
+Business & Consumer Services: 2.48%
+Computers Electronics & Technology: 1.43%
+Others: 90.67%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using MapTiler -
+romeo.com  --  Monthly visits -> 22.8M
+allegrolokalnie.pl  --  Monthly visits -> 13.2M
+sbb.ch  --  Monthly visits -> 9.2M
+planetromeo.com  --  Monthly visits -> 9M
+kiwi.com  --  Monthly visits -> 7.1M
+magicseaweed.com  --  Monthly visits -> 6M
+willyweather.com.au  --  Monthly visits -> 5.3M
+firstenergycorp.com  --  Monthly visits -> 4.2M
+nebenan.de  --  Monthly visits -> 4M
+petrolspy.com.au  --  Monthly visits -> 2.7M
+
+- Geography -
+MapTiler usage by websites across the globe
+Leading Countries: Websites
+United States: 1763
+United Kingdom: 496
+Canada: 304
+Australia: 251
+Germany: 241
+France: 231
+Italy: 123
+Spain: 117
+India: 104
+Netherlands: 88
+Rest of the World: 1462

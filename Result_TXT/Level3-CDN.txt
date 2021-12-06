@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Level3 CDN
+Last month's change: 0.72%
+Websites: 1398
+Unique Domains: 1353
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Level3 CDN is being used
+Health: 8.66%
+Law & Government: 6.80%
+Heavy Industry & Engineering: 6.72%
+Science & Education: 6.08%
+Others: 71.75%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Level3 CDN -
+t-mobile.com  --  Monthly visits -> 229.4M
+msdmanuals.com  --  Monthly visits -> 41.6M
+cuny.edu  --  Monthly visits -> 27.4M
+panerabread.com  --  Monthly visits -> 10.6M
+ebscohost.com  --  Monthly visits -> 10.3M
+wyndhamhotels.com  --  Monthly visits -> 9.4M
+remax.com  --  Monthly visits -> 6.4M
+merckmanuals.com  --  Monthly visits -> 5.4M
+paho.org  --  Monthly visits -> 4.6M
+sherwin-williams.com  --  Monthly visits -> 4.4M
+
+- Geography -
+Level3 CDN usage by websites across the globe
+Leading Countries: Websites
+United States: 948
+Canada: 26
+United Kingdom: 24
+Mexico: 23
+Brazil: 21
+Germany: 17
+France: 16
+India: 16
+Czech Republic: 15
+Spain: 14
+Rest of the World: 215

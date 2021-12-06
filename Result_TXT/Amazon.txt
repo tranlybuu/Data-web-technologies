@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Amazon
+Last month's change: 1.81%
+Websites: 4157882
+Unique Domains: 1707558
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Amazon is being used
+Computers Electronics & Technology: 5.98%
+Science & Education: 4.91%
+Arts & Entertainment: 4.39%
+Games: 2.94%
+Others: 81.78%
+
+
+- Related Technologies -
+Top Information Technology technologies
+Google
+Facebook
+IBM
+Oracle
+Oracle Cloud
+
+
+- Top Websites Using Amazon -
+instagram.com  --  Monthly visits -> 6.4B
+yahoo.com  --  Monthly visits -> 3.5B
+netflix.com  --  Monthly visits -> 2.7B
+amazon.com  --  Monthly visits -> 2.5B
+bit.ly  --  Monthly visits -> 2.4B
+zoom.us  --  Monthly visits -> 2B
+reddit.com  --  Monthly visits -> 1.6B
+vk.com  --  Monthly visits -> 1.5B
+en.wikipedia.org  --  Monthly visits -> 1.4B
+tiktok.com  --  Monthly visits -> 1.4B
+
+- Geography -
+Amazon usage by websites across the globe
+Leading Countries: Websites
+United States: 900011
+Japan: 273763
+United Kingdom: 133746
+Germany: 101479
+India: 97623
+Canada: 95370
+Brazil: 86136
+France: 85834
+Australia: 77324
+Italy: 69841
+Rest of the World: 992266

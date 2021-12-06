@@ -1,0 +1,46 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Zenvia
+Last month's change: 98.6%
+Websites: 70
+Unique Domains: 64
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Zenvia is being used
+Science & Education: 21.43%
+Computers Electronics & Technology: 10.00%
+Finance: 8.57%
+E-commerce & Shopping: 7.14%
+Others: 52.86%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Zenvia -
+maisfmufiam.fmu.br  --  Monthly visits -> 885.5K
+usjt.br  --  Monthly visits -> 778.7K
+usf.edu.br  --  Monthly visits -> 483.5K
+zenvia.com  --  Monthly visits -> 447.1K
+friopecas.com.br  --  Monthly visits -> 318.8K
+belasartes.br  --  Monthly visits -> 266.5K
+oceandrop.com.br  --  Monthly visits -> 252.2K
+eletrum.com.br  --  Monthly visits -> 219.3K
+unibh.br  --  Monthly visits -> 199.4K
+estudeseg.com.br  --  Monthly visits -> 153.9K
+
+- Geography -
+Zenvia usage by websites across the globe
+Leading Countries: Websites
+Brazil: 66
+Portugal: 2
+India: 1
+Mexico: 1

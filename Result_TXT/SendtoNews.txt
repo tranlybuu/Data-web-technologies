@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SendtoNews
+Last month's change: 3.42%
+Websites: 2950
+Unique Domains: 1394
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SendtoNews is being used
+News & Media: 42.58%
+Sports: 9.02%
+Arts & Entertainment: 6.07%
+Food & Drink: 2.81%
+Others: 39.53%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using SendtoNews -
+usatoday.com  --  Monthly visits -> 102.2M
+si.com  --  Monthly visits -> 40.6M
+globalnews.ca  --  Monthly visits -> 24.1M
+amp.usatoday.com  --  Monthly visits -> 21.1M
+chron.com  --  Monthly visits -> 20.1M
+chicagotribune.com  --  Monthly visits -> 16.2M
+style.ca  --  Monthly visits -> 12.5M
+nydailynews.com  --  Monthly visits -> 12.4M
+freep.com  --  Monthly visits -> 10.4M
+bostonglobe.com  --  Monthly visits -> 9.4M
+
+- Geography -
+SendtoNews usage by websites across the globe
+Leading Countries: Websites
+United States: 1707
+United Kingdom: 187
+Canada: 168
+Germany: 32
+Mexico: 22
+France: 18
+Poland: 16
+Israel: 11
+Spain: 10
+India: 9
+Rest of the World: 133

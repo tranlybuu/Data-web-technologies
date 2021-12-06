@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Agile CRM
+Last month's change: 1.23%
+Websites: 3097
+Unique Domains: 2742
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Agile CRM is being used
+Computers Electronics & Technology: 7.07%
+Business & Consumer Services: 4.91%
+Science & Education: 2.68%
+Health: 2.49%
+Others: 82.85%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using Agile CRM -
+acibadem.com.tr  --  Monthly visits -> 7.8M
+learnworlds.com  --  Monthly visits -> 818.1K
+viddler.com  --  Monthly visits -> 611.9K
+orientation.com  --  Monthly visits -> 506.1K
+laptopspirit.fr  --  Monthly visits -> 499.7K
+websites.co.in  --  Monthly visits -> 454.6K
+agilecrm.com  --  Monthly visits -> 408.9K
+escortfans.com  --  Monthly visits -> 393.1K
+subscriptions.viddler.com  --  Monthly visits -> 339.1K
+miacar.it  --  Monthly visits -> 335.8K
+
+- Geography -
+Agile CRM usage by websites across the globe
+Leading Countries: Websites
+United States: 855
+United Kingdom: 210
+Australia: 168
+India: 136
+France: 124
+Canada: 121
+Italy: 92
+Spain: 67
+Germany: 57
+Brazil: 54
+Rest of the World: 974

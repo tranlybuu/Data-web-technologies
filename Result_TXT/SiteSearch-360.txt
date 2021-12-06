@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SiteSearch 360
+Last month's change: 8.71%
+Websites: 2940
+Unique Domains: 2307
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SiteSearch 360 is being used
+Computers Electronics & Technology: 8.71%
+Science & Education: 7.76%
+Health: 5.24%
+Heavy Industry & Engineering: 4.93%
+Others: 73.37%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+Captify
+AddSearch
+
+
+- Top Websites Using SiteSearch 360 -
+elderscrollsonline.com  --  Monthly visits -> 5.5M
+egnyte.com  --  Monthly visits -> 3.4M
+thehockeywriters.com  --  Monthly visits -> 3.1M
+clemson.edu  --  Monthly visits -> 2.4M
+quickpay.net  --  Monthly visits -> 2.4M
+blog.cloudflare.com  --  Monthly visits -> 1.9M
+ewe.de  --  Monthly visits -> 1.7M
+springfield-armory.com  --  Monthly visits -> 1.6M
+aston.ac.uk  --  Monthly visits -> 1.5M
+login-tk.ewe.de  --  Monthly visits -> 1.3M
+
+- Geography -
+SiteSearch 360 usage by websites across the globe
+Leading Countries: Websites
+United States: 1190
+Germany: 171
+Canada: 148
+United Kingdom: 147
+Netherlands: 92
+Australia: 86
+India: 52
+France: 50
+Switzerland: 39
+Belgium: 33
+Rest of the World: 528

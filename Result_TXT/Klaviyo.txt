@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Klaviyo
+Last month's change: 3.46%
+Websites: 109974
+Unique Domains: 95649
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Klaviyo is being used
+Lifestyle: 14.65%
+Food & Drink: 4.25%
+Sports: 3.28%
+Health: 2.71%
+Others: 75.11%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Pardot
+Marketo
+TowerData
+Dotomi
+
+
+- Top Websites Using Klaviyo -
+kmail-lists.com  --  Monthly visits -> 30.2M
+manage.kmail-lists.com  --  Monthly visits -> 30.1M
+quillbot.com  --  Monthly visits -> 28M
+fashionnova.com  --  Monthly visits -> 25.4M
+vsco.co  --  Monthly visits -> 17.7M
+jbhifi.com.au  --  Monthly visits -> 16.1M
+klclick.com  --  Monthly visits -> 14.4M
+carid.com  --  Monthly visits -> 13.6M
+madeiramadeira.com.br  --  Monthly visits -> 12.1M
+vecteezy.com  --  Monthly visits -> 9.2M
+
+- Geography -
+Klaviyo usage by websites across the globe
+Leading Countries: Websites
+United States: 46292
+United Kingdom: 8131
+Australia: 6776
+Canada: 5003
+France: 3378
+Germany: 3322
+India: 1925
+Italy: 1607
+Netherlands: 1533
+Denmark: 1433
+Rest of the World: 23736

@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ResponseTap
+Last month's change: 8.33%
+Websites: 24
+Unique Domains: 24
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ResponseTap is being used
+Business & Consumer Services: 12.50%
+Travel & Tourism: 12.50%
+Computers Electronics & Technology: 8.33%
+Heavy Industry & Engineering: 8.33%
+Others: 58.33%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using ResponseTap -
+baltictravelcompany.com  --  Monthly visits -> 37.5K
+quote.hiscox.co.uk  --  Monthly visits -> 20.2K
+abels.co.uk  --  Monthly visits -> 14.7K
+letsgo2.com  --  Monthly visits -> 14.4K
+expressexhibitiondisplays.co.uk  --  Monthly visits -> 5.7K
+gulliverssportstours.co.uk  --  Monthly visits -> 5.5K
+merlinlazer.com  --  Monthly visits -> 2.2K
+vikingsigns.co.uk  --  Monthly visits -> 1.8K
+cheappromotionalmugs.co.uk  --  Monthly visits -> 1.2K
+richardsilver.co.uk  --  Monthly visits -> 1K
+
+- Geography -
+ResponseTap usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 17
+India: 3
+Canada: 1
+Portugal: 1
+South Africa: 1
+United States: 1

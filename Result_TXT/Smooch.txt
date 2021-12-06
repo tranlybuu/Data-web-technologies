@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Smooch
+Last month's change: 0.10%
+Websites: 1012
+Unique Domains: 817
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Smooch is being used
+Computers Electronics & Technology: 11.17%
+Vehicles: 9.39%
+Lifestyle: 8.40%
+E-commerce & Shopping: 4.94%
+Others: 66.11%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Smooch -
+zendesk.com  --  Monthly visits -> 84.2M
+ripley.cl  --  Monthly visits -> 16.8M
+simple.ripley.cl  --  Monthly visits -> 16.4M
+tigo.com.co  --  Monthly visits -> 11.4M
+logitech.com  --  Monthly visits -> 7.5M
+logi.com  --  Monthly visits -> 6.2M
+zopim.com  --  Monthly visits -> 5M
+logitechg.com  --  Monthly visits -> 4.8M
+tigo.com.bo  --  Monthly visits -> 4.1M
+danmurphys.com.au  --  Monthly visits -> 4M
+
+- Geography -
+Smooch usage by websites across the globe
+Leading Countries: Websites
+United States: 117
+Germany: 82
+Netherlands: 81
+Brazil: 67
+United Kingdom: 55
+Belgium: 30
+Mexico: 29
+Spain: 23
+France: 22
+Colombia: 20
+Rest of the World: 390

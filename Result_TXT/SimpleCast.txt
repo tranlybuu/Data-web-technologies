@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SimpleCast
+Last month's change: 25.0%
+Websites: 8300
+Unique Domains: 5401
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SimpleCast is being used
+Computers Electronics & Technology: 8.46%
+Arts & Entertainment: 6.81%
+Science & Education: 4.73%
+Business & Consumer Services: 3.69%
+Others: 76.31%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using SimpleCast -
+imdb.com  --  Monthly visits -> 511M
+m.imdb.com  --  Monthly visits -> 227.9M
+go.com  --  Monthly visits -> 57.2M
+harvard.edu  --  Monthly visits -> 50.5M
+ameritrade.com  --  Monthly visits -> 43.7M
+tdameritrade.com  --  Monthly visits -> 42.2M
+univision.com  --  Monthly visits -> 33.3M
+usmagazine.com  --  Monthly visits -> 23.5M
+utoronto.ca  --  Monthly visits -> 21M
+theglobeandmail.com  --  Monthly visits -> 17.4M
+
+- Geography -
+SimpleCast usage by websites across the globe
+Leading Countries: Websites
+United States: 3844
+United Kingdom: 373
+Canada: 372
+India: 287
+Germany: 180
+Brazil: 137
+Italy: 136
+Australia: 134
+France: 133
+Japan: 121
+Rest of the World: 2409

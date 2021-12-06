@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Coinbase
+Last month's change: 3.91%
+Websites: 1738
+Unique Domains: 1576
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Coinbase is being used
+Computers Electronics & Technology: 13.35%
+Finance: 6.04%
+Community & Society: 4.14%
+Games: 3.97%
+Others: 72.50%
+
+
+- Related Technologies -
+Top Bitcoin technologies
+Bitcoin Acceptance
+Bitcoin Address Link
+CoinDesk
+CoinGate
+Bitcoin Miner
+
+
+- Top Websites Using Coinbase -
+bitchute.com  --  Monthly visits -> 41.6M
+streameast.live  --  Monthly visits -> 11.2M
+stayfocusd.com  --  Monthly visits -> 7.2M
+yout.com  --  Monthly visits -> 6.8M
+royaleapi.com  --  Monthly visits -> 4.6M
+redvoicemedia.com  --  Monthly visits -> 4.1M
+githubmemory.com  --  Monthly visits -> 3.8M
+resett.no  --  Monthly visits -> 3.7M
+theexpose.uk  --  Monthly visits -> 3.2M
+childrenshealthdefense.org  --  Monthly visits -> 2.8M
+
+- Geography -
+Coinbase usage by websites across the globe
+Leading Countries: Websites
+United States: 742
+Germany: 70
+United Kingdom: 58
+France: 47
+India: 47
+Russia: 36
+Brazil: 35
+Canada: 33
+Spain: 32
+China: 29
+Rest of the World: 522

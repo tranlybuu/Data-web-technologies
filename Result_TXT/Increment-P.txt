@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Increment P
+Last month's change: 0.73%
+Websites: 1635
+Unique Domains: 1365
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Increment P is being used
+Food & Drink: 7.77%
+Travel & Tourism: 6.42%
+Vehicles: 4.59%
+Sports: 4.46%
+Others: 76.76%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using Increment P -
+city.sapporo.jp  --  Monthly visits -> 4M
+mapfan.com  --  Monthly visits -> 3.8M
+searchdesk.com  --  Monthly visits -> 3.5M
+freespot.com  --  Monthly visits -> 355.1K
+city.neyagawa.osaka.jp  --  Monthly visits -> 306.1K
+e-heartclinic.com  --  Monthly visits -> 291.4K
+iri.ne.jp  --  Monthly visits -> 262.5K
+netto.jp  --  Monthly visits -> 211.3K
+goldenclub.jp  --  Monthly visits -> 189.3K
+0983.ajnet.ne.jp  --  Monthly visits -> 173.4K
+
+- Geography -
+Increment P usage by websites across the globe
+Leading Countries: Websites
+Japan: 1426
+United States: 8
+China: 7
+Taiwan: 2
+Italy: 2
+Germany: 1
+Ghana: 1
+Hong Kong: 1
+Hungary: 1
+India: 1
+Rest of the World: 8

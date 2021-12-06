@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MindBody
+Last month's change: 0.57%
+Websites: 11400
+Unique Domains: 11067
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MindBody is being used
+Health: 5.36%
+Lifestyle: 3.95%
+Community & Society: 3.18%
+Sports: 2.66%
+Others: 84.85%
+
+
+- Related Technologies -
+Top Booking technologies
+FareHarbor
+CheckFront
+Booker
+Peek
+Vagaro
+
+
+- Top Websites Using MindBody -
+mindbodyonline.com  --  Monthly visits -> 10.8M
+clients.mindbodyonline.com  --  Monthly visits -> 10M
+orangetheory.com  --  Monthly visits -> 1.8M
+uwhealth.org  --  Monthly visits -> 1.4M
+koat.com  --  Monthly visits -> 1.3M
+eehealth.org  --  Monthly visits -> 887.2K
+theoceanac.com  --  Monthly visits -> 587.3K
+animalhumanesociety.org  --  Monthly visits -> 539.7K
+f45training.com  --  Monthly visits -> 472.3K
+billypenn.com  --  Monthly visits -> 352.4K
+
+- Geography -
+MindBody usage by websites across the globe
+Leading Countries: Websites
+United States: 6466
+Canada: 1006
+Australia: 628
+United Kingdom: 504
+France: 127
+India: 91
+Germany: 84
+New Zealand: 84
+Philippines: 82
+Netherlands: 72
+Rest of the World: 1153

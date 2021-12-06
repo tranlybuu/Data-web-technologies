@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HubSpot Chat
+Last month's change: 2.26%
+Websites: 61692
+Unique Domains: 45234
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HubSpot Chat is being used
+Computers Electronics & Technology: 9.52%
+Business & Consumer Services: 7.33%
+Science & Education: 3.23%
+Finance: 2.96%
+Others: 76.97%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using HubSpot Chat -
+mgid.com  --  Monthly visits -> 43.4M
+hubspot.com  --  Monthly visits -> 37.4M
+doctoralia.com.br  --  Monthly visits -> 28.9M
+revcontent.com  --  Monthly visits -> 27.2M
+miro.com  --  Monthly visits -> 25M
+gupy.io  --  Monthly visits -> 19.3M
+flightaware.com  --  Monthly visits -> 18.9M
+alchemer.com  --  Monthly visits -> 17M
+marinetraffic.com  --  Monthly visits -> 15.7M
+edx.org  --  Monthly visits -> 14.5M
+
+- Geography -
+HubSpot Chat usage by websites across the globe
+Leading Countries: Websites
+United States: 19506
+United Kingdom: 3653
+India: 2266
+Canada: 2206
+France: 2102
+Australia: 2046
+Germany: 1907
+Brazil: 1861
+Mexico: 1328
+Netherlands: 1196
+Rest of the World: 18498

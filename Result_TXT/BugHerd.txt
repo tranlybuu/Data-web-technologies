@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BugHerd
+Last month's change: 1.18%
+Websites: 11376
+Unique Domains: 9236
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BugHerd is being used
+Health: 5.76%
+Business & Consumer Services: 5.54%
+Science & Education: 4.32%
+Finance: 4.04%
+Others: 80.34%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using BugHerd -
+rover.ebay.com  --  Monthly visits -> 82.4M
+mesg.ebay.com  --  Monthly visits -> 29.3M
+staples.com  --  Monthly visits -> 15.7M
+gslblui.ebay.com  --  Monthly visits -> 11.3M
+deloitte.com  --  Monthly visits -> 10.7M
+i.ebayimg.com  --  Monthly visits -> 9.1M
+reg.ebay.com  --  Monthly visits -> 7.7M
+vod.ebay.com  --  Monthly visits -> 7.2M
+www2.deloitte.com  --  Monthly visits -> 6.7M
+payscale.com  --  Monthly visits -> 6.3M
+
+- Geography -
+BugHerd usage by websites across the globe
+Leading Countries: Websites
+United States: 4862
+Australia: 1050
+United Kingdom: 753
+Canada: 643
+Germany: 303
+France: 251
+India: 178
+Netherlands: 171
+New Zealand: 156
+South Africa: 121
+Rest of the World: 1829

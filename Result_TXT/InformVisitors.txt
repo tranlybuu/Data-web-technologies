@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: InformVisitors
+Last month's change: None%
+Websites: 21
+Unique Domains: 14
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where InformVisitors is being used
+Computers Electronics & Technology: 19.05%
+E-commerce & Shopping: 14.29%
+Finance: 14.29%
+News & Media: 9.52%
+Others: 42.86%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using InformVisitors -
+bitbns.com  --  Monthly visits -> 725.8K
+sanjeevkapoor.com  --  Monthly visits -> 397.3K
+bitdroplet.com  --  Monthly visits -> 151.5K
+qatar.ourshopee.com  --  Monthly visits -> 62.1K
+usemycards.com  --  Monthly visits -> 47.8K
+oman.ourshopee.com  --  Monthly visits -> 47.3K
+hindi.catchnews.com  --  Monthly visits -> 35.6K
+ref.bitbns.com  --  Monthly visits -> 26.8K
+tatkalforsure.com  --  Monthly visits -> 24.3K
+m.telearroba.es  --  Monthly visits -> 21.4K
+
+- Geography -
+InformVisitors usage by websites across the globe
+Leading Countries: Websites
+India: 10
+Bahrain: 1
+Germany: 1
+Kuwait: 1
+Oman: 1
+Qatar: 1
+United Arab Emirates: 1

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Egoi
+Last month's change: 1.23%
+Websites: 1865
+Unique Domains: 1560
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Egoi is being used
+E-commerce & Shopping: 4.88%
+Computers Electronics & Technology: 4.13%
+Lifestyle: 3.54%
+Law & Government: 3.27%
+Others: 84.18%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Egoi -
+record.pt  --  Monthly visits -> 16.3M
+rtp.pt  --  Monthly visits -> 8.1M
+jornaldenegocios.pt  --  Monthly visits -> 4.5M
+kuantokusta.pt  --  Monthly visits -> 4M
+selfie.iol.pt  --  Monthly visits -> 3.8M
+min-saude.pt  --  Monthly visits -> 3.3M
+maisfutebol.iol.pt  --  Monthly visits -> 3M
+multinews.sapo.pt  --  Monthly visits -> 2.6M
+pingodoce.pt  --  Monthly visits -> 2.1M
+vip.pt  --  Monthly visits -> 1.8M
+
+- Geography -
+Egoi usage by websites across the globe
+Leading Countries: Websites
+Brazil: 734
+Portugal: 604
+Spain: 82
+Colombia: 42
+France: 15
+United States: 15
+Mexico: 13
+Argentina: 10
+United Kingdom: 8
+Peru: 7
+Rest of the World: 70

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FreshMarketer
+Last month's change: 3.09%
+Websites: 2718
+Unique Domains: 1812
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FreshMarketer is being used
+Computers Electronics & Technology: 12.66%
+Business & Consumer Services: 5.15%
+Finance: 4.56%
+Health: 2.91%
+Others: 74.72%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using FreshMarketer -
+tokopedia.com  --  Monthly visits -> 152.5M
+m.tokopedia.com  --  Monthly visits -> 75.8M
+freshdesk.com  --  Monthly visits -> 24.6M
+assam.news18.com  --  Monthly visits -> 5.4M
+tokopedia.app.link  --  Monthly visits -> 5.3M
+bancopan.com.br  --  Monthly visits -> 4.4M
+nexterp.in  --  Monthly visits -> 4.4M
+malayalam.news18.com  --  Monthly visits -> 4.4M
+experian.co.uk  --  Monthly visits -> 4.2M
+freshchat.com  --  Monthly visits -> 4.2M
+
+- Geography -
+FreshMarketer usage by websites across the globe
+Leading Countries: Websites
+United States: 700
+India: 225
+United Kingdom: 173
+Australia: 135
+Canada: 64
+Indonesia: 62
+Germany: 58
+Brazil: 55
+France: 54
+Netherlands: 43
+Rest of the World: 752

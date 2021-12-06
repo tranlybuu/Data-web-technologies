@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Unofficial GitHub Buttons
+Last month's change: 0.71%
+Websites: 3939
+Unique Domains: 2262
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Unofficial GitHub Buttons is being used
+Computers Electronics & Technology: 45.42%
+Science & Education: 2.54%
+Games: 1.90%
+Finance: 0.56%
+Others: 49.58%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Unofficial GitHub Buttons -
+getbootstrap.com  --  Monthly visits -> 12.1M
+stackblitz.com  --  Monthly visits -> 1.8M
+daily.dev  --  Monthly visits -> 1.7M
+tokenpocket.pro  --  Monthly visits -> 1.6M
+ansible.com  --  Monthly visits -> 1.2M
+plotly.com  --  Monthly visits -> 1.2M
+expressjs.com  --  Monthly visits -> 1.1M
+leafletjs.com  --  Monthly visits -> 1.1M
+mongoosejs.com  --  Monthly visits -> 833.1K
+bulma.io  --  Monthly visits -> 821K
+
+- Geography -
+Unofficial GitHub Buttons usage by websites across the globe
+Leading Countries: Websites
+China: 1203
+United States: 788
+India: 147
+Germany: 123
+Hong Kong: 112
+South Korea: 112
+Japan: 110
+Russia: 84
+France: 82
+Brazil: 80
+Rest of the World: 1035

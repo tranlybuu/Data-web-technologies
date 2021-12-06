@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: RoomKey
+Last month's change: 15.2%
+Websites: 66
+Unique Domains: 50
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RoomKey is being used
+Travel & Tourism: 59.09%
+Finance: 1.52%
+Food & Drink: 1.52%
+Sports: 1.52%
+Others: 36.36%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Booker
+Peek
+
+
+- Top Websites Using RoomKey -
+ihg.com  --  Monthly visits -> 15.4M
+tm3.hilton.com  --  Monthly visits -> 1.7M
+intercontinental.com  --  Monthly visits -> 562.1K
+m.ihg.com  --  Monthly visits -> 369.5K
+holidayinn.com  --  Monthly visits -> 335.7K
+hiexpress.com  --  Monthly visits -> 253.4K
+reviews.marriott.com  --  Monthly visits -> 151K
+crowneplaza.com  --  Monthly visits -> 140.1K
+customerservice.ihg.com  --  Monthly visits -> 131.8K
+ihg.com.cn  --  Monthly visits -> 131.8K
+
+- Geography -
+RoomKey usage by websites across the globe
+Leading Countries: Websites
+United States: 30
+Germany: 2
+United Kingdom: 2
+Argentina: 1
+Australia: 1
+Canada: 1
+China: 1
+Japan: 1
+Mexico: 1
+Poland: 1
+Rest of the World: 1

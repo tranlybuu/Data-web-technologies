@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ClickTripz
+Last month's change: 2.31%
+Websites: 2118
+Unique Domains: 689
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ClickTripz is being used
+Travel & Tourism: 20.82%
+Games: 2.46%
+Arts & Entertainment: 2.31%
+Sports: 1.13%
+Others: 73.28%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using ClickTripz -
+usatoday.com  --  Monthly visits -> 102.2M
+mapquest.com  --  Monthly visits -> 26.6M
+amp.usatoday.com  --  Monthly visits -> 21.1M
+clicktripz.com  --  Monthly visits -> 14.8M
+axs.com  --  Monthly visits -> 13.9M
+spirit.com  --  Monthly visits -> 10.9M
+aviasales.ru  --  Monthly visits -> 7.5M
+allevents.in  --  Monthly visits -> 7.4M
+flypgs.com  --  Monthly visits -> 6.6M
+ticketnetwork.com  --  Monthly visits -> 4.9M
+
+- Geography -
+ClickTripz usage by websites across the globe
+Leading Countries: Websites
+United States: 566
+Germany: 65
+United Kingdom: 48
+Canada: 38
+France: 31
+Italy: 30
+Russia: 28
+Poland: 21
+Spain: 19
+Australia: 13
+Rest of the World: 266

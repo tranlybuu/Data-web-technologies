@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Vantage
+Last month's change: 1.06%
+Websites: 13139
+Unique Domains: 12745
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Vantage is being used
+Science & Education: 4.10%
+Computers Electronics & Technology: 2.41%
+Health: 1.52%
+Law & Government: 1.47%
+Others: 90.50%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Vantage -
+scandalplanet.com  --  Monthly visits -> 6.8M
+uninter.com  --  Monthly visits -> 4.5M
+nagpurtoday.in  --  Monthly visits -> 1.3M
+anonibs.com  --  Monthly visits -> 1M
+sites.ucsc.edu  --  Monthly visits -> 997.1K
+anonposted.com  --  Monthly visits -> 970.4K
+encuestasespeciales.com  --  Monthly visits -> 951.2K
+if.ufrgs.br  --  Monthly visits -> 710.7K
+necrocanada.com  --  Monthly visits -> 640.2K
+countdowntothekingdom.com  --  Monthly visits -> 618.5K
+
+- Geography -
+Vantage usage by websites across the globe
+Leading Countries: Websites
+United States: 2904
+Germany: 791
+United Kingdom: 699
+Canada: 470
+Netherlands: 418
+Japan: 391
+Russia: 390
+France: 387
+Australia: 376
+Italy: 356
+Rest of the World: 5006

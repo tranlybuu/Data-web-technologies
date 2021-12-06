@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SiteWit
+Last month's change: 3.52%
+Websites: 24874
+Unique Domains: 18731
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SiteWit is being used
+Science & Education: 2.21%
+Computers Electronics & Technology: 2.12%
+Lifestyle: 1.46%
+Arts & Entertainment: 1.40%
+Others: 92.82%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using SiteWit -
+example-unsafe.com  --  Monthly visits -> 7M
+bizpacreview.com  --  Monthly visits -> 2.6M
+dinarguru.com  --  Monthly visits -> 1.2M
+synevo.ro  --  Monthly visits -> 1.1M
+spikeybits.com  --  Monthly visits -> 784.5K
+palomar-engineers.com  --  Monthly visits -> 700.5K
+ksher.com  --  Monthly visits -> 547.6K
+silavmisli.ru  --  Monthly visits -> 445.7K
+seositecheckup.com  --  Monthly visits -> 405.5K
+twice.se  --  Monthly visits -> 340.6K
+
+- Geography -
+SiteWit usage by websites across the globe
+Leading Countries: Websites
+United States: 4907
+United Kingdom: 1291
+Canada: 1023
+Australia: 740
+Italy: 633
+France: 601
+India: 594
+Russia: 566
+Germany: 550
+Brazil: 507
+Rest of the World: 8456

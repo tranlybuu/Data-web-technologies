@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ShowClix
+Last month's change: 3.79%
+Websites: 1321
+Unique Domains: 1214
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ShowClix is being used
+Arts & Entertainment: 22.79%
+Travel & Tourism: 5.00%
+Food & Drink: 3.41%
+News & Media: 2.80%
+Others: 66.01%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using ShowClix -
+minnesota.cbslocal.com  --  Monthly visits -> 4.3M
+showclix.com  --  Monthly visits -> 3.1M
+nypl.org  --  Monthly visits -> 2.4M
+www.complex.com  --  Monthly visits -> 2.3M
+ktvu.com  --  Monthly visits -> 2.3M
+culturemap.com  --  Monthly visits -> 1.4M
+newyorkcomiccon.com  --  Monthly visits -> 1.3M
+gamesindustry.biz  --  Monthly visits -> 1.1M
+idcrawl.com  --  Monthly visits -> 923.8K
+embed.showclix.com  --  Monthly visits -> 571.4K
+
+- Geography -
+ShowClix usage by websites across the globe
+Leading Countries: Websites
+United States: 988
+Canada: 67
+United Kingdom: 18
+France: 11
+India: 11
+Japan: 9
+Brazil: 8
+Australia: 7
+Germany: 7
+Mexico: 7
+Rest of the World: 90

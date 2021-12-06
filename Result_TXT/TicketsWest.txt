@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TicketsWest
+Last month's change: 7.14%
+Websites: 42
+Unique Domains: 42
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TicketsWest is being used
+Arts & Entertainment: 30.95%
+Food & Drink: 4.76%
+Sports: 4.76%
+Science & Education: 2.38%
+Others: 57.14%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using TicketsWest -
+ticketswest.com  --  Monthly visits -> 109.1K
+jeffdunham.com  --  Monthly visits -> 77.3K
+19hz.info  --  Monthly visits -> 51.5K
+freakydeakypdx.com  --  Monthly visits -> 40.7K
+hollywoodtheatre.org  --  Monthly visits -> 37.5K
+oregoncc.org  --  Monthly visits -> 37.1K
+expocenter.org  --  Monthly visits -> 35.3K
+odditiesandcuriositiesexpo.com  --  Monthly visits -> 29.6K
+fiske.colorado.edu  --  Monthly visits -> 24.4K
+spokanearena.com  --  Monthly visits -> 22.1K
+
+- Geography -
+TicketsWest usage by websites across the globe
+Leading Countries: Websites
+United States: 35
+Barbados: 1
+Brazil: 1
+Canada: 1
+Dominican Republic: 1
+Slovakia: 1

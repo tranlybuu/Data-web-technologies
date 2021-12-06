@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: KeyCAPTCHA
+Last month's change: 4.20%
+Websites: 1023
+Unique Domains: 984
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where KeyCAPTCHA is being used
+Vehicles: 17.99%
+Computers Electronics & Technology: 8.50%
+Games: 4.79%
+Arts & Entertainment: 4.40%
+Others: 64.32%
+
+
+- Related Technologies -
+Top Captcha technologies
+reCAPTCHA
+General Captcha
+WP reCAPTCHA
+NuCaptcha
+Coinhive Captcha
+
+
+- Top Websites Using KeyCAPTCHA -
+2captcha.com  --  Monthly visits -> 2.3M
+femdom-pov.me  --  Monthly visits -> 1.2M
+rucaptcha.com  --  Monthly visits -> 802.2K
+vse.kz  --  Monthly visits -> 746.6K
+bdsmboard.org  --  Monthly visits -> 486.3K
+badcaps.net  --  Monthly visits -> 479.3K
+pesiq.ru  --  Monthly visits -> 240.9K
+everypony.ru  --  Monthly visits -> 219.4K
+shkola.in.ua  --  Monthly visits -> 213.4K
+forum.valetudo.ru  --  Monthly visits -> 208.3K
+
+- Geography -
+KeyCAPTCHA usage by websites across the globe
+Leading Countries: Websites
+Russia: 416
+United States: 91
+Ukraine: 56
+Italy: 36
+Greece: 22
+Poland: 22
+France: 21
+Spain: 21
+Germany: 20
+United Kingdom: 16
+Rest of the World: 250

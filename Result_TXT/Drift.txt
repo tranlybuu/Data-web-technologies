@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Drift
+Last month's change: 2.77%
+Websites: 50525
+Unique Domains: 28376
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Drift is being used
+Computers Electronics & Technology: 15.30%
+Business & Consumer Services: 5.86%
+Finance: 3.45%
+Lifestyle: 3.03%
+Others: 72.35%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Drift -
+instructure.com  --  Monthly visits -> 573.1M
+okta.com  --  Monthly visits -> 140.8M
+slack.com  --  Monthly visits -> 124.7M
+myshopify.com  --  Monthly visits -> 119.3M
+app.slack.com  --  Monthly visits -> 108.6M
+narvar.com  --  Monthly visits -> 104.6M
+schoology.com  --  Monthly visits -> 96.7M
+vimeo.com  --  Monthly visits -> 94.7M
+adjust.com  --  Monthly visits -> 86.1M
+adp.com  --  Monthly visits -> 82.4M
+
+- Geography -
+Drift usage by websites across the globe
+Leading Countries: Websites
+United States: 17534
+United Kingdom: 2292
+Turkey: 1885
+Canada: 1872
+India: 1826
+Japan: 1506
+Australia: 1235
+Germany: 1070
+France: 933
+Brazil: 772
+Rest of the World: 12943

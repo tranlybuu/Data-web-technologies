@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bitmovin
+Last month's change: 9.74%
+Websites: 8421
+Unique Domains: 7204
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bitmovin is being used
+Heavy Industry & Engineering: 4.16%
+Arts & Entertainment: 3.69%
+Health: 3.61%
+Business & Consumer Services: 3.34%
+Others: 85.20%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Vzaar
+UStream
+Tout
+
+
+- Top Websites Using Bitmovin -
+welt.de  --  Monthly visits -> 63M
+orf.at  --  Monthly visits -> 62.8M
+krone.at  --  Monthly visits -> 36.2M
+bleacherreport.com  --  Monthly visits -> 34.2M
+now.dstv.com  --  Monthly visits -> 24.8M
+computerbild.de  --  Monthly visits -> 24.5M
+trtizle.com  --  Monthly visits -> 17.9M
+gazzetta.gr  --  Monthly visits -> 14.3M
+watch.sling.com  --  Monthly visits -> 10.3M
+watch.spectrum.net  --  Monthly visits -> 9.9M
+
+- Geography -
+Bitmovin usage by websites across the globe
+Leading Countries: Websites
+Germany: 5095
+United States: 499
+Austria: 252
+France: 222
+Switzerland: 125
+Italy: 119
+United Kingdom: 117
+Netherlands: 105
+Poland: 68
+Spain: 62
+Rest of the World: 1103

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Meta Robot
+Last month's change: 3.72%
+Websites: 10621081
+Unique Domains: 7337701
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Meta Robot is being used
+Computers Electronics & Technology: 4.84%
+Science & Education: 3.21%
+Arts & Entertainment: 3.03%
+Health: 1.99%
+Others: 86.94%
+
+
+- Related Technologies -
+Top Meta Tags technologies
+Meta Description
+Meta http-equiv
+Canonical Tag
+Favicon Tag
+Meta Keywords
+
+
+- Top Websites Using Meta Robot -
+youtube.com  --  Monthly visits -> 34.6B
+mail.google.com  --  Monthly visits -> 11.3B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+accounts.google.com  --  Monthly visits -> 4.5B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+amazon.com  --  Monthly visits -> 2.5B
+bit.ly  --  Monthly visits -> 2.4B
+
+- Geography -
+Meta Robot usage by websites across the globe
+Leading Countries: Websites
+United States: 1836354
+Japan: 619411
+Germany: 547424
+United Kingdom: 377475
+France: 373793
+Russia: 354823
+Italy: 294735
+Canada: 246150
+India: 225698
+Spain: 222119
+Rest of the World: 3735269

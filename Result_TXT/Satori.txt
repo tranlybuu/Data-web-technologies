@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Satori
+Last month's change: 1.27%
+Websites: 1891
+Unique Domains: 1350
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Satori is being used
+Business & Consumer Services: 23.90%
+Computers Electronics & Technology: 9.62%
+Heavy Industry & Engineering: 6.08%
+Food & Drink: 4.07%
+Others: 56.32%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Satori -
+cybozu.com  --  Monthly visits -> 26.5M
+crowdworks.jp  --  Monthly visits -> 5.6M
+showcase-tv.com  --  Monthly visits -> 5.1M
+tech-camp.in  --  Monthly visits -> 3.9M
+bc01.com  --  Monthly visits -> 3.3M
+m.bc01.com  --  Monthly visits -> 3.3M
+lolipop.jp  --  Monthly visits -> 2.9M
+nisso.co.jp  --  Monthly visits -> 2.4M
+cybozu.co.jp  --  Monthly visits -> 1.9M
+smile-zemi.jp  --  Monthly visits -> 1.9M
+
+- Geography -
+Satori usage by websites across the globe
+Leading Countries: Websites
+Japan: 1748
+United States: 12
+Vietnam: 6
+China: 5
+Canada: 2
+South Korea: 2
+Australia: 1
+Brunei Darussalam: 1
+Taiwan: 1
+Hong Kong: 1
+Rest of the World: 6

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FindLaw
+Last month's change: 27.1%
+Websites: 1665
+Unique Domains: 1642
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FindLaw is being used
+Law & Government: 15.74%
+Science & Education: 0.30%
+Business & Consumer Services: 0.24%
+Community & Society: 0.24%
+Others: 83.48%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using FindLaw -
+expertise.com  --  Monthly visits -> 741.9K
+legaldictionary.net  --  Monthly visits -> 137.1K
+corporate.findlaw.com  --  Monthly visits -> 115.1K
+btlfamilylaw.com  --  Monthly visits -> 66.9K
+saputo.law  --  Monthly visits -> 64.9K
+stewartlawoffices.net  --  Monthly visits -> 44.1K
+riemerhess.com  --  Monthly visits -> 36.8K
+paralegaledu.org  --  Monthly visits -> 35K
+chs-law.com  --  Monthly visits -> 30.2K
+toplawyer.law  --  Monthly visits -> 28.8K
+
+- Geography -
+FindLaw usage by websites across the globe
+Leading Countries: Websites
+United States: 1111
+India: 117
+Canada: 50
+Philippines: 44
+Pakistan: 26
+United Kingdom: 23
+Japan: 8
+Nigeria: 8
+Germany: 7
+Australia: 5
+Rest of the World: 80

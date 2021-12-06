@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WPML Multilingual
+Last month's change: 1.92%
+Websites: 260753
+Unique Domains: 242735
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WPML Multilingual is being used
+Computers Electronics & Technology: 3.52%
+Travel & Tourism: 3.24%
+Science & Education: 2.61%
+Heavy Industry & Engineering: 2.54%
+Others: 88.09%
+
+
+- Related Technologies -
+Top Multilingual technologies
+Multilingual Support
+Transifex
+Bablic
+Handtalk
+None
+
+
+- Top Websites Using WPML Multilingual -
+exoclick.com  --  Monthly visits -> 152.4M
+etoro.com  --  Monthly visits -> 88M
+agoda.com  --  Monthly visits -> 40.2M
+tradedoubler.com  --  Monthly visits -> 36.6M
+brightspace.com  --  Monthly visits -> 34.2M
+exlibrisgroup.com  --  Monthly visits -> 30.1M
+fextralife.com  --  Monthly visits -> 29M
+appsflyer.com  --  Monthly visits -> 27.6M
+liftoff.io  --  Monthly visits -> 27.5M
+hilton.com  --  Monthly visits -> 26.5M
+
+- Geography -
+WPML Multilingual usage by websites across the globe
+Leading Countries: Websites
+Italy: 24442
+Germany: 19885
+Spain: 17831
+United States: 16338
+France: 15118
+Canada: 13142
+Netherlands: 10560
+Poland: 7313
+Belgium: 5801
+Switzerland: 5684
+Rest of the World: 110382

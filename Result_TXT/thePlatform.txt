@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: thePlatform
+Last month's change: 2.35%
+Websites: 1529
+Unique Domains: 1072
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where thePlatform is being used
+Arts & Entertainment: 15.37%
+News & Media: 5.30%
+Community & Society: 4.97%
+Sports: 4.45%
+Others: 69.91%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using thePlatform -
+cbc.ca  --  Monthly visits -> 71.6M
+nbcnews.com  --  Monthly visits -> 68.3M
+rottentomatoes.com  --  Monthly visits -> 67.3M
+nbcsports.com  --  Monthly visits -> 57.6M
+hgtv.com  --  Monthly visits -> 28.3M
+tlcme.com  --  Monthly visits -> 23.7M
+eonline.com  --  Monthly visits -> 23.1M
+today.com  --  Monthly visits -> 19.1M
+sbs.com.au  --  Monthly visits -> 18.1M
+msnbc.com  --  Monthly visits -> 16.1M
+
+- Geography -
+thePlatform usage by websites across the globe
+Leading Countries: Websites
+United States: 802
+Canada: 55
+United Kingdom: 30
+Brazil: 22
+Australia: 20
+France: 18
+India: 17
+Japan: 16
+Germany: 14
+Mexico: 14
+Rest of the World: 239

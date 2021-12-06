@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Facebook Video
+Last month's change: 1.75%
+Websites: 242552
+Unique Domains: 197383
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Facebook Video is being used
+News & Media: 5.62%
+Science & Education: 4.71%
+Arts & Entertainment: 4.63%
+Community & Society: 2.91%
+Others: 82.13%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+jPlayer
+HTTP Live Streaming (HLS)
+
+
+- Top Websites Using Facebook Video -
+weather.com  --  Monthly visits -> 653.6M
+indiatimes.com  --  Monthly visits -> 186.9M
+linktr.ee  --  Monthly visits -> 135M
+news.mail.ru  --  Monthly visits -> 118.6M
+unotv.com  --  Monthly visits -> 111.2M
+zh.wikipedia.org  --  Monthly visits -> 81.5M
+ilmeteo.it  --  Monthly visits -> 75.8M
+cbc.ca  --  Monthly visits -> 71.6M
+ettoday.net  --  Monthly visits -> 68.9M
+weather.gov  --  Monthly visits -> 67.8M
+
+- Geography -
+Facebook Video usage by websites across the globe
+Leading Countries: Websites
+United States: 55318
+France: 10973
+Italy: 10546
+United Kingdom: 8389
+Canada: 6969
+Germany: 6774
+Poland: 6229
+Brazil: 5497
+Australia: 5346
+Japan: 4991
+Rest of the World: 91862

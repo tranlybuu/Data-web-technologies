@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Netcore
+Last month's change: 0.77%
+Websites: 779
+Unique Domains: 502
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Netcore is being used
+Finance: 19.38%
+Lifestyle: 10.53%
+Travel & Tourism: 7.45%
+Computers Electronics & Technology: 5.01%
+Others: 57.64%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Netcore -
+tuoitre.vn  --  Monthly visits -> 67.3M
+thestar.com.my  --  Monthly visits -> 15.1M
+gramedia.com  --  Monthly visits -> 4.1M
+mid-day.com  --  Monthly visits -> 3.9M
+pep.ph  --  Monthly visits -> 3.8M
+bajajfinservmarkets.in  --  Monthly visits -> 3.8M
+lpu.in  --  Monthly visits -> 3.5M
+sharekhan.com  --  Monthly visits -> 3.4M
+easemytrip.com  --  Monthly visits -> 3.4M
+cermati.com  --  Monthly visits -> 3.3M
+
+- Geography -
+Netcore usage by websites across the globe
+Leading Countries: Websites
+India: 295
+Malaysia: 53
+Indonesia: 46
+Vietnam: 32
+Nigeria: 31
+United Arab Emirates: 18
+United States: 17
+Philippines: 14
+Saudi Arabia: 14
+Singapore: 8
+Rest of the World: 83

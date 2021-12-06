@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: DailyMotion Video
+Last month's change: 0.38%
+Websites: 40719
+Unique Domains: 21515
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DailyMotion Video is being used
+Arts & Entertainment: 11.54%
+Science & Education: 5.02%
+News & Media: 4.65%
+Computers Electronics & Technology: 3.27%
+Others: 75.52%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using DailyMotion Video -
+dailymotion.com  --  Monthly visits -> 166.6M
+sozcu.com.tr  --  Monthly visits -> 140.6M
+suara.com  --  Monthly visits -> 76M
+elespanol.com  --  Monthly visits -> 72.8M
+lemonde.fr  --  Monthly visits -> 69.3M
+terra.com.br  --  Monthly visits -> 63.1M
+lequipe.fr  --  Monthly visits -> 54.8M
+animixplay.to  --  Monthly visits -> 51.1M
+20minutes.fr  --  Monthly visits -> 45.9M
+mawdoo3.com  --  Monthly visits -> 44.7M
+
+- Geography -
+DailyMotion Video usage by websites across the globe
+Leading Countries: Websites
+France: 10262
+United States: 3201
+Spain: 1161
+Japan: 1120
+Italy: 777
+Germany: 755
+Turkey: 719
+Brazil: 664
+United Kingdom: 639
+Canada: 630
+Rest of the World: 10433

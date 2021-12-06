@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: AirCall
+Last month's change: 12.5%
+Websites: 8001
+Unique Domains: 413
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AirCall is being used
+Computers Electronics & Technology: 8.21%
+Business & Consumer Services: 5.87%
+Jobs & Career: 5.39%
+Finance: 4.37%
+Others: 76.15%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using AirCall -
+typeform.com  --  Monthly visits -> 35.2M
+getapp.com  --  Monthly visits -> 2M
+tidio.com  --  Monthly visits -> 1.5M
+gorgias.com  --  Monthly visits -> 1.4M
+greenpeaceuk.typeform.com  --  Monthly visits -> 1.4M
+heycar.co.uk  --  Monthly visits -> 1.1M
+scrubhub.typeform.com  --  Monthly visits -> 866.3K
+reamaze.com  --  Monthly visits -> 817.4K
+getcloudapp.com  --  Monthly visits -> 769.2K
+uxpin.com  --  Monthly visits -> 661.6K
+
+- Geography -
+AirCall usage by websites across the globe
+Leading Countries: Websites
+United States: 609
+France: 205
+United Kingdom: 169
+Germany: 100
+Canada: 80
+Spain: 79
+India: 74
+Brazil: 60
+Australia: 58
+Netherlands: 51
+Rest of the World: 659

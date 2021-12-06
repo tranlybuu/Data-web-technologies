@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Zoho CRM
+Last month's change: 1.06%
+Websites: 7749
+Unique Domains: 6748
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Zoho CRM is being used
+Computers Electronics & Technology: 9.01%
+Business & Consumer Services: 6.50%
+Science & Education: 3.41%
+Finance: 3.20%
+Others: 77.88%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+CiviCRM
+Pipedrive
+
+
+- Top Websites Using Zoho CRM -
+zoho.com  --  Monthly visits -> 51M
+wibmo.com  --  Monthly visits -> 5.1M
+foodics.com  --  Monthly visits -> 3M
+litmusworld.com  --  Monthly visits -> 2.7M
+foodtecsolutions.com  --  Monthly visits -> 2.4M
+nuevaeps.com.co  --  Monthly visits -> 2.4M
+openpay.mx  --  Monthly visits -> 2.1M
+csus.edu  --  Monthly visits -> 2.1M
+mettl.com  --  Monthly visits -> 2M
+new-innov.com  --  Monthly visits -> 1.8M
+
+- Geography -
+Zoho CRM usage by websites across the globe
+Leading Countries: Websites
+United States: 2157
+India: 598
+Australia: 377
+Canada: 355
+Japan: 303
+United Kingdom: 292
+Mexico: 278
+Spain: 202
+France: 174
+Brazil: 136
+Rest of the World: 2287

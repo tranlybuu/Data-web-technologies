@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Salsa Labs
+Last month's change: 2.23%
+Websites: 2552
+Unique Domains: 1792
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Salsa Labs is being used
+Law & Government: 13.79%
+Community & Society: 8.86%
+Science & Education: 6.23%
+Health: 5.84%
+Others: 65.28%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Blackbaud
+Countable Action
+MobileCause
+
+
+- Top Websites Using Salsa Labs -
+delish.com  --  Monthly visits -> 31.6M
+splice.com  --  Monthly visits -> 4.2M
+everyaction.com  --  Monthly visits -> 3.3M
+salsalabs.org  --  Monthly visits -> 1.9M
+truthout.org  --  Monthly visits -> 982.7K
+kelloggs.com  --  Monthly visits -> 957.2K
+networkforgood.com  --  Monthly visits -> 713.3K
+roundtablepizza.com  --  Monthly visits -> 709.9K
+fictionalley.org  --  Monthly visits -> 699K
+bdgastore.com  --  Monthly visits -> 690.5K
+
+- Geography -
+Salsa Labs usage by websites across the globe
+Leading Countries: Websites
+United States: 1873
+Canada: 69
+United Kingdom: 46
+Australia: 20
+India: 20
+Switzerland: 18
+France: 16
+Germany: 16
+Philippines: 15
+Brazil: 14
+Rest of the World: 209

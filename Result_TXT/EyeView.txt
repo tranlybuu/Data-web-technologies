@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: EyeView
+Last month's change: 10.4%
+Websites: 135
+Unique Domains: 101
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where EyeView is being used
+Vehicles: 11.11%
+Computers Electronics & Technology: 8.89%
+Food & Drink: 8.89%
+Lifestyle: 6.67%
+Others: 64.44%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using EyeView -
+nascar.com  --  Monthly visits -> 11.5M
+tarot.com  --  Monthly visits -> 5.7M
+m.nascar.com  --  Monthly visits -> 5.2M
+meaww.com  --  Monthly visits -> 4.7M
+m.tarot.com  --  Monthly visits -> 3.7M
+boattrader.com  --  Monthly visits -> 3.2M
+andauth.co  --  Monthly visits -> 2.8M
+fantasygames.nascar.com  --  Monthly visits -> 2.2M
+walterfootball.com  --  Monthly visits -> 1.9M
+m.arcamax.com  --  Monthly visits -> 1.1M
+
+- Geography -
+EyeView usage by websites across the globe
+Leading Countries: Websites
+United States: 50
+United Kingdom: 11
+Netherlands: 6
+France: 3
+Sweden: 3
+Australia: 2
+Italy: 2
+Bahamas: 1
+Canada: 1
+Colombia: 1
+Rest of the World: 9

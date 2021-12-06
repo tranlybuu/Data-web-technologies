@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Fireside
+Last month's change: 10.8%
+Websites: 1448
+Unique Domains: 1125
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Fireside is being used
+Computers Electronics & Technology: 11.05%
+Science & Education: 7.18%
+Community & Society: 6.77%
+Arts & Entertainment: 5.46%
+Others: 69.54%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Fireside -
+podcasts.google.com  --  Monthly visits -> 12.1M
+tvtime.com  --  Monthly visits -> 9.3M
+thefederalist.com  --  Monthly visits -> 5.8M
+appleinsider.com  --  Monthly visits -> 3.1M
+distrowatch.com  --  Monthly visits -> 2.8M
+lsnj.org  --  Monthly visits -> 2.2M
+arthritis.org  --  Monthly visits -> 1.7M
+openculture.com  --  Monthly visits -> 1.6M
+touchnet.net  --  Monthly visits -> 1.6M
+criterion.com  --  Monthly visits -> 1.6M
+
+- Geography -
+Fireside usage by websites across the globe
+Leading Countries: Websites
+United States: 770
+Canada: 87
+United Kingdom: 71
+China: 43
+Australia: 31
+Denmark: 21
+Germany: 21
+India: 20
+Brazil: 18
+Netherlands: 17
+Rest of the World: 299

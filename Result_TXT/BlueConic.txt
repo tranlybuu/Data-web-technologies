@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BlueConic
+Last month's change: 0.75%
+Websites: 3992
+Unique Domains: 2402
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BlueConic is being used
+News & Media: 13.68%
+Science & Education: 10.87%
+Computers Electronics & Technology: 5.26%
+Finance: 5.04%
+Others: 65.16%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using BlueConic -
+merriam-webster.com  --  Monthly visits -> 62.7M
+britannica.com  --  Monthly visits -> 59M
+si.com  --  Monthly visits -> 40.6M
+ecollege.com  --  Monthly visits -> 30.2M
+sfgate.com  --  Monthly visits -> 25.9M
+usmagazine.com  --  Monthly visits -> 23.5M
+history.com  --  Monthly visits -> 21.3M
+chron.com  --  Monthly visits -> 20.1M
+nj.com  --  Monthly visits -> 14.9M
+dallasnews.com  --  Monthly visits -> 13.1M
+
+- Geography -
+BlueConic usage by websites across the globe
+Leading Countries: Websites
+United States: 1889
+Netherlands: 610
+Belgium: 104
+United Kingdom: 95
+Canada: 69
+Germany: 58
+France: 52
+India: 39
+United Arab Emirates: 27
+Australia: 21
+Rest of the World: 403

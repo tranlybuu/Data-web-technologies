@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SPREAD
+Last month's change: 1.42%
+Websites: 633
+Unique Domains: 514
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SPREAD is being used
+Lifestyle: 23.85%
+Food & Drink: 6.95%
+Home & Garden: 6.32%
+Travel & Tourism: 4.58%
+Others: 58.29%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using SPREAD -
+just-eat.fr  --  Monthly visits -> 1.4M
+wonderbox.fr  --  Monthly visits -> 839.2K
+dafy-moto.com  --  Monthly visits -> 781.1K
+m.allopneus.com  --  Monthly visits -> 688.8K
+account.mypcs.com  --  Monthly visits -> 565.3K
+boutique-jourdefete.com  --  Monthly visits -> 541.4K
+ricaud.com  --  Monthly visits -> 523.7K
+brentinyparis.com  --  Monthly visits -> 483.9K
+palaisdesthes.com  --  Monthly visits -> 422.5K
+parfumdo.com  --  Monthly visits -> 413.4K
+
+- Geography -
+SPREAD usage by websites across the globe
+Leading Countries: Websites
+France: 423
+Germany: 13
+United Kingdom: 12
+Belgium: 10
+Spain: 10
+United States: 10
+Switzerland: 9
+Netherlands: 7
+Italy: 4
+Luxembourg: 4
+Rest of the World: 32

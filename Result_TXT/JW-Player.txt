@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: JW Player
+Last month's change: 2.17%
+Websites: 100803
+Unique Domains: 67140
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where JW Player is being used
+Science & Education: 7.33%
+Arts & Entertainment: 6.55%
+News & Media: 4.49%
+Computers Electronics & Technology: 3.62%
+Others: 78.00%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using JW Player -
+weather.com  --  Monthly visits -> 653.6M
+imdb.com  --  Monthly visits -> 511M
+m.accuweather.com  --  Monthly visits -> 237.6M
+rt.com  --  Monthly visits -> 120.6M
+screenrant.com  --  Monthly visits -> 119.1M
+abc.net.au  --  Monthly visits -> 114.2M
+express.co.uk  --  Monthly visits -> 106.4M
+consumer.huawei.com  --  Monthly visits -> 91.1M
+mirror.co.uk  --  Monthly visits -> 79.4M
+npr.org  --  Monthly visits -> 79.2M
+
+- Geography -
+JW Player usage by websites across the globe
+Leading Countries: Websites
+United States: 22545
+Russia: 5497
+China: 5337
+Vietnam: 3581
+Germany: 3396
+France: 3264
+United Kingdom: 2679
+Italy: 2407
+Canada: 2400
+South Korea: 1792
+Rest of the World: 30388

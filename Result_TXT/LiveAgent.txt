@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LiveAgent
+Last month's change: 1.07%
+Websites: 4675
+Unique Domains: 3393
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveAgent is being used
+Computers Electronics & Technology: 6.52%
+Lifestyle: 4.15%
+E-commerce & Shopping: 3.96%
+Sports: 3.66%
+Others: 81.71%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using LiveAgent -
+profesia.sk  --  Monthly visits -> 4.1M
+kartra.com  --  Monthly visits -> 3.6M
+ftmo.com  --  Monthly visits -> 2.7M
+big7.com  --  Monthly visits -> 2.7M
+maxmilhas.com.br  --  Monthly visits -> 2.5M
+kto.com  --  Monthly visits -> 2.3M
+liverhealthformula.com  --  Monthly visits -> 2.3M
+farmaline.be  --  Monthly visits -> 2.2M
+familyeducation.com  --  Monthly visits -> 2.1M
+infoplease.com  --  Monthly visits -> 2M
+
+- Geography -
+LiveAgent usage by websites across the globe
+Leading Countries: Websites
+United States: 1020
+Slovakia: 231
+Germany: 204
+United Kingdom: 201
+Czech Republic: 134
+Canada: 122
+Australia: 107
+Italy: 97
+Poland: 90
+Netherlands: 81
+Rest of the World: 1591

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twine
+Last month's change: 2.82%
+Websites: 745
+Unique Domains: 519
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twine is being used
+Games: 24.97%
+Science & Education: 8.72%
+Computers Electronics & Technology: 8.59%
+Arts & Entertainment: 7.52%
+Others: 50.20%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+UStream
+
+
+- Top Websites Using Twine -
+mobilesyrup.com  --  Monthly visits -> 2.6M
+lib.umich.edu  --  Monthly visits -> 2.2M
+mopoga.com  --  Monthly visits -> 1.3M
+ncase.me  --  Monthly visits -> 836.2K
+gamedesigning.org  --  Monthly visits -> 679.9K
+indienova.com  --  Monthly visits -> 608.7K
+superjumpmagazine.com  --  Monthly visits -> 425.8K
+unicheck.com  --  Monthly visits -> 408.6K
+screenskills.com  --  Monthly visits -> 393.4K
+integraudio.com  --  Monthly visits -> 375.4K
+
+- Geography -
+Twine usage by websites across the globe
+Leading Countries: Websites
+United States: 318
+Canada: 32
+United Kingdom: 27
+Germany: 24
+India: 24
+France: 21
+Brazil: 15
+Russia: 15
+Spain: 14
+Australia: 12
+Rest of the World: 186

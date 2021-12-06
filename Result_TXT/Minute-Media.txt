@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Minute Media
+Last month's change: 3.33%
+Websites: 4018
+Unique Domains: 1223
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Minute Media is being used
+Sports: 9.26%
+Arts & Entertainment: 2.39%
+News & Media: 1.84%
+Games: 1.62%
+Others: 84.89%
+
+
+- Related Technologies -
+Top Other technologies
+Google API
+SBTech
+Clarifai
+None
+None
+
+
+- Top Websites Using Minute Media -
+journeyranger.com  --  Monthly visits -> 39.5M
+flipboardsports.com  --  Monthly visits -> 20.9M
+fanduel.com  --  Monthly visits -> 13.8M
+mentalfloss.com  --  Monthly visits -> 9.2M
+90min.com  --  Monthly visits -> 9.2M
+floor8.com  --  Monthly visits -> 8.9M
+fansided.com  --  Monthly visits -> 8.7M
+12up.com  --  Monthly visits -> 8.5M
+flipboard.com  --  Monthly visits -> 8.3M
+clutchpoints.com  --  Monthly visits -> 6.5M
+
+- Geography -
+Minute Media usage by websites across the globe
+Leading Countries: Websites
+United States: 1162
+India: 220
+Germany: 205
+United Kingdom: 177
+Indonesia: 129
+Canada: 121
+Brazil: 119
+Japan: 97
+France: 89
+Italy: 85
+Rest of the World: 1399

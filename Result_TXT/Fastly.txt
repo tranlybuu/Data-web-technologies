@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Fastly
+Last month's change: 9.15%
+Websites: 276338
+Unique Domains: 146528
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Fastly is being used
+Computers Electronics & Technology: 10.82%
+Science & Education: 2.57%
+Games: 2.35%
+Arts & Entertainment: 2.27%
+Others: 81.98%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Akamai
+
+
+- Top Websites Using Fastly -
+reddit.com  --  Monthly visits -> 1.6B
+twitch.tv  --  Monthly visits -> 1.2B
+fandom.com  --  Monthly visits -> 795.9M
+instructure.com  --  Monthly visits -> 573.1M
+quora.com  --  Monthly visits -> 555.8M
+cnn.com  --  Monthly visits -> 510.4M
+taboola.com  --  Monthly visits -> 503M
+bbc.com  --  Monthly visits -> 465.1M
+trc.taboola.com  --  Monthly visits -> 462.9M
+etsy.com  --  Monthly visits -> 404.5M
+
+- Geography -
+Fastly usage by websites across the globe
+Leading Countries: Websites
+United States: 94334
+China: 19524
+United Kingdom: 11843
+India: 9681
+Canada: 9080
+Japan: 7512
+Germany: 7317
+South Korea: 6174
+France: 6145
+Brazil: 6129
+Rest of the World: 78029

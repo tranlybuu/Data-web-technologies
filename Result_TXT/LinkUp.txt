@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LinkUp
+Last month's change: 2.30%
+Websites: 391
+Unique Domains: 317
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LinkUp is being used
+Science & Education: 32.23%
+Jobs & Career: 16.62%
+Computers Electronics & Technology: 4.35%
+Finance: 2.81%
+Others: 43.99%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+Captify
+
+
+- Top Websites Using LinkUp -
+thesun.co.uk  --  Monthly visits -> 84.1M
+smartrecruiters.com  --  Monthly visits -> 8.5M
+payscale.com  --  Monthly visits -> 6.3M
+liberty.edu  --  Monthly visits -> 5.9M
+zippia.com  --  Monthly visits -> 4.4M
+sitejabber.com  --  Monthly visits -> 2.7M
+craft.co  --  Monthly visits -> 2.2M
+applytojob.com  --  Monthly visits -> 2.1M
+clearcompany.com  --  Monthly visits -> 1.1M
+xavier.edu  --  Monthly visits -> 1.1M
+
+- Geography -
+LinkUp usage by websites across the globe
+Leading Countries: Websites
+United States: 269
+United Kingdom: 9
+India: 7
+Brazil: 5
+Canada: 4
+Turkey: 4
+Australia: 2
+Czech Republic: 2
+France: 2
+Indonesia: 2
+Rest of the World: 39

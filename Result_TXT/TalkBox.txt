@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TalkBox
+Last month's change: 4.93%
+Websites: 284
+Unique Domains: 274
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TalkBox is being used
+Food & Drink: 14.79%
+Travel & Tourism: 7.39%
+Sports: 2.46%
+Arts & Entertainment: 2.11%
+Others: 73.24%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using TalkBox -
+nowbookit.com  --  Monthly visits -> 1.4M
+talkbox.impactapp.com.au  --  Monthly visits -> 204.7K
+kellyvillepets.com.au  --  Monthly visits -> 133.2K
+anaintercontinental-tokyo.jp  --  Monthly visits -> 128.1K
+priceattack.com.au  --  Monthly visits -> 118.6K
+penrith.panthers.com.au  --  Monthly visits -> 58.7K
+northbondirsl.com.au  --  Monthly visits -> 58.3K
+harbourlights.co.uk  --  Monthly visits -> 56.8K
+luminate.live  --  Monthly visits -> 48.2K
+bubbapizza.com.au  --  Monthly visits -> 45.8K
+
+- Geography -
+TalkBox usage by websites across the globe
+Leading Countries: Websites
+Australia: 179
+United Kingdom: 63
+New Zealand: 8
+United States: 3
+Iceland: 2
+Spain: 2
+Bangladesh: 1
+Belgium: 1
+India: 1
+Indonesia: 1
+Rest of the World: 12

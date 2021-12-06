@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SALESmanago
+Last month's change: 0.06%
+Websites: 6393
+Unique Domains: 4553
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SALESmanago is being used
+Lifestyle: 11.70%
+E-commerce & Shopping: 5.40%
+Computers Electronics & Technology: 4.82%
+Finance: 4.16%
+Others: 73.92%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using SALESmanago -
+sportowefakty.wp.pl  --  Monthly visits -> 49.3M
+bankier.pl  --  Monthly visits -> 17.3M
+vod.tvp.pl  --  Monthly visits -> 13.8M
+orange.pl  --  Monthly visits -> 9.7M
+inpost.pl  --  Monthly visits -> 9.6M
+rp.pl  --  Monthly visits -> 9.3M
+doz.pl  --  Monthly visits -> 7.4M
+tvp.info  --  Monthly visits -> 7.3M
+sport.tvp.pl  --  Monthly visits -> 7.1M
+m.bankier.pl  --  Monthly visits -> 6.8M
+
+- Geography -
+SALESmanago usage by websites across the globe
+Leading Countries: Websites
+Poland: 3396
+Italy: 268
+Spain: 235
+Germany: 125
+Hungary: 98
+United States: 87
+Czech Republic: 68
+Romania: 67
+United Kingdom: 64
+France: 61
+Rest of the World: 851

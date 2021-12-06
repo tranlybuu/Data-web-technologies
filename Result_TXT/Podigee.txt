@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Podigee
+Last month's change: 8.98%
+Websites: 2082
+Unique Domains: 1405
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Podigee is being used
+Business & Consumer Services: 5.09%
+Finance: 4.47%
+Arts & Entertainment: 3.75%
+News & Media: 3.41%
+Others: 83.29%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Podigee -
+t-online.de  --  Monthly visits -> 160.3M
+welt.de  --  Monthly visits -> 63M
+telekom.com  --  Monthly visits -> 31.2M
+email.t-online.de  --  Monthly visits -> 30.3M
+tagesspiegel.de  --  Monthly visits -> 22.1M
+tz.de  --  Monthly visits -> 16.2M
+rnd.de  --  Monthly visits -> 13.6M
+taz.de  --  Monthly visits -> 13.4M
+handelsblatt.com  --  Monthly visits -> 13M
+onvista.de  --  Monthly visits -> 11.6M
+
+- Geography -
+Podigee usage by websites across the globe
+Leading Countries: Websites
+Germany: 1372
+Austria: 103
+United States: 53
+Switzerland: 51
+United Kingdom: 21
+India: 18
+Italy: 16
+France: 15
+Poland: 13
+Belgium: 8
+Rest of the World: 145

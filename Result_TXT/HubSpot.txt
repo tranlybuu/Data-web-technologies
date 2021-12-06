@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HubSpot
+Last month's change: 2.73%
+Websites: 212620
+Unique Domains: 156910
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HubSpot is being used
+Computers Electronics & Technology: 8.96%
+Business & Consumer Services: 7.10%
+Science & Education: 3.78%
+Finance: 3.46%
+Others: 76.70%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+Klaviyo
+Pardot
+Marketo
+TowerData
+Dotomi
+
+
+- Top Websites Using HubSpot -
+exoclick.com  --  Monthly visits -> 152.4M
+myshopify.com  --  Monthly visits -> 119.3M
+smallpdf.com  --  Monthly visits -> 56.5M
+adsmoloco.com  --  Monthly visits -> 50.1M
+yomiuri.co.jp  --  Monthly visits -> 47.6M
+mercadolibre.com.co  --  Monthly visits -> 45.4M
+mgid.com  --  Monthly visits -> 43.4M
+upwork.com  --  Monthly visits -> 39.3M
+hubspot.com  --  Monthly visits -> 37.4M
+chatwork.com  --  Monthly visits -> 34.9M
+
+- Geography -
+HubSpot usage by websites across the globe
+Leading Countries: Websites
+United States: 74081
+United Kingdom: 11711
+Canada: 7512
+India: 7483
+Australia: 6930
+France: 6046
+Germany: 5903
+Brazil: 5147
+Japan: 4894
+Mexico: 3856
+Rest of the World: 61062

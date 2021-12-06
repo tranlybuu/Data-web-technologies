@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WP reCAPTCHA
+Last month's change: 1.65%
+Websites: 6774
+Unique Domains: 6328
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WP reCAPTCHA is being used
+Computers Electronics & Technology: 6.58%
+Science & Education: 4.90%
+Health: 2.88%
+Finance: 2.61%
+Others: 83.02%
+
+
+- Related Technologies -
+Top Captcha technologies
+reCAPTCHA
+General Captcha
+KeyCAPTCHA
+NuCaptcha
+Coinhive Captcha
+
+
+- Top Websites Using WP reCAPTCHA -
+gameinn.jp  --  Monthly visits -> 6M
+freedownloadmanager.org  --  Monthly visits -> 5.4M
+oggi.it  --  Monthly visits -> 3.9M
+iodonna.it  --  Monthly visits -> 2.9M
+adweek.com  --  Monthly visits -> 2.1M
+forumsayfacevaplari.com  --  Monthly visits -> 1.5M
+abidipharma.com  --  Monthly visits -> 1.4M
+ucsc.cl  --  Monthly visits -> 1M
+losst.ru  --  Monthly visits -> 986.7K
+style.corriere.it  --  Monthly visits -> 973.3K
+
+- Geography -
+WP reCAPTCHA usage by websites across the globe
+Leading Countries: Websites
+United States: 1246
+Italy: 428
+Brazil: 406
+United Kingdom: 269
+Germany: 266
+Japan: 251
+Russia: 242
+France: 216
+Spain: 186
+Canada: 183
+Rest of the World: 2592

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: GetOccasion
+Last month's change: 0.38%
+Websites: 265
+Unique Domains: 257
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where GetOccasion is being used
+Food & Drink: 9.43%
+Sports: 3.40%
+Lifestyle: 3.02%
+Arts & Entertainment: 2.26%
+Others: 81.89%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using GetOccasion -
+cbs58.com  --  Monthly visits -> 1.2M
+getoccasion.com  --  Monthly visits -> 218.1K
+app.getoccasion.com  --  Monthly visits -> 206.1K
+thechoppingblock.com  --  Monthly visits -> 108.7K
+nowplayingutah.com  --  Monthly visits -> 96.8K
+sunshinewhispers.com  --  Monthly visits -> 65.4K
+richmondmom.com  --  Monthly visits -> 60.1K
+ifamilykc.com  --  Monthly visits -> 55.4K
+skunaboats.com  --  Monthly visits -> 53K
+19hz.info  --  Monthly visits -> 51.5K
+
+- Geography -
+GetOccasion usage by websites across the globe
+Leading Countries: Websites
+United States: 197
+Canada: 15
+United Kingdom: 6
+Spain: 5
+Australia: 4
+India: 3
+Mexico: 3
+China: 1
+Costa Rica: 1
+Guatemala: 1
+Rest of the World: 6

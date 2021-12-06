@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Doctolib
+Last month's change: 25.1%
+Websites: 1871
+Unique Domains: 1842
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Doctolib is being used
+Health: 13.20%
+Science & Education: 0.37%
+Travel & Tourism: 0.37%
+Finance: 0.32%
+Others: 85.73%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Schedulicity
+
+
+- Top Websites Using Doctolib -
+doctolib.fr  --  Monthly visits -> 48.9M
+doctolib.de  --  Monthly visits -> 6.8M
+doctolib.com  --  Monthly visits -> 2.4M
+service.berlin.de  --  Monthly visits -> 2.2M
+uni-mannheim.de  --  Monthly visits -> 1.2M
+schoen-klinik.de  --  Monthly visits -> 544.8K
+goyellow.de  --  Monthly visits -> 490.3K
+koblenz.de  --  Monthly visits -> 319.9K
+westerwaldkreis.de  --  Monthly visits -> 276.3K
+a.doctolib.de  --  Monthly visits -> 257.1K
+
+- Geography -
+Doctolib usage by websites across the globe
+Leading Countries: Websites
+Germany: 1714
+Switzerland: 13
+United States: 8
+Austria: 7
+France: 6
+Jordan: 3
+Netherlands: 3
+Serbia: 3
+United Kingdom: 3
+Israel: 2
+Rest of the World: 27

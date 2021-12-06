@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Teachable
+Last month's change: 3.16%
+Websites: 23378
+Unique Domains: 15613
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Teachable is being used
+Computers Electronics & Technology: 8.48%
+Business & Consumer Services: 4.87%
+Community & Society: 4.44%
+Health: 4.41%
+Others: 77.80%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Dropbox
+Jira
+
+
+- Top Websites Using Teachable -
+prtimes.jp  --  Monthly visits -> 26.7M
+teachable.com  --  Monthly visits -> 17M
+freecodecamp.org  --  Monthly visits -> 15.4M
+dev.to  --  Monthly visits -> 13.2M
+realsimple.com  --  Monthly visits -> 11.4M
+estatesales.net  --  Monthly visits -> 8.7M
+baeldung.com  --  Monthly visits -> 8.7M
+tubeoffline.com  --  Monthly visits -> 7.1M
+sso.teachable.com  --  Monthly visits -> 6.8M
+neilpatel.com  --  Monthly visits -> 6.4M
+
+- Geography -
+Teachable usage by websites across the globe
+Leading Countries: Websites
+United States: 9194
+United Kingdom: 941
+India: 910
+Canada: 818
+Australia: 599
+France: 479
+Italy: 470
+Germany: 455
+Spain: 370
+Mexico: 300
+Rest of the World: 6172

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TownNews
+Last month's change: 2.82%
+Websites: 9847
+Unique Domains: 4849
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TownNews is being used
+News & Media: 13.22%
+Arts & Entertainment: 2.88%
+Science & Education: 2.85%
+Sports: 1.86%
+Others: 79.18%
+
+
+- Related Technologies -
+Top Marketing technologies
+Google Marketing Platform
+Adobe Marketing Cloud
+Civic
+Zotabox
+On24
+
+
+- Top Websites Using TownNews -
+news.google.com  --  Monthly visits -> 498.7M
+heywise.com  --  Monthly visits -> 38.3M
+flipboardsports.com  --  Monthly visits -> 20.9M
+flipboard.com  --  Monthly visits -> 8.3M
+in.yahoo.com  --  Monthly visits -> 7.2M
+stltoday.com  --  Monthly visits -> 5.6M
+nola.com  --  Monthly visits -> 4.3M
+buffalonews.com  --  Monthly visits -> 4.3M
+mungfali.com  --  Monthly visits -> 3.8M
+hermoments.com  --  Monthly visits -> 3.8M
+
+- Geography -
+TownNews usage by websites across the globe
+Leading Countries: Websites
+United States: 4480
+India: 416
+Germany: 226
+United Kingdom: 222
+Canada: 196
+Japan: 154
+Indonesia: 152
+Philippines: 147
+Pakistan: 142
+Brazil: 126
+Rest of the World: 2025

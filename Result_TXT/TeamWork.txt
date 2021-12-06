@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TeamWork
+Last month's change: 2.80%
+Websites: 2289
+Unique Domains: 1312
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TeamWork is being used
+Computers Electronics & Technology: 17.17%
+Business & Consumer Services: 7.38%
+Health: 2.27%
+Science & Education: 2.14%
+Others: 71.04%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using TeamWork -
+teamwork.com  --  Monthly visits -> 4.3M
+saashub.com  --  Monthly visits -> 2.7M
+pythonanywhere.com  --  Monthly visits -> 2M
+lucianne.com  --  Monthly visits -> 1.3M
+anedot.com  --  Monthly visits -> 1.3M
+kadaza.com  --  Monthly visits -> 1.2M
+202020.net  --  Monthly visits -> 1.1M
+secure.anedot.com  --  Monthly visits -> 1.1M
+mysmartice.com  --  Monthly visits -> 934.3K
+nira.com  --  Monthly visits -> 894K
+
+- Geography -
+TeamWork usage by websites across the globe
+Leading Countries: Websites
+United States: 841
+Canada: 120
+United Kingdom: 112
+India: 103
+Australia: 69
+Philippines: 60
+Brazil: 50
+Germany: 44
+Pakistan: 41
+France: 34
+Rest of the World: 671

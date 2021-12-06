@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: mapp
+Last month's change: 2.37%
+Websites: 886
+Unique Domains: 689
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where mapp is being used
+Lifestyle: 7.79%
+Home & Garden: 5.64%
+Finance: 5.30%
+Science & Education: 5.19%
+Others: 76.07%
+
+
+- Related Technologies -
+Top Marketing technologies
+Google Marketing Platform
+Adobe Marketing Cloud
+Civic
+Zotabox
+On24
+
+
+- Top Websites Using mapp -
+one.co.il  --  Monthly visits -> 6.3M
+experian.co.uk  --  Monthly visits -> 4.2M
+eprice.it  --  Monthly visits -> 3.8M
+bham.ac.uk  --  Monthly visits -> 3.3M
+thetoyshop.com  --  Monthly visits -> 2.5M
+smartbox.com  --  Monthly visits -> 2.4M
+jysk.se  --  Monthly visits -> 2.1M
+soton.ac.uk  --  Monthly visits -> 2.1M
+jysk.dk  --  Monthly visits -> 2M
+jysk.pl  --  Monthly visits -> 2M
+
+- Geography -
+mapp usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 162
+United States: 69
+Italy: 58
+Romania: 46
+Germany: 45
+France: 43
+Spain: 28
+India: 23
+Belgium: 20
+Netherlands: 19
+Rest of the World: 224

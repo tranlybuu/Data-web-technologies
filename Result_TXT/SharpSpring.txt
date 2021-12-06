@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SharpSpring
+Last month's change: 2.05%
+Websites: 12304
+Unique Domains: 10913
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SharpSpring is being used
+Business & Consumer Services: 7.27%
+Computers Electronics & Technology: 6.48%
+Heavy Industry & Engineering: 3.78%
+Finance: 3.21%
+Others: 79.27%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using SharpSpring -
+canaltech.com.br  --  Monthly visits -> 21.9M
+totaladblock.com  --  Monthly visits -> 15.7M
+specsavers.co.uk  --  Monthly visits -> 4.1M
+buckaroo.nl  --  Monthly visits -> 3.9M
+fairview.org  --  Monthly visits -> 3.1M
+tokiomarine.com.br  --  Monthly visits -> 3M
+lojaintegrada.com.br  --  Monthly visits -> 2.9M
+minhabiblioteca.com.br  --  Monthly visits -> 2.5M
+publishers.adsterra.com  --  Monthly visits -> 2.1M
+creditas.com  --  Monthly visits -> 2M
+
+- Geography -
+SharpSpring usage by websites across the globe
+Leading Countries: Websites
+United States: 5650
+Brazil: 662
+Netherlands: 599
+United Kingdom: 538
+Canada: 391
+India: 337
+Belgium: 217
+Australia: 215
+South Africa: 199
+Mexico: 158
+Rest of the World: 2528

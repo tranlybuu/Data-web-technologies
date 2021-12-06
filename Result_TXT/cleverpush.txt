@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: cleverpush
+Last month's change: 0.88%
+Websites: 2497
+Unique Domains: 1616
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where cleverpush is being used
+News & Media: 9.81%
+Computers Electronics & Technology: 5.25%
+Food & Drink: 3.64%
+Arts & Entertainment: 3.44%
+Others: 77.85%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+PushPushGo
+TruePush
+
+
+- Top Websites Using cleverpush -
+kurir.rs  --  Monthly visits -> 57.8M
+wetteronline.de  --  Monthly visits -> 42.5M
+faz.net  --  Monthly visits -> 38.4M
+statista.com  --  Monthly visits -> 30.7M
+wunderweib.de  --  Monthly visits -> 25.9M
+computerbild.de  --  Monthly visits -> 24.5M
+tvspielfilm.de  --  Monthly visits -> 22.4M
+derstandard.at  --  Monthly visits -> 22M
+m.faz.net  --  Monthly visits -> 19.6M
+intouch.wunderweib.de  --  Monthly visits -> 18.1M
+
+- Geography -
+cleverpush usage by websites across the globe
+Leading Countries: Websites
+Germany: 1390
+Austria: 127
+Switzerland: 50
+United States: 41
+Italy: 31
+France: 23
+Poland: 19
+United Kingdom: 15
+Spain: 13
+Australia: 12
+Rest of the World: 188

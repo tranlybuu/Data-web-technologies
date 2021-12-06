@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: eGain
+Last month's change: 0.30%
+Websites: 3685
+Unique Domains: 2639
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where eGain is being used
+Finance: 10.09%
+Computers Electronics & Technology: 8.11%
+Lifestyle: 4.15%
+Business & Consumer Services: 3.69%
+Others: 73.95%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using eGain -
+consumer.huawei.com  --  Monthly visits -> 91.1M
+td.com  --  Monthly visits -> 43.2M
+jcpenney.com  --  Monthly visits -> 35.6M
+qvc.com  --  Monthly visits -> 31.8M
+lego.com  --  Monthly visits -> 28.5M
+boohoo.com  --  Monthly visits -> 24M
+verywellmind.com  --  Monthly visits -> 19M
+hsn.com  --  Monthly visits -> 16.8M
+bell.ca  --  Monthly visits -> 15.2M
+tdbank.com  --  Monthly visits -> 11.5M
+
+- Geography -
+eGain usage by websites across the globe
+Leading Countries: Websites
+United States: 751
+United Kingdom: 234
+Sweden: 166
+Brazil: 126
+India: 121
+Canada: 114
+Denmark: 87
+Germany: 87
+China: 75
+Russia: 72
+Rest of the World: 1124

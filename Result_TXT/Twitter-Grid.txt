@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twitter Grid
+Last month's change: 3.17%
+Websites: 347
+Unique Domains: 297
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twitter Grid is being used
+Science & Education: 11.82%
+Computers Electronics & Technology: 9.22%
+Arts & Entertainment: 2.88%
+Business & Consumer Services: 2.88%
+Others: 73.20%
+
+
+- Related Technologies -
+Top Social technologies
+Instagram
+Instagram Links
+Facebook Connect
+Facebook Social Plugins
+Twitter
+
+
+- Top Websites Using Twitter Grid -
+crowdcast.io  --  Monthly visits -> 1.6M
+eigomonogatari.com  --  Monthly visits -> 1.4M
+hourofcode.com  --  Monthly visits -> 487.1K
+fi.co  --  Monthly visits -> 443.2K
+typingagent.com  --  Monthly visits -> 384.8K
+eminal-clinic.jp  --  Monthly visits -> 307.1K
+bitrawr.com  --  Monthly visits -> 302.9K
+tabi-mag.jp  --  Monthly visits -> 255.2K
+khsaa.org  --  Monthly visits -> 240.6K
+yonkerspublicschools.org  --  Monthly visits -> 239.2K
+
+- Geography -
+Twitter Grid usage by websites across the globe
+Leading Countries: Websites
+United States: 109
+United Kingdom: 30
+Japan: 27
+India: 14
+Canada: 12
+France: 12
+Colombia: 6
+Germany: 6
+Indonesia: 6
+Belgium: 5
+Rest of the World: 91

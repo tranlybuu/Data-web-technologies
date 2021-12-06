@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Open Graph Protocol
+Last month's change: 1.39%
+Websites: 13405260
+Unique Domains: 8392025
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Open Graph Protocol is being used
+Computers Electronics & Technology: 4.33%
+Arts & Entertainment: 4.21%
+Science & Education: 3.23%
+Games: 2.23%
+Others: 86.00%
+
+
+- Related Technologies -
+Top Open Graph Tags technologies
+OpenGraph Url Entity
+OpenGraph Description Entity
+OpenGraph Type Entity
+OpenGraph Image Entity
+OpenGraph Site Name Entity
+
+
+- Top Websites Using Open Graph Protocol -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+
+- Geography -
+Open Graph Protocol usage by websites across the globe
+Leading Countries: Websites
+United States: 2499629
+Japan: 757787
+Germany: 482873
+United Kingdom: 472832
+Russia: 439188
+France: 404301
+Canada: 338312
+Italy: 327192
+South Korea: 319841
+Brazil: 254597
+Rest of the World: 4295256

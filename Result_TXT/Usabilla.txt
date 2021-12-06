@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Usabilla
+Last month's change: 1.17%
+Websites: 4947
+Unique Domains: 2701
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Usabilla is being used
+Computers Electronics & Technology: 9.99%
+Travel & Tourism: 7.60%
+Finance: 6.93%
+Vehicles: 5.46%
+Others: 70.02%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Usabilla -
+ticketmaster.com  --  Monthly visits -> 80.2M
+cambridge.org  --  Monthly visits -> 73.1M
+francetvinfo.fr  --  Monthly visits -> 62.5M
+secure.booking.com  --  Monthly visits -> 46.8M
+buienradar.nl  --  Monthly visits -> 42M
+thetrainline.com  --  Monthly visits -> 34.6M
+aruba.it  --  Monthly visits -> 33.9M
+churchofjesuschrist.org  --  Monthly visits -> 32.8M
+zalando.de  --  Monthly visits -> 32.5M
+funda.nl  --  Monthly visits -> 31.6M
+
+- Geography -
+Usabilla usage by websites across the globe
+Leading Countries: Websites
+United States: 927
+Netherlands: 300
+United Kingdom: 264
+Australia: 195
+Germany: 180
+France: 153
+Italy: 117
+Russia: 117
+Belgium: 116
+Canada: 97
+Rest of the World: 1382

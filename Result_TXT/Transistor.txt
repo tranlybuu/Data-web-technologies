@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Transistor
+Last month's change: 10.5%
+Websites: 2598
+Unique Domains: 2313
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Transistor is being used
+Computers Electronics & Technology: 11.82%
+Business & Consumer Services: 5.31%
+Arts & Entertainment: 4.89%
+Science & Education: 4.81%
+Others: 73.17%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Transistor -
+seznamzpravy.cz  --  Monthly visits -> 104.1M
+tuasaude.com  --  Monthly visits -> 85.2M
+netlify.app  --  Monthly visits -> 27.8M
+teleprogramma.pro  --  Monthly visits -> 10.3M
+msu.edu  --  Monthly visits -> 8.4M
+sharethrough.com  --  Monthly visits -> 6.3M
+radiokp.ru  --  Monthly visits -> 6M
+gutenberg.org  --  Monthly visits -> 5.6M
+cvshealth.com  --  Monthly visits -> 5.4M
+convertkit.com  --  Monthly visits -> 5.1M
+
+- Geography -
+Transistor usage by websites across the globe
+Leading Countries: Websites
+United States: 1316
+Canada: 158
+United Kingdom: 137
+India: 65
+Australia: 56
+Netherlands: 56
+Germany: 53
+Brazil: 45
+France: 42
+Russia: 31
+Rest of the World: 554

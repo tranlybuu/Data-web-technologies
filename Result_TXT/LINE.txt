@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LINE
+Last month's change: 0.77%
+Websites: 257105
+Unique Domains: 167468
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LINE is being used
+Food & Drink: 8.80%
+Computers Electronics & Technology: 4.79%
+Arts & Entertainment: 4.12%
+Lifestyle: 3.66%
+Others: 78.63%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+Intercom
+Crisp
+Stella Service
+AirCall
+
+
+- Top Websites Using LINE -
+line.me  --  Monthly visits -> 325.5M
+blog.livedoor.jp  --  Monthly visits -> 303.5M
+kompas.com  --  Monthly visits -> 194M
+goo.ne.jp  --  Monthly visits -> 185.3M
+tribunnews.com  --  Monthly visits -> 153.5M
+estart.jp  --  Monthly visits -> 148.4M
+grid.id  --  Monthly visits -> 118.6M
+cmoa.jp  --  Monthly visits -> 93.4M
+game8.jp  --  Monthly visits -> 82M
+mynavi.jp  --  Monthly visits -> 76.2M
+
+- Geography -
+LINE usage by websites across the globe
+Leading Countries: Websites
+Japan: 143896
+Taiwan: 20961
+Thailand: 19091
+South Korea: 9022
+United States: 3078
+Indonesia: 2467
+China: 1053
+Hong Kong: 677
+Germany: 471
+India: 446
+Rest of the World: 6860

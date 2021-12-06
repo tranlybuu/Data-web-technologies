@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FlyEasy
+Last month's change: 4.48%
+Websites: 67
+Unique Domains: 66
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FlyEasy is being used
+Vehicles: 14.93%
+Business & Consumer Services: 10.45%
+Travel & Tourism: 8.96%
+Heavy Industry & Engineering: 1.49%
+Others: 64.18%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Booker
+Peek
+
+
+- Top Websites Using FlyEasy -
+novajet.com  --  Monthly visits -> 73.2K
+magellanjets.com  --  Monthly visits -> 65.8K
+flyairshare.com  --  Monthly visits -> 33.5K
+aircharterguide.com  --  Monthly visits -> 32.6K
+sherpareport.com  --  Monthly visits -> 31.6K
+flyuberjets.com  --  Monthly visits -> 29.9K
+skyservice.com  --  Monthly visits -> 29.2K
+wingaviation.com  --  Monthly visits -> 22.4K
+flyjetedge.com  --  Monthly visits -> 20.4K
+vitesseworldwide.com  --  Monthly visits -> 13.4K
+
+- Geography -
+FlyEasy usage by websites across the globe
+Leading Countries: Websites
+United States: 46
+Canada: 7
+Brazil: 2
+Russia: 2
+United Arab Emirates: 2
+Bahamas: 1
+China: 1
+Germany: 1
+India: 1
+South Korea: 1
+Rest of the World: 1

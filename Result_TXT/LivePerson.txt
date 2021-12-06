@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LivePerson
+Last month's change: 3.22%
+Websites: 13798
+Unique Domains: 9413
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LivePerson is being used
+Finance: 12.98%
+Computers Electronics & Technology: 9.31%
+Vehicles: 4.54%
+Lifestyle: 3.72%
+Others: 69.45%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using LivePerson -
+samsung.com  --  Monthly visits -> 805.5M
+bbc.co.uk  --  Monthly visits -> 649.5M
+t-mobile.com  --  Monthly visits -> 229.4M
+homedepot.com  --  Monthly visits -> 188.4M
+orange.fr  --  Monthly visits -> 178.4M
+apps.samsung.com  --  Monthly visits -> 149.8M
+lowes.com  --  Monthly visits -> 118.5M
+sky.com  --  Monthly visits -> 84.2M
+americanexpress.com  --  Monthly visits -> 71M
+hdfcbank.com  --  Monthly visits -> 58.3M
+
+- Geography -
+LivePerson usage by websites across the globe
+Leading Countries: Websites
+United States: 5663
+United Kingdom: 953
+Canada: 439
+Australia: 375
+India: 279
+France: 277
+Japan: 265
+China: 176
+Germany: 168
+Italy: 163
+Rest of the World: 2884

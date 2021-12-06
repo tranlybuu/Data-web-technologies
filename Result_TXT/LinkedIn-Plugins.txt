@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LinkedIn Plugins
+Last month's change: 2.05%
+Websites: 147765
+Unique Domains: 108454
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LinkedIn Plugins is being used
+Computers Electronics & Technology: 6.27%
+Science & Education: 4.60%
+Business & Consumer Services: 3.49%
+Food & Drink: 2.63%
+Others: 83.01%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using LinkedIn Plugins -
+slideshare.net  --  Monthly visits -> 109.9M
+schoology.com  --  Monthly visits -> 96.7M
+reuters.com  --  Monthly visits -> 73.4M
+hurirk.net  --  Monthly visits -> 59.8M
+adsmoloco.com  --  Monthly visits -> 50.1M
+es.slideshare.net  --  Monthly visits -> 45.2M
+thehill.com  --  Monthly visits -> 42.8M
+hubspot.com  --  Monthly visits -> 37.4M
+argaam.com  --  Monthly visits -> 27.1M
+shipstation.com  --  Monthly visits -> 21.5M
+
+- Geography -
+LinkedIn Plugins usage by websites across the globe
+Leading Countries: Websites
+United States: 32740
+France: 9298
+Italy: 5850
+United Kingdom: 5700
+Brazil: 4851
+India: 4346
+Canada: 3821
+Spain: 3181
+Germany: 2830
+Japan: 2794
+Rest of the World: 44930

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PushProfit
+Last month's change: 2.30%
+Websites: 348
+Unique Domains: 342
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PushProfit is being used
+Health: 24.14%
+Computers Electronics & Technology: 8.91%
+News & Media: 7.18%
+Arts & Entertainment: 5.75%
+Others: 54.02%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using PushProfit -
+w3-org.cc  --  Monthly visits -> 1.8M
+womantip.net  --  Monthly visits -> 1.1M
+ust.kz  --  Monthly visits -> 835.2K
+kraska.guru  --  Monthly visits -> 340.9K
+luckclub.ru  --  Monthly visits -> 298.1K
+wow-helper.com  --  Monthly visits -> 154.6K
+istochnikipitaniy.ru  --  Monthly visits -> 148.6K
+recept-menu.ru  --  Monthly visits -> 125.5K
+gradusinfo.ru  --  Monthly visits -> 94.5K
+bonpost.ru  --  Monthly visits -> 78.7K
+
+- Geography -
+PushProfit usage by websites across the globe
+Leading Countries: Websites
+Russia: 282
+Ukraine: 27
+Belarus: 12
+Kazakhstan: 10
+Moldova: 3
+Poland: 2
+Azerbaijan: 1
+Armenia: 1
+Brazil: 1
+Croatia: 1
+Rest of the World: 2

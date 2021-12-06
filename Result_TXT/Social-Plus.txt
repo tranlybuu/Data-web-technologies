@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Social Plus
+Last month's change: 0.67%
+Websites: 149
+Unique Domains: 128
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Social Plus is being used
+Lifestyle: 21.48%
+Food & Drink: 9.40%
+Business & Consumer Services: 8.05%
+E-commerce & Shopping: 6.71%
+Others: 54.36%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using Social Plus -
+park.ajinomoto.co.jp  --  Monthly visits -> 9.9M
+job-medley.com  --  Monthly visits -> 3.6M
+p-bandai.com  --  Monthly visits -> 2M
+shop.hikaritv.net  --  Monthly visits -> 1.6M
+i.lumine.jp  --  Monthly visits -> 1.5M
+himaraya.co.jp  --  Monthly visits -> 907.6K
+menz-style.com  --  Monthly visits -> 770.7K
+usr.golfdigest.co.jp  --  Monthly visits -> 739K
+mysound.jp  --  Monthly visits -> 555.9K
+ginsara.jp  --  Monthly visits -> 554K
+
+- Geography -
+Social Plus usage by websites across the globe
+Leading Countries: Websites
+Japan: 132
+United States: 5
+Taiwan: 2
+Chile: 1
+France: 1
+Russia: 1

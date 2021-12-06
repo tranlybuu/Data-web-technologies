@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Marketo
+Last month's change: 1.23%
+Websites: 48854
+Unique Domains: 24388
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Marketo is being used
+Computers Electronics & Technology: 16.24%
+Business & Consumer Services: 8.15%
+Finance: 5.88%
+Science & Education: 4.55%
+Others: 65.19%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+TowerData
+Dotomi
+
+
+- Top Websites Using Marketo -
+bit.ly  --  Monthly visits -> 2.4B
+indeed.com  --  Monthly visits -> 587.7M
+instructure.com  --  Monthly visits -> 573.1M
+quora.com  --  Monthly visits -> 555.8M
+taboola.com  --  Monthly visits -> 503M
+dropbox.com  --  Monthly visits -> 172.5M
+okta.com  --  Monthly visits -> 140.8M
+app.link  --  Monthly visits -> 120.6M
+myshopify.com  --  Monthly visits -> 119.3M
+atlassian.net  --  Monthly visits -> 109.9M
+
+- Geography -
+Marketo usage by websites across the globe
+Leading Countries: Websites
+United States: 19132
+Japan: 3660
+United Kingdom: 1495
+Australia: 1428
+Canada: 1222
+India: 1169
+Germany: 702
+France: 699
+China: 636
+Spain: 433
+Rest of the World: 7813

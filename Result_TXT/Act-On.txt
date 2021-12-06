@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Act-On
+Last month's change: 2.04%
+Websites: 4813
+Unique Domains: 3630
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Act-On is being used
+Computers Electronics & Technology: 9.18%
+Business & Consumer Services: 8.37%
+Finance: 6.42%
+Health: 6.09%
+Others: 69.94%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Act-On -
+msg.schoolmessenger.com  --  Monthly visits -> 6.8M
+alldata.com  --  Monthly visits -> 6.8M
+3lift.com  --  Monthly visits -> 3.8M
+solaredge.com  --  Monthly visits -> 3.5M
+vivacom.bg  --  Monthly visits -> 2.7M
+iwantclips.com  --  Monthly visits -> 2.5M
+elconfidencialdigital.com  --  Monthly visits -> 2.4M
+schoolmessenger.ca  --  Monthly visits -> 1.9M
+mitchell1.com  --  Monthly visits -> 1.8M
+msg.schoolmessenger.ca  --  Monthly visits -> 1.7M
+
+- Geography -
+Act-On usage by websites across the globe
+Leading Countries: Websites
+United States: 2767
+Canada: 188
+United Kingdom: 153
+Netherlands: 120
+India: 100
+Australia: 61
+Germany: 60
+China: 54
+Philippines: 37
+Japan: 34
+Rest of the World: 738

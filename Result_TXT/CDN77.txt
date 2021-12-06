@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CDN77
+Last month's change: 0.11%
+Websites: 874
+Unique Domains: 613
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CDN77 is being used
+Adult: 13.73%
+Computers Electronics & Technology: 13.04%
+Arts & Entertainment: 5.26%
+Hobbies & Leisure: 5.15%
+Others: 62.81%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using CDN77 -
+sport1.de  --  Monthly visits -> 19.2M
+nifty.org  --  Monthly visits -> 8.1M
+amp.sport1.de  --  Monthly visits -> 5.2M
+skygogogo.xyz  --  Monthly visits -> 5.2M
+cdn77.org  --  Monthly visits -> 3.6M
+rsc.cdn77.org  --  Monthly visits -> 3.6M
+truthsocial.com  --  Monthly visits -> 3.1M
+teapuesto.pe  --  Monthly visits -> 3M
+mobile.teapuesto.pe  --  Monthly visits -> 2.4M
+tv.sport1.de  --  Monthly visits -> 1.2M
+
+- Geography -
+CDN77 usage by websites across the globe
+Leading Countries: Websites
+United States: 144
+Japan: 62
+Germany: 52
+Spain: 38
+Russia: 31
+Czech Republic: 23
+United Kingdom: 22
+China: 20
+Italy: 20
+France: 19
+Rest of the World: 287

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Booker
+Last month's change: 3.15%
+Websites: 1777
+Unique Domains: 1749
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Booker is being used
+Lifestyle: 8.38%
+Travel & Tourism: 3.04%
+Food & Drink: 2.25%
+Health: 2.08%
+Others: 84.24%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Peek
+Vagaro
+
+
+- Top Websites Using Booker -
+go.booker.com  --  Monthly visits -> 1.8M
+alipearlhair.com  --  Monthly visits -> 414.3K
+explore.mindbodyonline.com  --  Monthly visits -> 226.9K
+blomedry.com  --  Monthly visits -> 140.5K
+meritagecollection.com  --  Monthly visits -> 120.2K
+glow-tone.com  --  Monthly visits -> 105.6K
+milkandhoneyspa.com  --  Monthly visits -> 78.6K
+colonialwilliamsburghotels.com  --  Monthly visits -> 73.6K
+innatcedarfalls.com  --  Monthly visits -> 70.3K
+nitalakelodge.com  --  Monthly visits -> 69.6K
+
+- Geography -
+Booker usage by websites across the globe
+Leading Countries: Websites
+United States: 1378
+Canada: 148
+India: 21
+Philippines: 12
+United Kingdom: 8
+Australia: 6
+Pakistan: 6
+Italy: 5
+China: 4
+Singapore: 4
+Rest of the World: 54

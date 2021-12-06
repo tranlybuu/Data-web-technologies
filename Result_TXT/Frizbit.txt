@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Frizbit
+Last month's change: 1.87%
+Websites: 107
+Unique Domains: 85
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Frizbit is being used
+Lifestyle: 24.30%
+Business & Consumer Services: 11.21%
+E-commerce & Shopping: 6.54%
+Health: 6.54%
+Others: 51.40%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using Frizbit -
+primor.eu  --  Monthly visits -> 3.2M
+edebe.com  --  Monthly visits -> 1.3M
+kasaz.com  --  Monthly visits -> 694.9K
+perfumesclub.com  --  Monthly visits -> 683.1K
+unilibro.it  --  Monthly visits -> 682.9K
+eminflex.it  --  Monthly visits -> 633.6K
+bidcom.com.ar  --  Monthly visits -> 600.3K
+oyakyatirim.com.tr  --  Monthly visits -> 594.6K
+perfumesclub.fr  --  Monthly visits -> 462.6K
+interditaupublic.com  --  Monthly visits -> 432.5K
+
+- Geography -
+Frizbit usage by websites across the globe
+Leading Countries: Websites
+Spain: 36
+Turkey: 16
+Italy: 14
+France: 6
+Argentina: 4
+United States: 4
+Canada: 2
+Germany: 2
+Portugal: 2
+Chile: 1
+Rest of the World: 10

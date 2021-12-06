@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ImageKit
+Last month's change: 71.6%
+Websites: 1247
+Unique Domains: 828
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ImageKit is being used
+Computers Electronics & Technology: 7.06%
+Food & Drink: 3.69%
+Lifestyle: 3.61%
+Finance: 2.33%
+Others: 83.32%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using ImageKit -
+diariolibre.com  --  Monthly visits -> 8.2M
+m.traveloka.com  --  Monthly visits -> 6.8M
+cointiply.com  --  Monthly visits -> 5.9M
+upgrad.com  --  Monthly visits -> 5.4M
+digitaleyes.market  --  Monthly visits -> 4M
+globalgoals.org  --  Monthly visits -> 3.1M
+invideo.io  --  Monthly visits -> 2.7M
+footyheadlines.com  --  Monthly visits -> 2.4M
+industrybuying.com  --  Monthly visits -> 2M
+mrq.com  --  Monthly visits -> 1.8M
+
+- Geography -
+ImageKit usage by websites across the globe
+Leading Countries: Websites
+United States: 279
+India: 127
+Singapore: 121
+Indonesia: 68
+United Kingdom: 50
+Germany: 39
+Australia: 29
+Canada: 28
+Brazil: 25
+Malaysia: 22
+Rest of the World: 459

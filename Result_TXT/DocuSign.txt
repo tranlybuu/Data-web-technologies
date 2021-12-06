@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: DocuSign
+Last month's change: 2.37%
+Websites: 32416
+Unique Domains: 14413
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DocuSign is being used
+Finance: 11.37%
+Computers Electronics & Technology: 11.31%
+Science & Education: 10.88%
+Health: 8.50%
+Others: 57.95%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+Wild Apricot
+Teachable
+Dropbox
+Jira
+
+
+- Top Websites Using DocuSign -
+google.com  --  Monthly visits -> 91B
+netflix.com  --  Monthly visits -> 2.7B
+zoom.us  --  Monthly visits -> 2B
+reddit.com  --  Monthly visits -> 1.6B
+linkedin.com  --  Monthly visits -> 1.4B
+discord.com  --  Monthly visits -> 1.3B
+microsoft.com  --  Monthly visits -> 1.1B
+roblox.com  --  Monthly visits -> 1B
+pinterest.com  --  Monthly visits -> 1B
+samsung.com  --  Monthly visits -> 805.5M
+
+- Geography -
+DocuSign usage by websites across the globe
+Leading Countries: Websites
+United States: 18099
+United Kingdom: 1647
+Canada: 1220
+Australia: 1042
+Germany: 910
+France: 680
+India: 675
+Japan: 658
+Brazil: 418
+Netherlands: 332
+Rest of the World: 5505

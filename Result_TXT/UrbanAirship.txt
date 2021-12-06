@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UrbanAirship
+Last month's change: 6.04%
+Websites: 513
+Unique Domains: 223
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UrbanAirship is being used
+News & Media: 15.98%
+Sports: 13.06%
+Arts & Entertainment: 5.46%
+Jobs & Career: 3.70%
+Others: 61.79%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using UrbanAirship -
+as.com  --  Monthly visits -> 195.2M
+cbssports.com  --  Monthly visits -> 105.3M
+francetvinfo.fr  --  Monthly visits -> 62.5M
+tg24.sky.it  --  Monthly visits -> 19.8M
+mathrubhumi.com  --  Monthly visits -> 18.1M
+resultados.as.com  --  Monthly visits -> 17.9M
+tvguide.com  --  Monthly visits -> 17.2M
+nzz.ch  --  Monthly visits -> 15.6M
+very.co.uk  --  Monthly visits -> 14.7M
+ae.com  --  Monthly visits -> 13.8M
+
+- Geography -
+UrbanAirship usage by websites across the globe
+Leading Countries: Websites
+United States: 134
+Switzerland: 25
+United Kingdom: 14
+Spain: 13
+France: 8
+Mexico: 8
+Canada: 7
+Germany: 7
+India: 6
+Italy: 6
+Rest of the World: 42

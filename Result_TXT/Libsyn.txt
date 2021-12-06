@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Libsyn
+Last month's change: 1.69%
+Websites: 25713
+Unique Domains: 17908
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Libsyn is being used
+Arts & Entertainment: 6.06%
+Health: 5.85%
+Business & Consumer Services: 5.42%
+Community & Society: 5.20%
+Others: 77.47%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+BuzzSprout
+Stitcher
+
+
+- Top Websites Using Libsyn -
+webmd.com  --  Monthly visits -> 137.9M
+rover.ebay.com  --  Monthly visits -> 82.4M
+mesg.ebay.com  --  Monthly visits -> 29.3M
+fantasypros.com  --  Monthly visits -> 23.9M
+aktuality.sk  --  Monthly visits -> 22.2M
+rawstory.com  --  Monthly visits -> 19.9M
+gslblui.ebay.com  --  Monthly visits -> 11.3M
+androidcentral.com  --  Monthly visits -> 10.5M
+gp.se  --  Monthly visits -> 9.2M
+i.ebayimg.com  --  Monthly visits -> 9.1M
+
+- Geography -
+Libsyn usage by websites across the globe
+Leading Countries: Websites
+United States: 13845
+United Kingdom: 1132
+Canada: 1048
+Australia: 643
+Germany: 590
+India: 488
+Sweden: 279
+Philippines: 274
+Brazil: 229
+Netherlands: 221
+Rest of the World: 4001

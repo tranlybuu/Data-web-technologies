@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Uliza
+Last month's change: 4.21%
+Websites: 594
+Unique Domains: 196
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Uliza is being used
+Games: 14.65%
+Arts & Entertainment: 11.95%
+Health: 10.44%
+Food & Drink: 4.71%
+Others: 58.25%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Uliza -
+pointmail.rakuten.co.jp  --  Monthly visits -> 13.7M
+news.nicovideo.jp  --  Monthly visits -> 13.1M
+rtrp.jp  --  Monthly visits -> 10M
+chobirich.com  --  Monthly visits -> 9.4M
+wowkorea.jp  --  Monthly visits -> 7.4M
+m3.com  --  Monthly visits -> 4.9M
+cancam.jp  --  Monthly visits -> 4.6M
+s.wowkorea.jp  --  Monthly visits -> 4.5M
+theriver.jp  --  Monthly visits -> 4.4M
+eneos-enekey.com  --  Monthly visits -> 4.3M
+
+- Geography -
+Uliza usage by websites across the globe
+Leading Countries: Websites
+Japan: 330
+United States: 12
+Germany: 4
+Thailand: 4
+India: 3
+Taiwan: 2
+Italy: 2
+Nigeria: 2
+Vietnam: 2
+Spain: 2
+Rest of the World: 19

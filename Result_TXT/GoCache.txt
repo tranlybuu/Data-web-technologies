@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: GoCache
+Last month's change: 0.65%
+Websites: 2944
+Unique Domains: 2275
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where GoCache is being used
+E-commerce & Shopping: 5.81%
+Computers Electronics & Technology: 3.33%
+Science & Education: 2.96%
+Law & Government: 2.55%
+Others: 85.36%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using GoCache -
+metropolitanafm.com.br  --  Monthly visits -> 19.9M
+gaveanews.com  --  Monthly visits -> 14.8M
+educamaisbrasil.com.br  --  Monthly visits -> 11M
+resultadofacil.com.br  --  Monthly visits -> 8.7M
+catracalivre.com.br  --  Monthly visits -> 8.2M
+promobit.com.br  --  Monthly visits -> 7.4M
+campograndenews.com.br  --  Monthly visits -> 6M
+melhoresdestinos.com.br  --  Monthly visits -> 5.2M
+smartfit.com.br  --  Monthly visits -> 5M
+ultrafarma.com.br  --  Monthly visits -> 3.8M
+
+- Geography -
+GoCache usage by websites across the globe
+Leading Countries: Websites
+Brazil: 1980
+China: 101
+Thailand: 31
+Hong Kong: 30
+Vietnam: 29
+United States: 28
+Portugal: 23
+Philippines: 8
+Argentina: 6
+Taiwan: 6
+Rest of the World: 71

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MaxCDN
+Last month's change: 6.13%
+Websites: 1419
+Unique Domains: 973
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MaxCDN is being used
+Computers Electronics & Technology: 11.91%
+Arts & Entertainment: 7.89%
+Hobbies & Leisure: 6.41%
+Business & Consumer Services: 4.30%
+Others: 69.49%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using MaxCDN -
+welcome.unibet.com  --  Monthly visits -> 6.3M
+play.bitcasino.io  --  Monthly visits -> 6.3M
+entertainow.com  --  Monthly visits -> 2.1M
+dazeddigital.com  --  Monthly visits -> 2M
+welcome.unibet.ro  --  Monthly visits -> 2M
+filestore.aqa.org.uk  --  Monthly visits -> 1.4M
+welcome.unibet.be  --  Monthly visits -> 1.3M
+adserver.entertainow.com  --  Monthly visits -> 1.3M
+pmt.physicsandmathstutor.com  --  Monthly visits -> 1.1M
+welcome.vladcazino.ro  --  Monthly visits -> 1.1M
+
+- Geography -
+MaxCDN usage by websites across the globe
+Leading Countries: Websites
+United States: 409
+Canada: 60
+United Kingdom: 51
+India: 44
+Germany: 38
+France: 27
+Italy: 22
+Australia: 21
+Russia: 21
+Argentina: 19
+Rest of the World: 315

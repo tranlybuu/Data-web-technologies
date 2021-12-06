@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: InteliWise
+Last month's change: 1.61%
+Websites: 186
+Unique Domains: 61
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where InteliWise is being used
+E-commerce & Shopping: 28.49%
+Finance: 13.44%
+Home & Garden: 12.37%
+Business & Consumer Services: 3.76%
+Others: 41.94%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using InteliWise -
+mediaexpert.pl  --  Monthly visits -> 28.4M
+castorama.pl  --  Monthly visits -> 9.2M
+furgonetka.pl  --  Monthly visits -> 2M
+ceidg.gov.pl  --  Monthly visits -> 1.9M
+prod.ceidg.gov.pl  --  Monthly visits -> 1.9M
+biznes.gov.pl  --  Monthly visits -> 1.4M
+uniqa.pl  --  Monthly visits -> 1.3M
+enfamil.com  --  Monthly visits -> 703.1K
+umed.pl  --  Monthly visits -> 602.1K
+umed.lodz.pl  --  Monthly visits -> 434.9K
+
+- Geography -
+InteliWise usage by websites across the globe
+Leading Countries: Websites
+Poland: 121
+Romania: 3
+United States: 3
+Czech Republic: 2
+Denmark: 1
+Hungary: 1
+India: 1
+United Kingdom: 1

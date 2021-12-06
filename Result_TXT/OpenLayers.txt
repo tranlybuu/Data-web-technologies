@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenLayers
+Last month's change: 0.04%
+Websites: 11314
+Unique Domains: 8873
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenLayers is being used
+Law & Government: 5.46%
+Science & Education: 4.98%
+Travel & Tourism: 3.23%
+Computers Electronics & Technology: 2.71%
+Others: 83.61%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using OpenLayers -
+bom.gov.au  --  Monthly visits -> 50.7M
+br.de  --  Monthly visits -> 19.5M
+ipmetradar.com.br  --  Monthly visits -> 14.4M
+mhrs.gov.tr  --  Monthly visits -> 14M
+madrid.org  --  Monthly visits -> 12.7M
+m.sexemodel.com  --  Monthly visits -> 12.7M
+edf.fr  --  Monthly visits -> 12M
+hko.gov.hk  --  Monthly visits -> 11.8M
+mbl.is  --  Monthly visits -> 9.7M
+edu.gva.es  --  Monthly visits -> 9.7M
+
+- Geography -
+OpenLayers usage by websites across the globe
+Leading Countries: Websites
+United States: 1626
+Germany: 1598
+France: 824
+Spain: 418
+Italy: 393
+United Kingdom: 291
+Poland: 284
+Russia: 267
+Netherlands: 236
+Slovakia: 230
+Rest of the World: 3231

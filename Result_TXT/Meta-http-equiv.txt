@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Meta http-equiv
+Last month's change: 0.26%
+Websites: 17695397
+Unique Domains: 10778634
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Meta http-equiv is being used
+Computers Electronics & Technology: 4.93%
+Science & Education: 3.88%
+Arts & Entertainment: 2.94%
+Games: 1.94%
+Others: 86.31%
+
+
+- Related Technologies -
+Top Meta Tags technologies
+Meta Description
+Canonical Tag
+Favicon Tag
+Meta Robot
+Meta Keywords
+
+
+- Top Websites Using Meta http-equiv -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+mail.google.com  --  Monthly visits -> 11.3B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+baidu.com  --  Monthly visits -> 5.6B
+
+- Geography -
+Meta http-equiv usage by websites across the globe
+Leading Countries: Websites
+United States: 2963940
+Japan: 1141581
+China: 860110
+Russia: 749684
+Germany: 654171
+United Kingdom: 553416
+France: 477957
+South Korea: 451392
+Italy: 394454
+Canada: 393112
+Rest of the World: 5654029

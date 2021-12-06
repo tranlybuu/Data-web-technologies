@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Adobe Dynamic mBox
+Last month's change: 0.08%
+Websites: 137817
+Unique Domains: 90235
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Adobe Dynamic mBox is being used
+Computers Electronics & Technology: 6.70%
+Science & Education: 3.65%
+Finance: 3.44%
+Vehicles: 3.21%
+Others: 82.99%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Adobe Dynamic mBox -
+microsoft.com  --  Monthly visits -> 1.1B
+espn.com  --  Monthly visits -> 628.4M
+sharepoint.com  --  Monthly visits -> 599.1M
+tieba.baidu.com  --  Monthly visits -> 453.1M
+office365.com  --  Monthly visits -> 376.9M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+foxnews.com  --  Monthly visits -> 283M
+adobe.com  --  Monthly visits -> 258.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+ups.com  --  Monthly visits -> 191.9M
+
+- Geography -
+Adobe Dynamic mBox usage by websites across the globe
+Leading Countries: Websites
+United States: 23060
+Germany: 10170
+Russia: 5859
+Japan: 4500
+France: 3965
+Italy: 3579
+United Kingdom: 3527
+China: 3382
+Poland: 3303
+Canada: 2806
+Rest of the World: 41345

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Dropbox
+Last month's change: 0.55%
+Websites: 21501
+Unique Domains: 4098
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Dropbox is being used
+Computers Electronics & Technology: 12.87%
+Science & Education: 12.01%
+Business & Consumer Services: 7.98%
+Finance: 7.77%
+Others: 59.37%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Jira
+
+
+- Top Websites Using Dropbox -
+whatsapp.com  --  Monthly visits -> 3.1B
+netflix.com  --  Monthly visits -> 2.7B
+zoom.us  --  Monthly visits -> 2B
+roblox.com  --  Monthly visits -> 1B
+bbc.co.uk  --  Monthly visits -> 649.5M
+espn.com  --  Monthly visits -> 628.4M
+bbc.com  --  Monthly visits -> 465.1M
+chaturbate.com  --  Monthly visits -> 395.6M
+nytimes.com  --  Monthly visits -> 317.3M
+tumblr.com  --  Monthly visits -> 299M
+
+- Geography -
+Dropbox usage by websites across the globe
+Leading Countries: Websites
+United States: 11772
+United Kingdom: 1159
+Canada: 821
+Australia: 701
+India: 560
+Japan: 469
+Germany: 455
+France: 257
+Russia: 199
+South Africa: 174
+Rest of the World: 3856

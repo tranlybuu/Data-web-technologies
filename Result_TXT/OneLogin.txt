@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OneLogin
+Last month's change: 1.35%
+Websites: 2376
+Unique Domains: 418
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OneLogin is being used
+Computers Electronics & Technology: 18.06%
+Science & Education: 9.01%
+Finance: 8.00%
+Jobs & Career: 5.01%
+Others: 59.93%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using OneLogin -
+onelogin.com  --  Monthly visits -> 23.4M
+t.uber.com  --  Monthly visits -> 5M
+broward.edu  --  Monthly visits -> 2.3M
+broward.onelogin.com  --  Monthly visits -> 2.2M
+purdueglobal.brightspace.com  --  Monthly visits -> 1.9M
+bconline.broward.edu  --  Monthly visits -> 1.7M
+ourtesco.com  --  Monthly visits -> 1.6M
+login.ourtesco.com  --  Monthly visits -> 1.2M
+ucumberlands.blackboard.com  --  Monthly visits -> 1.2M
+uber.onelogin.com  --  Monthly visits -> 1.1M
+
+- Geography -
+OneLogin usage by websites across the globe
+Leading Countries: Websites
+United States: 1285
+Japan: 168
+India: 160
+Canada: 86
+United Kingdom: 78
+Australia: 43
+Germany: 37
+Netherlands: 34
+Philippines: 18
+China: 16
+Rest of the World: 312

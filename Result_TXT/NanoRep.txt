@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: NanoRep
+Last month's change: 1.98%
+Websites: 506
+Unique Domains: 401
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where NanoRep is being used
+Home & Garden: 8.70%
+Adult: 7.11%
+E-commerce & Shopping: 6.13%
+Finance: 4.55%
+Others: 73.52%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using NanoRep -
+chegg.com  --  Monthly visits -> 70.2M
+ao.com  --  Monthly visits -> 9.4M
+dfs.co.uk  --  Monthly visits -> 3.8M
+elal.com  --  Monthly visits -> 1.4M
+reimageplus.com  --  Monthly visits -> 861.3K
+crossborder.fedex.com  --  Monthly visits -> 861.2K
+in.bgu.ac.il  --  Monthly visits -> 666.4K
+buyspares.co.uk  --  Monthly visits -> 534.3K
+htzone.co.il  --  Monthly visits -> 498.9K
+web.global-e.com  --  Monthly visits -> 435.5K
+
+- Geography -
+NanoRep usage by websites across the globe
+Leading Countries: Websites
+United States: 119
+United Kingdom: 52
+Israel: 34
+Germany: 24
+China: 16
+France: 16
+Italy: 15
+Spain: 15
+Australia: 13
+Canada: 13
+Rest of the World: 100

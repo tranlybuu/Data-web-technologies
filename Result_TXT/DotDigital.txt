@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: DotDigital
+Last month's change: 2.68%
+Websites: 2315
+Unique Domains: 1907
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DotDigital is being used
+Lifestyle: 16.41%
+Home & Garden: 6.57%
+Vehicles: 6.48%
+Health: 5.62%
+Others: 64.92%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using DotDigital -
+au.com  --  Monthly visits -> 27.5M
+alamy.com  --  Monthly visits -> 20.5M
+patient.info  --  Monthly visits -> 8M
+wakelet.com  --  Monthly visits -> 5.5M
+alamy.es  --  Monthly visits -> 4.6M
+mountainwarehouse.com  --  Monthly visits -> 4.1M
+superdry.com  --  Monthly visits -> 4M
+mastersportal.com  --  Monthly visits -> 3.5M
+resmed.com  --  Monthly visits -> 3.4M
+jojomamanbebe.co.uk  --  Monthly visits -> 2.7M
+
+- Geography -
+DotDigital usage by websites across the globe
+Leading Countries: Websites
+United States: 707
+United Kingdom: 608
+Australia: 252
+Canada: 48
+New Zealand: 42
+Netherlands: 41
+France: 40
+Germany: 40
+Singapore: 37
+Ireland: 23
+Rest of the World: 326

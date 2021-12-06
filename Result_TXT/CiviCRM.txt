@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CiviCRM
+Last month's change: 2.28%
+Websites: 6622
+Unique Domains: 5515
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CiviCRM is being used
+Science & Education: 9.38%
+Law & Government: 7.43%
+Community & Society: 6.45%
+Health: 4.59%
+Others: 72.15%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+Pipedrive
+
+
+- Top Websites Using CiviCRM -
+stackexchange.com  --  Monthly visits -> 120.3M
+python.org  --  Monthly visits -> 16.8M
+cathaybk.com.tw  --  Monthly visits -> 4.1M
+therecoveryvillage.com  --  Monthly visits -> 3.2M
+wv.gov  --  Monthly visits -> 1.7M
+eff.org  --  Monthly visits -> 1.4M
+unwomen.org  --  Monthly visits -> 1.3M
+sciencespo.fr  --  Monthly visits -> 1.2M
+squ.edu.om  --  Monthly visits -> 1.2M
+bitnami.com  --  Monthly visits -> 1.2M
+
+- Geography -
+CiviCRM usage by websites across the globe
+Leading Countries: Websites
+United States: 2631
+United Kingdom: 611
+Canada: 421
+Taiwan: 321
+Germany: 241
+Australia: 230
+France: 174
+Belgium: 114
+Spain: 96
+India: 88
+Rest of the World: 1215

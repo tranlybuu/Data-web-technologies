@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BuddyPress
+Last month's change: 0.35%
+Websites: 30190
+Unique Domains: 27577
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BuddyPress is being used
+Science & Education: 4.86%
+Computers Electronics & Technology: 4.48%
+Arts & Entertainment: 3.37%
+Games: 2.18%
+Others: 85.11%
+
+
+- Related Technologies -
+Top Social technologies
+Instagram
+Instagram Links
+Facebook Connect
+Facebook Social Plugins
+Twitter
+
+
+- Top Websites Using BuddyPress -
+nefisyemektarifleri.com  --  Monthly visits -> 33.9M
+thotbook.tv  --  Monthly visits -> 9.2M
+outkick.com  --  Monthly visits -> 8.8M
+intex-press.by  --  Monthly visits -> 8.2M
+skidrowcodex.net  --  Monthly visits -> 5.7M
+vilaweb.cat  --  Monthly visits -> 5.4M
+medikalakademi.com.tr  --  Monthly visits -> 4.5M
+sfmcompile.club  --  Monthly visits -> 4.5M
+autoblog.nl  --  Monthly visits -> 3.6M
+tjrs.jus.br  --  Monthly visits -> 3.5M
+
+- Geography -
+BuddyPress usage by websites across the globe
+Leading Countries: Websites
+United States: 5729
+France: 1478
+Germany: 1346
+India: 1240
+Italy: 1167
+United Kingdom: 1091
+Spain: 940
+Russia: 879
+Brazil: 834
+Canada: 787
+Rest of the World: 12033

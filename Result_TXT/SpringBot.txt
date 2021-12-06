@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SpringBot
+Last month's change: 11.9%
+Websites: 1716
+Unique Domains: 1603
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SpringBot is being used
+Lifestyle: 16.72%
+Sports: 10.49%
+Home & Garden: 5.83%
+Vehicles: 4.78%
+Others: 62.18%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using SpringBot -
+bearcreekarsenal.com  --  Monthly visits -> 973.6K
+toolden.co.uk  --  Monthly visits -> 752.9K
+usagundamstore.com  --  Monthly visits -> 737.8K
+eightvape.com  --  Monthly visits -> 531.5K
+hak5.org  --  Monthly visits -> 418.4K
+jordanfabrics.com  --  Monthly visits -> 395.4K
+deltaextrax.com  --  Monthly visits -> 347.8K
+buffbunny.com  --  Monthly visits -> 283K
+simmonssportinggoods.com  --  Monthly visits -> 282.5K
+chilternoakfurniture.co.uk  --  Monthly visits -> 276.5K
+
+- Geography -
+SpringBot usage by websites across the globe
+Leading Countries: Websites
+United States: 1356
+United Kingdom: 67
+Canada: 65
+Australia: 11
+China: 11
+India: 10
+Brazil: 7
+Poland: 7
+Singapore: 7
+Sweden: 7
+Rest of the World: 122

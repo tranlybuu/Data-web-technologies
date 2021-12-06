@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cloudinary
+Last month's change: 7.04%
+Websites: 82551
+Unique Domains: 56233
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cloudinary is being used
+Computers Electronics & Technology: 5.10%
+Food & Drink: 3.21%
+Business & Consumer Services: 2.29%
+Travel & Tourism: 2.15%
+Others: 87.26%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Cloudinary -
+news.google.com  --  Monthly visits -> 498.7M
+ml.t-mobile.com  --  Monthly visits -> 168.4M
+estart.jp  --  Monthly visits -> 148.4M
+nfl.com  --  Monthly visits -> 112.3M
+mk.ru  --  Monthly visits -> 68.2M
+kp.ru  --  Monthly visits -> 67.9M
+fiverr.com  --  Monthly visits -> 58.4M
+realestate.com.au  --  Monthly visits -> 55.4M
+doctolib.fr  --  Monthly visits -> 48.9M
+upwork.com  --  Monthly visits -> 39.3M
+
+- Geography -
+Cloudinary usage by websites across the globe
+Leading Countries: Websites
+United States: 25756
+United Kingdom: 3596
+Japan: 3508
+India: 3390
+France: 2807
+Germany: 2627
+Canada: 2322
+Australia: 1820
+Russia: 1474
+Brazil: 1351
+Rest of the World: 26559

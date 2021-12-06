@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Salesforce
+Last month's change: 0.13%
+Websites: 96155
+Unique Domains: 44118
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Salesforce is being used
+Computers Electronics & Technology: 9.63%
+Finance: 6.29%
+Lifestyle: 5.78%
+Science & Education: 5.68%
+Others: 72.63%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+Pipedrive
+
+
+- Top Websites Using Salesforce -
+bit.ly  --  Monthly visits -> 2.4B
+zoom.us  --  Monthly visits -> 2B
+globo.com  --  Monthly visits -> 822.4M
+instructure.com  --  Monthly visits -> 573.1M
+spotify.com  --  Monthly visits -> 422.6M
+github.com  --  Monthly visits -> 375.3M
+theguardian.com  --  Monthly visits -> 281.9M
+avito.ru  --  Monthly visits -> 280.6M
+healthline.com  --  Monthly visits -> 276.6M
+disneyplus.com  --  Monthly visits -> 268.7M
+
+- Geography -
+Salesforce usage by websites across the globe
+Leading Countries: Websites
+United States: 37819
+United Kingdom: 4541
+Japan: 3196
+Australia: 3073
+Canada: 3051
+Germany: 2586
+France: 2176
+India: 1925
+Netherlands: 1447
+Italy: 1291
+Rest of the World: 20169

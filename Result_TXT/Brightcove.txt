@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Brightcove
+Last month's change: 1.09%
+Websites: 28579
+Unique Domains: 20154
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Brightcove is being used
+Computers Electronics & Technology: 6.94%
+Finance: 6.68%
+Health: 6.56%
+Science & Education: 4.65%
+Others: 75.18%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Brightcove -
+samsung.com  --  Monthly visits -> 805.5M
+apps.samsung.com  --  Monthly visits -> 149.8M
+nypost.com  --  Monthly visits -> 111.2M
+webex.com  --  Monthly visits -> 93.6M
+independent.co.uk  --  Monthly visits -> 90.9M
+thesun.co.uk  --  Monthly visits -> 84.1M
+lefigaro.fr  --  Monthly visits -> 81M
+people.com  --  Monthly visits -> 77.7M
+abc.es  --  Monthly visits -> 72.8M
+hp.com  --  Monthly visits -> 72.5M
+
+- Geography -
+Brightcove usage by websites across the globe
+Leading Countries: Websites
+United States: 10709
+Japan: 1234
+United Kingdom: 1222
+Canada: 959
+Australia: 860
+Spain: 744
+France: 737
+Germany: 607
+India: 581
+Italy: 439
+Rest of the World: 6350

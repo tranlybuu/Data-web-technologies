@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: X-UA-Compatible
+Last month's change: 1.19%
+Websites: 11600445
+Unique Domains: 6884482
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where X-UA-Compatible is being used
+Computers Electronics & Technology: 4.88%
+Science & Education: 3.63%
+Arts & Entertainment: 3.14%
+Games: 2.18%
+Others: 86.18%
+
+
+- Related Technologies -
+Top Document Standard technologies
+HTML5 DocType
+HTTPS
+Content Security Policy
+P3P Policy
+Adobe Flash Embed
+
+
+- Top Websites Using X-UA-Compatible -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+mail.google.com  --  Monthly visits -> 11.3B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+baidu.com  --  Monthly visits -> 5.6B
+accounts.google.com  --  Monthly visits -> 4.5B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+
+- Geography -
+X-UA-Compatible usage by websites across the globe
+Leading Countries: Websites
+United States: 2159650
+Japan: 662960
+China: 586002
+Germany: 411299
+United Kingdom: 399521
+Russia: 370952
+South Korea: 358998
+France: 292094
+Canada: 288489
+Italy: 232681
+Rest of the World: 3636476

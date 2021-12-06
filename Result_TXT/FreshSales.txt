@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FreshSales
+Last month's change: 3.61%
+Websites: 2048
+Unique Domains: 1529
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FreshSales is being used
+Computers Electronics & Technology: 14.01%
+Business & Consumer Services: 5.27%
+Finance: 4.35%
+Science & Education: 2.83%
+Others: 73.54%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using FreshSales -
+freshdesk.com  --  Monthly visits -> 24.6M
+enstage-sas.com  --  Monthly visits -> 7.2M
+bitwarden.com  --  Monthly visits -> 4.5M
+nexterp.in  --  Monthly visits -> 4.4M
+freshchat.com  --  Monthly visits -> 4.2M
+fund.eastmoney.com  --  Monthly visits -> 4M
+weathertech.com  --  Monthly visits -> 3.2M
+roberthalf.com  --  Monthly visits -> 2.9M
+creately.com  --  Monthly visits -> 2.5M
+shophermedia.net  --  Monthly visits -> 2.4M
+
+- Geography -
+FreshSales usage by websites across the globe
+Leading Countries: Websites
+United States: 462
+India: 234
+United Kingdom: 127
+Australia: 75
+Canada: 73
+Germany: 70
+Malaysia: 66
+Vietnam: 47
+South Africa: 42
+France: 35
+Rest of the World: 567

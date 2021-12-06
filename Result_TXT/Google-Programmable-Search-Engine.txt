@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Programmable Search Engine
+Last month's change: 1.48%
+Websites: 20283
+Unique Domains: 14532
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Programmable Search Engine is being used
+Science & Education: 9.56%
+Computers Electronics & Technology: 9.43%
+Arts & Entertainment: 4.55%
+Law & Government: 3.93%
+Others: 72.52%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Google Programmable Search Engine -
+kp.ru  --  Monthly visits -> 67.9M
+stuff.co.nz  --  Monthly visits -> 49.6M
+setn.com  --  Monthly visits -> 28.5M
+4gamer.net  --  Monthly visits -> 17.2M
+rlsnet.ru  --  Monthly visits -> 17.2M
+serebii.net  --  Monthly visits -> 14M
+zoomit.ir  --  Monthly visits -> 11.8M
+pda.rlsnet.ru  --  Monthly visits -> 11M
+emergencyemail.org  --  Monthly visits -> 10.7M
+tv-tokyo.co.jp  --  Monthly visits -> 10.6M
+
+- Geography -
+Google Programmable Search Engine usage by websites across the globe
+Leading Countries: Websites
+United States: 5460
+Japan: 1994
+India: 631
+Russia: 588
+France: 569
+United Kingdom: 530
+Germany: 471
+Italy: 435
+Canada: 395
+Brazil: 346
+Rest of the World: 5905

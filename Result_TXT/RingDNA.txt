@@ -1,0 +1,45 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: RingDNA
+Last month's change: 0%
+Websites: 36
+Unique Domains: 31
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RingDNA is being used
+Business & Consumer Services: 27.78%
+Health: 11.11%
+Finance: 8.33%
+Heavy Industry & Engineering: 5.56%
+Others: 47.22%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using RingDNA -
+pritikin.com  --  Monthly visits -> 509.5K
+communityhealthchoice.org  --  Monthly visits -> 133.4K
+ruby.com  --  Monthly visits -> 109.6K
+regroup.com  --  Monthly visits -> 89.7K
+lindebladpiano.com  --  Monthly visits -> 84.4K
+macapartments.com  --  Monthly visits -> 46.1K
+ringdna.com  --  Monthly visits -> 36.9K
+go.pritikin.com  --  Monthly visits -> 36.4K
+contractortrainingcenter.com  --  Monthly visits -> 34.7K
+arbor.com  --  Monthly visits -> 30.8K
+
+- Geography -
+RingDNA usage by websites across the globe
+Leading Countries: Websites
+United States: 26
+Mauritius: 1
+Philippines: 1

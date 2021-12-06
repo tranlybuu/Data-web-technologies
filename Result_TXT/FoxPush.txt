@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FoxPush
+Last month's change: 7.45%
+Websites: 161
+Unique Domains: 129
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FoxPush is being used
+News & Media: 14.29%
+Computers Electronics & Technology: 9.32%
+Finance: 4.97%
+Community & Society: 3.73%
+Others: 67.70%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using FoxPush -
+sabq.org  --  Monthly visits -> 20M
+mobile.sabq.org  --  Monthly visits -> 12.6M
+aawsat.com  --  Monthly visits -> 2.7M
+m.aawsat.com  --  Monthly visits -> 1.7M
+twasul.info  --  Monthly visits -> 901.6K
+24rates.net  --  Monthly visits -> 670.4K
+mobile.twasul.info  --  Monthly visits -> 570.6K
+radiomars.ma  --  Monthly visits -> 471.4K
+makkahnewspaper.com  --  Monthly visits -> 337.7K
+skinandhairacademy.in  --  Monthly visits -> 331.9K
+
+- Geography -
+FoxPush usage by websites across the globe
+Leading Countries: Websites
+Saudi Arabia: 18
+Turkey: 16
+Egypt: 11
+Algeria: 10
+India: 10
+United States: 9
+Morocco: 8
+Germany: 4
+Brazil: 3
+Greece: 3
+Rest of the World: 51

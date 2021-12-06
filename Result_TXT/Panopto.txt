@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Panopto
+Last month's change: 4.33%
+Websites: 2171
+Unique Domains: 1034
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Panopto is being used
+Science & Education: 47.95%
+Health: 7.00%
+Computers Electronics & Technology: 3.41%
+Finance: 2.58%
+Others: 39.06%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Panopto -
+panopto.com  --  Monthly visits -> 15.4M
+panopto.eu  --  Monthly visits -> 10.3M
+northeastern.edu  --  Monthly visits -> 4.5M
+csun.edu  --  Monthly visits -> 4.3M
+rev.com  --  Monthly visits -> 3.7M
+utrgv.edu  --  Monthly visits -> 3.6M
+loanadministration.com  --  Monthly visits -> 3.2M
+wolfware.ncsu.edu  --  Monthly visits -> 3M
+paloaltonetworks.com  --  Monthly visits -> 2.9M
+videoconverterfactory.com  --  Monthly visits -> 2.8M
+
+- Geography -
+Panopto usage by websites across the globe
+Leading Countries: Websites
+United States: 1689
+United Kingdom: 70
+Canada: 53
+India: 24
+Germany: 15
+Turkey: 14
+China: 11
+Australia: 10
+New Zealand: 10
+Ireland: 8
+Rest of the World: 186

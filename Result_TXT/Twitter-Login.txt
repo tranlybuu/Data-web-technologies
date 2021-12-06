@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twitter Login
+Last month's change: 1.06%
+Websites: 4132
+Unique Domains: 3370
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twitter Login is being used
+Computers Electronics & Technology: 9.46%
+Science & Education: 5.57%
+Arts & Entertainment: 4.19%
+Games: 3.90%
+Others: 76.89%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using Twitter Login -
+mediafire.com  --  Monthly visits -> 267.6M
+overleaf.com  --  Monthly visits -> 25.8M
+erome.com  --  Monthly visits -> 22.3M
+qiita.com  --  Monthly visits -> 20.8M
+canvas.instructure.com  --  Monthly visits -> 11.9M
+9db.jp  --  Monthly visits -> 10.1M
+search.ch  --  Monthly visits -> 9.5M
+thotbook.tv  --  Monthly visits -> 9.2M
+animenewsnetwork.com  --  Monthly visits -> 8.8M
+kimovil.com  --  Monthly visits -> 8.8M
+
+- Geography -
+Twitter Login usage by websites across the globe
+Leading Countries: Websites
+United States: 1307
+United Kingdom: 236
+India: 190
+Japan: 130
+Canada: 105
+Australia: 96
+Germany: 86
+France: 75
+Italy: 71
+Vietnam: 69
+Rest of the World: 1264

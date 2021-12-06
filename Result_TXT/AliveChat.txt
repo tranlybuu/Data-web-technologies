@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: AliveChat
+Last month's change: 2.17%
+Websites: 368
+Unique Domains: 310
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AliveChat is being used
+Sports: 10.05%
+Computers Electronics & Technology: 7.61%
+Health: 5.71%
+Science & Education: 5.71%
+Others: 70.92%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using AliveChat -
+mlb.com  --  Monthly visits -> 88.5M
+nhl.com  --  Monthly visits -> 36.8M
+nasm.org  --  Monthly visits -> 1.3M
+audionetwork.com  --  Monthly visits -> 1M
+tabtouch.com.au  --  Monthly visits -> 740.5K
+internationalstudent.com  --  Monthly visits -> 543.2K
+ecpi.edu  --  Monthly visits -> 445.1K
+wilmu.edu  --  Monthly visits -> 416.6K
+gatlinburg.com  --  Monthly visits -> 387.3K
+worldwidestereo.com  --  Monthly visits -> 378K
+
+- Geography -
+AliveChat usage by websites across the globe
+Leading Countries: Websites
+United States: 214
+Germany: 11
+Australia: 10
+Canada: 10
+United Kingdom: 9
+Sri Lanka: 6
+China: 4
+Netherlands: 4
+Belgium: 3
+France: 3
+Rest of the World: 53

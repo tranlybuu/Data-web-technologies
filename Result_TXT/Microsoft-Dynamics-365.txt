@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Microsoft Dynamics 365
+Last month's change: 20.3%
+Websites: 1758
+Unique Domains: 1438
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Microsoft Dynamics 365 is being used
+Computers Electronics & Technology: 15.07%
+Science & Education: 13.54%
+Business & Consumer Services: 7.17%
+Heavy Industry & Engineering: 6.88%
+Others: 57.34%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using Microsoft Dynamics 365 -
+clevelandclinic.org  --  Monthly visits -> 38.3M
+visualstudio.com  --  Monthly visits -> 26.5M
+my.clevelandclinic.org  --  Monthly visits -> 19.6M
+researchnow.com  --  Monthly visits -> 14M
+dynata.com  --  Monthly visits -> 6.8M
+ccbill.com  --  Monthly visits -> 4.6M
+globenewswire.com  --  Monthly visits -> 4.1M
+phoenixnap.com  --  Monthly visits -> 3.5M
+campuslabs.com  --  Monthly visits -> 2.9M
+cashnet.com  --  Monthly visits -> 2.7M
+
+- Geography -
+Microsoft Dynamics 365 usage by websites across the globe
+Leading Countries: Websites
+United States: 421
+Germany: 117
+United Kingdom: 116
+Denmark: 112
+Netherlands: 96
+Australia: 85
+Canada: 68
+Italy: 51
+Norway: 40
+Sweden: 39
+Rest of the World: 595

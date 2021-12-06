@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MapLoco
+Last month's change: 0.72%
+Websites: 1257
+Unique Domains: 418
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MapLoco is being used
+Arts & Entertainment: 10.50%
+News & Media: 5.81%
+Science & Education: 5.73%
+Community & Society: 5.41%
+Others: 72.55%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using MapLoco -
+grimnir74.livejournal.com  --  Monthly visits -> 321.8K
+ipfingerprints.com  --  Monthly visits -> 239K
+gymnasticbodies.com  --  Monthly visits -> 237K
+friendproject.net  --  Monthly visits -> 171.8K
+apjjf.org  --  Monthly visits -> 170.6K
+oleg-leusenko.livejournal.com  --  Monthly visits -> 169.2K
+hititler.tistory.com  --  Monthly visits -> 144.7K
+johnsanidopoulos.com  --  Monthly visits -> 96K
+comunidadmundial.foroactivo.com  --  Monthly visits -> 77.8K
+sivatherium.narod.ru  --  Monthly visits -> 76.5K
+
+- Geography -
+MapLoco usage by websites across the globe
+Leading Countries: Websites
+United States: 230
+Russia: 79
+Italy: 50
+Germany: 36
+France: 29
+Brazil: 26
+Canada: 26
+United Kingdom: 26
+Spain: 24
+India: 18
+Rest of the World: 300

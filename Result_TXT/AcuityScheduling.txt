@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: AcuityScheduling
+Last month's change: 1.56%
+Websites: 22491
+Unique Domains: 17611
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AcuityScheduling is being used
+Health: 3.33%
+Lifestyle: 3.09%
+Science & Education: 2.88%
+Community & Society: 2.08%
+Others: 88.63%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+Setmore
+Rezdy
+Bookeo
+Doctolib
+Schedulicity
+
+
+- Top Websites Using AcuityScheduling -
+levi.com  --  Monthly visits -> 11.6M
+kamihq.com  --  Monthly visits -> 9.3M
+solvhealth.com  --  Monthly visits -> 6.3M
+app.acuityscheduling.com  --  Monthly visits -> 4.7M
+mdlottery.com  --  Monthly visits -> 4.2M
+americanaddictioncenters.org  --  Monthly visits -> 3.4M
+arcteryx.com  --  Monthly visits -> 3.1M
+jmu.edu  --  Monthly visits -> 2.1M
+covid19criticalcare.com  --  Monthly visits -> 2M
+ajmadison.com  --  Monthly visits -> 2M
+
+- Geography -
+AcuityScheduling usage by websites across the globe
+Leading Countries: Websites
+United States: 11428
+Canada: 1484
+United Kingdom: 1357
+Australia: 1073
+Germany: 417
+India: 316
+Philippines: 220
+France: 189
+Netherlands: 185
+New Zealand: 171
+Rest of the World: 2948

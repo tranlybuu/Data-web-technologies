@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Delacon
+Last month's change: 5.66%
+Websites: 53
+Unique Domains: 42
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Delacon is being used
+Science & Education: 20.75%
+Business & Consumer Services: 11.32%
+E-commerce & Shopping: 5.66%
+Computers Electronics & Technology: 3.77%
+Others: 58.49%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using Delacon -
+csu.edu.au  --  Monthly visits -> 1.4M
+idp.csu.edu.au  --  Monthly visits -> 705.2K
+study.csu.edu.au  --  Monthly visits -> 188.5K
+statewideapp.com.au  --  Monthly visits -> 160.9K
+kentremovalsstorage.com.au  --  Monthly visits -> 88.9K
+infiniteenergy.com.au  --  Monthly visits -> 41.5K
+cybercrime-tracker.net  --  Monthly visits -> 29.2K
+futurestudents.csu.edu.au  --  Monthly visits -> 27K
+my-offer.csu.edu.au  --  Monthly visits -> 26.4K
+parts.philips.com.au  --  Monthly visits -> 26.1K
+
+- Geography -
+Delacon usage by websites across the globe
+Leading Countries: Websites
+Australia: 31
+United States: 4
+India: 3
+New Zealand: 3
+United Kingdom: 2
+Estonia: 1
+Japan: 1
+Singapore: 1
+Thailand: 1
+Turkey: 1
+Rest of the World: 2

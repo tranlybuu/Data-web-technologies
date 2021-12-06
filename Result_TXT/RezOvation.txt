@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: RezOvation
+Last month's change: 7.65%
+Websites: 196
+Unique Domains: 196
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RezOvation is being used
+Travel & Tourism: 46.94%
+Food & Drink: 2.04%
+Community & Society: 1.02%
+Hobbies & Leisure: 1.02%
+Others: 48.98%
+
+
+- Related Technologies -
+Top Ticketing technologies
+Tickera
+SeatEngine
+Tessitura Network
+FlameConcepts
+TopTix
+
+
+- Top Websites Using RezOvation -
+visitcos.com  --  Monthly visits -> 200.6K
+seejh.com  --  Monthly visits -> 92K
+bearinnresort.com  --  Monthly visits -> 18.8K
+sweetwaterinn.com  --  Monthly visits -> 16.3K
+moonovermaine.com  --  Monthly visits -> 12.4K
+foxfield-inn.com  --  Monthly visits -> 10K
+themasoncottage.com  --  Monthly visits -> 9.8K
+dobbinhouse.com  --  Monthly visits -> 9.8K
+gristironbrewing.com  --  Monthly visits -> 9.7K
+canyonvilla.com  --  Monthly visits -> 8.6K
+
+- Geography -
+RezOvation usage by websites across the globe
+Leading Countries: Websites
+United States: 164
+Canada: 6
+United Kingdom: 2
+Belgium: 1
+Belize: 1
+Finland: 1
+France: 1
+Germany: 1
+Israel: 1
+Malaysia: 1
+Rest of the World: 1

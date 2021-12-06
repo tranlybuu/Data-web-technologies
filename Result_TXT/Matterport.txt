@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Matterport
+Last month's change: 4.18%
+Websites: 50859
+Unique Domains: 47539
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Matterport is being used
+Business & Consumer Services: 9.59%
+Travel & Tourism: 3.41%
+Science & Education: 2.81%
+Heavy Industry & Engineering: 2.03%
+Others: 82.16%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Matterport -
+harvard.edu  --  Monthly visits -> 50.5M
+apartments.com  --  Monthly visits -> 44.7M
+milanuncios.com  --  Monthly visits -> 37.4M
+admin.ch  --  Monthly visits -> 21.8M
+matterport.com  --  Monthly visits -> 18.5M
+fotocasa.es  --  Monthly visits -> 14.3M
+coldwellbankerhomes.com  --  Monthly visits -> 9.9M
+homes.com  --  Monthly visits -> 9M
+estatesales.net  --  Monthly visits -> 8.7M
+forrent.com  --  Monthly visits -> 7M
+
+- Geography -
+Matterport usage by websites across the globe
+Leading Countries: Websites
+United States: 20993
+United Kingdom: 3169
+Canada: 2963
+Germany: 1840
+France: 1531
+Japan: 1389
+Australia: 1160
+Spain: 858
+Czech Republic: 621
+Italy: 580
+Rest of the World: 11688

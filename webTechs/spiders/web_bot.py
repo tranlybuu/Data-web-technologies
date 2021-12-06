@@ -20,9 +20,9 @@ class WebBotSpider(scrapy.Spider):
         list_cate = [
         # "Advertising","Analytics","Tracker","JavaScript",
         # "Domain Parking","Blog","Feedback and Surveys","Polls and Quizzes",
-        "Call Tracking","Login Provider","Site Search","Multilingual","Push Notifications",
-        "Cryptocurrency","Information Technology","API","Marketing","Widget","Privacy",
-        "Content Delivery Network","Audio Video Media","Live Chat","Customer Communication",
+        # "Call Tracking","Login Provider","Site Search","Multilingual","Push Notifications",
+        # "Cryptocurrency","Information Technology","API","Marketing","Widget","Privacy",
+        # "Content Delivery Network","Audio Video Media","Live Chat","Customer Communication",
         "Customer Relationship Management","Booking","Trading Platforms","Social",
         "Business Solutions","Advocacy","Other","Document Standard","ECommerce","Recruitment",
         "Security","Content Management System","Finance","Comments System","Server",

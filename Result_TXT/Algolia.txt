@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Algolia
+Last month's change: 1.18%
+Websites: 23229
+Unique Domains: 19079
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Algolia is being used
+Vehicles: 13.47%
+Lifestyle: 5.37%
+Computers Electronics & Technology: 4.99%
+Arts & Entertainment: 4.18%
+Others: 71.99%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Hupso
+SiteSearch 360
+Captify
+AddSearch
+
+
+- Top Websites Using Algolia -
+uniqlo.com  --  Monthly visits -> 79.7M
+theporndude.com  --  Monthly visits -> 59.7M
+boots.com  --  Monthly visits -> 25.8M
+gu-global.com  --  Monthly visits -> 23.5M
+gencat.cat  --  Monthly visits -> 20.7M
+freecodecamp.org  --  Monthly visits -> 15.4M
+sevilla.abc.es  --  Monthly visits -> 13.9M
+smore.com  --  Monthly visits -> 13.5M
+health.clevelandclinic.org  --  Monthly visits -> 13.4M
+jiomart.com  --  Monthly visits -> 10.4M
+
+- Geography -
+Algolia usage by websites across the globe
+Leading Countries: Websites
+United States: 9985
+France: 1116
+United Kingdom: 1004
+Canada: 941
+Germany: 663
+Australia: 636
+India: 439
+Netherlands: 424
+Spain: 417
+Italy: 298
+Rest of the World: 5286

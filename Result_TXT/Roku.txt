@@ -1,0 +1,35 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Roku
+Last month's change: None%
+Websites: 3
+Unique Domains: 3
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Roku is being used
+Finance: 33.33%
+Others: 66.67%
+None: None
+None: None
+None: None
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Roku -
+busy2.straighttalk.com  --  Monthly visits -> 11.9K
+st.myacc.co  --  Monthly visits -> 1.7K
+
+- Geography -
+Roku usage by websites across the globe
+Leading Countries: Websites
+United States: 2

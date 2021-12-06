@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Stella Service
+Last month's change: 3.54%
+Websites: 15309
+Unique Domains: 8690
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Stella Service is being used
+Arts & Entertainment: 9.49%
+Games: 6.55%
+Adult: 5.21%
+Computers Electronics & Technology: 4.38%
+Others: 74.37%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+AirCall
+
+
+- Top Websites Using Stella Service -
+uol.com.br  --  Monthly visits -> 542.3M
+m.avito.ru  --  Monthly visits -> 101.8M
+coinbase.com  --  Monthly visits -> 92.2M
+redfin.com  --  Monthly visits -> 81.8M
+poki.com  --  Monthly visits -> 61M
+ilfattoquotidiano.it  --  Monthly visits -> 53.2M
+tenor.com  --  Monthly visits -> 52.9M
+nexusmods.com  --  Monthly visits -> 41.3M
+upwork.com  --  Monthly visits -> 39.3M
+mercadolibre.cl  --  Monthly visits -> 33.7M
+
+- Geography -
+Stella Service usage by websites across the globe
+Leading Countries: Websites
+United States: 2943
+Russia: 1150
+Germany: 715
+Italy: 575
+Japan: 573
+United Kingdom: 457
+France: 319
+Canada: 307
+Australia: 253
+Brazil: 241
+Rest of the World: 3684

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Vee24
+Last month's change: 17.9%
+Websites: 78
+Unique Domains: 73
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Vee24 is being used
+Vehicles: 20.51%
+Lifestyle: 19.23%
+Travel & Tourism: 8.97%
+Business & Consumer Services: 3.85%
+Others: 47.44%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Vee24 -
+schuh.co.uk  --  Monthly visits -> 4.9M
+goldsmiths.co.uk  --  Monthly visits -> 1.5M
+beaverbrooks.co.uk  --  Monthly visits -> 1.1M
+kurtgeiger.com  --  Monthly visits -> 1.1M
+secure.schuh.co.uk  --  Monthly visits -> 654.8K
+watches-of-switzerland.co.uk  --  Monthly visits -> 617.2K
+audi.es  --  Monthly visits -> 402.6K
+landrover.it  --  Monthly visits -> 295.2K
+toyota.co.il  --  Monthly visits -> 239.9K
+toyota.fi  --  Monthly visits -> 212.8K
+
+- Geography -
+Vee24 usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 16
+Germany: 12
+United States: 5
+Belgium: 3
+Ireland: 3
+Italy: 3
+India: 2
+Israel: 2
+Kazakhstan: 2
+Saudi Arabia: 2
+Rest of the World: 19

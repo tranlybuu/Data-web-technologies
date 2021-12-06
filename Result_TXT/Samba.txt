@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Samba
+Last month's change: 32.9%
+Websites: 1491
+Unique Domains: 248
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Samba is being used
+E-commerce & Shopping: 25.69%
+Computers Electronics & Technology: 12.88%
+Sports: 11.80%
+Lifestyle: 7.65%
+Others: 41.99%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Samba -
+heureka.cz  --  Monthly visits -> 19.2M
+mall.cz  --  Monthly visits -> 8.5M
+heureka.sk  --  Monthly visits -> 7.3M
+mall.sk  --  Monthly visits -> 3M
+mimovrste.com  --  Monthly visits -> 3M
+m.heureka.sk  --  Monthly visits -> 2.2M
+bezrealitky.cz  --  Monthly visits -> 1.4M
+mall.hr  --  Monthly visits -> 1.3M
+mobilni-telefony.heureka.cz  --  Monthly visits -> 1M
+travelplanet.pl  --  Monthly visits -> 1M
+
+- Geography -
+Samba usage by websites across the globe
+Leading Countries: Websites
+Czech Republic: 834
+Slovakia: 452
+Poland: 21
+Hungary: 17
+Austria: 6
+Germany: 6
+France: 4
+Italy: 3
+Romania: 3
+Slovenia: 3
+Rest of the World: 22

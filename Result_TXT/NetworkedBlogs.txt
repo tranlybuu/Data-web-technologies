@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: NetworkedBlogs
+Last month's change: 4.11%
+Websites: 2678
+Unique Domains: 615
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where NetworkedBlogs is being used
+Arts & Entertainment: 2.76%
+Science & Education: 2.32%
+Community & Society: 2.13%
+Food & Drink: 2.02%
+Others: 90.78%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using NetworkedBlogs -
+nihongo-benkyoushimasu.blogspot.com  --  Monthly visits -> 80.5K
+quadrinhosinglorios.blogspot.com  --  Monthly visits -> 73.2K
+viscoform.es  --  Monthly visits -> 66.4K
+akhbarfoot.blogspot.com  --  Monthly visits -> 49.5K
+micuatro.com  --  Monthly visits -> 47.1K
+chrisperridas.blogspot.com  --  Monthly visits -> 42.7K
+northnodeastrology.blogspot.com  --  Monthly visits -> 41.1K
+oshoganga.blogspot.com  --  Monthly visits -> 35.3K
+kaiajoyasuruguay.blogspot.com  --  Monthly visits -> 31K
+theoldfoodie.com  --  Monthly visits -> 30.6K
+
+- Geography -
+NetworkedBlogs usage by websites across the globe
+Leading Countries: Websites
+United States: 653
+Malaysia: 116
+Indonesia: 102
+India: 101
+Canada: 85
+Italy: 83
+Spain: 82
+United Kingdom: 81
+Brazil: 71
+Philippines: 64
+Rest of the World: 867

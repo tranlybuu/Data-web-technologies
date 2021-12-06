@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: StreamRoot
+Last month's change: 5.93%
+Websites: 135
+Unique Domains: 106
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where StreamRoot is being used
+Arts & Entertainment: 20.00%
+News & Media: 10.37%
+Computers Electronics & Technology: 8.89%
+Adult: 5.93%
+Others: 54.81%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using StreamRoot -
+ethnos.gr  --  Monthly visits -> 8.7M
+star.gr  --  Monthly visits -> 5M
+doomovie-hd.com  --  Monthly visits -> 4.3M
+jogjaprov.go.id  --  Monthly visits -> 2.7M
+sweet.tv  --  Monthly visits -> 2.2M
+tvopen.gr  --  Monthly visits -> 1.8M
+watchhallmarktv.com  --  Monthly visits -> 701.5K
+shirl.club  --  Monthly visits -> 680.4K
+prd.go.th  --  Monthly visits -> 443.5K
+owlapps.net  --  Monthly visits -> 360.5K
+
+- Geography -
+StreamRoot usage by websites across the globe
+Leading Countries: Websites
+United States: 17
+Thailand: 14
+France: 11
+Turkey: 8
+Greece: 7
+Spain: 7
+Germany: 5
+Netherlands: 4
+Vietnam: 4
+Colombia: 3
+Rest of the World: 41

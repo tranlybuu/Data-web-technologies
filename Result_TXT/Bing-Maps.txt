@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bing Maps
+Last month's change: 4.95%
+Websites: 2866
+Unique Domains: 1698
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bing Maps is being used
+Business & Consumer Services: 3.04%
+Travel & Tourism: 2.83%
+Computers Electronics & Technology: 2.13%
+Food & Drink: 2.06%
+Others: 89.95%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using Bing Maps -
+br.de  --  Monthly visits -> 19.5M
+pizzahut.com  --  Monthly visits -> 19.1M
+usajobs.gov  --  Monthly visits -> 10.8M
+exteriores.gob.es  --  Monthly visits -> 5M
+login.usajobs.gov  --  Monthly visits -> 3.9M
+tcfbank.com  --  Monthly visits -> 2.2M
+um.si  --  Monthly visits -> 832.4K
+vsu.edu.ph  --  Monthly visits -> 714K
+stores.stopandshop.com  --  Monthly visits -> 546.8K
+restaurants.subway.com  --  Monthly visits -> 469.8K
+
+- Geography -
+Bing Maps usage by websites across the globe
+Leading Countries: Websites
+United States: 704
+Germany: 212
+Italy: 110
+Canada: 83
+Belgium: 48
+United Kingdom: 48
+France: 33
+India: 26
+Spain: 24
+China: 23
+Rest of the World: 395

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CoBrowser
+Last month's change: 0.70%
+Websites: 286
+Unique Domains: 211
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CoBrowser is being used
+Finance: 12.94%
+Computers Electronics & Technology: 8.74%
+Business & Consumer Services: 5.59%
+Vehicles: 4.55%
+Others: 68.18%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using CoBrowser -
+finecobank.com  --  Monthly visits -> 8.5M
+kruidvat.nl  --  Monthly visits -> 6.9M
+portal.achieve3000.com  --  Monthly visits -> 2.3M
+kruidvat.be  --  Monthly visits -> 1.7M
+reliancegeneral.co.in  --  Monthly visits -> 978.8K
+shopfirstlinebenefits.com  --  Monthly visits -> 800K
+b-europe.com  --  Monthly visits -> 708K
+prior.by  --  Monthly visits -> 662.6K
+kadaster.nl  --  Monthly visits -> 508.4K
+loi.nl  --  Monthly visits -> 387.1K
+
+- Geography -
+CoBrowser usage by websites across the globe
+Leading Countries: Websites
+Netherlands: 98
+United States: 37
+Belgium: 14
+United Kingdom: 12
+Canada: 6
+France: 6
+Germany: 6
+India: 6
+Ukraine: 6
+South Korea: 5
+Rest of the World: 32

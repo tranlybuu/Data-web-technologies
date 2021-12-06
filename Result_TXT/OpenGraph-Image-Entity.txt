@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenGraph Image Entity
+Last month's change: 1.42%
+Websites: 11707259
+Unique Domains: 7247791
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenGraph Image Entity is being used
+Arts & Entertainment: 4.55%
+Computers Electronics & Technology: 4.44%
+Science & Education: 3.22%
+Games: 2.40%
+Others: 85.39%
+
+
+- Related Technologies -
+Top Open Graph Tags technologies
+Open Graph Protocol
+OpenGraph Url Entity
+OpenGraph Description Entity
+OpenGraph Type Entity
+OpenGraph Site Name Entity
+
+
+- Top Websites Using OpenGraph Image Entity -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+whatsapp.com  --  Monthly visits -> 3.1B
+
+- Geography -
+OpenGraph Image Entity usage by websites across the globe
+Leading Countries: Websites
+United States: 2169974
+Japan: 686619
+Germany: 414678
+United Kingdom: 410943
+Russia: 389208
+France: 359045
+Canada: 294065
+Italy: 288064
+South Korea: 270975
+Brazil: 227150
+Rest of the World: 3761356

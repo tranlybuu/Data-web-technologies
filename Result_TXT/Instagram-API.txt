@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Instagram API
+Last month's change: 8.15%
+Websites: 43939
+Unique Domains: 35164
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Instagram API is being used
+Lifestyle: 7.03%
+Food & Drink: 3.36%
+Arts & Entertainment: 2.49%
+Computers Electronics & Technology: 2.14%
+Others: 84.98%
+
+
+- Related Technologies -
+Top Social technologies
+Instagram
+Instagram Links
+Facebook Connect
+Facebook Social Plugins
+Twitter
+
+
+- Top Websites Using Instagram API -
+leparisien.fr  --  Monthly visits -> 39.3M
+elfinanciero.com.mx  --  Monthly visits -> 34.7M
+latercera.com  --  Monthly visits -> 24.2M
+semana.com  --  Monthly visits -> 23.8M
+larazon.es  --  Monthly visits -> 21.2M
+pastebin.com  --  Monthly visits -> 20M
+tn.com.ar  --  Monthly visits -> 17M
+nj.com  --  Monthly visits -> 14.9M
+elespectador.com  --  Monthly visits -> 13.5M
+dallasnews.com  --  Monthly visits -> 13.1M
+
+- Geography -
+Instagram API usage by websites across the globe
+Leading Countries: Websites
+United States: 8273
+South Korea: 3208
+Japan: 2918
+Brazil: 1917
+United Kingdom: 1798
+Australia: 1358
+Canada: 1260
+France: 1013
+Italy: 923
+India: 906
+Rest of the World: 15645

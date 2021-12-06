@@ -1,0 +1,45 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SpinGo
+Last month's change: 3.70%
+Websites: 54
+Unique Domains: 48
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SpinGo is being used
+News & Media: 35.19%
+Arts & Entertainment: 9.26%
+Travel & Tourism: 9.26%
+Hobbies & Leisure: 7.41%
+Others: 38.89%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using SpinGo -
+whec.com  --  Monthly visits -> 2.1M
+wkow.com  --  Monthly visits -> 1.8M
+duluthnewstribune.com  --  Monthly visits -> 1.3M
+abqjournal.com  --  Monthly visits -> 1M
+wgem.com  --  Monthly visits -> 778.9K
+unionleader.com  --  Monthly visits -> 669.4K
+wrex.com  --  Monthly visits -> 582K
+thesunchronicle.com  --  Monthly visits -> 399.3K
+sftravel.com  --  Monthly visits -> 271.5K
+whig.com  --  Monthly visits -> 133.8K
+
+- Geography -
+SpinGo usage by websites across the globe
+Leading Countries: Websites
+United States: 48
+Germany: 1
+Japan: 1

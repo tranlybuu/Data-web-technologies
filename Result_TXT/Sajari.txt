@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Sajari
+Last month's change: 0%
+Websites: 574
+Unique Domains: 335
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sajari is being used
+Computers Electronics & Technology: 14.11%
+Science & Education: 13.07%
+Heavy Industry & Engineering: 7.67%
+Finance: 7.14%
+Others: 58.01%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+Captify
+
+
+- Top Websites Using Sajari -
+nsw.gov.au  --  Monthly visits -> 39.9M
+service.nsw.gov.au  --  Monthly visits -> 5.4M
+clearcareonline.com  --  Monthly visits -> 2.4M
+section.io  --  Monthly visits -> 2.2M
+activecampaign.com  --  Monthly visits -> 1.8M
+lmco.com  --  Monthly visits -> 1M
+lockheedmartin.com  --  Monthly visits -> 935.2K
+homeagain.com  --  Monthly visits -> 865K
+brisbane.qld.gov.au  --  Monthly visits -> 792.5K
+cypress.com  --  Monthly visits -> 676.6K
+
+- Geography -
+Sajari usage by websites across the globe
+Leading Countries: Websites
+United States: 304
+Australia: 59
+Canada: 16
+United Kingdom: 10
+Brazil: 9
+China: 9
+Vietnam: 8
+France: 6
+Germany: 6
+India: 6
+Rest of the World: 68

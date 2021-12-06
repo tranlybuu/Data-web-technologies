@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Translate
+Last month's change: 0.96%
+Websites: 353655
+Unique Domains: 245237
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Translate is being used
+Science & Education: 6.33%
+Law & Government: 3.22%
+Computers Electronics & Technology: 2.96%
+Health: 2.42%
+Others: 85.07%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+W3 Total Cache
+
+
+- Top Websites Using Google Translate -
+mediafire.com  --  Monthly visits -> 267.6M
+tripadvisor.com  --  Monthly visits -> 118.8M
+atlassian.net  --  Monthly visits -> 109.9M
+ca.gov  --  Monthly visits -> 80.8M
+watch.impress.co.jp  --  Monthly visits -> 73.7M
+gamepears.com  --  Monthly visits -> 69.5M
+w3schools.com  --  Monthly visits -> 65.3M
+geeksforgeeks.org  --  Monthly visits -> 54.9M
+omegle.com  --  Monthly visits -> 51.8M
+k12.com  --  Monthly visits -> 32.5M
+
+- Geography -
+Google Translate usage by websites across the globe
+Leading Countries: Websites
+United States: 82223
+Japan: 16638
+United Kingdom: 15183
+Italy: 12578
+Spain: 11458
+Brazil: 10734
+Germany: 10310
+India: 10161
+France: 9327
+Russia: 8651
+Rest of the World: 125428

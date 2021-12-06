@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Livestream
+Last month's change: 1.97%
+Websites: 1926
+Unique Domains: 1224
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Livestream is being used
+Arts & Entertainment: 9.76%
+Community & Society: 7.37%
+News & Media: 4.00%
+Science & Education: 3.69%
+Others: 75.18%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Livestream -
+mdlottery.com  --  Monthly visits -> 4.2M
+proz.com  --  Monthly visits -> 3.7M
+oas.org  --  Monthly visits -> 3.5M
+livestream.com  --  Monthly visits -> 3.1M
+ligamx.net  --  Monthly visits -> 2.7M
+livenewsmag.com  --  Monthly visits -> 1.4M
+fomny.com  --  Monthly visits -> 1.3M
+eltelegrafo.com.ec  --  Monthly visits -> 944.2K
+spacecoastdaily.com  --  Monthly visits -> 688.7K
+neworleanssaints.com  --  Monthly visits -> 671.9K
+
+- Geography -
+Livestream usage by websites across the globe
+Leading Countries: Websites
+United States: 449
+Italy: 107
+Germany: 61
+Mexico: 59
+Greece: 56
+Brazil: 49
+Canada: 49
+France: 45
+Spain: 44
+United Kingdom: 39
+Rest of the World: 579

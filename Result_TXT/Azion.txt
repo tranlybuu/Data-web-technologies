@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Azion
+Last month's change: 1.70%
+Websites: 1235
+Unique Domains: 778
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Azion is being used
+E-commerce & Shopping: 9.15%
+Lifestyle: 6.56%
+Computers Electronics & Technology: 4.29%
+Arts & Entertainment: 3.16%
+Others: 76.84%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Azion -
+magazineluiza.com.br  --  Monthly visits -> 103.7M
+m.magazineluiza.com.br  --  Monthly visits -> 63.3M
+bt.dk  --  Monthly visits -> 32.2M
+netshoes.com.br  --  Monthly visits -> 30.9M
+clicrbs.com.br  --  Monthly visits -> 21.8M
+dafiti.com.br  --  Monthly visits -> 17.7M
+tecmundo.com.br  --  Monthly visits -> 17.6M
+correiobraziliense.com.br  --  Monthly visits -> 17.5M
+gauchazh.clicrbs.com.br  --  Monthly visits -> 16.5M
+magazinevoce.com.br  --  Monthly visits -> 15M
+
+- Geography -
+Azion usage by websites across the globe
+Leading Countries: Websites
+Brazil: 840
+United States: 17
+Spain: 9
+Italy: 7
+Japan: 7
+Argentina: 6
+Chile: 6
+China: 5
+France: 5
+Portugal: 5
+Rest of the World: 63

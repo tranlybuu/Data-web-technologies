@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PlayWire
+Last month's change: 0.09%
+Websites: 1083
+Unique Domains: 382
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PlayWire is being used
+Computers Electronics & Technology: 24.28%
+Games: 15.88%
+Arts & Entertainment: 9.79%
+Sports: 3.05%
+Others: 47.00%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using PlayWire -
+asurascans.com  --  Monthly visits -> 42.1M
+reaperscans.com  --  Monthly visits -> 13.6M
+missyusa.com  --  Monthly visits -> 11.8M
+planetminecraft.com  --  Monthly visits -> 10.6M
+warcraftlogs.com  --  Monthly visits -> 10.5M
+kidadl.com  --  Monthly visits -> 8.4M
+symbaloo.com  --  Monthly visits -> 7.9M
+blu-ray.com  --  Monthly visits -> 7.4M
+boxingscene.com  --  Monthly visits -> 7M
+comicbookmovie.com  --  Monthly visits -> 6.8M
+
+- Geography -
+PlayWire usage by websites across the globe
+Leading Countries: Websites
+United States: 273
+India: 45
+Pakistan: 32
+United Kingdom: 31
+Brazil: 26
+Canada: 26
+Italy: 22
+Spain: 21
+France: 20
+China: 19
+Rest of the World: 290

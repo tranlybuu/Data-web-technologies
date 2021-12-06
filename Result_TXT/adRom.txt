@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: adRom
+Last month's change: 5.27%
+Websites: 3664
+Unique Domains: 2121
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where adRom is being used
+Finance: 10.62%
+Science & Education: 7.26%
+Vehicles: 6.99%
+Lifestyle: 6.55%
+Others: 68.59%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using adRom -
+intuit.com  --  Monthly visits -> 108.9M
+sabah.com.tr  --  Monthly visits -> 75.2M
+brightspace.com  --  Monthly visits -> 34.2M
+currys.co.uk  --  Monthly visits -> 30.8M
+usbank.com  --  Monthly visits -> 28.2M
+onlinebanking.usbank.com  --  Monthly visits -> 23.2M
+desire2learn.com  --  Monthly visits -> 20.6M
+easyjet.com  --  Monthly visits -> 18.9M
+carmax.com  --  Monthly visits -> 18.9M
+halifax-online.co.uk  --  Monthly visits -> 17M
+
+- Geography -
+adRom usage by websites across the globe
+Leading Countries: Websites
+United States: 786
+United Kingdom: 246
+Canada: 162
+Germany: 151
+France: 86
+Australia: 74
+Brazil: 73
+Russia: 73
+Sweden: 66
+Japan: 56
+Rest of the World: 841

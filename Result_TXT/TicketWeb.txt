@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TicketWeb
+Last month's change: 1.34%
+Websites: 749
+Unique Domains: 633
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TicketWeb is being used
+Arts & Entertainment: 39.52%
+Food & Drink: 2.40%
+Travel & Tourism: 1.87%
+Science & Education: 1.34%
+Others: 54.87%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using TicketWeb -
+www1.ticketmaster.com  --  Monthly visits -> 29.1M
+songkick.com  --  Monthly visits -> 12.6M
+9news.com  --  Monthly visits -> 6.1M
+ticketweb.com  --  Monthly visits -> 3.6M
+tmntr.ticketmaster.com  --  Monthly visits -> 358K
+improbable.com  --  Monthly visits -> 247.3K
+mwamjapan.info  --  Monthly visits -> 214.5K
+promowestlive.com  --  Monthly visits -> 163.5K
+bluenotejazz.com  --  Monthly visits -> 105.3K
+thecomicscomic.com  --  Monthly visits -> 92.2K
+
+- Geography -
+TicketWeb usage by websites across the globe
+Leading Countries: Websites
+United States: 463
+United Kingdom: 33
+Australia: 17
+Germany: 14
+Canada: 13
+India: 10
+Spain: 9
+France: 7
+Brazil: 6
+Italy: 6
+Rest of the World: 93

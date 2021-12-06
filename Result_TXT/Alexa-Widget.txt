@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Alexa Widget
+Last month's change: 2.58%
+Websites: 5071
+Unique Domains: 2084
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Alexa Widget is being used
+Computers Electronics & Technology: 9.82%
+Science & Education: 5.60%
+News & Media: 3.59%
+Arts & Entertainment: 3.23%
+Others: 77.76%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Alexa Widget -
+cloudigirl.com  --  Monthly visits -> 16.1M
+cloudisexy.com  --  Monthly visits -> 15.9M
+yongyao.net  --  Monthly visits -> 5.3M
+solopos.com  --  Monthly visits -> 4.2M
+ufile.io  --  Monthly visits -> 3.7M
+m.solopos.com  --  Monthly visits -> 3.3M
+subdl.com  --  Monthly visits -> 2.3M
+reklama5.mk  --  Monthly visits -> 2M
+iwanbanaran.com  --  Monthly visits -> 1.9M
+alexa.askfrank.net  --  Monthly visits -> 1.9M
+
+- Geography -
+Alexa Widget usage by websites across the globe
+Leading Countries: Websites
+Indonesia: 733
+United States: 353
+India: 233
+Iran: 192
+Turkey: 156
+Malaysia: 122
+Vietnam: 115
+Algeria: 90
+Germany: 88
+Russia: 88
+Rest of the World: 1418

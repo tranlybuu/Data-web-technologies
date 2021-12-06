@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Sooqr
+Last month's change: 0.83%
+Websites: 1205
+Unique Domains: 995
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Sooqr is being used
+Home & Garden: 9.79%
+E-commerce & Shopping: 8.71%
+Lifestyle: 6.14%
+Computers Electronics & Technology: 4.81%
+Others: 70.54%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+Captify
+
+
+- Top Websites Using Sooqr -
+liberation.fr  --  Monthly visits -> 11.6M
+tubantia.nl  --  Monthly visits -> 5.9M
+w41.torlook.info  --  Monthly visits -> 4M
+hsnstore.com  --  Monthly visits -> 1.2M
+vertaa.fi  --  Monthly visits -> 813.8K
+welkoop.nl  --  Monthly visits -> 786.5K
+vear.egybest.world  --  Monthly visits -> 751.5K
+sensiseeds.com  --  Monthly visits -> 655.4K
+britishcornershop.co.uk  --  Monthly visits -> 607.5K
+drogist.nl  --  Monthly visits -> 557.4K
+
+- Geography -
+Sooqr usage by websites across the globe
+Leading Countries: Websites
+Netherlands: 428
+Belgium: 88
+United States: 83
+Germany: 76
+France: 47
+United Kingdom: 47
+Russia: 44
+China: 20
+Japan: 20
+Spain: 19
+Rest of the World: 229

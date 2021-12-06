@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SalesLoft
+Last month's change: 3.93%
+Websites: 5781
+Unique Domains: 2532
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SalesLoft is being used
+Computers Electronics & Technology: 17.18%
+Business & Consumer Services: 11.71%
+Law & Government: 7.49%
+Finance: 6.90%
+Others: 56.72%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using SalesLoft -
+us04web.zoom.us  --  Monthly visits -> 319.5M
+powerschool.com  --  Monthly visits -> 35.3M
+myschoolapp.com  --  Monthly visits -> 28.3M
+click.linksynergy.com  --  Monthly visits -> 22M
+shipstation.com  --  Monthly visits -> 21.5M
+frontlineeducation.com  --  Monthly visits -> 21.3M
+healthgrades.com  --  Monthly visits -> 20M
+blackbaud.com  --  Monthly visits -> 12.1M
+mimecast.com  --  Monthly visits -> 11.1M
+hotschedules.com  --  Monthly visits -> 10.3M
+
+- Geography -
+SalesLoft usage by websites across the globe
+Leading Countries: Websites
+United States: 2875
+Canada: 191
+United Kingdom: 190
+India: 176
+Philippines: 107
+Australia: 100
+France: 75
+Germany: 59
+Brazil: 39
+Poland: 34
+Rest of the World: 732

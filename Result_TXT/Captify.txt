@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Captify
+Last month's change: 3.11%
+Websites: 2249
+Unique Domains: 1693
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Captify is being used
+Food & Drink: 14.98%
+News & Media: 10.76%
+Sports: 9.74%
+Computers Electronics & Technology: 7.91%
+Others: 56.60%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+AddSearch
+
+
+- Top Websites Using Captify -
+independent.co.uk  --  Monthly visits -> 90.9M
+techradar.com  --  Monthly visits -> 42.6M
+pcgamer.com  --  Monthly visits -> 26M
+standard.co.uk  --  Monthly visits -> 19.6M
+m.focus.de  --  Monthly visits -> 16.8M
+marieclaire.com  --  Monthly visits -> 16.2M
+livescience.com  --  Monthly visits -> 16.2M
+lepoint.fr  --  Monthly visits -> 15.5M
+closermag.fr  --  Monthly visits -> 13.9M
+windowscentral.com  --  Monthly visits -> 13.3M
+
+- Geography -
+Captify usage by websites across the globe
+Leading Countries: Websites
+United States: 539
+United Kingdom: 336
+France: 220
+Italy: 173
+Germany: 134
+Turkey: 76
+Spain: 66
+Canada: 35
+India: 29
+Russia: 27
+Rest of the World: 337

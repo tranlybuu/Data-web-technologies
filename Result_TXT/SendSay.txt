@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SendSay
+Last month's change: 0.23%
+Websites: 1313
+Unique Domains: 966
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SendSay is being used
+Computers Electronics & Technology: 12.26%
+Finance: 9.14%
+Health: 7.69%
+E-commerce & Shopping: 5.41%
+Others: 65.50%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using SendSay -
+avito.ru  --  Monthly visits -> 280.6M
+ozon.ru  --  Monthly visits -> 128.2M
+rbc.ru  --  Monthly visits -> 105.1M
+woman.ru  --  Monthly visits -> 24.8M
+sport-express.ru  --  Monthly visits -> 22.9M
+litres.ru  --  Monthly visits -> 15.8M
+alfabank.ru  --  Monthly visits -> 14.1M
+domclick.ru  --  Monthly visits -> 11.5M
+uslugi.mosreg.ru  --  Monthly visits -> 10.2M
+warthunder.com  --  Monthly visits -> 6.6M
+
+- Geography -
+SendSay usage by websites across the globe
+Leading Countries: Websites
+Russia: 994
+Ukraine: 47
+Kazakhstan: 19
+Belarus: 11
+United States: 9
+United Kingdom: 3
+Belgium: 2
+China: 2
+Germany: 2
+Lithuania: 2
+Rest of the World: 26

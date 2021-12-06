@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cision
+Last month's change: 0.55%
+Websites: 76417
+Unique Domains: 68294
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cision is being used
+Lifestyle: 5.57%
+E-commerce & Shopping: 5.51%
+Home & Garden: 3.66%
+Computers Electronics & Technology: 3.65%
+Others: 81.61%
+
+
+- Related Technologies -
+Top Advocacy technologies
+BBB Seals
+Blackbaud
+Countable Action
+Salsa Labs
+MobileCause
+
+
+- Top Websites Using Cision -
+dhl.de  --  Monthly visits -> 81.2M
+freebitco.in  --  Monthly visits -> 70.8M
+national-lottery.co.uk  --  Monthly visits -> 51.1M
+next.co.uk  --  Monthly visits -> 42.8M
+coppel.com  --  Monthly visits -> 35.8M
+thepiratebay.org  --  Monthly visits -> 29.2M
+vodafone.com.au  --  Monthly visits -> 27.9M
+earth.google.com  --  Monthly visits -> 23.7M
+hkjc.com  --  Monthly visits -> 23.4M
+uscellular.com  --  Monthly visits -> 19.5M
+
+- Geography -
+Cision usage by websites across the globe
+Leading Countries: Websites
+France: 12559
+Spain: 7080
+United States: 5954
+Poland: 4754
+Italy: 4710
+Romania: 2662
+Germany: 2144
+Russia: 2031
+Czech Republic: 1905
+United Kingdom: 1624
+Rest of the World: 25999

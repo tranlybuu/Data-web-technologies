@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Widgets
+Last month's change: 3.46%
+Websites: 15855
+Unique Domains: 6748
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Widgets is being used
+Science & Education: 7.82%
+Computers Electronics & Technology: 5.18%
+Community & Society: 3.26%
+Arts & Entertainment: 3.21%
+Others: 80.52%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Google Widgets -
+praxistipps.focus.de  --  Monthly visits -> 5.3M
+ighome.com  --  Monthly visits -> 4.5M
+kleinanzeige.focus.de  --  Monthly visits -> 3.2M
+2ch-ranking.net  --  Monthly visits -> 2.8M
+chromium.org  --  Monthly visits -> 2.4M
+niederschlagsradar.de  --  Monthly visits -> 1.9M
+neviditelnypes.lidovky.cz  --  Monthly visits -> 1.4M
+prospekte.focus.de  --  Monthly visits -> 1.4M
+tzb-info.cz  --  Monthly visits -> 1.2M
+flickriver.com  --  Monthly visits -> 1.2M
+
+- Geography -
+Google Widgets usage by websites across the globe
+Leading Countries: Websites
+United States: 2434
+Japan: 703
+Spain: 559
+India: 438
+Italy: 399
+Brazil: 362
+Indonesia: 346
+France: 336
+United Kingdom: 326
+Germany: 314
+Rest of the World: 4739

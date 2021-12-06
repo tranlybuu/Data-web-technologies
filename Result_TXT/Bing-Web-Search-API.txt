@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bing Web Search API
+Last month's change: 2.30%
+Websites: 87
+Unique Domains: 63
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bing Web Search API is being used
+Computers Electronics & Technology: 20.69%
+Sports: 16.09%
+Science & Education: 14.94%
+Health: 10.34%
+Others: 37.93%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+Captify
+
+
+- Top Websites Using Bing Web Search API -
+hopkinsmedicine.org  --  Monthly visits -> 14.3M
+newdelhiairport.in  --  Monthly visits -> 3.1M
+upes.ac.in  --  Monthly visits -> 1.4M
+ffhandball.fr  --  Monthly visits -> 1M
+fis-ski.com  --  Monthly visits -> 783.8K
+techsoup.org  --  Monthly visits -> 456.9K
+samtec.com  --  Monthly visits -> 419.5K
+jhmi.edu  --  Monthly visits -> 328.4K
+overseas.cup.edu.cn  --  Monthly visits -> 310.6K
+midmark.com  --  Monthly visits -> 131.1K
+
+- Geography -
+Bing Web Search API usage by websites across the globe
+Leading Countries: Websites
+United States: 37
+France: 7
+India: 6
+Japan: 6
+Russia: 4
+Finland: 3
+United Kingdom: 3
+China: 2
+Vietnam: 2
+Colombia: 1
+Rest of the World: 10

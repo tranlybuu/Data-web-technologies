@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PushAssist
+Last month's change: 2.66%
+Websites: 489
+Unique Domains: 333
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PushAssist is being used
+Lifestyle: 7.57%
+Computers Electronics & Technology: 7.36%
+News & Media: 5.11%
+Arts & Entertainment: 4.50%
+Others: 75.46%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using PushAssist -
+winnersandwhiners.com  --  Monthly visits -> 1.5M
+walkthroughindia.com  --  Monthly visits -> 1M
+kapitalis.com  --  Monthly visits -> 748.5K
+andrewchristian.com  --  Monthly visits -> 566.7K
+gabonreview.com  --  Monthly visits -> 496.7K
+agronews.com  --  Monthly visits -> 460.5K
+argolikeseidhseis.gr  --  Monthly visits -> 457.7K
+tajaveggies.online  --  Monthly visits -> 360.5K
+sikhosikhao.in  --  Monthly visits -> 336.4K
+procosplay.com  --  Monthly visits -> 270.3K
+
+- Geography -
+PushAssist usage by websites across the globe
+Leading Countries: Websites
+United States: 84
+India: 39
+Brazil: 21
+Greece: 20
+Indonesia: 16
+Russia: 15
+Poland: 13
+Romania: 11
+France: 10
+Argentina: 9
+Rest of the World: 140

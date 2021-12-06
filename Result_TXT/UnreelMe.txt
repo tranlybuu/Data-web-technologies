@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UnreelMe
+Last month's change: 10.9%
+Websites: 46
+Unique Domains: 26
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UnreelMe is being used
+Arts & Entertainment: 17.39%
+Sports: 6.52%
+Computers Electronics & Technology: 2.17%
+Games: 2.17%
+Others: 71.74%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using UnreelMe -
+blazetv.com  --  Monthly visits -> 1.7M
+ghostgunner.net  --  Monthly visits -> 61.3K
+nosey.com  --  Monthly visits -> 35.1K
+watch.indieflix.com  --  Monthly visits -> 27.1K
+watch.liftable.tv  --  Monthly visits -> 24.1K
+dawsonknives.com  --  Monthly visits -> 14.2K
+videos.recoilweb.com  --  Monthly visits -> 11.8K
+tv.hightimes.com  --  Monthly visits -> 8.7K
+khochat.com  --  Monthly visits -> 7.6K
+watch.restflix.com  --  Monthly visits -> 6.4K
+
+- Geography -
+UnreelMe usage by websites across the globe
+Leading Countries: Websites
+United States: 21
+India: 4
+Canada: 3
+United Kingdom: 3
+Australia: 2
+Vietnam: 2
+Denmark: 1
+Finland: 1
+Germany: 1
+Mexico: 1
+Rest of the World: 3

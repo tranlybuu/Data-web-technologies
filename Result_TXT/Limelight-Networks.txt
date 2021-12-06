@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Limelight Networks
+Last month's change: 0.80%
+Websites: 5869
+Unique Domains: 2540
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Limelight Networks is being used
+Computers Electronics & Technology: 7.04%
+Arts & Entertainment: 6.66%
+Science & Education: 3.20%
+Adult: 2.98%
+Others: 80.12%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Limelight Networks -
+samsung.com  --  Monthly visits -> 805.5M
+bet365.com  --  Monthly visits -> 327.5M
+apps.samsung.com  --  Monthly visits -> 149.8M
+marketwatch.com  --  Monthly visits -> 72.6M
+mxplayer.in  --  Monthly visits -> 55.2M
+state.gov  --  Monthly visits -> 48.1M
+weblio.jp  --  Monthly visits -> 40.6M
+m.samsung.com  --  Monthly visits -> 37.7M
+content.samsung.com  --  Monthly visits -> 27.2M
+bet365.mx  --  Monthly visits -> 24.4M
+
+- Geography -
+Limelight Networks usage by websites across the globe
+Leading Countries: Websites
+United States: 1397
+Japan: 589
+Germany: 181
+United Kingdom: 161
+Canada: 160
+India: 145
+France: 122
+Italy: 90
+Russia: 79
+Brazil: 75
+Rest of the World: 1414

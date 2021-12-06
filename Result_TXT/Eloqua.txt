@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Eloqua
+Last month's change: 0.39%
+Websites: 13739
+Unique Domains: 9225
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Eloqua is being used
+Computers Electronics & Technology: 15.40%
+Business & Consumer Services: 8.01%
+Finance: 7.88%
+Science & Education: 6.33%
+Others: 62.38%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Eloqua -
+samsung.com  --  Monthly visits -> 805.5M
+blackboard.com  --  Monthly visits -> 167.2M
+adp.com  --  Monthly visits -> 82.4M
+service-now.com  --  Monthly visits -> 56.7M
+istockphoto.com  --  Monthly visits -> 50.7M
+wiley.com  --  Monthly visits -> 46.5M
+cengage.com  --  Monthly visits -> 36.7M
+docusign.com  --  Monthly visits -> 28.7M
+edgenuity.com  --  Monthly visits -> 22.7M
+cardinalcommerce.com  --  Monthly visits -> 21.5M
+
+- Geography -
+Eloqua usage by websites across the globe
+Leading Countries: Websites
+United States: 4115
+Japan: 914
+Australia: 530
+United Kingdom: 482
+China: 407
+Germany: 381
+Canada: 372
+France: 355
+Italy: 322
+India: 315
+Rest of the World: 3870

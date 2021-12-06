@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SleekNote
+Last month's change: 2.89%
+Websites: 6436
+Unique Domains: 5478
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SleekNote is being used
+Lifestyle: 7.94%
+Home & Garden: 5.69%
+Computers Electronics & Technology: 4.63%
+Business & Consumer Services: 3.90%
+Others: 77.84%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using SleekNote -
+hln.be  --  Monthly visits -> 58.4M
+bestreviews.guide  --  Monthly visits -> 29.9M
+m.hln.be  --  Monthly visits -> 21M
+bestdeals.today  --  Monthly visits -> 13.7M
+uk.bestreviews.guide  --  Monthly visits -> 7.8M
+infocert.it  --  Monthly visits -> 6.7M
+finansavisen.no  --  Monthly visits -> 6.6M
+similarweb.com  --  Monthly visits -> 5M
+borsen.dk  --  Monthly visits -> 4.9M
+jyllands-posten.dk  --  Monthly visits -> 4.8M
+
+- Geography -
+SleekNote usage by websites across the globe
+Leading Countries: Websites
+Denmark: 2555
+United States: 767
+Norway: 410
+Sweden: 325
+Germany: 272
+United Kingdom: 245
+Netherlands: 193
+Italy: 92
+Finland: 83
+Australia: 81
+Rest of the World: 1047

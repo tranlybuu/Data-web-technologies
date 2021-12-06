@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Civic
+Last month's change: 5.81%
+Websites: 101460
+Unique Domains: 52547
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Civic is being used
+Science & Education: 3.95%
+Food & Drink: 3.88%
+Pets & Animals: 2.43%
+Health: 2.30%
+Others: 87.44%
+
+
+- Related Technologies -
+Top Marketing technologies
+Google Marketing Platform
+Adobe Marketing Cloud
+Zotabox
+On24
+TownNews
+
+
+- Top Websites Using Civic -
+taobao.com  --  Monthly visits -> 370.1M
+forbes.com  --  Monthly visits -> 105.9M
+s.taobao.com  --  Monthly visits -> 77.1M
+ask.com  --  Monthly visits -> 52.1M
+flashtalking.com  --  Monthly visits -> 48.8M
+search.ask.com  --  Monthly visits -> 36.8M
+metoffice.gov.uk  --  Monthly visits -> 30.5M
+eba.gov.tr  --  Monthly visits -> 24.9M
+jimdofree.com  --  Monthly visits -> 21.7M
+onthemarket.com  --  Monthly visits -> 19.6M
+
+- Geography -
+Civic usage by websites across the globe
+Leading Countries: Websites
+Japan: 16597
+Germany: 15093
+United Kingdom: 5307
+France: 4716
+United States: 3840
+Switzerland: 2346
+Italy: 2284
+Austria: 2021
+Netherlands: 1713
+Spain: 1586
+Rest of the World: 12444

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: mrp
+Last month's change: 2.85%
+Websites: 2350
+Unique Domains: 1708
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where mrp is being used
+Computers Electronics & Technology: 9.49%
+Vehicles: 4.72%
+News & Media: 4.64%
+Health: 4.51%
+Others: 76.64%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using mrp -
+hltv.org  --  Monthly visits -> 36.7M
+bt.dk  --  Monthly visits -> 32.2M
+delfi.lt  --  Monthly visits -> 27.8M
+newzit.com  --  Monthly visits -> 26.6M
+abola.pt  --  Monthly visits -> 25.5M
+idokep.hu  --  Monthly visits -> 23.8M
+fanatik.com.tr  --  Monthly visits -> 22.4M
+adnkronos.com  --  Monthly visits -> 14M
+tn.nova.cz  --  Monthly visits -> 13.2M
+m.delfi.lt  --  Monthly visits -> 12.9M
+
+- Geography -
+mrp usage by websites across the globe
+Leading Countries: Websites
+United States: 568
+Germany: 259
+United Kingdom: 96
+Slovakia: 87
+Italy: 74
+Poland: 74
+Netherlands: 66
+Denmark: 62
+France: 55
+India: 54
+Rest of the World: 527

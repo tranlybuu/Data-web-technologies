@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BandsInTown
+Last month's change: 23.6%
+Websites: 3907
+Unique Domains: 3694
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BandsInTown is being used
+Arts & Entertainment: 31.71%
+Computers Electronics & Technology: 3.56%
+Games: 2.33%
+Community & Society: 2.05%
+Others: 60.35%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using BandsInTown -
+indiatoday.in  --  Monthly visits -> 69.7M
+hltv.org  --  Monthly visits -> 36.7M
+bt.dk  --  Monthly visits -> 32.2M
+delfi.lt  --  Monthly visits -> 27.8M
+newzit.com  --  Monthly visits -> 26.6M
+abola.pt  --  Monthly visits -> 25.5M
+azlyrics.com  --  Monthly visits -> 23.9M
+idokep.hu  --  Monthly visits -> 23.8M
+tn.nova.cz  --  Monthly visits -> 13.2M
+m.delfi.lt  --  Monthly visits -> 12.9M
+
+- Geography -
+BandsInTown usage by websites across the globe
+Leading Countries: Websites
+United States: 1847
+Germany: 319
+United Kingdom: 234
+France: 133
+Netherlands: 97
+Italy: 90
+Canada: 86
+Australia: 71
+Poland: 71
+Spain: 61
+Rest of the World: 824

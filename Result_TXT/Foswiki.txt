@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Foswiki
+Last month's change: 0.98%
+Websites: 407
+Unique Domains: 306
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Foswiki is being used
+Computers Electronics & Technology: 29.48%
+Science & Education: 12.53%
+Health: 1.23%
+Law & Government: 1.23%
+Others: 55.53%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Foswiki -
+wiki2.wiki  --  Monthly visits -> 973.7K
+identity.fu-berlin.de  --  Monthly visits -> 935.5K
+zedat.fu-berlin.de  --  Monthly visits -> 641.8K
+cafe.ufba.br  --  Monthly visits -> 504.8K
+salerno.occhionotizie.it  --  Monthly visits -> 339.3K
+userpage.fu-berlin.de  --  Monthly visits -> 231.5K
+asap.utsa.edu  --  Monthly visits -> 210.2K
+ja.wikinew.wiki  --  Monthly visits -> 204.1K
+lintas.info  --  Monthly visits -> 183K
+msx.org  --  Monthly visits -> 142.2K
+
+- Geography -
+Foswiki usage by websites across the globe
+Leading Countries: Websites
+United States: 72
+Germany: 46
+India: 21
+France: 19
+China: 15
+Japan: 15
+Netherlands: 15
+Russia: 13
+Spain: 12
+Brazil: 10
+Rest of the World: 141

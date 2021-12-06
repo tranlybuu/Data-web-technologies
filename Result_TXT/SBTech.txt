@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SBTech
+Last month's change: 5.84%
+Websites: 137
+Unique Domains: 96
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SBTech is being used
+Gambling: 53.28%
+Adult: 0.73%
+Arts & Entertainment: 0.73%
+Sports: 0.73%
+Others: 44.53%
+
+
+- Related Technologies -
+Top Other technologies
+Google API
+Minute Media
+Clarifai
+None
+None
+
+
+- Top Websites Using SBTech -
+sportsbook.draftkings.com  --  Monthly visits -> 6.1M
+mansionbet.com  --  Monthly visits -> 635.5K
+etopaz.az  --  Monthly visits -> 546.9K
+bet.co.za  --  Monthly visits -> 520.2K
+uk.mansionbet.com  --  Monthly visits -> 505.1K
+casino.draftkings.com  --  Monthly visits -> 455.1K
+ganabet.mx  --  Monthly visits -> 453.9K
+10bet.com  --  Monthly visits -> 326.2K
+sportnation.bet  --  Monthly visits -> 316.8K
+betfirst.dhnet.be  --  Monthly visits -> 299.5K
+
+- Geography -
+SBTech usage by websites across the globe
+Leading Countries: Websites
+United Kingdom: 19
+Bulgaria: 11
+United States: 7
+Sweden: 5
+South Africa: 4
+Spain: 4
+Belgium: 3
+Canada: 3
+Germany: 3
+Mexico: 3
+Rest of the World: 34

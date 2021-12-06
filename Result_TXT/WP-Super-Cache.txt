@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WP Super Cache
+Last month's change: 10.7%
+Websites: 222901
+Unique Domains: 210260
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WP Super Cache is being used
+Computers Electronics & Technology: 5.46%
+Science & Education: 3.34%
+Arts & Entertainment: 3.28%
+News & Media: 2.67%
+Others: 85.25%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using WP Super Cache -
+otto.de  --  Monthly visits -> 65.2M
+zerodha.com  --  Monthly visits -> 55.8M
+istoe.com.br  --  Monthly visits -> 49.3M
+gestyy.com  --  Monthly visits -> 22.3M
+kunmanga.com  --  Monthly visits -> 20.9M
+doramy.club  --  Monthly visits -> 20.3M
+katmoviehd.st  --  Monthly visits -> 20.3M
+dogdrip.net  --  Monthly visits -> 19.4M
+libae.jp  --  Monthly visits -> 19.2M
+mangatx.com  --  Monthly visits -> 19M
+
+- Geography -
+WP Super Cache usage by websites across the globe
+Leading Countries: Websites
+United States: 39662
+Russia: 16723
+France: 10902
+Germany: 10006
+Japan: 8352
+United Kingdom: 7556
+Italy: 7490
+Spain: 6663
+Netherlands: 5625
+Brazil: 5404
+Rest of the World: 93407

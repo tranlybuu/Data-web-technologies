@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UserCentrics
+Last month's change: 95.0%
+Websites: 10305
+Unique Domains: 9185
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UserCentrics is being used
+Heavy Industry & Engineering: 4.59%
+Computers Electronics & Technology: 4.34%
+Business & Consumer Services: 4.18%
+Health: 3.89%
+Others: 83.00%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+CookieBot
+
+
+- Top Websites Using UserCentrics -
+wetter.com  --  Monthly visits -> 48.2M
+zalando.de  --  Monthly visits -> 32.5M
+immowelt.de  --  Monthly visits -> 18.6M
+zalando.it  --  Monthly visits -> 18M
+zalando.pl  --  Monthly visits -> 16.9M
+zalando.nl  --  Monthly visits -> 16.5M
+zalando.fr  --  Monthly visits -> 15.2M
+myhermes.de  --  Monthly visits -> 14.7M
+adac.de  --  Monthly visits -> 14.3M
+hornbach.de  --  Monthly visits -> 12.4M
+
+- Geography -
+UserCentrics usage by websites across the globe
+Leading Countries: Websites
+Germany: 7034
+Austria: 401
+United States: 288
+Italy: 269
+Switzerland: 231
+France: 202
+United Kingdom: 157
+Netherlands: 146
+Poland: 119
+Japan: 111
+Rest of the World: 1324

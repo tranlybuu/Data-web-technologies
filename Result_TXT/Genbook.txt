@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Genbook
+Last month's change: 0%
+Websites: 1118
+Unique Domains: 1069
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Genbook is being used
+Health: 3.85%
+Lifestyle: 2.86%
+Science & Education: 2.77%
+Sports: 1.52%
+Others: 89.00%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using Genbook -
+clemson.edu  --  Monthly visits -> 2.4M
+q13fox.com  --  Monthly visits -> 1.8M
+wisebarber.com  --  Monthly visits -> 392.4K
+admissions.clemson.edu  --  Monthly visits -> 121.7K
+cecas.clemson.edu  --  Monthly visits -> 101.7K
+cs.clemson.edu  --  Monthly visits -> 99.4K
+fromtheheartproductions.com  --  Monthly visits -> 95.5K
+dyc.edu  --  Monthly visits -> 75K
+aidiles.com  --  Monthly visits -> 69.5K
+itsybitsybookbits.com  --  Monthly visits -> 68.5K
+
+- Geography -
+Genbook usage by websites across the globe
+Leading Countries: Websites
+United States: 811
+Canada: 82
+India: 12
+France: 6
+Philippines: 6
+Bangladesh: 4
+China: 4
+Germany: 4
+Japan: 4
+Netherlands: 4
+Rest of the World: 56

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: AddEvent
+Last month's change: 0.89%
+Websites: 8672
+Unique Domains: 6291
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where AddEvent is being used
+Science & Education: 9.41%
+Health: 5.12%
+Business & Consumer Services: 4.61%
+Law & Government: 4.26%
+Others: 76.60%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+Brown Paper Tickets
+Cvent
+BandsInTown
+
+
+- Top Websites Using AddEvent -
+freshdesk.com  --  Monthly visits -> 24.6M
+seeking.com  --  Monthly visits -> 10.8M
+etix.com  --  Monthly visits -> 9.6M
+renweb1.renweb.com  --  Monthly visits -> 5.1M
+hopin.com  --  Monthly visits -> 5M
+bvsalud.org  --  Monthly visits -> 4.9M
+freshchat.com  --  Monthly visits -> 4.2M
+uspto.gov  --  Monthly visits -> 3.9M
+tapinto.net  --  Monthly visits -> 3.5M
+resmed.com  --  Monthly visits -> 3.4M
+
+- Geography -
+AddEvent usage by websites across the globe
+Leading Countries: Websites
+United States: 3502
+United Kingdom: 456
+Canada: 340
+Australia: 250
+France: 250
+India: 170
+Italy: 161
+Germany: 138
+Ukraine: 119
+Russia: 117
+Rest of the World: 2081

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Liftopia
+Last month's change: 0%
+Websites: 268
+Unique Domains: 182
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Liftopia is being used
+Sports: 29.48%
+Travel & Tourism: 10.07%
+Business & Consumer Services: 2.24%
+Hobbies & Leisure: 1.87%
+Others: 56.34%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Booker
+Peek
+
+
+- Top Websites Using Liftopia -
+avantlink.com  --  Monthly visits -> 2.4M
+10best.com  --  Monthly visits -> 1.5M
+quadpay.com  --  Monthly visits -> 523K
+allianzworldwidepartners.com  --  Monthly visits -> 443.4K
+tripbuzz.com  --  Monthly visits -> 411.5K
+theadventurejunkies.com  --  Monthly visits -> 284.4K
+localfreshies.com  --  Monthly visits -> 242.5K
+thebanffblog.com  --  Monthly visits -> 151.4K
+skiing.substack.com  --  Monthly visits -> 144.9K
+schweitzer.com  --  Monthly visits -> 130K
+
+- Geography -
+Liftopia usage by websites across the globe
+Leading Countries: Websites
+United States: 124
+Canada: 15
+United Kingdom: 8
+France: 7
+Italy: 7
+Spain: 5
+Germany: 4
+India: 3
+Philippines: 3
+Switzerland: 3
+Rest of the World: 23

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OneTrust
+Last month's change: 6.15%
+Websites: 201856
+Unique Domains: 56752
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OneTrust is being used
+Computers Electronics & Technology: 11.43%
+Finance: 4.22%
+Science & Education: 4.14%
+Business & Consumer Services: 3.84%
+Others: 76.37%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+CookieBot
+UK Cookie Consent
+
+
+- Top Websites Using OneTrust -
+netflix.com  --  Monthly visits -> 2.7B
+espn.com  --  Monthly visits -> 628.4M
+instructure.com  --  Monthly visits -> 573.1M
+cnn.com  --  Monthly visits -> 510.4M
+spotify.com  --  Monthly visits -> 422.6M
+outbrain.com  --  Monthly visits -> 373M
+hotstar.com  --  Monthly visits -> 323.8M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+disneyplus.com  --  Monthly visits -> 268.7M
+zillow.com  --  Monthly visits -> 263.4M
+
+- Geography -
+OneTrust usage by websites across the globe
+Leading Countries: Websites
+United States: 49057
+United Kingdom: 10248
+Germany: 7019
+Japan: 6956
+France: 6637
+Canada: 4595
+Spain: 4586
+Poland: 3905
+India: 3421
+Brazil: 3386
+Rest of the World: 55643

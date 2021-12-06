@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: VideoJS
+Last month's change: 0.39%
+Websites: 648665
+Unique Domains: 308852
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where VideoJS is being used
+Science & Education: 6.60%
+Adult: 5.21%
+Computers Electronics & Technology: 3.88%
+Arts & Entertainment: 3.37%
+Others: 80.94%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+Facebook Video
+jPlayer
+HTTP Live Streaming (HLS)
+
+
+- Top Websites Using VideoJS -
+amazon.com  --  Monthly visits -> 2.5B
+msn.com  --  Monthly visits -> 1B
+amazon.co.jp  --  Monthly visits -> 603.7M
+amazon.de  --  Monthly visits -> 498.4M
+amazon.co.uk  --  Monthly visits -> 408.6M
+spankbang.com  --  Monthly visits -> 390.9M
+amazon.in  --  Monthly visits -> 381.2M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+tumblr.com  --  Monthly visits -> 299M
+m.spankbang.com  --  Monthly visits -> 293.9M
+
+- Geography -
+VideoJS usage by websites across the globe
+Leading Countries: Websites
+United States: 126397
+Taiwan: 34115
+China: 22817
+Germany: 19001
+United Kingdom: 16992
+Canada: 15954
+Italy: 11164
+France: 10731
+Australia: 9985
+Russia: 9846
+Rest of the World: 155907

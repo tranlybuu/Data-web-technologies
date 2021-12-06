@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Zoomd
+Last month's change: 32.2%
+Websites: 990
+Unique Domains: 853
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Zoomd is being used
+News & Media: 7.78%
+Arts & Entertainment: 3.74%
+Computers Electronics & Technology: 2.42%
+Community & Society: 2.12%
+Others: 83.94%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+Hupso
+SiteSearch 360
+Captify
+
+
+- Top Websites Using Zoomd -
+abs-cbn.com  --  Monthly visits -> 21.4M
+gmanetwork.com  --  Monthly visits -> 13.7M
+webdunia.com  --  Monthly visits -> 11M
+jpost.com  --  Monthly visits -> 10.6M
+maariv.co.il  --  Monthly visits -> 10.4M
+sport-fm.gr  --  Monthly visits -> 9.9M
+manilatimes.net  --  Monthly visits -> 8.3M
+pcwelt.de  --  Monthly visits -> 8M
+sport5.co.il  --  Monthly visits -> 7.9M
+philstar.com  --  Monthly visits -> 7.6M
+
+- Geography -
+Zoomd usage by websites across the globe
+Leading Countries: Websites
+United States: 243
+Israel: 69
+United Kingdom: 57
+Australia: 32
+Brazil: 32
+Canada: 32
+Philippines: 28
+France: 25
+Russia: 21
+India: 18
+Rest of the World: 260

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: DiggThis
+Last month's change: 1.13%
+Websites: 1059
+Unique Domains: 640
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DiggThis is being used
+Computers Electronics & Technology: 13.88%
+Arts & Entertainment: 5.76%
+Games: 4.25%
+Science & Education: 3.49%
+Others: 72.62%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using DiggThis -
+nagpurtoday.in  --  Monthly visits -> 1.3M
+rlslog.net  --  Monthly visits -> 321.4K
+kentchemistry.com  --  Monthly visits -> 254.6K
+stonekettle.com  --  Monthly visits -> 170K
+thelastpsychiatrist.com  --  Monthly visits -> 169.1K
+automotiveforums.com  --  Monthly visits -> 148.5K
+snap.stanford.edu  --  Monthly visits -> 139.9K
+iqcomparisonsite.com  --  Monthly visits -> 136.4K
+toonjet.com  --  Monthly visits -> 90.2K
+ecomodder.com  --  Monthly visits -> 89K
+
+- Geography -
+DiggThis usage by websites across the globe
+Leading Countries: Websites
+United States: 390
+India: 52
+United Kingdom: 46
+China: 31
+Canada: 27
+France: 24
+Germany: 24
+Spain: 19
+Brazil: 18
+Australia: 17
+Rest of the World: 312

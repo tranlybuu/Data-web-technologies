@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CheckFront
+Last month's change: 2.02%
+Websites: 3024
+Unique Domains: 2245
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CheckFront is being used
+Travel & Tourism: 16.04%
+Sports: 5.19%
+Food & Drink: 4.07%
+Hobbies & Leisure: 1.72%
+Others: 72.98%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+Booker
+Peek
+Vagaro
+
+
+- Top Websites Using CheckFront -
+slant.co  --  Monthly visits -> 2.5M
+freetoursbyfoot.com  --  Monthly visits -> 1.2M
+magnolia.com  --  Monthly visits -> 1.2M
+checkfront.com  --  Monthly visits -> 1M
+windcave.com  --  Monthly visits -> 636.9K
+shop.magnolia.com  --  Monthly visits -> 592.1K
+aimultiple.com  --  Monthly visits -> 498.1K
+rojaklah.com  --  Monthly visits -> 484.2K
+parks.org.il  --  Monthly visits -> 400.6K
+holidayinnclub.com  --  Monthly visits -> 343.7K
+
+- Geography -
+CheckFront usage by websites across the globe
+Leading Countries: Websites
+United States: 1052
+Canada: 437
+United Kingdom: 193
+Australia: 140
+Germany: 66
+New Zealand: 52
+France: 45
+Ireland: 39
+Italy: 35
+Netherlands: 34
+Rest of the World: 496

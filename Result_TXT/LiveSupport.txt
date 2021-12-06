@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LiveSupport
+Last month's change: 4.40%
+Websites: 91
+Unique Domains: 87
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveSupport is being used
+Computers Electronics & Technology: 13.19%
+Heavy Industry & Engineering: 10.99%
+Lifestyle: 8.79%
+Sports: 6.59%
+Others: 60.44%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using LiveSupport -
+venezia.pl  --  Monthly visits -> 814.4K
+sportstylestory.com  --  Monthly visits -> 674.8K
+sklep.alablaboratoria.pl  --  Monthly visits -> 226.1K
+unisono.eu  --  Monthly visits -> 217.9K
+outhorn.com  --  Monthly visits -> 198.5K
+technika-grzewcza-sklep.pl  --  Monthly visits -> 184.4K
+inforfk.pl  --  Monthly visits -> 126.1K
+aparts.pl  --  Monthly visits -> 85.3K
+cetel-hurtownia.pl  --  Monthly visits -> 70.6K
+traveliada.pl  --  Monthly visits -> 67.7K
+
+- Geography -
+LiveSupport usage by websites across the globe
+Leading Countries: Websites
+Poland: 80
+United Kingdom: 2
+Austria: 1
+Belgium: 1
+Finland: 1
+Greece: 1
+Turkey: 1

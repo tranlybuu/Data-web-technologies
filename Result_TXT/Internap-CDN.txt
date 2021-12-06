@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Internap CDN
+Last month's change: 2.33%
+Websites: 43
+Unique Domains: 40
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Internap CDN is being used
+Computers Electronics & Technology: 13.95%
+Science & Education: 9.30%
+Arts & Entertainment: 6.98%
+E-commerce & Shopping: 4.65%
+Others: 65.12%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Internap CDN -
+vtechphones.com  --  Monthly visits -> 100.5K
+ifood.tv  --  Monthly visits -> 93.2K
+vtechkids.com  --  Monthly visits -> 83.4K
+vtp-media.com  --  Monthly visits -> 55.5K
+drmcninja.com  --  Monthly visits -> 51.9K
+fawesome.tv  --  Monthly visits -> 31.1K
+directfrompublisher.com  --  Monthly visits -> 25K
+nutritionrank.com  --  Monthly visits -> 14.9K
+futuretodayinc.com  --  Monthly visits -> 14.4K
+fpl.edu.br  --  Monthly visits -> 12.1K
+
+- Geography -
+Internap CDN usage by websites across the globe
+Leading Countries: Websites
+United States: 25
+Uruguay: 4
+Australia: 2
+India: 2
+Argentina: 1
+Austria: 1
+Barbados: 1
+Brazil: 1
+France: 1
+Hong Kong: 1
+Rest of the World: 2

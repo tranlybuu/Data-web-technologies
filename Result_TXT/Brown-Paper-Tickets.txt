@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Brown Paper Tickets
+Last month's change: 1.64%
+Websites: 5130
+Unique Domains: 4402
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Brown Paper Tickets is being used
+Arts & Entertainment: 14.76%
+Food & Drink: 3.61%
+Science & Education: 2.65%
+News & Media: 1.77%
+Others: 77.21%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Cvent
+BandsInTown
+
+
+- Top Websites Using Brown Paper Tickets -
+patch.com  --  Monthly visits -> 34.7M
+xkcd.com  --  Monthly visits -> 5M
+wbur.org  --  Monthly visits -> 2.1M
+coasttocoastam.com  --  Monthly visits -> 1.8M
+q13fox.com  --  Monthly visits -> 1.8M
+schoolandcollegelistings.com  --  Monthly visits -> 1.7M
+localgymsandfitness.com  --  Monthly visits -> 1.6M
+idcrawl.com  --  Monthly visits -> 923.8K
+fictionalley.org  --  Monthly visits -> 699K
+kdrv.com  --  Monthly visits -> 496.7K
+
+- Geography -
+Brown Paper Tickets usage by websites across the globe
+Leading Countries: Websites
+United States: 3311
+Canada: 246
+United Kingdom: 187
+Germany: 76
+India: 66
+Australia: 57
+France: 40
+Philippines: 38
+Japan: 35
+Netherlands: 35
+Rest of the World: 498

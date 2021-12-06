@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenGraph Type Entity
+Last month's change: 1.55%
+Websites: 11767655
+Unique Domains: 7539110
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenGraph Type Entity is being used
+Arts & Entertainment: 4.44%
+Computers Electronics & Technology: 4.31%
+Science & Education: 3.00%
+Games: 2.24%
+Others: 86.01%
+
+
+- Related Technologies -
+Top Open Graph Tags technologies
+Open Graph Protocol
+OpenGraph Url Entity
+OpenGraph Description Entity
+OpenGraph Image Entity
+OpenGraph Site Name Entity
+
+
+- Top Websites Using OpenGraph Type Entity -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+drive.google.com  --  Monthly visits -> 2.8B
+
+- Geography -
+OpenGraph Type Entity usage by websites across the globe
+Leading Countries: Websites
+United States: 2195235
+Japan: 722814
+Germany: 427184
+United Kingdom: 421149
+Russia: 378190
+France: 364814
+Canada: 297863
+South Korea: 293242
+Italy: 290682
+Brazil: 225052
+Rest of the World: 3767798

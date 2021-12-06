@@ -1,0 +1,46 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Wochit
+Last month's change: None%
+Websites: 26
+Unique Domains: 23
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Wochit is being used
+News & Media: 42.31%
+Finance: 7.69%
+Pets & Animals: 7.69%
+Community & Society: 3.85%
+Others: 38.46%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+UStream
+
+
+- Top Websites Using Wochit -
+archive.jsonline.com  --  Monthly visits -> 149.7K
+archive.knoxnews.com  --  Monthly visits -> 65K
+eu.news-leader.com  --  Monthly visits -> 40.1K
+eu.elpasotimes.com  --  Monthly visits -> 28K
+archive.tcpalm.com  --  Monthly visits -> 22.4K
+eu.pnj.com  --  Monthly visits -> 18.5K
+arizonacentral.com  --  Monthly visits -> 10.5K
+archive.caller.com  --  Monthly visits -> 10.1K
+cm.elpasotimes.com  --  Monthly visits -> 6.1K
+jobs.elpasotimes.com  --  Monthly visits -> 5.4K
+
+- Geography -
+Wochit usage by websites across the globe
+Leading Countries: Websites
+United States: 12
+United Kingdom: 2
+Germany: 1
+South Korea: 1

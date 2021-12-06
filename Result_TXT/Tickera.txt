@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Tickera
+Last month's change: 2.38%
+Websites: 1386
+Unique Domains: 1341
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tickera is being used
+Arts & Entertainment: 5.56%
+Science & Education: 3.10%
+Food & Drink: 2.53%
+Travel & Tourism: 2.53%
+Others: 86.29%
+
+
+- Related Technologies -
+Top Ticketing technologies
+SeatEngine
+RezOvation
+Tessitura Network
+FlameConcepts
+TopTix
+
+
+- Top Websites Using Tickera -
+pbisrewards.com  --  Monthly visits -> 570.5K
+animationmagazine.net  --  Monthly visits -> 275.1K
+energylivenews.com  --  Monthly visits -> 164.1K
+verafin.com  --  Monthly visits -> 138.1K
+snfcp.org  --  Monthly visits -> 134K
+netspi.com  --  Monthly visits -> 116.6K
+die-quelle.ch  --  Monthly visits -> 116.1K
+pe-insights.com  --  Monthly visits -> 115.5K
+botanistrestaurant.com  --  Monthly visits -> 103.1K
+apraxia-kids.org  --  Monthly visits -> 78.7K
+
+- Geography -
+Tickera usage by websites across the globe
+Leading Countries: Websites
+United States: 314
+Germany: 111
+United Kingdom: 110
+Netherlands: 65
+Italy: 61
+Australia: 57
+Canada: 49
+Spain: 42
+France: 38
+Belgium: 36
+Rest of the World: 369

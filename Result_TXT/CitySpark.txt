@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CitySpark
+Last month's change: 1.42%
+Websites: 914
+Unique Domains: 757
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CitySpark is being used
+News & Media: 48.25%
+Arts & Entertainment: 15.43%
+Travel & Tourism: 2.08%
+Community & Society: 1.86%
+Others: 32.39%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using CitySpark -
+chicagotribune.com  --  Monthly visits -> 16.2M
+fox8.com  --  Monthly visits -> 6.3M
+baltimoresun.com  --  Monthly visits -> 4.7M
+sandiegouniontribune.com  --  Monthly visits -> 4.4M
+staradvertiser.com  --  Monthly visits -> 4.2M
+wgntv.com  --  Monthly visits -> 4M
+kxan.com  --  Monthly visits -> 3.9M
+kdvr.com  --  Monthly visits -> 3.9M
+sun-sentinel.com  --  Monthly visits -> 3.8M
+ksat.com  --  Monthly visits -> 3.7M
+
+- Geography -
+CitySpark usage by websites across the globe
+Leading Countries: Websites
+United States: 772
+India: 8
+United Kingdom: 6
+Canada: 3
+Germany: 2
+Turkey: 2
+Australia: 1
+Barbados: 1
+Botswana: 1
+China: 1
+Rest of the World: 10

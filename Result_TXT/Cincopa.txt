@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cincopa
+Last month's change: 2.63%
+Websites: 2626
+Unique Domains: 2137
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cincopa is being used
+Science & Education: 6.17%
+Arts & Entertainment: 3.35%
+Computers Electronics & Technology: 2.21%
+Health: 2.17%
+Others: 86.10%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Cincopa -
+migros.ch  --  Monthly visits -> 7.3M
+lgfcu.org  --  Monthly visits -> 2.4M
+uclouvain.be  --  Monthly visits -> 2.2M
+autismspeaks.org  --  Monthly visits -> 1.1M
+bjjfanatics.com  --  Monthly visits -> 833.9K
+rcsi.com  --  Monthly visits -> 571.1K
+ncu.edu  --  Monthly visits -> 468.9K
+ucl.ac.be  --  Monthly visits -> 428.6K
+prolinerangehoods.com  --  Monthly visits -> 377.4K
+taghvim.com  --  Monthly visits -> 369.8K
+
+- Geography -
+Cincopa usage by websites across the globe
+Leading Countries: Websites
+United States: 788
+United Kingdom: 129
+Russia: 76
+France: 72
+Mexico: 66
+Canada: 59
+India: 59
+Spain: 57
+Brazil: 50
+Italy: 49
+Rest of the World: 804

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Imgix
+Last month's change: 76.8%
+Websites: 15017
+Unique Domains: 10195
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Imgix is being used
+Computers Electronics & Technology: 5.56%
+Lifestyle: 4.46%
+Arts & Entertainment: 3.07%
+Food & Drink: 2.80%
+Others: 84.11%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Imgix -
+spiegel.de  --  Monthly visits -> 99.9M
+vimeo.com  --  Monthly visits -> 94.7M
+creditkarma.com  --  Monthly visits -> 68.6M
+sapo.pt  --  Monthly visits -> 55.1M
+finn.no  --  Monthly visits -> 42.7M
+heywise.com  --  Monthly visits -> 38.3M
+svt.se  --  Monthly visits -> 32.5M
+bustle.com  --  Monthly visits -> 27.3M
+comicbook.com  --  Monthly visits -> 23.7M
+gfycat.com  --  Monthly visits -> 23.6M
+
+- Geography -
+Imgix usage by websites across the globe
+Leading Countries: Websites
+United States: 5314
+Japan: 1061
+United Kingdom: 869
+France: 750
+Germany: 658
+Australia: 464
+India: 455
+Canada: 407
+Sweden: 265
+Poland: 256
+Rest of the World: 4515

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Leaflet
+Last month's change: 2.90%
+Websites: 171131
+Unique Domains: 134248
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Leaflet is being used
+Science & Education: 4.10%
+Travel & Tourism: 3.27%
+Business & Consumer Services: 2.72%
+Computers Electronics & Technology: 2.37%
+Others: 87.55%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Baidu Maps
+Naver map
+MapBox
+OpenStreetMap
+
+
+- Top Websites Using Leaflet -
+bbc.co.uk  --  Monthly visits -> 649.5M
+tenki.jp  --  Monthly visits -> 104.7M
+turkiye.gov.tr  --  Monthly visits -> 95.9M
+ansa.it  --  Monthly visits -> 72.8M
+argentina.gob.ar  --  Monthly visits -> 42.7M
+jma.go.jp  --  Monthly visits -> 37.1M
+pole-emploi.fr  --  Monthly visits -> 34.4M
+immobiliare.it  --  Monthly visits -> 32.8M
+emofid.com  --  Monthly visits -> 28.1M
+irancell.ir  --  Monthly visits -> 26.8M
+
+- Geography -
+Leaflet usage by websites across the globe
+Leading Countries: Websites
+United States: 27690
+France: 16738
+Germany: 12231
+Italy: 7082
+United Kingdom: 6997
+Poland: 4412
+Spain: 4299
+Canada: 4095
+Russia: 4071
+Japan: 3654
+Rest of the World: 53847

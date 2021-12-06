@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Qbrick
+Last month's change: 0.56%
+Websites: 358
+Unique Domains: 267
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Qbrick is being used
+Finance: 16.48%
+Sports: 11.45%
+Heavy Industry & Engineering: 6.70%
+Science & Education: 5.03%
+Others: 60.34%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Qbrick -
+dnb.no  --  Monthly visits -> 9.8M
+nav.no  --  Monthly visits -> 6.5M
+borsen.dk  --  Monthly visits -> 4.9M
+handelsbanken.se  --  Monthly visits -> 3.8M
+danskebank.dk  --  Monthly visits -> 3M
+danskebank.com  --  Monthly visits -> 1.9M
+netbank2.danskebank.dk  --  Monthly visits -> 1.8M
+savonsanomat.fi  --  Monthly visits -> 995.3K
+regeringen.se  --  Monthly visits -> 924.4K
+gjensidige.no  --  Monthly visits -> 698.1K
+
+- Geography -
+Qbrick usage by websites across the globe
+Leading Countries: Websites
+Denmark: 92
+Norway: 85
+Sweden: 46
+Finland: 31
+United Kingdom: 14
+United States: 11
+Morocco: 9
+Spain: 8
+Japan: 5
+Poland: 4
+Rest of the World: 24

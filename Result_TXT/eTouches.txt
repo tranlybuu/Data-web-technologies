@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: eTouches
+Last month's change: 0.55%
+Websites: 3079
+Unique Domains: 2602
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where eTouches is being used
+Science & Education: 13.06%
+Computers Electronics & Technology: 5.46%
+Business & Consumer Services: 5.00%
+Health: 4.74%
+Others: 71.74%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using eTouches -
+pragmaticplay.net  --  Monthly visits -> 13.2M
+nyu.edu  --  Monthly visits -> 12M
+mindbodyonline.com  --  Monthly visits -> 10.8M
+fashionnetwork.com  --  Monthly visits -> 1.9M
+nami.org  --  Monthly visits -> 1.8M
+blog.hubspot.es  --  Monthly visits -> 1.7M
+govexec.com  --  Monthly visits -> 1.6M
+ukcop26.org  --  Monthly visits -> 1.5M
+gameiom.com  --  Monthly visits -> 1.5M
+eventscloud.com  --  Monthly visits -> 1.4M
+
+- Geography -
+eTouches usage by websites across the globe
+Leading Countries: Websites
+United States: 1234
+India: 142
+United Kingdom: 133
+Canada: 114
+France: 74
+Australia: 70
+Germany: 54
+Japan: 52
+Russia: 47
+China: 43
+Rest of the World: 887

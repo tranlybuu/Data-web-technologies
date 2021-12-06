@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: RocketChat
+Last month's change: 2.46%
+Websites: 1136
+Unique Domains: 931
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where RocketChat is being used
+Computers Electronics & Technology: 14.52%
+Science & Education: 5.99%
+Finance: 3.61%
+Law & Government: 3.17%
+Others: 72.71%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using RocketChat -
+emofid.com  --  Monthly visits -> 28.1M
+um.es  --  Monthly visits -> 4.5M
+doofootball.com  --  Monthly visits -> 3.7M
+servel.cl  --  Monthly visits -> 2.1M
+tipaxco.com  --  Monthly visits -> 1.7M
+opentimeclock.com  --  Monthly visits -> 1.2M
+soliq.uz  --  Monthly visits -> 1.1M
+i4ch-capitalhumano.cdmx.gob.mx  --  Monthly visits -> 1M
+detran.rs.gov.br  --  Monthly visits -> 952.9K
+ub.uni-muenchen.de  --  Monthly visits -> 898.2K
+
+- Geography -
+RocketChat usage by websites across the globe
+Leading Countries: Websites
+United States: 165
+Brazil: 115
+Germany: 88
+France: 43
+Canada: 38
+Russia: 35
+Poland: 31
+United Kingdom: 31
+India: 28
+Spain: 24
+Rest of the World: 441

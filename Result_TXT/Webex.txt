@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Webex
+Last month's change: 1.62%
+Websites: 29814
+Unique Domains: 12060
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Webex is being used
+Science & Education: 15.14%
+Computers Electronics & Technology: 13.52%
+Finance: 6.12%
+Health: 5.83%
+Others: 59.39%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Webex -
+webex.com  --  Monthly visits -> 93.6M
+springer.com  --  Monthly visits -> 47.4M
+myschoolapp.com  --  Monthly visits -> 28.3M
+commonapp.org  --  Monthly visits -> 23.5M
+custhelp.com  --  Monthly visits -> 19.5M
+neolms.com  --  Monthly visits -> 12.7M
+telstra.com  --  Monthly visits -> 12M
+ipn.mx  --  Monthly visits -> 11.4M
+schoolmessenger.com  --  Monthly visits -> 10.7M
+questdiagnostics.com  --  Monthly visits -> 10.6M
+
+- Geography -
+Webex usage by websites across the globe
+Leading Countries: Websites
+United States: 9272
+Germany: 1536
+Japan: 1486
+India: 1299
+Italy: 1210
+Canada: 818
+United Kingdom: 564
+Taiwan: 557
+France: 475
+Mexico: 428
+Rest of the World: 7673

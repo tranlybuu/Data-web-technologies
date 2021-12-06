@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Wild Apricot
+Last month's change: 12.9%
+Websites: 26856
+Unique Domains: 16773
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Wild Apricot is being used
+Food & Drink: 4.39%
+Computers Electronics & Technology: 2.93%
+Science & Education: 2.37%
+Lifestyle: 2.04%
+Others: 88.27%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Teachable
+Dropbox
+Jira
+
+
+- Top Websites Using Wild Apricot -
+support.google.com  --  Monthly visits -> 1.5B
+classroom.google.com  --  Monthly visits -> 1.4B
+hepsiburada.com  --  Monthly visits -> 108.9M
+intuit.com  --  Monthly visits -> 108.9M
+m.jd.com  --  Monthly visits -> 86.6M
+cse.google.com  --  Monthly visits -> 76.5M
+ads.google.com  --  Monthly visits -> 68.4M
+qbo.intuit.com  --  Monthly visits -> 40.5M
+17track.net  --  Monthly visits -> 38.9M
+intel.com  --  Monthly visits -> 24.7M
+
+- Geography -
+Wild Apricot usage by websites across the globe
+Leading Countries: Websites
+United States: 12017
+Canada: 1579
+Czech Republic: 1338
+Australia: 892
+Slovakia: 798
+United Kingdom: 737
+Russia: 596
+France: 322
+Hungary: 313
+Germany: 290
+Rest of the World: 4374

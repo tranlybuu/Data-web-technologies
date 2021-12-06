@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twilio
+Last month's change: 0.26%
+Websites: 2691
+Unique Domains: 2385
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twilio is being used
+Computers Electronics & Technology: 5.28%
+Law & Government: 2.49%
+Finance: 1.78%
+Business & Consumer Services: 1.49%
+Others: 88.96%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Twilio -
+neimanmarcus.com  --  Monthly visits -> 11M
+sniffies.com  --  Monthly visits -> 8.9M
+aritzia.com  --  Monthly visits -> 6.1M
+twilio.com  --  Monthly visits -> 4M
+gethuman.com  --  Monthly visits -> 3.8M
+mfine.co  --  Monthly visits -> 1.2M
+answers.gethuman.com  --  Monthly visits -> 860.2K
+nmu.edu  --  Monthly visits -> 743K
+mygoodtogo.com  --  Monthly visits -> 617K
+bestviewsreviews.com  --  Monthly visits -> 573.3K
+
+- Geography -
+Twilio usage by websites across the globe
+Leading Countries: Websites
+United States: 829
+India: 500
+United Kingdom: 116
+Canada: 70
+France: 63
+Russia: 45
+Brazil: 44
+Australia: 42
+Italy: 41
+China: 40
+Rest of the World: 695

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Kaltura
+Last month's change: 0.92%
+Websites: 8080
+Unique Domains: 4708
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kaltura is being used
+Science & Education: 23.14%
+Arts & Entertainment: 5.04%
+Health: 4.58%
+Computers Electronics & Technology: 4.25%
+Others: 63.00%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Kaltura -
+india.com  --  Monthly visits -> 93.5M
+clarin.com  --  Monthly visits -> 76.5M
+go.com  --  Monthly visits -> 57.2M
+mxplayer.in  --  Monthly visits -> 55.2M
+news.sky.com  --  Monthly visits -> 48.7M
+yle.fi  --  Monthly visits -> 48.3M
+next.co.uk  --  Monthly visits -> 42.8M
+clevelandclinic.org  --  Monthly visits -> 38.3M
+newsmax.com  --  Monthly visits -> 28.9M
+ibm.com  --  Monthly visits -> 28.5M
+
+- Geography -
+Kaltura usage by websites across the globe
+Leading Countries: Websites
+United States: 3410
+United Kingdom: 338
+Germany: 278
+Denmark: 256
+Canada: 206
+Spain: 182
+Netherlands: 156
+India: 147
+France: 139
+Australia: 117
+Rest of the World: 1877

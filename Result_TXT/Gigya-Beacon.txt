@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Gigya Beacon
+Last month's change: 3.12%
+Websites: 13636
+Unique Domains: 1661
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Gigya Beacon is being used
+Science & Education: 13.30%
+Community & Society: 7.84%
+Arts & Entertainment: 6.48%
+Computers Electronics & Technology: 4.30%
+Others: 68.07%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Gigya Beacon -
+tgcom24.mediaset.it  --  Monthly visits -> 46M
+tractorsupply.com  --  Monthly visits -> 20.2M
+lci.fr  --  Monthly visits -> 18.4M
+jetstar.com  --  Monthly visits -> 5M
+booking.jetstar.com  --  Monthly visits -> 2.2M
+tgcom24.it  --  Monthly visits -> 1.6M
+dinarguru.com  --  Monthly visits -> 1.2M
+warnewsupdates.blogspot.com  --  Monthly visits -> 879.8K
+solomonswords.blogspot.com  --  Monthly visits -> 402.9K
+shafiqolbu.wordpress.com  --  Monthly visits -> 284.8K
+
+- Geography -
+Gigya Beacon usage by websites across the globe
+Leading Countries: Websites
+United States: 1278
+Malaysia: 693
+Indonesia: 463
+Spain: 416
+Brazil: 346
+Mexico: 244
+France: 216
+Argentina: 189
+Italy: 189
+Canada: 163
+Rest of the World: 2684

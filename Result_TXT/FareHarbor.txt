@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FareHarbor
+Last month's change: 5.23%
+Websites: 9124
+Unique Domains: 8988
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FareHarbor is being used
+Travel & Tourism: 16.44%
+Sports: 4.68%
+Food & Drink: 3.68%
+Hobbies & Leisure: 1.86%
+Others: 73.33%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+CheckFront
+Booker
+Peek
+Vagaro
+
+
+- Top Websites Using FareHarbor -
+privacymorrowexecute.com  --  Monthly visits -> 5.1M
+wweek.com  --  Monthly visits -> 1.7M
+malagahoy.es  --  Monthly visits -> 1.6M
+faithlessmodifyrepublican.com  --  Monthly visits -> 1.4M
+freetoursbyfoot.com  --  Monthly visits -> 1.2M
+live5news.com  --  Monthly visits -> 1.2M
+a.1td.eu  --  Monthly visits -> 1.1M
+citypass.com  --  Monthly visits -> 848.2K
+neighborhoods.com  --  Monthly visits -> 766K
+raleys.com  --  Monthly visits -> 660.7K
+
+- Geography -
+FareHarbor usage by websites across the globe
+Leading Countries: Websites
+United States: 5544
+Australia: 373
+Canada: 338
+United Kingdom: 302
+Italy: 190
+Spain: 181
+Germany: 147
+Portugal: 118
+Netherlands: 111
+New Zealand: 95
+Rest of the World: 1056

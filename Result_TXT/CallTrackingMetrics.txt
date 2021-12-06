@@ -1,0 +1,47 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CallTrackingMetrics
+Last month's change: 3.70%
+Websites: 27
+Unique Domains: 26
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CallTrackingMetrics is being used
+Business & Consumer Services: 14.81%
+Heavy Industry & Engineering: 7.41%
+Computers Electronics & Technology: 3.70%
+Games: 3.70%
+Others: 70.37%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using CallTrackingMetrics -
+calltrackingmetrics.com  --  Monthly visits -> 275.8K
+app.calltrackingmetrics.com  --  Monthly visits -> 208.2K
+zilbert.com  --  Monthly visits -> 25.6K
+requestlegalhelp.com  --  Monthly visits -> 14K
+eddypump.com  --  Monthly visits -> 12.3K
+jrleach.com  --  Monthly visits -> 8.7K
+solacedentistry.com  --  Monthly visits -> 6.9K
+mrplayingcard.com  --  Monthly visits -> 5.7K
+chesapeakeplumbing.com  --  Monthly visits -> 4.7K
+covingtonaircraft.com  --  Monthly visits -> 4.3K
+
+- Geography -
+CallTrackingMetrics usage by websites across the globe
+Leading Countries: Websites
+United States: 19
+Philippines: 2
+Brazil: 1
+Canada: 1
+Egypt: 1

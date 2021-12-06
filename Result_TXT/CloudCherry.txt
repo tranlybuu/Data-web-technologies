@@ -1,0 +1,44 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CloudCherry
+Last month's change: 10.0%
+Websites: 10
+Unique Domains: 8
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CloudCherry is being used
+Finance: 90.00%
+Computers Electronics & Technology: 10.00%
+None: None
+None: None
+None: None
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using CloudCherry -
+yesbank.in  --  Monthly visits -> 1.7M
+yesbank.co.in  --  Monthly visits -> 1.3M
+tataaia.com  --  Monthly visits -> 986.5K
+kvb.co.in  --  Monthly visits -> 662.8K
+cx.cloudcherry.com  --  Monthly visits -> 342.1K
+msdfcu.org  --  Monthly visits -> 68.9K
+xm.webex.com  --  Monthly visits -> 25.4K
+essentials.webex.com  --  Monthly visits -> 10.2K
+stage.tataaia.com  --  Monthly visits -> 2.7K
+
+- Geography -
+CloudCherry usage by websites across the globe
+Leading Countries: Websites
+India: 7
+Mexico: 1
+United States: 1

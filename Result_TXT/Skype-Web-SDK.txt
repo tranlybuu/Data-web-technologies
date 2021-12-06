@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Skype Web SDK
+Last month's change: 0.06%
+Websites: 6282
+Unique Domains: 3022
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Skype Web SDK is being used
+Community & Society: 7.99%
+Computers Electronics & Technology: 5.94%
+Science & Education: 5.32%
+News & Media: 5.03%
+Others: 75.72%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Skype Web SDK -
+skype.com  --  Monthly visits -> 37.8M
+tn.com.ar  --  Monthly visits -> 17M
+premiumtimesng.com  --  Monthly visits -> 8.4M
+myanime.live  --  Monthly visits -> 3.6M
+sabado.pt  --  Monthly visits -> 2M
+sage.co.uk  --  Monthly visits -> 2M
+osxdaily.com  --  Monthly visits -> 1.9M
+akdeniz.edu.tr  --  Monthly visits -> 1.5M
+hoc360.net  --  Monthly visits -> 1.4M
+seniorweb.nl  --  Monthly visits -> 1M
+
+- Geography -
+Skype Web SDK usage by websites across the globe
+Leading Countries: Websites
+United States: 734
+Brazil: 290
+Italy: 215
+France: 154
+United Kingdom: 137
+India: 133
+Vietnam: 128
+Spain: 117
+Russia: 100
+Germany: 99
+Rest of the World: 1693

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PostScript
+Last month's change: 2.54%
+Websites: 3463
+Unique Domains: 3030
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PostScript is being used
+Lifestyle: 14.06%
+Food & Drink: 3.64%
+Health: 3.64%
+Sports: 3.12%
+Others: 75.54%
+
+
+- Related Technologies -
+Top Mobile Messaging technologies
+Attentive
+SMSBump
+RetentionRocket
+None
+None
+
+
+- Top Websites Using PostScript -
+colourpop.com  --  Monthly visits -> 5.3M
+stevemadden.com  --  Monthly visits -> 3M
+gruntstyle.com  --  Monthly visits -> 1.8M
+4patriots.com  --  Monthly visits -> 1.4M
+nativecos.com  --  Monthly visits -> 1.3M
+usamm.com  --  Monthly visits -> 1.2M
+gorillamind.com  --  Monthly visits -> 1.2M
+youngla.com  --  Monthly visits -> 1M
+magicspoon.com  --  Monthly visits -> 995.6K
+cosyhousecollection.com  --  Monthly visits -> 961.3K
+
+- Geography -
+PostScript usage by websites across the globe
+Leading Countries: Websites
+United States: 2288
+Canada: 142
+United Kingdom: 82
+Australia: 79
+Philippines: 30
+Italy: 26
+France: 25
+Germany: 23
+Mexico: 21
+India: 20
+Rest of the World: 381

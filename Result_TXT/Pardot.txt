@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Pardot
+Last month's change: 0.84%
+Websites: 94899
+Unique Domains: 42708
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pardot is being used
+Computers Electronics & Technology: 10.56%
+Business & Consumer Services: 9.53%
+Science & Education: 9.05%
+Finance: 6.36%
+Others: 64.51%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Marketo
+TowerData
+Dotomi
+
+
+- Top Websites Using Pardot -
+amazon.com  --  Monthly visits -> 2.5B
+zoom.us  --  Monthly visits -> 2B
+twitch.tv  --  Monthly visits -> 1.2B
+us02web.zoom.us  --  Monthly visits -> 799.9M
+ebay.com  --  Monthly visits -> 796.6M
+paypal.com  --  Monthly visits -> 539.3M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+auone.jp  --  Monthly visits -> 300.1M
+theguardian.com  --  Monthly visits -> 281.9M
+zillow.com  --  Monthly visits -> 263.4M
+
+- Geography -
+Pardot usage by websites across the globe
+Leading Countries: Websites
+United States: 43078
+Japan: 9122
+United Kingdom: 4351
+Canada: 3417
+Australia: 2793
+India: 2042
+Germany: 1886
+France: 1819
+Italy: 928
+Spain: 906
+Rest of the World: 16037

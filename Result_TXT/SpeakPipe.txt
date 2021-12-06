@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SpeakPipe
+Last month's change: 2.15%
+Websites: 1904
+Unique Domains: 1713
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SpeakPipe is being used
+Science & Education: 6.83%
+Business & Consumer Services: 5.09%
+Community & Society: 4.88%
+Arts & Entertainment: 4.73%
+Others: 78.47%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using SpeakPipe -
+frontlineeducation.com  --  Monthly visits -> 21.3M
+libsyn.com  --  Monthly visits -> 4.6M
+petapixel.com  --  Monthly visits -> 3.8M
+applitrack.com  --  Monthly visits -> 2.4M
+linguaholic.com  --  Monthly visits -> 1.4M
+calnewport.com  --  Monthly visits -> 1.1M
+esped.com  --  Monthly visits -> 822.4K
+epicgardening.com  --  Monthly visits -> 811.2K
+mylearningplan.com  --  Monthly visits -> 644K
+bengreenfieldfitness.com  --  Monthly visits -> 502.5K
+
+- Geography -
+SpeakPipe usage by websites across the globe
+Leading Countries: Websites
+United States: 883
+United Kingdom: 89
+Canada: 65
+Australia: 57
+Germany: 54
+Spain: 50
+India: 46
+France: 38
+Philippines: 31
+Brazil: 23
+Rest of the World: 426

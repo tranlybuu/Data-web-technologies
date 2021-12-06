@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Facebook Social Graph
+Last month's change: 4.62%
+Websites: 388191
+Unique Domains: 246678
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Facebook Social Graph is being used
+Arts & Entertainment: 6.02%
+Science & Education: 5.90%
+Computers Electronics & Technology: 5.09%
+Community & Society: 4.31%
+Others: 78.68%
+
+
+- Related Technologies -
+Top Social technologies
+Instagram
+Instagram Links
+Facebook Connect
+Facebook Social Plugins
+Twitter
+
+
+- Top Websites Using Facebook Social Graph -
+stackoverflow.com  --  Monthly visits -> 288.8M
+investing.com  --  Monthly visits -> 154M
+stackexchange.com  --  Monthly visits -> 120.3M
+9anime.to  --  Monthly visits -> 108.9M
+seznamzpravy.cz  --  Monthly visits -> 104.1M
+fmovies.to  --  Monthly visits -> 75.1M
+cbc.ca  --  Monthly visits -> 71.6M
+rottentomatoes.com  --  Monthly visits -> 67.3M
+thegioididong.com  --  Monthly visits -> 61.5M
+secure.indeed.com  --  Monthly visits -> 58.8M
+
+- Geography -
+Facebook Social Graph usage by websites across the globe
+Leading Countries: Websites
+United States: 111449
+United Kingdom: 16426
+Canada: 12598
+Australia: 9411
+France: 8775
+Italy: 7957
+India: 7173
+Germany: 7141
+Japan: 6989
+Brazil: 6438
+Rest of the World: 105156

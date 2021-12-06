@@ -1,0 +1,51 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: segmint
+Last month's change: 1.49%
+Websites: 538
+Unique Domains: 164
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where segmint is being used
+Finance: 43.87%
+Community & Society: 3.53%
+Food & Drink: 2.60%
+Pets & Animals: 2.60%
+Others: 47.40%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using segmint -
+fisglobal.com  --  Monthly visits -> 7.7M
+worldpay.com  --  Monthly visits -> 7.6M
+rbfcu.org  --  Monthly visits -> 2M
+uwcu.org  --  Monthly visits -> 1.3M
+fnb-online.com  --  Monthly visits -> 1.1M
+webbranch.uwcu.org  --  Monthly visits -> 1.1M
+link2gov.com  --  Monthly visits -> 976.9K
+bethpagefcu.com  --  Monthly visits -> 857K
+secure3.billerweb.com  --  Monthly visits -> 831.7K
+secumd.org  --  Monthly visits -> 783.2K
+
+- Geography -
+segmint usage by websites across the globe
+Leading Countries: Websites
+United States: 473
+United Kingdom: 2
+Brazil: 1
+China: 1
+India: 1
+Malaysia: 1
+Philippines: 1
+Russia: 1
+Ukraine: 1

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PowToon
+Last month's change: 0.29%
+Websites: 1035
+Unique Domains: 622
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PowToon is being used
+Science & Education: 26.76%
+Health: 3.57%
+Law & Government: 2.51%
+Computers Electronics & Technology: 2.22%
+Others: 64.93%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using PowToon -
+mq.edu.au  --  Monthly visits -> 4.5M
+powtoon.com  --  Monthly visits -> 2.5M
+sispro.gov.co  --  Monthly visits -> 2.4M
+mdc.edu  --  Monthly visits -> 2.1M
+ung.edu  --  Monthly visits -> 621.4K
+psico.edu.uy  --  Monthly visits -> 469.2K
+sexologomedico.com  --  Monthly visits -> 370.2K
+ccboe.net  --  Monthly visits -> 369.8K
+guardian.com.sg  --  Monthly visits -> 314.3K
+aup.edu  --  Monthly visits -> 152.1K
+
+- Geography -
+PowToon usage by websites across the globe
+Leading Countries: Websites
+United States: 254
+France: 58
+Italy: 54
+Spain: 50
+Canada: 33
+Colombia: 31
+Mexico: 29
+Australia: 25
+United Kingdom: 22
+Greece: 20
+Rest of the World: 272

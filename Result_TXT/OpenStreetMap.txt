@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OpenStreetMap
+Last month's change: 11.4%
+Websites: 14516
+Unique Domains: 12784
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OpenStreetMap is being used
+Computers Electronics & Technology: 9.58%
+Science & Education: 6.68%
+Games: 1.96%
+Travel & Tourism: 1.92%
+Others: 79.86%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using OpenStreetMap -
+sellercentral.amazon.com  --  Monthly visits -> 29.8M
+soaps.sheknows.com  --  Monthly visits -> 11.9M
+jalisco.gob.mx  --  Monthly visits -> 8.3M
+devforum.roblox.com  --  Monthly visits -> 6.9M
+ugm.ac.id  --  Monthly visits -> 5.7M
+irishexaminer.com  --  Monthly visits -> 3.6M
+forum.arduino.cc  --  Monthly visits -> 3.5M
+r-project.org  --  Monthly visits -> 3.3M
+image-line.com  --  Monthly visits -> 3.3M
+gamekult.com  --  Monthly visits -> 2.6M
+
+- Geography -
+OpenStreetMap usage by websites across the globe
+Leading Countries: Websites
+Germany: 3275
+United States: 1632
+France: 1309
+Italy: 652
+Poland: 642
+United Kingdom: 550
+Russia: 282
+Spain: 279
+Austria: 275
+Switzerland: 258
+Rest of the World: 4101

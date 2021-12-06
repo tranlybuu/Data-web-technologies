@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Hupso
+Last month's change: 0.66%
+Websites: 3464
+Unique Domains: 3281
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Hupso is being used
+Computers Electronics & Technology: 4.68%
+Science & Education: 4.07%
+Arts & Entertainment: 3.98%
+News & Media: 3.23%
+Others: 84.04%
+
+
+- Related Technologies -
+Top Site Search technologies
+Naver Search
+Algolia
+SiteSearch 360
+Captify
+AddSearch
+
+
+- Top Websites Using Hupso -
+ck101.org  --  Monthly visits -> 2.5M
+iracing.com  --  Monthly visits -> 1.6M
+dilo.net.ua  --  Monthly visits -> 1.5M
+th.jobsdb.com  --  Monthly visits -> 1.3M
+myjobstreet.jobstreet.com.my  --  Monthly visits -> 1.2M
+netspotapp.com  --  Monthly visits -> 1M
+zapernik.com  --  Monthly visits -> 670.9K
+bigblueinteractive.com  --  Monthly visits -> 592.1K
+gaes.es  --  Monthly visits -> 541.6K
+jobsdb.co.th  --  Monthly visits -> 481.2K
+
+- Geography -
+Hupso usage by websites across the globe
+Leading Countries: Websites
+United States: 731
+France: 290
+Italy: 220
+United Kingdom: 136
+Spain: 114
+Canada: 100
+Japan: 96
+Poland: 81
+Germany: 77
+Brazil: 72
+Rest of the World: 1287

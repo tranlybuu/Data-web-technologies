@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Glyphicons
+Last month's change: 1.12%
+Websites: 113410
+Unique Domains: 57983
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Glyphicons is being used
+Vehicles: 4.00%
+Science & Education: 3.50%
+Computers Electronics & Technology: 3.42%
+Health: 1.53%
+Others: 87.55%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Glyphicons -
+nextdoor.com  --  Monthly visits -> 143.3M
+cricketwireless.com  --  Monthly visits -> 99.4M
+rottentomatoes.com  --  Monthly visits -> 67.3M
+cargurus.com  --  Monthly visits -> 44.4M
+samsclub.com  --  Monthly visits -> 43.2M
+porntrex.com  --  Monthly visits -> 40.2M
+milenio.com  --  Monthly visits -> 35.4M
+truyenfull.vn  --  Monthly visits -> 33.3M
+support.hp.com  --  Monthly visits -> 30.1M
+ixbt.com  --  Monthly visits -> 24.7M
+
+- Geography -
+Glyphicons usage by websites across the globe
+Leading Countries: Websites
+United States: 20750
+Japan: 4049
+Germany: 3913
+Russia: 3392
+Taiwan: 3299
+Canada: 3267
+Italy: 3161
+India: 3118
+United Kingdom: 2744
+France: 2464
+Rest of the World: 48010

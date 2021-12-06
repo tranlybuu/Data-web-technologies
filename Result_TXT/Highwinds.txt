@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Highwinds
+Last month's change: 11.0%
+Websites: 6288
+Unique Domains: 5520
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Highwinds is being used
+Adult: 8.94%
+Computers Electronics & Technology: 4.98%
+Business & Consumer Services: 2.97%
+Games: 2.53%
+Others: 80.58%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Highwinds -
+video-hw.xvideos-cdn.com  --  Monthly visits -> 104.9M
+ultimate-guitar.com  --  Monthly visits -> 55.6M
+tabs.ultimate-guitar.com  --  Monthly visits -> 47.4M
+servedby.flashtalking.com  --  Monthly visits -> 46.1M
+video-hw.xnxx-cdn.com  --  Monthly visits -> 30.2M
+network.nutaku.net  --  Monthly visits -> 22.7M
+juicyads.com  --  Monthly visits -> 21.9M
+doublelist.com  --  Monthly visits -> 15M
+timesofisrael.com  --  Monthly visits -> 13.1M
+justjared.com  --  Monthly visits -> 10.4M
+
+- Geography -
+Highwinds usage by websites across the globe
+Leading Countries: Websites
+United States: 1724
+Brazil: 673
+United Kingdom: 362
+Germany: 262
+France: 211
+Canada: 172
+Australia: 158
+Italy: 153
+China: 119
+Spain: 108
+Rest of the World: 1849

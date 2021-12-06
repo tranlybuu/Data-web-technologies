@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ReadyChat
+Last month's change: 0.93%
+Websites: 431
+Unique Domains: 324
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ReadyChat is being used
+Business & Consumer Services: 38.98%
+Adult: 0.23%
+E-commerce & Shopping: 0.23%
+Finance: 0.23%
+Others: 60.32%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using ReadyChat -
+highrises.com  --  Monthly visits -> 431.2K
+windermere.com  --  Monthly visits -> 217.8K
+nashvillesmls.com  --  Monthly visits -> 195.7K
+iowarealty.com  --  Monthly visits -> 145.5K
+reecenichols.com  --  Monthly visits -> 135.8K
+watsonrealtycorp.com  --  Monthly visits -> 120K
+charteronerealty.com  --  Monthly visits -> 90.3K
+huntrealestate.com  --  Monthly visits -> 87.1K
+treasurerealty.com  --  Monthly visits -> 87.1K
+raveis.com  --  Monthly visits -> 80.7K
+
+- Geography -
+ReadyChat usage by websites across the globe
+Leading Countries: Websites
+United States: 295
+Canada: 52
+Philippines: 4
+Germany: 2
+South Africa: 2
+Guam: 1
+India: 1
+Nigeria: 1
+Russia: 1
+Serbia: 1
+Rest of the World: 2

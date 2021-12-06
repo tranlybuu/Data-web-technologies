@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Media Source Extensions
+Last month's change: 4.55%
+Websites: 44
+Unique Domains: 38
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Media Source Extensions is being used
+Computers Electronics & Technology: 31.82%
+Adult: 2.27%
+Arts & Entertainment: 2.27%
+Business & Consumer Services: 2.27%
+Others: 61.36%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Media Source Extensions -
+nhaccuatui.com  --  Monthly visits -> 5.1M
+allsoppandallsopp.com  --  Monthly visits -> 105.8K
+issuehunt.io  --  Monthly visits -> 69.5K
+joshuatz.com  --  Monthly visits -> 42.6K
+nhtcntt.blogspot.com  --  Monthly visits -> 18.1K
+itskeleton.tistory.com  --  Monthly visits -> 16.6K
+nabe.adiary.jp  --  Monthly visits -> 13K
+meetup-jp.toast.com  --  Monthly visits -> 12.5K
+html5-demos.appspot.com  --  Monthly visits -> 5.9K
+nocebo.jp  --  Monthly visits -> 5K
+
+- Geography -
+Media Source Extensions usage by websites across the globe
+Leading Countries: Websites
+China: 8
+United States: 6
+Japan: 3
+South Korea: 3
+Portugal: 3
+Vietnam: 3
+Australia: 2
+Brazil: 1
+Canada: 1
+Taiwan: 1
+Rest of the World: 11

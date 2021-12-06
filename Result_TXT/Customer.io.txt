@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Customer.io
+Last month's change: 0.88%
+Websites: 5020
+Unique Domains: 2943
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Customer.io is being used
+Computers Electronics & Technology: 14.52%
+Business & Consumer Services: 6.14%
+Science & Education: 5.26%
+Finance: 4.52%
+Others: 69.56%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Customer.io -
+opensea.io  --  Monthly visits -> 60.7M
+yourdictionary.com  --  Monthly visits -> 48.6M
+trustpilot.com  --  Monthly visits -> 45.5M
+viki.com  --  Monthly visits -> 27.5M
+miro.com  --  Monthly visits -> 25M
+prodigygame.com  --  Monthly visits -> 22.1M
+secretbenefits.com  --  Monthly visits -> 18.6M
+studocu.com  --  Monthly visits -> 16.8M
+socratic.org  --  Monthly visits -> 16.1M
+theknot.com  --  Monthly visits -> 15.7M
+
+- Geography -
+Customer.io usage by websites across the globe
+Leading Countries: Websites
+United States: 2186
+Canada: 172
+United Kingdom: 172
+India: 144
+Russia: 135
+Australia: 129
+Brazil: 122
+France: 118
+Germany: 101
+Spain: 65
+Rest of the World: 1089

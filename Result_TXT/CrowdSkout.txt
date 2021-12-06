@@ -1,0 +1,51 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CrowdSkout
+Last month's change: 4.65%
+Websites: 86
+Unique Domains: 80
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CrowdSkout is being used
+Law & Government: 26.74%
+Science & Education: 4.65%
+Arts & Entertainment: 3.49%
+Community & Society: 3.49%
+Others: 61.63%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Blackbaud
+Countable Action
+Salsa Labs
+
+
+- Top Websites Using CrowdSkout -
+nraila.org  --  Monthly visits -> 469.4K
+afropunk.com  --  Monthly visits -> 129.3K
+liberal.org.au  --  Monthly visits -> 93.1K
+kipptexas.org  --  Monthly visits -> 75.4K
+thirdway.org  --  Monthly visits -> 61.6K
+freeuribe.com  --  Monthly visits -> 52.9K
+alec.org  --  Monthly visits -> 44.1K
+rondesantis.com  --  Monthly visits -> 40.1K
+trucking.org  --  Monthly visits -> 32.7K
+thepolicycircle.org  --  Monthly visits -> 29.9K
+
+- Geography -
+CrowdSkout usage by websites across the globe
+Leading Countries: Websites
+United States: 65
+Germany: 3
+Australia: 1
+Canada: 1
+Colombia: 1
+Greece: 1
+Thailand: 1
+Egypt: 1
+United Kingdom: 1

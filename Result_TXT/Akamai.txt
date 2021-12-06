@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Akamai
+Last month's change: 2.69%
+Websites: 174921
+Unique Domains: 71103
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Akamai is being used
+Computers Electronics & Technology: 9.01%
+Vehicles: 7.03%
+Finance: 6.38%
+Jobs & Career: 4.00%
+Others: 73.58%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Akamai -
+amazon.com  --  Monthly visits -> 2.5B
+tiktok.com  --  Monthly visits -> 1.4B
+naver.com  --  Monthly visits -> 1.2B
+microsoft.com  --  Monthly visits -> 1.1B
+pinterest.com  --  Monthly visits -> 1B
+qq.com  --  Monthly visits -> 931.7M
+samsung.com  --  Monthly visits -> 805.5M
+ebay.com  --  Monthly visits -> 796.6M
+accuweather.com  --  Monthly visits -> 697.5M
+weather.com  --  Monthly visits -> 653.6M
+
+- Geography -
+Akamai usage by websites across the globe
+Leading Countries: Websites
+United States: 47565
+Japan: 6610
+China: 4737
+United Kingdom: 4587
+Canada: 4363
+India: 4250
+Germany: 4052
+France: 3003
+Australia: 2937
+Spain: 2865
+Rest of the World: 42870

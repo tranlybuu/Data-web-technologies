@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HTML5 DocType
+Last month's change: 0.94%
+Websites: 25515327
+Unique Domains: 14925385
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HTML5 DocType is being used
+Computers Electronics & Technology: 4.66%
+Science & Education: 3.61%
+Arts & Entertainment: 3.11%
+Games: 1.90%
+Others: 86.71%
+
+
+- Related Technologies -
+Top Document Standard technologies
+HTTPS
+X-UA-Compatible
+Content Security Policy
+P3P Policy
+Adobe Flash Embed
+
+
+- Top Websites Using HTML5 DocType -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+mail.google.com  --  Monthly visits -> 11.3B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+baidu.com  --  Monthly visits -> 5.6B
+
+- Geography -
+HTML5 DocType usage by websites across the globe
+Leading Countries: Websites
+United States: 4286876
+Japan: 1513017
+China: 1005937
+Germany: 996743
+Russia: 986906
+United Kingdom: 833088
+France: 720609
+Italy: 598091
+Canada: 580992
+India: 558888
+Rest of the World: 8546367

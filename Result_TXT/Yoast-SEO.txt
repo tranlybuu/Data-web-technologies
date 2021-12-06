@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Yoast SEO
+Last month's change: 2.31%
+Websites: 2216593
+Unique Domains: 2075104
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Yoast SEO is being used
+Computers Electronics & Technology: 3.28%
+Health: 2.26%
+Science & Education: 2.25%
+Food & Drink: 1.88%
+Others: 90.33%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Gravatar
+LiveInternet
+Google Translate
+W3 Total Cache
+
+
+- Top Websites Using Yoast SEO -
+bit.ly  --  Monthly visits -> 2.4B
+tiktok.com  --  Monthly visits -> 1.4B
+fandom.com  --  Monthly visits -> 795.9M
+outbrain.com  --  Monthly visits -> 373M
+tsyndicate.com  --  Monthly visits -> 362.7M
+canadapost-postescanada.ca  --  Monthly visits -> 313.4M
+criteo.com  --  Monthly visits -> 156.6M
+tokopedia.com  --  Monthly visits -> 152.5M
+exoclick.com  --  Monthly visits -> 152.4M
+legossip.net  --  Monthly visits -> 124.9M
+
+- Geography -
+Yoast SEO usage by websites across the globe
+Leading Countries: Websites
+United States: 471741
+United Kingdom: 110346
+France: 109003
+Italy: 108872
+Germany: 105851
+Netherlands: 71008
+Canada: 70740
+Spain: 70320
+India: 57509
+Australia: 56897
+Rest of the World: 836898

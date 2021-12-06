@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Carto
+Last month's change: 20.7%
+Websites: 994
+Unique Domains: 812
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Carto is being used
+Science & Education: 12.68%
+Law & Government: 12.37%
+Computers Electronics & Technology: 5.53%
+News & Media: 5.23%
+Others: 64.19%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using Carto -
+news.mail.ru  --  Monthly visits -> 118.6M
+sportmail.ru  --  Monthly visits -> 36.3M
+coronavirus.vic.gov.au  --  Monthly visits -> 32M
+pogoda.mail.ru  --  Monthly visits -> 20.6M
+greenpeace.org  --  Monthly visits -> 3M
+dhhs.vic.gov.au  --  Monthly visits -> 2.5M
+polymtl.ca  --  Monthly visits -> 2.5M
+barcelona.cat  --  Monthly visits -> 2.5M
+univ-rennes2.fr  --  Monthly visits -> 1.2M
+bcra.gob.ar  --  Monthly visits -> 1.1M
+
+- Geography -
+Carto usage by websites across the globe
+Leading Countries: Websites
+United States: 349
+Spain: 60
+France: 53
+Canada: 41
+United Kingdom: 41
+Mexico: 37
+Germany: 30
+Brazil: 27
+Australia: 25
+Italy: 21
+Rest of the World: 285

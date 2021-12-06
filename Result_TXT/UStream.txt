@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UStream
+Last month's change: 0.32%
+Websites: 7098
+Unique Domains: 4427
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UStream is being used
+Arts & Entertainment: 9.96%
+Computers Electronics & Technology: 9.78%
+Science & Education: 5.23%
+Community & Society: 3.94%
+Others: 71.09%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+Tout
+
+
+- Top Websites Using UStream -
+github.com  --  Monthly visits -> 375.3M
+europa.eu  --  Monthly visits -> 57.6M
+live.nicovideo.jp  --  Monthly visits -> 37.1M
+ec.europa.eu  --  Monthly visits -> 25.6M
+raw.githubusercontent.com  --  Monthly visits -> 12.8M
+space.com  --  Monthly visits -> 12.6M
+chaos2ch.com  --  Monthly visits -> 6M
+greek-movies.com  --  Monthly visits -> 4.3M
+yoshimoto.co.jp  --  Monthly visits -> 3.6M
+lite.blogos.com  --  Monthly visits -> 2.8M
+
+- Geography -
+UStream usage by websites across the globe
+Leading Countries: Websites
+Japan: 1860
+United States: 1328
+China: 203
+Italy: 144
+United Kingdom: 128
+Germany: 127
+Russia: 109
+Brazil: 105
+France: 96
+India: 95
+Rest of the World: 1587

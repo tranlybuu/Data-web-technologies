@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: StackPath
+Last month's change: 6.33%
+Websites: 31303
+Unique Domains: 25948
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where StackPath is being used
+Computers Electronics & Technology: 4.81%
+Food & Drink: 4.25%
+Lifestyle: 3.72%
+Arts & Entertainment: 2.98%
+Others: 84.23%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using StackPath -
+worldstar.com  --  Monthly visits -> 273.1M
+worldstarhiphop.com  --  Monthly visits -> 47.6M
+flightradar24.com  --  Monthly visits -> 25.2M
+ustvgo.tv  --  Monthly visits -> 19.6M
+lifo.gr  --  Monthly visits -> 8.8M
+flipboard.com  --  Monthly visits -> 8.3M
+britishgas.co.uk  --  Monthly visits -> 8.2M
+calcionapoli24.it  --  Monthly visits -> 5.6M
+tecnoandroid.it  --  Monthly visits -> 5.1M
+papillesetpupilles.fr  --  Monthly visits -> 4.6M
+
+- Geography -
+StackPath usage by websites across the globe
+Leading Countries: Websites
+United States: 9711
+United Kingdom: 1448
+Italy: 1441
+India: 1152
+France: 1068
+Spain: 923
+Canada: 912
+Germany: 826
+Australia: 719
+Brazil: 699
+Rest of the World: 10507

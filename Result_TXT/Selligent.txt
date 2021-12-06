@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Selligent
+Last month's change: 1.46%
+Websites: 2599
+Unique Domains: 1756
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Selligent is being used
+Computers Electronics & Technology: 4.92%
+Vehicles: 4.31%
+News & Media: 4.12%
+Food & Drink: 4.00%
+Others: 82.65%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Selligent -
+cosmopolitan.com  --  Monthly visits -> 54.3M
+marktplaats.nl  --  Monthly visits -> 49.7M
+digitalspy.com  --  Monthly visits -> 48.5M
+menshealth.com  --  Monthly visits -> 31.8M
+delish.com  --  Monthly visits -> 31.6M
+womenshealthmag.com  --  Monthly visits -> 29.4M
+countryliving.com  --  Monthly visits -> 25.3M
+esquire.com  --  Monthly visits -> 24.9M
+sudinfo.be  --  Monthly visits -> 21M
+harpersbazaar.com  --  Monthly visits -> 20.7M
+
+- Geography -
+Selligent usage by websites across the globe
+Leading Countries: Websites
+France: 527
+Belgium: 249
+Netherlands: 240
+United States: 202
+United Kingdom: 158
+Germany: 140
+Italy: 98
+Spain: 91
+Poland: 43
+Portugal: 30
+Rest of the World: 327

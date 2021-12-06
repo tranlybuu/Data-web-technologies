@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: IBM
+Last month's change: 0.87%
+Websites: 16222
+Unique Domains: 10518
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where IBM is being used
+Science & Education: 6.16%
+Computers Electronics & Technology: 5.36%
+Finance: 5.06%
+Lifestyle: 4.84%
+Others: 78.58%
+
+
+- Related Technologies -
+Top Information Technology technologies
+Google
+Facebook
+Amazon
+Oracle
+Oracle Cloud
+
+
+- Top Websites Using IBM -
+weather.com  --  Monthly visits -> 653.6M
+cricbuzz.com  --  Monthly visits -> 257.3M
+wellsfargo.com  --  Monthly visits -> 136.7M
+costco.com  --  Monthly visits -> 91.5M
+macys.com  --  Monthly visits -> 88M
+zara.com  --  Monthly visits -> 84.1M
+hp.com  --  Monthly visits -> 72.5M
+argos.co.uk  --  Monthly visits -> 61.5M
+m.zara.com  --  Monthly visits -> 45.1M
+coppel.com  --  Monthly visits -> 35.8M
+
+- Geography -
+IBM usage by websites across the globe
+Leading Countries: Websites
+United States: 5258
+Brazil: 628
+India: 607
+Canada: 590
+Indonesia: 454
+United Kingdom: 450
+Germany: 441
+China: 428
+Japan: 342
+Mexico: 318
+Rest of the World: 4483

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BRID.tv
+Last month's change: 0.14%
+Websites: 1445
+Unique Domains: 1202
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BRID.tv is being used
+News & Media: 20.76%
+Sports: 10.45%
+Arts & Entertainment: 10.38%
+Games: 5.26%
+Others: 53.15%
+
+
+- Related Technologies -
+Top Online Video Platform technologies
+Youku
+Truvid
+Bitmovin
+Vzaar
+UStream
+
+
+- Top Websites Using BRID.tv -
+index.hr  --  Monthly visits -> 49.5M
+mapquest.com  --  Monthly visits -> 26.6M
+alo.rs  --  Monthly visits -> 21.1M
+hitc.com  --  Monthly visits -> 19.7M
+parade.com  --  Monthly visits -> 17.2M
+novosti.rs  --  Monthly visits -> 14.6M
+washingtonexaminer.com  --  Monthly visits -> 13.7M
+redgol.cl  --  Monthly visits -> 12.7M
+money.it  --  Monthly visits -> 10.6M
+tuttojuve.com  --  Monthly visits -> 9.9M
+
+- Geography -
+BRID.tv usage by websites across the globe
+Leading Countries: Websites
+United States: 403
+Italy: 381
+United Kingdom: 82
+Germany: 37
+Spain: 34
+India: 28
+Mexico: 21
+Argentina: 19
+Brazil: 18
+France: 16
+Rest of the World: 254

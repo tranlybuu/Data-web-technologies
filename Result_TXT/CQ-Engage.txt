@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CQ Engage
+Last month's change: 4.15%
+Websites: 1133
+Unique Domains: 911
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CQ Engage is being used
+Health: 13.77%
+Science & Education: 10.24%
+Law & Government: 5.30%
+Community & Society: 4.77%
+Others: 65.93%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Blackbaud
+Countable Action
+Salsa Labs
+
+
+- Top Websites Using CQ Engage -
+akc.org  --  Monthly visits -> 10.3M
+trinity-health.org  --  Monthly visits -> 1.7M
+tdainstitutional.com  --  Monthly visits -> 1.7M
+asha.org  --  Monthly visits -> 1.4M
+psychiatry.org  --  Monthly visits -> 1.3M
+girlscouts.org  --  Monthly visits -> 1.2M
+epilepsy.com  --  Monthly visits -> 999.5K
+ala.org  --  Monthly visits -> 970.3K
+childrenscolorado.org  --  Monthly visits -> 929.1K
+acponline.org  --  Monthly visits -> 922.3K
+
+- Geography -
+CQ Engage usage by websites across the globe
+Leading Countries: Websites
+United States: 773
+India: 80
+Indonesia: 26
+Pakistan: 21
+United Arab Emirates: 13
+Russia: 11
+Turkey: 11
+United Kingdom: 11
+Germany: 8
+Mexico: 8
+Rest of the World: 109

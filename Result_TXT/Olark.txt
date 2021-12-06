@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Olark
+Last month's change: 2.74%
+Websites: 19536
+Unique Domains: 15604
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Olark is being used
+Computers Electronics & Technology: 6.87%
+Business & Consumer Services: 4.85%
+Science & Education: 4.44%
+Lifestyle: 3.65%
+Others: 80.19%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using Olark -
+texas.gov  --  Monthly visits -> 24.4M
+eset.com  --  Monthly visits -> 15.5M
+passeidireto.com  --  Monthly visits -> 14.4M
+wantgoo.com  --  Monthly visits -> 11.6M
+farming-simulator.com  --  Monthly visits -> 8.9M
+avvo.com  --  Monthly visits -> 6.3M
+zapier.com  --  Monthly visits -> 5.6M
+res.cloudinary.com  --  Monthly visits -> 5.3M
+buscalibre.cl  --  Monthly visits -> 4.3M
+pdfsimpli.com  --  Monthly visits -> 3.9M
+
+- Geography -
+Olark usage by websites across the globe
+Leading Countries: Websites
+United States: 7920
+United Kingdom: 1192
+Canada: 773
+Australia: 610
+India: 495
+France: 337
+Brazil: 320
+Mexico: 301
+Argentina: 262
+Germany: 244
+Rest of the World: 4477

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: W3 Total Cache
+Last month's change: 0.03%
+Websites: 295330
+Unique Domains: 284261
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where W3 Total Cache is being used
+Computers Electronics & Technology: 5.11%
+Science & Education: 2.94%
+Arts & Entertainment: 2.41%
+Health: 2.22%
+Others: 87.32%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using W3 Total Cache -
+cheatsheet.com  --  Monthly visits -> 71.2M
+thesaurus.com  --  Monthly visits -> 57.3M
+motorbiscuit.com  --  Monthly visits -> 52.8M
+glassdoor.com  --  Monthly visits -> 52.7M
+coursehero.com  --  Monthly visits -> 48.5M
+sport.es  --  Monthly visits -> 47.7M
+dictionary.com  --  Monthly visits -> 34.7M
+fitgirl-repacks.site  --  Monthly visits -> 29.6M
+finanzen.net  --  Monthly visits -> 28.9M
+cienradios.com  --  Monthly visits -> 23.9M
+
+- Geography -
+W3 Total Cache usage by websites across the globe
+Leading Countries: Websites
+United States: 62134
+Italy: 13155
+United Kingdom: 12911
+Germany: 12766
+India: 10593
+France: 9580
+Canada: 9223
+Brazil: 9064
+Japan: 8963
+Spain: 8384
+Rest of the World: 119556

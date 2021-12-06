@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Hatena
+Last month's change: 1.04%
+Websites: 182891
+Unique Domains: 69964
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Hatena is being used
+Computers Electronics & Technology: 12.87%
+Arts & Entertainment: 7.88%
+Food & Drink: 6.59%
+Games: 5.84%
+Others: 66.83%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Hatena -
+blog.jp  --  Monthly visits -> 201.2M
+estart.jp  --  Monthly visits -> 148.4M
+auctions.yahoo.co.jp  --  Monthly visits -> 143.5M
+itmedia.co.jp  --  Monthly visits -> 131.4M
+impress.co.jp  --  Monthly visits -> 75.5M
+watch.impress.co.jp  --  Monthly visits -> 73.7M
+asahi.com  --  Monthly visits -> 71.5M
+hatenablog.com  --  Monthly visits -> 70.1M
+bunshun.jp  --  Monthly visits -> 68.5M
+finance.yahoo.co.jp  --  Monthly visits -> 67.6M
+
+- Geography -
+Hatena usage by websites across the globe
+Leading Countries: Websites
+Japan: 118923
+Russia: 4044
+United States: 2848
+Ukraine: 433
+United Kingdom: 393
+China: 341
+Germany: 322
+Taiwan: 313
+South Korea: 285
+France: 276
+Rest of the World: 4383

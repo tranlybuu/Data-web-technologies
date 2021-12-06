@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: News API
+Last month's change: 2.16%
+Websites: 139
+Unique Domains: 110
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where News API is being used
+Computers Electronics & Technology: 30.22%
+Games: 1.44%
+News & Media: 1.44%
+Science & Education: 1.44%
+Others: 65.47%
+
+
+- Related Technologies -
+Top API technologies
+None
+None
+None
+None
+None
+
+
+- Top Websites Using News API -
+python.plainenglish.io  --  Monthly visits -> 522.4K
+betplus.mx  --  Monthly visits -> 454.2K
+techiediaries.com  --  Monthly visits -> 385.4K
+healeycodes.com  --  Monthly visits -> 253.8K
+thesmartcoder.dev  --  Monthly visits -> 190.3K
+blog.jscrambler.com  --  Monthly visits -> 170.4K
+newsapi.org  --  Monthly visits -> 167.4K
+uniconbg.com  --  Monthly visits -> 118.7K
+airdev.co  --  Monthly visits -> 110.4K
+theabbie.github.io  --  Monthly visits -> 106.7K
+
+- Geography -
+News API usage by websites across the globe
+Leading Countries: Websites
+United States: 36
+India: 12
+South Korea: 8
+Germany: 7
+Japan: 7
+Taiwan: 5
+Brazil: 3
+Canada: 3
+Philippines: 3
+Vietnam: 3
+Rest of the World: 30

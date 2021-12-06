@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Naver Search
+Last month's change: 10.5%
+Websites: 23590
+Unique Domains: 8778
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Naver Search is being used
+E-commerce & Shopping: 6.29%
+Computers Electronics & Technology: 5.67%
+Lifestyle: 4.24%
+Jobs & Career: 4.02%
+Others: 79.78%
+
+
+- Related Technologies -
+Top Site Search technologies
+Algolia
+Hupso
+SiteSearch 360
+Captify
+AddSearch
+
+
+- Top Websites Using Naver Search -
+naver.com  --  Monthly visits -> 1.2B
+blog.naver.com  --  Monthly visits -> 382.3M
+news.naver.com  --  Monthly visits -> 201.8M
+m.naver.com  --  Monthly visits -> 200M
+kin.naver.com  --  Monthly visits -> 52.6M
+rozetka.com.ua  --  Monthly visits -> 39.3M
+dict.naver.com  --  Monthly visits -> 36.4M
+sports.naver.com  --  Monthly visits -> 33.8M
+stock.naver.com  --  Monthly visits -> 23.8M
+finance.naver.com  --  Monthly visits -> 23.5M
+
+- Geography -
+Naver Search usage by websites across the globe
+Leading Countries: Websites
+South Korea: 12659
+United States: 2336
+United Kingdom: 343
+Australia: 329
+Canada: 320
+India: 140
+Japan: 122
+Germany: 121
+France: 117
+China: 98
+Rest of the World: 1702

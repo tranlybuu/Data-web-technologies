@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SiteCall
+Last month's change: 2.58%
+Websites: 155
+Unique Domains: 127
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SiteCall is being used
+Vehicles: 18.06%
+Business & Consumer Services: 6.45%
+Finance: 6.45%
+Travel & Tourism: 6.45%
+Others: 62.58%
+
+
+- Related Technologies -
+Top Call Tracking technologies
+CallRail
+Callibri
+Binotel
+Mango
+FreshCaller
+
+
+- Top Websites Using SiteCall -
+morizon.pl  --  Monthly visits -> 3.3M
+brw.pl  --  Monthly visits -> 1.5M
+moj.cosinus.pl  --  Monthly visits -> 294.2K
+panwybierak.pl  --  Monthly visits -> 279.7K
+zadbano.pl  --  Monthly visits -> 223.9K
+emultimax.pl  --  Monthly visits -> 218.7K
+cityfit.pl  --  Monthly visits -> 178.9K
+emc-sa.pl  --  Monthly visits -> 169.2K
+lendi.pl  --  Monthly visits -> 105.4K
+tuz.pl  --  Monthly visits -> 94.1K
+
+- Geography -
+SiteCall usage by websites across the globe
+Leading Countries: Websites
+Poland: 135
+Netherlands: 2
+France: 1
+Germany: 1
+Ireland: 1
+Latvia: 1
+Romania: 1

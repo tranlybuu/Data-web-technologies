@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Reservio
+Last month's change: 2.21%
+Websites: 362
+Unique Domains: 301
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Reservio is being used
+Health: 2.76%
+Science & Education: 2.21%
+Lifestyle: 1.93%
+Sports: 1.93%
+Others: 91.16%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using Reservio -
+globus.cz  --  Monthly visits -> 487.8K
+efeb.hu  --  Monthly visits -> 70.2K
+tbs-education.fr  --  Monthly visits -> 66.7K
+singlecase.cz  --  Monthly visits -> 56.8K
+liveuniversity.com  --  Monthly visits -> 56.4K
+bergenklatresenter.no  --  Monthly visits -> 55.5K
+smartresidences.es  --  Monthly visits -> 49.3K
+drabeatrizedrantonio.com.br  --  Monthly visits -> 47.1K
+scootland.cz  --  Monthly visits -> 34K
+raudor.com  --  Monthly visits -> 33.9K
+
+- Geography -
+Reservio usage by websites across the globe
+Leading Countries: Websites
+Czech Republic: 95
+France: 29
+Italy: 29
+Hungary: 22
+Spain: 19
+Brazil: 17
+Slovakia: 11
+Belgium: 7
+Netherlands: 6
+Mexico: 5
+Rest of the World: 50

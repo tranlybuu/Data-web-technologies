@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cookie Consent
+Last month's change: 4.26%
+Websites: 3598885
+Unique Domains: 2342404
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cookie Consent is being used
+Computers Electronics & Technology: 4.68%
+Science & Education: 3.59%
+Arts & Entertainment: 2.32%
+Business & Consumer Services: 2.04%
+Others: 87.36%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+CookieBot
+UK Cookie Consent
+
+
+- Top Websites Using Cookie Consent -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+m.youtube.com  --  Monthly visits -> 5.9B
+whatsapp.com  --  Monthly visits -> 3.1B
+netflix.com  --  Monthly visits -> 2.7B
+amazon.com  --  Monthly visits -> 2.5B
+web.whatsapp.com  --  Monthly visits -> 2.4B
+
+- Geography -
+Cookie Consent usage by websites across the globe
+Leading Countries: Websites
+United States: 587821
+Germany: 269888
+United Kingdom: 240566
+Italy: 177344
+France: 136116
+Spain: 104751
+Netherlands: 78956
+India: 76530
+Poland: 73895
+Canada: 65276
+Rest of the World: 1076708

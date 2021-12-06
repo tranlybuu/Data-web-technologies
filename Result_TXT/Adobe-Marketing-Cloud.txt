@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Adobe Marketing Cloud
+Last month's change: 1.11%
+Websites: 156517
+Unique Domains: 85816
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Adobe Marketing Cloud is being used
+Science & Education: 9.95%
+Finance: 7.27%
+Vehicles: 6.73%
+Computers Electronics & Technology: 6.31%
+Others: 69.75%
+
+
+- Related Technologies -
+Top Marketing technologies
+Google Marketing Platform
+Civic
+Zotabox
+On24
+TownNews
+
+
+- Top Websites Using Adobe Marketing Cloud -
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+whatsapp.com  --  Monthly visits -> 3.1B
+amazon.com  --  Monthly visits -> 2.5B
+zoom.us  --  Monthly visits -> 2B
+microsoft.com  --  Monthly visits -> 1.1B
+samsung.com  --  Monthly visits -> 805.5M
+accuweather.com  --  Monthly visits -> 697.5M
+bbc.co.uk  --  Monthly visits -> 649.5M
+espn.com  --  Monthly visits -> 628.4M
+
+- Geography -
+Adobe Marketing Cloud usage by websites across the globe
+Leading Countries: Websites
+United States: 61054
+United Kingdom: 6170
+Germany: 5956
+Canada: 5183
+Japan: 4829
+Australia: 3951
+France: 2949
+India: 2527
+Italy: 2360
+Spain: 2265
+Rest of the World: 32847

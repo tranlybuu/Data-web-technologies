@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Asciinema
+Last month's change: 2.73%
+Websites: 1797
+Unique Domains: 1361
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Asciinema is being used
+Computers Electronics & Technology: 48.02%
+Science & Education: 2.06%
+Finance: 0.56%
+Games: 0.39%
+Others: 48.97%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Asciinema -
+solana.com  --  Monthly visits -> 6.5M
+write.as  --  Monthly visits -> 2.9M
+tryhackme.com  --  Monthly visits -> 2.6M
+section.io  --  Monthly visits -> 2.2M
+surge.sh  --  Monthly visits -> 1.9M
+symfony.com  --  Monthly visits -> 1.3M
+roadmap.sh  --  Monthly visits -> 778.4K
+ps.w.org  --  Monthly visits -> 773.3K
+securitytrails.com  --  Monthly visits -> 765K
+singlestore.com  --  Monthly visits -> 596.9K
+
+- Geography -
+Asciinema usage by websites across the globe
+Leading Countries: Websites
+United States: 512
+China: 211
+Germany: 92
+South Korea: 69
+France: 57
+Brazil: 56
+India: 55
+Japan: 48
+United Kingdom: 43
+Russia: 40
+Rest of the World: 580

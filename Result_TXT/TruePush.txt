@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TruePush
+Last month's change: 0.99%
+Websites: 1816
+Unique Domains: 1567
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TruePush is being used
+Computers Electronics & Technology: 10.90%
+News & Media: 6.88%
+Science & Education: 6.11%
+Jobs & Career: 5.73%
+Others: 70.37%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using TruePush -
+indiaglitz.com  --  Monthly visits -> 9.2M
+egybest.film  --  Monthly visits -> 6.4M
+best.egybest.film  --  Monthly visits -> 6.4M
+maison-travaux.fr  --  Monthly visits -> 5.4M
+booksvooks.com  --  Monthly visits -> 5.2M
+tvblog.it  --  Monthly visits -> 4.8M
+liner.hu  --  Monthly visits -> 4.8M
+papillesetpupilles.fr  --  Monthly visits -> 4.6M
+animeyt.es  --  Monthly visits -> 3.8M
+allmovieshub.org  --  Monthly visits -> 3.8M
+
+- Geography -
+TruePush usage by websites across the globe
+Leading Countries: Websites
+India: 457
+United States: 178
+Brazil: 82
+Spain: 51
+Pakistan: 47
+Italy: 43
+Turkey: 36
+Egypt: 33
+Mexico: 31
+Germany: 28
+Rest of the World: 640

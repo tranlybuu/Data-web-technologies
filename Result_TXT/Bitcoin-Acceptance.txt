@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bitcoin Acceptance
+Last month's change: 2.70%
+Websites: 230314
+Unique Domains: 159439
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bitcoin Acceptance is being used
+Computers Electronics & Technology: 7.66%
+Finance: 6.20%
+Lifestyle: 1.89%
+Business & Consumer Services: 1.76%
+Others: 82.49%
+
+
+- Related Technologies -
+Top Bitcoin technologies
+Bitcoin Address Link
+Coinbase
+CoinDesk
+CoinGate
+Bitcoin Miner
+
+
+- Top Websites Using Bitcoin Acceptance -
+cnn.com  --  Monthly visits -> 510.4M
+github.com  --  Monthly visits -> 375.3M
+nytimes.com  --  Monthly visits -> 317.3M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+foxnews.com  --  Monthly visits -> 283M
+coinmarketcap.com  --  Monthly visits -> 262.1M
+finance.yahoo.com  --  Monthly visits -> 252.4M
+tradingview.com  --  Monthly visits -> 207.5M
+amp.reddit.com  --  Monthly visits -> 202.3M
+livejasmin.com  --  Monthly visits -> 201.3M
+
+- Geography -
+Bitcoin Acceptance usage by websites across the globe
+Leading Countries: Websites
+United States: 53062
+Japan: 10910
+India: 8752
+United Kingdom: 8592
+Russia: 7656
+Italy: 7172
+Germany: 7092
+Canada: 6999
+France: 5304
+Brazil: 4284
+Rest of the World: 88115

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Etix
+Last month's change: 5.39%
+Websites: 3138
+Unique Domains: 2881
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Etix is being used
+Arts & Entertainment: 31.42%
+Travel & Tourism: 4.59%
+Sports: 4.49%
+Science & Education: 3.66%
+Others: 55.83%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+
+
+- Top Websites Using Etix -
+nj.com  --  Monthly visits -> 14.9M
+livenation.com  --  Monthly visits -> 10.6M
+etix.com  --  Monthly visits -> 9.6M
+concerts.livenation.com  --  Monthly visits -> 4.2M
+ushmm.org  --  Monthly visits -> 2.5M
+jambase.com  --  Monthly visits -> 2.1M
+event.etix.com  --  Monthly visits -> 2.1M
+kentucky.com  --  Monthly visits -> 1.8M
+nhra.com  --  Monthly visits -> 1.5M
+brooklynvegan.com  --  Monthly visits -> 1.4M
+
+- Geography -
+Etix usage by websites across the globe
+Leading Countries: Websites
+United States: 2352
+Germany: 168
+United Kingdom: 64
+Canada: 46
+France: 21
+Italy: 15
+India: 13
+Turkey: 13
+Australia: 12
+Japan: 10
+Rest of the World: 171

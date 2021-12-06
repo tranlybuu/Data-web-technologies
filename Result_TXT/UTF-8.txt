@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: UTF-8
+Last month's change: 0.84%
+Websites: 22391933
+Unique Domains: 13171424
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where UTF-8 is being used
+Computers Electronics & Technology: 4.64%
+Science & Education: 3.72%
+Arts & Entertainment: 3.24%
+Games: 1.88%
+Others: 86.52%
+
+
+- Related Technologies -
+Top Encoding technologies
+Windows-1251
+None
+None
+None
+None
+
+
+- Top Websites Using UTF-8 -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+mail.google.com  --  Monthly visits -> 11.3B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+docs.google.com  --  Monthly visits -> 5.6B
+baidu.com  --  Monthly visits -> 5.6B
+
+- Geography -
+UTF-8 usage by websites across the globe
+Leading Countries: Websites
+United States: 3897202
+Japan: 1118653
+Russia: 891255
+Germany: 864745
+United Kingdom: 748717
+China: 745057
+France: 642605
+Italy: 529294
+Canada: 525508
+India: 490862
+Rest of the World: 7595957

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LinkedIn Login
+Last month's change: 2.78%
+Websites: 5961
+Unique Domains: 3565
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LinkedIn Login is being used
+Jobs & Career: 11.78%
+Computers Electronics & Technology: 8.39%
+Science & Education: 8.24%
+Business & Consumer Services: 3.84%
+Others: 67.76%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using LinkedIn Login -
+canvas.instructure.com  --  Monthly visits -> 11.9M
+fgv.br  --  Monthly visits -> 10.4M
+search.ch  --  Monthly visits -> 9.5M
+thotbook.tv  --  Monthly visits -> 9.2M
+qz.com  --  Monthly visits -> 7.2M
+meteo.search.ch  --  Monthly visits -> 3.9M
+universiteitleiden.nl  --  Monthly visits -> 3.8M
+leidenuniv.nl  --  Monthly visits -> 2.7M
+mindtools.com  --  Monthly visits -> 2.6M
+learning.oreilly.com  --  Monthly visits -> 2.4M
+
+- Geography -
+LinkedIn Login usage by websites across the globe
+Leading Countries: Websites
+United States: 1732
+United Kingdom: 579
+India: 384
+Brazil: 292
+Canada: 194
+Estonia: 153
+Australia: 121
+France: 85
+Germany: 81
+Netherlands: 66
+Rest of the World: 1520

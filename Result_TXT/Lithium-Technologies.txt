@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Lithium Technologies
+Last month's change: 8.31%
+Websites: 4213
+Unique Domains: 988
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Lithium Technologies is being used
+Computers Electronics & Technology: 20.98%
+Games: 5.93%
+Adult: 5.06%
+Arts & Entertainment: 4.41%
+Others: 63.61%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using Lithium Technologies -
+quickbooks.intuit.com  --  Monthly visits -> 14.2M
+leroymerlin.es  --  Monthly visits -> 12.8M
+community.adobe.com  --  Monthly visits -> 10.3M
+answers.ea.com  --  Monthly visits -> 9.4M
+techcommunity.microsoft.com  --  Monthly visits -> 7.4M
+forums.autodesk.com  --  Monthly visits -> 4.9M
+rssing.com  --  Monthly visits -> 4.8M
+ttlc.intuit.com  --  Monthly visits -> 4.7M
+community.spotify.com  --  Monthly visits -> 4.5M
+paypal-community.com  --  Monthly visits -> 3.2M
+
+- Geography -
+Lithium Technologies usage by websites across the globe
+Leading Countries: Websites
+United States: 682
+India: 140
+Germany: 120
+Japan: 112
+United Kingdom: 103
+Italy: 95
+France: 92
+Indonesia: 75
+Canada: 72
+Brazil: 66
+Rest of the World: 1155

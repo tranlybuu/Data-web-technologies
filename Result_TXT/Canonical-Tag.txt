@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Canonical Tag
+Last month's change: 1.70%
+Websites: 13384628
+Unique Domains: 8961208
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Canonical Tag is being used
+Computers Electronics & Technology: 4.21%
+Arts & Entertainment: 3.54%
+Science & Education: 3.09%
+Games: 2.01%
+Others: 87.15%
+
+
+- Related Technologies -
+Top Meta Tags technologies
+Meta Description
+Meta http-equiv
+Favicon Tag
+Meta Robot
+Meta Keywords
+
+
+- Top Websites Using Canonical Tag -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+facebook.com  --  Monthly visits -> 21.1B
+m.facebook.com  --  Monthly visits -> 9.8B
+twitter.com  --  Monthly visits -> 6.7B
+instagram.com  --  Monthly visits -> 6.4B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+whatsapp.com  --  Monthly visits -> 3.1B
+
+- Geography -
+Canonical Tag usage by websites across the globe
+Leading Countries: Websites
+United States: 2496698
+Japan: 817652
+Germany: 536843
+United Kingdom: 485474
+Russia: 421547
+France: 411414
+Italy: 340506
+Canada: 337679
+South Korea: 271816
+India: 268763
+Rest of the World: 4358162

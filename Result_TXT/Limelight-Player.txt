@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Limelight Player
+Last month's change: 4.40%
+Websites: 931
+Unique Domains: 724
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Limelight Player is being used
+Finance: 12.14%
+Health: 7.09%
+Science & Education: 4.62%
+Business & Consumer Services: 3.01%
+Others: 73.15%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Limelight Player -
+vanguard.com  --  Monthly visits -> 21.7M
+investor.vanguard.com  --  Monthly visits -> 14.6M
+cigna.com  --  Monthly visits -> 14M
+citibank.co.in  --  Monthly visits -> 4.2M
+online.citibank.co.in  --  Monthly visits -> 2.6M
+citigroup.com  --  Monthly visits -> 1.7M
+yamahamotorsports.com  --  Monthly visits -> 1.6M
+puritan.com  --  Monthly visits -> 1.6M
+cadence.com  --  Monthly visits -> 1.5M
+ada.org  --  Monthly visits -> 1.5M
+
+- Geography -
+Limelight Player usage by websites across the globe
+Leading Countries: Websites
+United States: 540
+India: 101
+Canada: 25
+Brazil: 15
+China: 14
+United Kingdom: 13
+Philippines: 9
+Australia: 8
+Germany: 8
+Japan: 8
+Rest of the World: 109

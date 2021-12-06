@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: YouTube
+Last month's change: 1.01%
+Websites: 5108078
+Unique Domains: 3783904
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where YouTube is being used
+Science & Education: 4.68%
+Computers Electronics & Technology: 4.54%
+Arts & Entertainment: 3.96%
+Health: 2.53%
+Others: 84.29%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+HTTP Live Streaming (HLS)
+
+
+- Top Websites Using YouTube -
+google.com  --  Monthly visits -> 91B
+youtube.com  --  Monthly visits -> 34.6B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+zoom.us  --  Monthly visits -> 2B
+support.google.com  --  Monthly visits -> 1.5B
+discord.com  --  Monthly visits -> 1.3B
+play.google.com  --  Monthly visits -> 1.2B
+us02web.zoom.us  --  Monthly visits -> 799.9M
+
+- Geography -
+YouTube usage by websites across the globe
+Leading Countries: Websites
+United States: 1021306
+Japan: 305851
+Russia: 252025
+United Kingdom: 181691
+France: 172580
+Germany: 157103
+Italy: 136105
+Canada: 129717
+Brazil: 129216
+India: 123034
+Rest of the World: 1829032

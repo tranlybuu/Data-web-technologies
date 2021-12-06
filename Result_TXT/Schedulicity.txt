@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Schedulicity
+Last month's change: 1.75%
+Websites: 1719
+Unique Domains: 1672
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Schedulicity is being used
+Health: 3.49%
+Sports: 1.57%
+Lifestyle: 1.22%
+Food & Drink: 1.05%
+Others: 92.67%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Bookeo
+Doctolib
+
+
+- Top Websites Using Schedulicity -
+snowpeak.com  --  Monthly visits -> 375.9K
+dothebay.com  --  Monthly visits -> 228.6K
+dayton.com  --  Monthly visits -> 211.6K
+mychristiancare.org  --  Monthly visits -> 197.9K
+myrevair.com  --  Monthly visits -> 175.4K
+covergirl.com  --  Monthly visits -> 175K
+essentials.schedulicity.com  --  Monthly visits -> 72.1K
+jillcarnahan.com  --  Monthly visits -> 66.1K
+midwestanimalrescue.org  --  Monthly visits -> 62.7K
+narcissistfamilyfiles.com  --  Monthly visits -> 62.2K
+
+- Geography -
+Schedulicity usage by websites across the globe
+Leading Countries: Websites
+United States: 1217
+Canada: 130
+India: 19
+Philippines: 13
+Australia: 8
+China: 8
+United Kingdom: 8
+Turkey: 6
+Brazil: 5
+Netherlands: 5
+Rest of the World: 76

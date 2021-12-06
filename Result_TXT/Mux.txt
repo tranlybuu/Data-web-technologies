@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Mux
+Last month's change: 3.30%
+Websites: 23682
+Unique Domains: 14761
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mux is being used
+Computers Electronics & Technology: 9.01%
+Business & Consumer Services: 6.03%
+Health: 3.92%
+Finance: 3.80%
+Others: 77.24%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Mux -
+github.com  --  Monthly visits -> 375.3M
+hotstar.com  --  Monthly visits -> 323.8M
+kompas.com  --  Monthly visits -> 194M
+cnet.com  --  Monthly visits -> 68.8M
+mheducation.com  --  Monthly visits -> 40.7M
+metro.co.uk  --  Monthly visits -> 34.1M
+univision.com  --  Monthly visits -> 33.3M
+kmail-lists.com  --  Monthly visits -> 30.2M
+hgtv.com  --  Monthly visits -> 28.3M
+sportingnews.com  --  Monthly visits -> 24M
+
+- Geography -
+Mux usage by websites across the globe
+Leading Countries: Websites
+United States: 9267
+United Kingdom: 1075
+Canada: 816
+Australia: 727
+Germany: 557
+India: 475
+France: 425
+Brazil: 287
+Italy: 271
+Japan: 264
+Rest of the World: 4966

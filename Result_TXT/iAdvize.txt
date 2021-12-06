@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: iAdvize
+Last month's change: 1.23%
+Websites: 1950
+Unique Domains: 1246
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where iAdvize is being used
+Home & Garden: 8.87%
+Travel & Tourism: 8.51%
+Computers Electronics & Technology: 7.95%
+Finance: 7.03%
+Others: 67.64%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using iAdvize -
+apps.samsung.com  --  Monthly visits -> 149.8M
+m.samsung.com  --  Monthly visits -> 37.7M
+fnac.com  --  Monthly visits -> 29.2M
+content.samsung.com  --  Monthly visits -> 27.2M
+fdj.fr  --  Monthly visits -> 25.1M
+oui.sncf  --  Monthly visits -> 17.1M
+manomano.fr  --  Monthly visits -> 15.8M
+darty.com  --  Monthly visits -> 14.3M
+boulanger.com  --  Monthly visits -> 12.4M
+nespresso.com  --  Monthly visits -> 10.7M
+
+- Geography -
+iAdvize usage by websites across the globe
+Leading Countries: Websites
+France: 827
+Germany: 121
+Spain: 94
+United Kingdom: 54
+United States: 52
+Belgium: 35
+Italy: 35
+Netherlands: 32
+Switzerland: 21
+Austria: 18
+Rest of the World: 260

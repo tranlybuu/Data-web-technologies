@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: JivoChat
+Last month's change: 1.23%
+Websites: 137439
+Unique Domains: 101725
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where JivoChat is being used
+Heavy Industry & Engineering: 10.90%
+Vehicles: 7.57%
+Home & Garden: 7.32%
+Computers Electronics & Technology: 7.22%
+Others: 66.99%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+Tidio Live Chat
+HubSpot Chat
+
+
+- Top Websites Using JivoChat -
+delfi.lv  --  Monthly visits -> 19.8M
+rus.delfi.lv  --  Monthly visits -> 10.4M
+topperlearning.com  --  Monthly visits -> 9.8M
+sslkn.tv  --  Monthly visits -> 9.7M
+mining.online  --  Monthly visits -> 8M
+apteka911.ua  --  Monthly visits -> 6.8M
+raj.bet  --  Monthly visits -> 6.4M
+forumhouse.ru  --  Monthly visits -> 6.3M
+eda.ru  --  Monthly visits -> 6.2M
+m.apteka911.ua  --  Monthly visits -> 5.7M
+
+- Geography -
+JivoChat usage by websites across the globe
+Leading Countries: Websites
+Russia: 70499
+Ukraine: 11887
+Brazil: 7869
+Belarus: 4684
+United States: 2404
+Kazakhstan: 2343
+Turkey: 1390
+United Kingdom: 791
+Moldova: 775
+Germany: 719
+Rest of the World: 12576

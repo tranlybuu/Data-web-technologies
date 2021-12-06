@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Facecast
+Last month's change: 0%
+Websites: 120
+Unique Domains: 110
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Facecast is being used
+Arts & Entertainment: 13.33%
+Science & Education: 12.50%
+Business & Consumer Services: 10.83%
+Health: 9.17%
+Others: 54.17%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Facecast -
+facecast.net  --  Monthly visits -> 158.5K
+ac.gov.ru  --  Monthly visits -> 108.4K
+gppc.ru  --  Monthly visits -> 95K
+imfd.ru  --  Monthly visits -> 71.4K
+prod-expo.ru  --  Monthly visits -> 50.9K
+winningthehearts.com  --  Monthly visits -> 50.3K
+jolbors.com  --  Monthly visits -> 46.8K
+loyalty-world.ru  --  Monthly visits -> 41K
+intant.kz  --  Monthly visits -> 39.6K
+pryamaya.ru  --  Monthly visits -> 38.9K
+
+- Geography -
+Facecast usage by websites across the globe
+Leading Countries: Websites
+Russia: 89
+Czech Republic: 3
+Belarus: 2
+Kazakhstan: 2
+Moldova: 2
+Ukraine: 2
+Israel: 1
+Italy: 1
+Kyrgyzstan: 1
+South Africa: 1
+Rest of the World: 3

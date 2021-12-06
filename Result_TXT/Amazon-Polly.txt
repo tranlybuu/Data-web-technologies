@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Amazon Polly
+Last month's change: 2.80%
+Websites: 2287
+Unique Domains: 2158
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Amazon Polly is being used
+Computers Electronics & Technology: 7.65%
+Business & Consumer Services: 3.45%
+Law & Government: 3.45%
+Health: 3.15%
+Others: 82.29%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Amazon Polly -
+thenewdaily.com.au  --  Monthly visits -> 6.4M
+angelbroking.com  --  Monthly visits -> 5.8M
+cuponomia.com.br  --  Monthly visits -> 4.2M
+totalexpress.com.br  --  Monthly visits -> 4M
+enduringword.com  --  Monthly visits -> 2.9M
+angelone.in  --  Monthly visits -> 2.8M
+readtheory.org  --  Monthly visits -> 2.3M
+strettoweb.com  --  Monthly visits -> 2.3M
+news.samsung.com  --  Monthly visits -> 2.1M
+btc-echo.de  --  Monthly visits -> 1.7M
+
+- Geography -
+Amazon Polly usage by websites across the globe
+Leading Countries: Websites
+United States: 709
+India: 144
+Japan: 137
+Brazil: 111
+United Kingdom: 91
+Canada: 67
+Italy: 58
+Germany: 52
+Australia: 50
+South Korea: 48
+Rest of the World: 695

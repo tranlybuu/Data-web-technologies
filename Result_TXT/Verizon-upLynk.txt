@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Verizon upLynk
+Last month's change: 0.36%
+Websites: 4468
+Unique Domains: 1230
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Verizon upLynk is being used
+Arts & Entertainment: 4.54%
+News & Media: 3.49%
+Computers Electronics & Technology: 2.19%
+Health: 1.19%
+Others: 88.59%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Verizon upLynk -
+att.net  --  Monthly visits -> 95M
+tw.yahoo.com  --  Monthly visits -> 68.7M
+home.att.com  --  Monthly visits -> 65M
+att.yahoo.com  --  Monthly visits -> 48.1M
+answers.yahoo.com  --  Monthly visits -> 38.2M
+lego.com  --  Monthly visits -> 28.5M
+ca.yahoo.com  --  Monthly visits -> 25.9M
+espanol.yahoo.com  --  Monthly visits -> 25.4M
+br.yahoo.com  --  Monthly visits -> 22.1M
+yahoo.com.tw  --  Monthly visits -> 18.3M
+
+- Geography -
+Verizon upLynk usage by websites across the globe
+Leading Countries: Websites
+United States: 976
+Mexico: 27
+Canada: 22
+India: 16
+Japan: 15
+France: 14
+Germany: 13
+Italy: 12
+United Kingdom: 12
+China: 11
+Rest of the World: 205

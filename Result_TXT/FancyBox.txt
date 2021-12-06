@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FancyBox
+Last month's change: 0.30%
+Websites: 1556583
+Unique Domains: 1244480
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FancyBox is being used
+Computers Electronics & Technology: 3.62%
+Science & Education: 3.54%
+Heavy Industry & Engineering: 2.95%
+Vehicles: 2.48%
+Others: 87.41%
+
+
+- Related Technologies -
+Top Popups technologies
+Popup Maker
+AerisWeather
+PopupSmart
+Poptin
+None
+
+
+- Top Websites Using FancyBox -
+worldstar.com  --  Monthly visits -> 273.1M
+brainly.co.id  --  Monthly visits -> 181.2M
+tribunnews.com  --  Monthly visits -> 153.5M
+ndtv.com  --  Monthly visits -> 149.9M
+realtor.com  --  Monthly visits -> 137.9M
+stackexchange.com  --  Monthly visits -> 120.3M
+nhk.or.jp  --  Monthly visits -> 119.3M
+corriere.it  --  Monthly visits -> 106.8M
+apkpure.com  --  Monthly visits -> 105.4M
+m.apkpure.com  --  Monthly visits -> 99.4M
+
+- Geography -
+FancyBox usage by websites across the globe
+Leading Countries: Websites
+United States: 197239
+Russia: 174131
+Japan: 73517
+France: 63353
+Germany: 61703
+Italy: 50336
+United Kingdom: 45116
+Brazil: 35334
+Poland: 34993
+India: 34294
+Rest of the World: 566875

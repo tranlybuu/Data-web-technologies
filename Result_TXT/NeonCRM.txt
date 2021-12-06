@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: NeonCRM
+Last month's change: 19.0%
+Websites: 42
+Unique Domains: 36
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where NeonCRM is being used
+Community & Society: 16.67%
+Health: 9.52%
+Business & Consumer Services: 4.76%
+Science & Education: 4.76%
+Others: 64.29%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using NeonCRM -
+chadd.org  --  Monthly visits -> 723.9K
+rallybound.org  --  Monthly visits -> 123.9K
+mollybrown.org  --  Monthly visits -> 27.2K
+parentalrights.org  --  Monthly visits -> 19.3K
+runwalk.ovarian.org  --  Monthly visits -> 17.6K
+najit.org  --  Monthly visits -> 15.6K
+secure.marinelife.org  --  Monthly visits -> 14.6K
+donkeymillartcenter.org  --  Monthly visits -> 11.5K
+secure.donkeymillartcenter.org  --  Monthly visits -> 11.2K
+rallybound.com  --  Monthly visits -> 10.3K
+
+- Geography -
+NeonCRM usage by websites across the globe
+Leading Countries: Websites
+United States: 29
+Canada: 1
+China: 1
+India: 1
+Oman: 1
+Spain: 1
+United Kingdom: 1

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twitch
+Last month's change: 4.45%
+Websites: 105331
+Unique Domains: 63345
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twitch is being used
+Games: 26.26%
+Arts & Entertainment: 7.92%
+Computers Electronics & Technology: 5.73%
+Sports: 1.54%
+Others: 58.55%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Twitch -
+m.youtube.com  --  Monthly visits -> 5.9B
+amazon.com  --  Monthly visits -> 2.5B
+twitch.tv  --  Monthly visits -> 1.2B
+roblox.com  --  Monthly visits -> 1B
+imdb.com  --  Monthly visits -> 511M
+web.roblox.com  --  Monthly visits -> 352.5M
+m.imdb.com  --  Monthly visits -> 227.9M
+amp.reddit.com  --  Monthly visits -> 202.3M
+primevideo.com  --  Monthly visits -> 196.5M
+blog.discord.com  --  Monthly visits -> 193.5M
+
+- Geography -
+Twitch usage by websites across the globe
+Leading Countries: Websites
+United States: 30170
+Germany: 5866
+France: 4375
+United Kingdom: 3855
+Japan: 3248
+Brazil: 3114
+Russia: 2889
+Canada: 2666
+Spain: 2599
+Italy: 2329
+Rest of the World: 29610

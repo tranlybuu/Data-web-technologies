@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CookieHub
+Last month's change: 15.4%
+Websites: 2720
+Unique Domains: 2397
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CookieHub is being used
+Computers Electronics & Technology: 6.36%
+Health: 3.64%
+Business & Consumer Services: 3.46%
+Science & Education: 3.01%
+Others: 83.53%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+CookieBot
+
+
+- Top Websites Using CookieHub -
+monday.com  --  Monthly visits -> 21.9M
+elpais.com.uy  --  Monthly visits -> 12.4M
+semrush.com  --  Monthly visits -> 9.7M
+3commas.io  --  Monthly visits -> 5.5M
+yotpo.com  --  Monthly visits -> 4.2M
+hiya.com  --  Monthly visits -> 2.5M
+erepublik.com  --  Monthly visits -> 2.3M
+dice.fm  --  Monthly visits -> 2M
+hel.fi  --  Monthly visits -> 1.7M
+cined.com  --  Monthly visits -> 889.2K
+
+- Geography -
+CookieHub usage by websites across the globe
+Leading Countries: Websites
+Germany: 443
+United Kingdom: 270
+United States: 218
+France: 141
+Spain: 133
+Finland: 126
+Iceland: 123
+Italy: 119
+Belgium: 114
+Netherlands: 97
+Rest of the World: 867

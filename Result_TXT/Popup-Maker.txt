@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Popup Maker
+Last month's change: 1.96%
+Websites: 141924
+Unique Domains: 136964
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Popup Maker is being used
+Health: 3.30%
+Computers Electronics & Technology: 3.27%
+Science & Education: 2.67%
+Business & Consumer Services: 2.52%
+Others: 88.23%
+
+
+- Related Technologies -
+Top Popups technologies
+FancyBox
+AerisWeather
+PopupSmart
+Poptin
+None
+
+
+- Top Websites Using Popup Maker -
+travelerdoor.com  --  Monthly visits -> 16.3M
+researchnow.com  --  Monthly visits -> 14M
+quicklaunchsso.com  --  Monthly visits -> 7.5M
+nit.pt  --  Monthly visits -> 7.4M
+enstage-sas.com  --  Monthly visits -> 7.2M
+dynata.com  --  Monthly visits -> 6.8M
+anota.ai  --  Monthly visits -> 6.4M
+cargurus.ca  --  Monthly visits -> 6.2M
+cargurus.co.uk  --  Monthly visits -> 5.4M
+vocento.com  --  Monthly visits -> 5.2M
+
+- Geography -
+Popup Maker usage by websites across the globe
+Leading Countries: Websites
+United States: 34113
+Russia: 7071
+Italy: 6046
+Germany: 6035
+United Kingdom: 5907
+India: 5288
+Canada: 4955
+France: 4843
+Australia: 4681
+Spain: 3723
+Rest of the World: 51000

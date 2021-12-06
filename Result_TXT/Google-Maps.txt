@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Maps
+Last month's change: 1.07%
+Websites: 3889108
+Unique Domains: 3411540
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Maps is being used
+Science & Education: 2.61%
+Food & Drink: 2.28%
+Travel & Tourism: 2.16%
+Computers Electronics & Technology: 2.13%
+Others: 90.82%
+
+
+- Related Technologies -
+Top Mapping technologies
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+OpenStreetMap
+
+
+- Top Websites Using Google Maps -
+google.com  --  Monthly visits -> 91B
+samsung.com  --  Monthly visits -> 805.5M
+walmart.com  --  Monthly visits -> 440.6M
+booking.com  --  Monthly visits -> 401.9M
+stackoverflow.com  --  Monthly visits -> 288.8M
+zillow.com  --  Monthly visits -> 263.4M
+doubleclick.net  --  Monthly visits -> 221.6M
+wildberries.ru  --  Monthly visits -> 201.6M
+jd.com  --  Monthly visits -> 196.1M
+fedex.com  --  Monthly visits -> 182.9M
+
+- Geography -
+Google Maps usage by websites across the globe
+Leading Countries: Websites
+United States: 648548
+Japan: 388866
+Germany: 167171
+United Kingdom: 159871
+Italy: 144677
+France: 128698
+Canada: 110153
+India: 98650
+Poland: 92340
+Spain: 91437
+Rest of the World: 1431262

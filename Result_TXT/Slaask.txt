@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Slaask
+Last month's change: 8.09%
+Websites: 272
+Unique Domains: 236
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Slaask is being used
+Computers Electronics & Technology: 10.66%
+Business & Consumer Services: 7.72%
+Lifestyle: 2.94%
+Science & Education: 2.94%
+Others: 75.74%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Slaask -
+umnazia.ru  --  Monthly visits -> 419.3K
+ownpage.fr  --  Monthly visits -> 417.1K
+redir.ownpage.fr  --  Monthly visits -> 380.7K
+lehman.edu  --  Monthly visits -> 317.4K
+newsletter-redir.euronews.com  --  Monthly visits -> 200.9K
+ownpage.euronews.com  --  Monthly visits -> 177.1K
+billetterie.pumpkin-app.com  --  Monthly visits -> 125.6K
+leadshook.io  --  Monthly visits -> 117K
+happy-science.jp  --  Monthly visits -> 107.1K
+ugebrev.dk  --  Monthly visits -> 106.4K
+
+- Geography -
+Slaask usage by websites across the globe
+Leading Countries: Websites
+United States: 65
+France: 28
+Italy: 13
+Netherlands: 11
+United Kingdom: 11
+Belgium: 10
+Russia: 10
+Germany: 9
+Japan: 9
+Canada: 8
+Rest of the World: 84

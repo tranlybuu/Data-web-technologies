@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WonderPush
+Last month's change: 23.4%
+Websites: 829
+Unique Domains: 674
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WonderPush is being used
+Computers Electronics & Technology: 8.69%
+News & Media: 8.08%
+Sports: 5.43%
+Lifestyle: 5.31%
+Others: 72.50%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using WonderPush -
+voetbalzone.nl  --  Monthly visits -> 15.7M
+cuisine.journaldesfemmes.fr  --  Monthly visits -> 15.4M
+aldi.co.uk  --  Monthly visits -> 10.3M
+sport-fm.gr  --  Monthly visits -> 9.9M
+m.voetbalzone.nl  --  Monthly visits -> 9.3M
+sortiraparis.com  --  Monthly visits -> 6.4M
+gopro.com  --  Monthly visits -> 6M
+onzemondial.com  --  Monthly visits -> 5.8M
+es.ccm.net  --  Monthly visits -> 5.4M
+cgtrader.com  --  Monthly visits -> 5.4M
+
+- Geography -
+WonderPush usage by websites across the globe
+Leading Countries: Websites
+France: 213
+United States: 71
+Germany: 57
+United Kingdom: 38
+Italy: 34
+Greece: 25
+Portugal: 23
+Spain: 23
+Australia: 19
+Netherlands: 19
+Rest of the World: 284

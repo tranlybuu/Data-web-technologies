@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: FocalScope
+Last month's change: 2.70%
+Websites: 74
+Unique Domains: 72
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where FocalScope is being used
+Home & Garden: 12.16%
+Computers Electronics & Technology: 10.81%
+Lifestyle: 10.81%
+E-commerce & Shopping: 6.76%
+Others: 59.46%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using FocalScope -
+bagarenochkocken.se  --  Monthly visits -> 558.7K
+bakerenogkokken.no  --  Monthly visits -> 274K
+spelbutiken.se  --  Monthly visits -> 269.3K
+kitchenone.dk  --  Monthly visits -> 208.3K
+coolshop.se  --  Monthly visits -> 185.9K
+pixizoo.dk  --  Monthly visits -> 115.7K
+houseofkids.dk  --  Monthly visits -> 76.1K
+retrospelbutiken.se  --  Monthly visits -> 75.7K
+decofarver.dk  --  Monthly visits -> 64.6K
+daarbak.dk  --  Monthly visits -> 60.8K
+
+- Geography -
+FocalScope usage by websites across the globe
+Leading Countries: Websites
+Denmark: 20
+Sweden: 12
+Norway: 6
+Germany: 4
+United Kingdom: 4
+Finland: 3
+Netherlands: 3
+France: 2
+Malaysia: 2
+Poland: 2
+Rest of the World: 13

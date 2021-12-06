@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Salesforce Marketing Cloud
+Last month's change: 0.66%
+Websites: 6936
+Unique Domains: 5730
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Salesforce Marketing Cloud is being used
+Finance: 13.49%
+Lifestyle: 7.06%
+Food & Drink: 6.27%
+Business & Consumer Services: 6.00%
+Others: 67.17%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Salesforce Marketing Cloud -
+dmm.co.jp  --  Monthly visits -> 188.9M
+nintendo.com  --  Monthly visits -> 59.7M
+rakuten-sec.co.jp  --  Monthly visits -> 47.7M
+immobilienscout24.de  --  Monthly visits -> 40.7M
+syf.com  --  Monthly visits -> 38.1M
+falabella.com  --  Monthly visits -> 28.5M
+farfetch.com  --  Monthly visits -> 27.4M
+ixl.com  --  Monthly visits -> 24.9M
+globalnews.ca  --  Monthly visits -> 24.1M
+atlassian.com  --  Monthly visits -> 24M
+
+- Geography -
+Salesforce Marketing Cloud usage by websites across the globe
+Leading Countries: Websites
+United States: 3304
+United Kingdom: 299
+Australia: 271
+Brazil: 254
+Canada: 249
+Germany: 151
+Japan: 149
+France: 126
+Spain: 103
+Austria: 89
+Rest of the World: 1001

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: geoPlugin
+Last month's change: 1.61%
+Websites: 4102
+Unique Domains: 3440
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where geoPlugin is being used
+Computers Electronics & Technology: 6.24%
+Travel & Tourism: 3.07%
+Science & Education: 2.68%
+Lifestyle: 2.63%
+Others: 85.37%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using geoPlugin -
+pinkvilla.com  --  Monthly visits -> 30.1M
+neolms.com  --  Monthly visits -> 12.7M
+hentaidude.com  --  Monthly visits -> 10.5M
+lybrate.com  --  Monthly visits -> 6.4M
+beatstar.com  --  Monthly visits -> 6.3M
+salud-digna.org  --  Monthly visits -> 5.1M
+rmit.edu.au  --  Monthly visits -> 4.8M
+openenglish.com  --  Monthly visits -> 4.1M
+haaretz.com  --  Monthly visits -> 3.4M
+penfed.org  --  Monthly visits -> 3.4M
+
+- Geography -
+geoPlugin usage by websites across the globe
+Leading Countries: Websites
+United States: 716
+United Kingdom: 464
+India: 222
+Germany: 112
+Denmark: 108
+Netherlands: 98
+Canada: 93
+Italy: 91
+Australia: 88
+Spain: 80
+Rest of the World: 1534

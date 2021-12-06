@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HelpOnClick
+Last month's change: 5.29%
+Websites: 227
+Unique Domains: 211
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HelpOnClick is being used
+Business & Consumer Services: 8.37%
+Computers Electronics & Technology: 4.85%
+Science & Education: 4.41%
+E-commerce & Shopping: 3.96%
+Others: 78.41%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using HelpOnClick -
+militaria.pl  --  Monthly visits -> 1.7M
+wbs.ac.uk  --  Monthly visits -> 1.2M
+nizex.com  --  Monthly visits -> 297K
+cuw.edu  --  Monthly visits -> 210.9K
+outfitformulas.com  --  Monthly visits -> 192.6K
+e-petrol.pl  --  Monthly visits -> 159.9K
+writersrelief.com  --  Monthly visits -> 158.2K
+combarranquilla.co  --  Monthly visits -> 142.9K
+yantrahomes.co.uk  --  Monthly visits -> 139.6K
+learnthat.org  --  Monthly visits -> 134.8K
+
+- Geography -
+HelpOnClick usage by websites across the globe
+Leading Countries: Websites
+United States: 76
+Poland: 29
+United Kingdom: 13
+Canada: 8
+Australia: 7
+France: 6
+Germany: 6
+India: 5
+Argentina: 3
+Colombia: 3
+Rest of the World: 50

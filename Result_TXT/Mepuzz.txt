@@ -1,0 +1,46 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Mepuzz
+Last month's change: 1.55%
+Websites: 258
+Unique Domains: 228
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mepuzz is being used
+News & Media: 17.05%
+Computers Electronics & Technology: 6.20%
+Lifestyle: 5.04%
+Science & Education: 5.04%
+Others: 66.67%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using Mepuzz -
+khoahoc.vietjack.com  --  Monthly visits -> 11.4M
+moon.vn  --  Monthly visits -> 6.4M
+dienmaycholon.vn  --  Monthly visits -> 5.7M
+didongviet.vn  --  Monthly visits -> 1.8M
+mediamart.vn  --  Monthly visits -> 1.8M
+hanoicomputer.vn  --  Monthly visits -> 1.7M
+maxxhair.vn  --  Monthly visits -> 1.6M
+hc.com.vn  --  Monthly visits -> 1.6M
+anphatpc.com.vn  --  Monthly visits -> 1.1M
+oto.com.vn  --  Monthly visits -> 910.7K
+
+- Geography -
+Mepuzz usage by websites across the globe
+Leading Countries: Websites
+Vietnam: 218
+Cambodia: 2
+Russia: 1
+United States: 1

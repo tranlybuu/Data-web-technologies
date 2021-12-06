@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Infobip
+Last month's change: 4.58%
+Websites: 153
+Unique Domains: 123
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Infobip is being used
+Computers Electronics & Technology: 12.42%
+Finance: 10.46%
+E-commerce & Shopping: 9.15%
+Vehicles: 5.88%
+Others: 62.09%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Infobip -
+invitro.ru  --  Monthly visits -> 12.3M
+infobip.com  --  Monthly visits -> 4.8M
+hi.com  --  Monthly visits -> 3.3M
+laika.com.co  --  Monthly visits -> 1.9M
+rbb.bg  --  Monthly visits -> 1.4M
+laanonimaonline.com  --  Monthly visits -> 1.4M
+loja.consul.com.br  --  Monthly visits -> 1.2M
+galamart.ru  --  Monthly visits -> 1.2M
+online.rbb.bg  --  Monthly visits -> 980K
+carsome.id  --  Monthly visits -> 699.6K
+
+- Geography -
+Infobip usage by websites across the globe
+Leading Countries: Websites
+Brazil: 16
+Colombia: 11
+Croatia: 8
+Russia: 6
+Argentina: 5
+Bulgaria: 5
+Mexico: 5
+Kazakhstan: 4
+Nigeria: 4
+Philippines: 4
+Rest of the World: 76

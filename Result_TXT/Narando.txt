@@ -1,0 +1,49 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Narando
+Last month's change: 9.09%
+Websites: 44
+Unique Domains: 40
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Narando is being used
+Business & Consumer Services: 11.36%
+Computers Electronics & Technology: 9.09%
+News & Media: 6.82%
+Vehicles: 6.82%
+Others: 65.91%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Narando -
+der-postillon.com  --  Monthly visits -> 4.9M
+btc-echo.de  --  Monthly visits -> 1.7M
+blog.hubspot.de  --  Monthly visits -> 315.7K
+studienscheiss.de  --  Monthly visits -> 130K
+imgegenteil.de  --  Monthly visits -> 113.3K
+der-postillon.de  --  Monthly visits -> 91.8K
+blog.minijob-zentrale.de  --  Monthly visits -> 88.1K
+forward.mercedes-benz.com  --  Monthly visits -> 32.9K
+christophorus.porsche.com  --  Monthly visits -> 30.3K
+gewuenschtestes-wunschkind.de  --  Monthly visits -> 26.4K
+
+- Geography -
+Narando usage by websites across the globe
+Leading Countries: Websites
+Germany: 27
+United States: 6
+Belgium: 1
+Brazil: 1
+Canada: 1
+New Zealand: 1
+Norway: 1

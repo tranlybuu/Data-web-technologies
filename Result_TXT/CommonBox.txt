@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CommonBox
+Last month's change: 94.0%
+Websites: 50
+Unique Domains: 44
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CommonBox is being used
+E-commerce & Shopping: 14.00%
+Computers Electronics & Technology: 10.00%
+Finance: 10.00%
+Travel & Tourism: 10.00%
+Others: 56.00%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using CommonBox -
+shufersal.co.il  --  Monthly visits -> 2.2M
+robertdyas.co.uk  --  Monthly visits -> 2.1M
+bouxavenue.com  --  Monthly visits -> 1.7M
+macmillan.org.uk  --  Monthly visits -> 1.3M
+ikea.co.il  --  Monthly visits -> 1.1M
+cats.org.uk  --  Monthly visits -> 1.1M
+ryman.co.uk  --  Monthly visits -> 954.6K
+meitavdash.co.il  --  Monthly visits -> 618.6K
+clalbit.co.il  --  Monthly visits -> 452.3K
+bannatyne.co.uk  --  Monthly visits -> 447.2K
+
+- Geography -
+CommonBox usage by websites across the globe
+Leading Countries: Websites
+Israel: 32
+United Kingdom: 12
+Ecuador: 1
+France: 1
+Germany: 1
+Hong Kong: 1
+Peru: 1
+Turkey: 1

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MPEG-DASH
+Last month's change: 2.08%
+Websites: 17363
+Unique Domains: 12190
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MPEG-DASH is being used
+Science & Education: 9.01%
+Computers Electronics & Technology: 6.99%
+Arts & Entertainment: 6.24%
+Games: 3.62%
+Others: 74.14%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using MPEG-DASH -
+yandex.ru  --  Monthly visits -> 3.9B
+reddit.com  --  Monthly visits -> 1.6B
+zhidao.baidu.com  --  Monthly visits -> 687.7M
+zen.yandex.ru  --  Monthly visits -> 539.3M
+imdb.com  --  Monthly visits -> 511M
+apps.facebook.com  --  Monthly visits -> 269.2M
+fbcdn.net  --  Monthly visits -> 268.1M
+news.yahoo.com  --  Monthly visits -> 237.6M
+m.imdb.com  --  Monthly visits -> 227.9M
+redd.it  --  Monthly visits -> 206M
+
+- Geography -
+MPEG-DASH usage by websites across the globe
+Leading Countries: Websites
+United States: 3717
+Germany: 745
+India: 698
+United Kingdom: 658
+Russia: 646
+China: 587
+Japan: 427
+Brazil: 404
+France: 388
+Ukraine: 388
+Rest of the World: 5676

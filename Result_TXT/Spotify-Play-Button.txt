@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Spotify Play Button
+Last month's change: 1.16%
+Websites: 14772
+Unique Domains: 8029
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Spotify Play Button is being used
+Arts & Entertainment: 24.76%
+Games: 4.22%
+Lifestyle: 3.05%
+Adult: 2.59%
+Others: 65.38%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Spotify Play Button -
+go.com  --  Monthly visits -> 57.2M
+latercera.com  --  Monthly visits -> 24.2M
+vulture.com  --  Monthly visits -> 15.6M
+elespectador.com  --  Monthly visits -> 13.5M
+amp.dw.com  --  Monthly visits -> 12.3M
+disney.com  --  Monthly visits -> 10.3M
+complex.com  --  Monthly visits -> 8.1M
+m.lavoz.com.ar  --  Monthly visits -> 8M
+ruv.is  --  Monthly visits -> 5.4M
+nacion.com  --  Monthly visits -> 4.6M
+
+- Geography -
+Spotify Play Button usage by websites across the globe
+Leading Countries: Websites
+United States: 4053
+United Kingdom: 810
+Spain: 509
+Germany: 508
+Canada: 416
+Brazil: 380
+France: 349
+Italy: 345
+Netherlands: 306
+Australia: 299
+Rest of the World: 3735

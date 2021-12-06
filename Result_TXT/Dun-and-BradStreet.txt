@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Dun and BradStreet
+Last month's change: 1.12%
+Websites: 2595
+Unique Domains: 2115
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Dun and BradStreet is being used
+Computers Electronics & Technology: 16.72%
+Heavy Industry & Engineering: 8.32%
+Finance: 7.44%
+Business & Consumer Services: 7.01%
+Others: 60.50%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Dun and BradStreet -
+service-now.com  --  Monthly visits -> 56.7M
+global.americanexpress.com  --  Monthly visits -> 44M
+vinmec.com  --  Monthly visits -> 15.9M
+quickbooks.intuit.com  --  Monthly visits -> 14.2M
+pingone.com  --  Monthly visits -> 11M
+paychex.com  --  Monthly visits -> 9.5M
+rackspace.com  --  Monthly visits -> 7.9M
+procore.com  --  Monthly visits -> 7.4M
+pluralsight.com  --  Monthly visits -> 7.1M
+wrike.com  --  Monthly visits -> 6.7M
+
+- Geography -
+Dun and BradStreet usage by websites across the globe
+Leading Countries: Websites
+United States: 494
+Brazil: 237
+Russia: 233
+India: 152
+Taiwan: 141
+China: 134
+Mexico: 102
+Japan: 86
+Vietnam: 64
+Greece: 61
+Rest of the World: 668

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Kustomer
+Last month's change: 3.09%
+Websites: 874
+Unique Domains: 467
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Kustomer is being used
+Lifestyle: 21.17%
+Food & Drink: 7.44%
+Health: 7.44%
+Computers Electronics & Technology: 6.18%
+Others: 57.78%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Kustomer -
+ring.com  --  Monthly visits -> 15.8M
+abercrombie.com  --  Monthly visits -> 13.6M
+vudu.com  --  Monthly visits -> 10.3M
+revolve.com  --  Monthly visits -> 8M
+estuda.com  --  Monthly visits -> 4.8M
+youngliving.com  --  Monthly visits -> 4.3M
+birkenstock.com  --  Monthly visits -> 4.2M
+elementor.com  --  Monthly visits -> 4.1M
+skims.com  --  Monthly visits -> 4M
+manscaped.com  --  Monthly visits -> 3.3M
+
+- Geography -
+Kustomer usage by websites across the globe
+Leading Countries: Websites
+United States: 470
+United Kingdom: 35
+Brazil: 28
+Canada: 28
+Australia: 15
+France: 12
+Germany: 11
+Mexico: 10
+Netherlands: 8
+Singapore: 8
+Rest of the World: 110

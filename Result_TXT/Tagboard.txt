@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Tagboard
+Last month's change: 2.39%
+Websites: 585
+Unique Domains: 399
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tagboard is being used
+Science & Education: 28.21%
+Sports: 15.21%
+Community & Society: 3.59%
+Computers Electronics & Technology: 3.25%
+Others: 49.74%
+
+
+- Related Technologies -
+Top Content Curation technologies
+Curated
+STRÖER
+Foursixty
+Curalate
+Olapic
+
+
+- Top Websites Using Tagboard -
+tvbs.com.tw  --  Monthly visits -> 33M
+tableau.com  --  Monthly visits -> 11.1M
+ucdavis.edu  --  Monthly visits -> 10.9M
+npb.jp  --  Monthly visits -> 7.5M
+visualstudio.microsoft.com  --  Monthly visits -> 5.2M
+okstate.edu  --  Monthly visits -> 2.9M
+activision.com  --  Monthly visits -> 2.9M
+steelers.com  --  Monthly visits -> 2.7M
+milb.com  --  Monthly visits -> 2.1M
+ohio.edu  --  Monthly visits -> 2M
+
+- Geography -
+Tagboard usage by websites across the globe
+Leading Countries: Websites
+United States: 379
+Japan: 22
+Germany: 15
+Taiwan: 8
+Australia: 6
+Canada: 6
+India: 6
+South Korea: 5
+Vietnam: 5
+Hong Kong: 4
+Rest of the World: 47

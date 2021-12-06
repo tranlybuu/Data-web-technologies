@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CDNetworks
+Last month's change: 0.25%
+Websites: 396
+Unique Domains: 291
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CDNetworks is being used
+E-commerce & Shopping: 19.95%
+Lifestyle: 9.85%
+Computers Electronics & Technology: 8.33%
+Gambling: 7.32%
+Others: 54.55%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using CDNetworks -
+revenuenetwork.com  --  Monthly visits -> 125.9M
+bovada.lv  --  Monthly visits -> 62.6M
+gmarket.co.kr  --  Monthly visits -> 36.2M
+auction.co.kr  --  Monthly visits -> 29.3M
+odatv4.com  --  Monthly visits -> 17.4M
+esmplus.com  --  Monthly visits -> 9.1M
+mitem.gmarket.co.kr  --  Monthly visits -> 8.2M
+mitem.auction.co.kr  --  Monthly visits -> 7M
+flypgs.com  --  Monthly visits -> 6.6M
+mobile.gmarket.co.kr  --  Monthly visits -> 5.7M
+
+- Geography -
+CDNetworks usage by websites across the globe
+Leading Countries: Websites
+South Korea: 112
+Japan: 78
+Turkey: 48
+United States: 30
+China: 20
+Germany: 8
+Australia: 6
+United Kingdom: 6
+Malaysia: 5
+Canada: 4
+Rest of the World: 62

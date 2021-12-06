@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CloudFlare
+Last month's change: 2.36%
+Websites: 3150422
+Unique Domains: 2137698
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CloudFlare is being used
+Computers Electronics & Technology: 6.38%
+Arts & Entertainment: 3.05%
+Games: 2.82%
+Lifestyle: 2.56%
+Others: 85.20%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+Akamai
+
+
+- Top Websites Using CloudFlare -
+xhamster.com  --  Monthly visits -> 1.4B
+discord.com  --  Monthly visits -> 1.3B
+bongacams.com  --  Monthly visits -> 612.4M
+quora.com  --  Monthly visits -> 555.8M
+stripchat.com  --  Monthly visits -> 520.6M
+chaturbate.com  --  Monthly visits -> 395.6M
+spankbang.com  --  Monthly visits -> 390.9M
+xvideos2.com  --  Monthly visits -> 372.5M
+tsyndicate.com  --  Monthly visits -> 362.7M
+amp.xhamster.com  --  Monthly visits -> 348.5M
+
+- Geography -
+CloudFlare usage by websites across the globe
+Leading Countries: Websites
+United States: 787855
+United Kingdom: 142941
+India: 104023
+Canada: 97046
+Brazil: 87656
+Russia: 86104
+China: 85892
+Australia: 82684
+Germany: 81483
+France: 72336
+Rest of the World: 1127746

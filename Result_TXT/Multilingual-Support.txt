@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Multilingual Support
+Last month's change: 0.95%
+Websites: 1704129
+Unique Domains: 1136254
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Multilingual Support is being used
+Computers Electronics & Technology: 6.46%
+Science & Education: 4.48%
+Arts & Entertainment: 2.43%
+Travel & Tourism: 2.38%
+Others: 84.25%
+
+
+- Related Technologies -
+Top Multilingual technologies
+WPML Multilingual
+Transifex
+Bablic
+Handtalk
+None
+
+
+- Top Websites Using Multilingual Support -
+youtube.com  --  Monthly visits -> 34.6B
+twitter.com  --  Monthly visits -> 6.7B
+m.youtube.com  --  Monthly visits -> 5.9B
+yandex.ru  --  Monthly visits -> 3.9B
+xvideos.com  --  Monthly visits -> 3.4B
+whatsapp.com  --  Monthly visits -> 3.1B
+netflix.com  --  Monthly visits -> 2.7B
+xnxx.com  --  Monthly visits -> 2.6B
+web.whatsapp.com  --  Monthly visits -> 2.4B
+pornhub.com  --  Monthly visits -> 2.2B
+
+- Geography -
+Multilingual Support usage by websites across the globe
+Leading Countries: Websites
+United States: 216470
+Germany: 90509
+Italy: 68263
+France: 59171
+Russia: 55080
+Spain: 52389
+China: 49795
+Japan: 49792
+Canada: 44630
+United Kingdom: 42784
+Rest of the World: 706775

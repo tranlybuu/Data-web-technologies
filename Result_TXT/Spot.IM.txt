@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Spot.IM
+Last month's change: 0.88%
+Websites: 4756
+Unique Domains: 1364
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Spot.IM is being used
+News & Media: 7.21%
+Sports: 6.85%
+Arts & Entertainment: 4.71%
+Computers Electronics & Technology: 3.64%
+Others: 77.59%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Spot.IM -
+yahoo.com  --  Monthly visits -> 3.5B
+foxnews.com  --  Monthly visits -> 283M
+finance.yahoo.com  --  Monthly visits -> 252.4M
+news.yahoo.com  --  Monthly visits -> 237.6M
+aol.com  --  Monthly visits -> 228.6M
+sports.yahoo.com  --  Monthly visits -> 119.3M
+nypost.com  --  Monthly visits -> 111.2M
+att.net  --  Monthly visits -> 95M
+fantasysports.yahoo.com  --  Monthly visits -> 91.7M
+ign.com  --  Monthly visits -> 86.3M
+
+- Geography -
+Spot.IM usage by websites across the globe
+Leading Countries: Websites
+United States: 1014
+Israel: 79
+Canada: 48
+Italy: 46
+United Kingdom: 46
+Japan: 44
+Brazil: 42
+India: 33
+France: 30
+South Korea: 29
+Rest of the World: 406

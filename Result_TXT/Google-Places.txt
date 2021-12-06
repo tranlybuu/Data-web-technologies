@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Places
+Last month's change: 20.4%
+Websites: 2377
+Unique Domains: 2240
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Places is being used
+Vehicles: 5.30%
+Computers Electronics & Technology: 3.45%
+Business & Consumer Services: 2.99%
+Health: 2.31%
+Others: 85.95%
+
+
+- Related Technologies -
+Top Mapping technologies
+Google Maps
+Leaflet
+Baidu Maps
+Naver map
+MapBox
+
+
+- Top Websites Using Google Places -
+developers.google.com  --  Monthly visits -> 28.2M
+yatra.com  --  Monthly visits -> 9.5M
+howdens.com  --  Monthly visits -> 1.8M
+orangetheory.com  --  Monthly visits -> 1.8M
+simplifia.fr  --  Monthly visits -> 960.2K
+newhouse.591.com.tw  --  Monthly visits -> 904.5K
+secure.yatra.com  --  Monthly visits -> 831.2K
+flight.yatra.com  --  Monthly visits -> 741.3K
+recovertogether.withgoogle.com  --  Monthly visits -> 632.6K
+neighbor.com  --  Monthly visits -> 553.8K
+
+- Geography -
+Google Places usage by websites across the globe
+Leading Countries: Websites
+United States: 680
+Canada: 258
+United Kingdom: 154
+Australia: 88
+France: 88
+India: 88
+Germany: 87
+Spain: 70
+Japan: 64
+Italy: 60
+Rest of the World: 621

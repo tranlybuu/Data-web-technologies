@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CallPage
+Last month's change: 0.14%
+Websites: 3549
+Unique Domains: 2990
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CallPage is being used
+Computers Electronics & Technology: 5.72%
+Finance: 4.51%
+Business & Consumer Services: 3.97%
+Heavy Industry & Engineering: 3.89%
+Others: 81.91%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using CallPage -
+inpost.pl  --  Monthly visits -> 9.6M
+gowork.pl  --  Monthly visits -> 5.5M
+ghatreh.com  --  Monthly visits -> 4M
+wsb.pl  --  Monthly visits -> 2.8M
+pb.pl  --  Monthly visits -> 2.5M
+swnovels.com  --  Monthly visits -> 2.4M
+nocowanie.pl  --  Monthly visits -> 2.2M
+paczkomaty.pl  --  Monthly visits -> 1.9M
+praca.pl  --  Monthly visits -> 1.6M
+treatwell.co.uk  --  Monthly visits -> 1.6M
+
+- Geography -
+CallPage usage by websites across the globe
+Leading Countries: Websites
+Poland: 1634
+Sweden: 272
+Italy: 175
+United States: 133
+Brazil: 102
+Germany: 66
+China: 65
+India: 60
+United Kingdom: 60
+France: 46
+Rest of the World: 504

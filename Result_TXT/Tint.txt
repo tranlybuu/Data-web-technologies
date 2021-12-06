@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Tint
+Last month's change: 2.15%
+Websites: 1115
+Unique Domains: 1033
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Tint is being used
+Computers Electronics & Technology: 6.28%
+Business & Consumer Services: 5.29%
+Lifestyle: 2.78%
+Science & Education: 2.51%
+Others: 83.14%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Tint -
+pcmag.com  --  Monthly visits -> 30.3M
+envato.com  --  Monthly visits -> 20.2M
+ucla.edu  --  Monthly visits -> 15.4M
+nespresso.com  --  Monthly visits -> 10.7M
+hhs.gov  --  Monthly visits -> 6.9M
+power.no  --  Monthly visits -> 3.4M
+uk.pcmag.com  --  Monthly visits -> 2.6M
+infosys.com  --  Monthly visits -> 2.5M
+power.fi  --  Monthly visits -> 2.5M
+matas.dk  --  Monthly visits -> 2.2M
+
+- Geography -
+Tint usage by websites across the globe
+Leading Countries: Websites
+United States: 364
+United Kingdom: 73
+Canada: 48
+Australia: 42
+India: 42
+France: 26
+Italy: 22
+Germany: 20
+Poland: 18
+Brazil: 15
+Rest of the World: 300

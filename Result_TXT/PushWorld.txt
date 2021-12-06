@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PushWorld
+Last month's change: 0.65%
+Websites: 614
+Unique Domains: 308
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PushWorld is being used
+E-commerce & Shopping: 20.85%
+Arts & Entertainment: 9.12%
+Vehicles: 6.51%
+Health: 6.19%
+Others: 57.33%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using PushWorld -
+rusvesna.su  --  Monthly visits -> 14.6M
+svpressa.ru  --  Monthly visits -> 13.6M
+ctv.by  --  Monthly visits -> 1.2M
+scalemodels.ru  --  Monthly visits -> 335.4K
+siriust.ru  --  Monthly visits -> 317.7K
+detki.guru  --  Monthly visits -> 280.8K
+astrakhan-24.ru  --  Monthly visits -> 276.6K
+fonar.tv  --  Monthly visits -> 208.6K
+delyagin.ru  --  Monthly visits -> 164K
+vesti.uz  --  Monthly visits -> 151.8K
+
+- Geography -
+PushWorld usage by websites across the globe
+Leading Countries: Websites
+Russia: 281
+Ukraine: 27
+Kazakhstan: 11
+Belarus: 9
+Germany: 5
+Moldova: 3
+United Kingdom: 3
+India: 2
+Uzbekistan: 2
+Armenia: 1
+Rest of the World: 12

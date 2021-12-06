@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CoinDesk
+Last month's change: 0.99%
+Websites: 304
+Unique Domains: 245
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CoinDesk is being used
+Computers Electronics & Technology: 23.36%
+Finance: 19.08%
+Gambling: 3.62%
+News & Media: 1.64%
+Others: 52.30%
+
+
+- Related Technologies -
+Top Bitcoin technologies
+Bitcoin Acceptance
+Bitcoin Address Link
+Coinbase
+CoinGate
+Bitcoin Miner
+
+
+- Top Websites Using CoinDesk -
+dutchycorp.space  --  Monthly visits -> 5.8M
+vpnmentor.com  --  Monthly visits -> 4.7M
+es.calcuworld.com  --  Monthly visits -> 3.6M
+pythonanywhere.com  --  Monthly visits -> 2M
+es.vpnmentor.com  --  Monthly visits -> 326.7K
+kursna-lista.com  --  Monthly visits -> 293.6K
+ru.vpnmentor.com  --  Monthly visits -> 288.7K
+it.vpnmentor.com  --  Monthly visits -> 245.5K
+fr.vpnmentor.com  --  Monthly visits -> 242.6K
+de.vpnmentor.com  --  Monthly visits -> 172.6K
+
+- Geography -
+CoinDesk usage by websites across the globe
+Leading Countries: Websites
+United States: 53
+United Kingdom: 19
+Russia: 16
+Germany: 11
+Brazil: 10
+Japan: 10
+Poland: 9
+China: 8
+France: 8
+India: 8
+Rest of the World: 130

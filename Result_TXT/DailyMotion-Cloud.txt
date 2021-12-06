@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: DailyMotion Cloud
+Last month's change: 3.18%
+Websites: 409
+Unique Domains: 263
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where DailyMotion Cloud is being used
+Science & Education: 6.60%
+Arts & Entertainment: 4.89%
+News & Media: 4.89%
+Pets & Animals: 3.67%
+Others: 79.95%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using DailyMotion Cloud -
+acethinker.com  --  Monthly visits -> 2M
+steephill.tv  --  Monthly visits -> 359.6K
+indigo-net.com  --  Monthly visits -> 48.1K
+mapassionduverger.fr  --  Monthly visits -> 39.6K
+panamza.com  --  Monthly visits -> 38.4K
+datacombes.com  --  Monthly visits -> 28.1K
+ciffreobona.fr  --  Monthly visits -> 23.8K
+fr.novopress.info  --  Monthly visits -> 21K
+physiquechimiecollege.eklablog.com  --  Monthly visits -> 17.1K
+multimedia.lecho.be  --  Monthly visits -> 16.3K
+
+- Geography -
+DailyMotion Cloud usage by websites across the globe
+Leading Countries: Websites
+France: 211
+United States: 18
+Japan: 9
+Italy: 7
+Germany: 6
+Greece: 6
+Canada: 5
+Brazil: 4
+Spain: 4
+Australia: 3
+Rest of the World: 42

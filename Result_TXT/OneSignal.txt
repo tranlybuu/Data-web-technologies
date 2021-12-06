@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: OneSignal
+Last month's change: 0.03%
+Websites: 171136
+Unique Domains: 91981
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where OneSignal is being used
+News & Media: 6.16%
+Computers Electronics & Technology: 5.28%
+Arts & Entertainment: 3.23%
+Finance: 2.11%
+Others: 83.22%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+TruePush
+
+
+- Top Websites Using OneSignal -
+cnn.com  --  Monthly visits -> 510.4M
+nfl.com  --  Monthly visits -> 112.3M
+9anime.to  --  Monthly visits -> 108.9M
+businessinsider.com  --  Monthly visits -> 99.4M
+amp.cnn.com  --  Monthly visits -> 90.7M
+fmovies.to  --  Monthly visits -> 75.1M
+oglobo.globo.com  --  Monthly visits -> 74.5M
+theporndude.com  --  Monthly visits -> 59.7M
+sapo.pt  --  Monthly visits -> 55.1M
+newsnow.co.uk  --  Monthly visits -> 54.7M
+
+- Geography -
+OneSignal usage by websites across the globe
+Leading Countries: Websites
+United States: 14971
+India: 8553
+Brazil: 7624
+Italy: 4120
+Turkey: 3878
+Russia: 3408
+France: 3211
+Spain: 2854
+Indonesia: 2731
+Germany: 2664
+Rest of the World: 47414

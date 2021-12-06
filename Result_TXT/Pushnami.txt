@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Pushnami
+Last month's change: 3.00%
+Websites: 2534
+Unique Domains: 1575
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pushnami is being used
+Jobs & Career: 15.75%
+Finance: 11.09%
+News & Media: 3.95%
+Business & Consumer Services: 2.72%
+Others: 66.50%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+cleverpush
+PushPushGo
+TruePush
+
+
+- Top Websites Using Pushnami -
+newsweek.com  --  Monthly visits -> 28.6M
+inquirer.net  --  Monthly visits -> 23.7M
+classmates.com  --  Monthly visits -> 20.6M
+suggest.com  --  Monthly visits -> 19.5M
+theblaze.com  --  Monthly visits -> 12.9M
+emergencyemail.org  --  Monthly visits -> 10.7M
+newsinfo.inquirer.net  --  Monthly visits -> 10.7M
+biblestudytools.com  --  Monthly visits -> 10.4M
+point2homes.com  --  Monthly visits -> 9.8M
+downpaymentsurvey.com  --  Monthly visits -> 9.3M
+
+- Geography -
+Pushnami usage by websites across the globe
+Leading Countries: Websites
+United States: 1529
+United Kingdom: 53
+Canada: 50
+Philippines: 27
+India: 24
+Spain: 19
+Germany: 18
+France: 15
+Australia: 12
+Mexico: 10
+Rest of the World: 111

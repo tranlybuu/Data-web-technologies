@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: iPresso
+Last month's change: 0%
+Websites: 1232
+Unique Domains: 180
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where iPresso is being used
+Travel & Tourism: 10.63%
+Arts & Entertainment: 2.35%
+Science & Education: 1.30%
+Finance: 1.14%
+Others: 84.58%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using iPresso -
+tvn24.pl  --  Monthly visits -> 46.7M
+player.pl  --  Monthly visits -> 16.4M
+wsb.pl  --  Monthly visits -> 2.8M
+tvnmeteo.tvn24.pl  --  Monthly visits -> 2.5M
+dziendobry.tvn.pl  --  Monthly visits -> 2.4M
+esky.com  --  Monthly visits -> 1.6M
+go3.lv  --  Monthly visits -> 1.6M
+go3.lt  --  Monthly visits -> 1.6M
+sklep.player.pl  --  Monthly visits -> 1.2M
+go3.tv  --  Monthly visits -> 1.2M
+
+- Geography -
+iPresso usage by websites across the globe
+Leading Countries: Websites
+Poland: 135
+Peru: 9
+India: 7
+Italy: 7
+United Kingdom: 7
+Colombia: 6
+Estonia: 6
+Romania: 6
+United States: 6
+Chile: 5
+Rest of the World: 118

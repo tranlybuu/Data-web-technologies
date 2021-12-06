@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: IFDO
+Last month's change: 3.98%
+Websites: 1205
+Unique Domains: 772
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where IFDO is being used
+E-commerce & Shopping: 19.83%
+Lifestyle: 7.47%
+Jobs & Career: 1.49%
+Computers Electronics & Technology: 1.33%
+Others: 69.88%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using IFDO -
+10000recipe.com  --  Monthly visits -> 4.6M
+m.10000recipe.com  --  Monthly visits -> 3.5M
+julllog.com  --  Monthly visits -> 895.7K
+eco-fresh.co.kr  --  Monthly visits -> 801.3K
+m.julllog.com  --  Monthly visits -> 764.5K
+m.eco-fresh.co.kr  --  Monthly visits -> 672.7K
+directdb.co.kr  --  Monthly visits -> 580.6K
+ttukttak.kr  --  Monthly visits -> 425.4K
+moomooz.co.kr  --  Monthly visits -> 419K
+marketb.kr  --  Monthly visits -> 412.6K
+
+- Geography -
+IFDO usage by websites across the globe
+Leading Countries: Websites
+South Korea: 964
+Japan: 5
+Canada: 3
+Taiwan: 3
+United States: 3
+Hong Kong: 2
+Thailand: 2
+United Kingdom: 2
+Australia: 1
+China: 1
+Rest of the World: 5

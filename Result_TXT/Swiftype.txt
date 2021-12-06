@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Swiftype
+Last month's change: 0.51%
+Websites: 3152
+Unique Domains: 2104
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Swiftype is being used
+Computers Electronics & Technology: 13.90%
+Science & Education: 9.04%
+Finance: 7.77%
+Health: 5.77%
+Others: 63.52%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Swiftype -
+pearson.com  --  Monthly visits -> 47.9M
+powerschool.com  --  Monthly visits -> 35.3M
+medallia.com  --  Monthly visits -> 29.6M
+gitlab.com  --  Monthly visits -> 22.7M
+cardinalcommerce.com  --  Monthly visits -> 21.5M
+calculatorsoup.com  --  Monthly visits -> 17.2M
+digitalocean.com  --  Monthly visits -> 10.2M
+alaskaair.com  --  Monthly visits -> 10.2M
+digitaloceanspaces.com  --  Monthly visits -> 8.6M
+orange.ro  --  Monthly visits -> 7.4M
+
+- Geography -
+Swiftype usage by websites across the globe
+Leading Countries: Websites
+United States: 1349
+Germany: 221
+China: 163
+Canada: 105
+United Kingdom: 94
+France: 70
+India: 61
+Australia: 53
+Netherlands: 50
+Switzerland: 39
+Rest of the World: 544

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Janrain
+Last month's change: 2.24%
+Websites: 2323
+Unique Domains: 1828
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Janrain is being used
+Health: 11.88%
+News & Media: 8.65%
+Computers Electronics & Technology: 5.12%
+Lifestyle: 3.62%
+Others: 70.73%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using Janrain -
+srf.ch  --  Monthly visits -> 28.8M
+slate.com  --  Monthly visits -> 20.5M
+sbs.com.au  --  Monthly visits -> 18.1M
+sportsnet.ca  --  Monthly visits -> 17.2M
+nationalpost.com  --  Monthly visits -> 9.3M
+nejm.org  --  Monthly visits -> 6.5M
+elkjop.no  --  Monthly visits -> 5.3M
+gigantti.fi  --  Monthly visits -> 4.4M
+bosch-home.com  --  Monthly visits -> 3.7M
+vancouversun.com  --  Monthly visits -> 3.2M
+
+- Geography -
+Janrain usage by websites across the globe
+Leading Countries: Websites
+United States: 511
+Canada: 245
+Italy: 74
+United Kingdom: 70
+Germany: 67
+India: 67
+Russia: 67
+France: 65
+Australia: 50
+Belgium: 50
+Rest of the World: 695

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SumoMe
+Last month's change: 3.98%
+Websites: 12956
+Unique Domains: 10554
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SumoMe is being used
+Computers Electronics & Technology: 10.20%
+Business & Consumer Services: 4.79%
+Health: 3.64%
+Science & Education: 3.33%
+Others: 78.04%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using SumoMe -
+insider.com  --  Monthly visits -> 40.1M
+freshdesk.com  --  Monthly visits -> 24.6M
+arealme.com  --  Monthly visits -> 9.9M
+blog.prepscholar.com  --  Monthly visits -> 5.2M
+frame.io  --  Monthly visits -> 4.5M
+fmscout.com  --  Monthly visits -> 2.8M
+ticketspice.com  --  Monthly visits -> 2.6M
+arezzo.com.br  --  Monthly visits -> 2.5M
+freshservice.com  --  Monthly visits -> 2.3M
+ogorod.ru  --  Monthly visits -> 2.2M
+
+- Geography -
+SumoMe usage by websites across the globe
+Leading Countries: Websites
+United States: 4200
+United Kingdom: 554
+India: 516
+Canada: 417
+Spain: 384
+Australia: 373
+France: 275
+Brazil: 247
+Germany: 223
+Italy: 213
+Rest of the World: 4140

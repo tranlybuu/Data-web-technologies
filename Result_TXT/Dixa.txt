@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Dixa
+Last month's change: 1.98%
+Websites: 454
+Unique Domains: 389
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Dixa is being used
+Lifestyle: 11.89%
+Sports: 8.81%
+E-commerce & Shopping: 5.29%
+Computers Electronics & Technology: 4.85%
+Others: 69.16%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Dixa -
+liujo.com  --  Monthly visits -> 1.5M
+rapha.cc  --  Monthly visits -> 1.1M
+junkyard.com  --  Monthly visits -> 943.1K
+motatos.de  --  Monthly visits -> 940.7K
+nfbio.dk  --  Monthly visits -> 806.9K
+space.toogoodtogo.com  --  Monthly visits -> 737.1K
+helsebixen.dk  --  Monthly visits -> 642.4K
+dao.as  --  Monthly visits -> 632.7K
+tink.de  --  Monthly visits -> 511.3K
+unisportstore.fr  --  Monthly visits -> 481.1K
+
+- Geography -
+Dixa usage by websites across the globe
+Leading Countries: Websites
+Denmark: 108
+Sweden: 39
+Germany: 35
+United Kingdom: 35
+United States: 33
+Norway: 21
+Netherlands: 17
+Finland: 14
+Latvia: 14
+France: 13
+Rest of the World: 92

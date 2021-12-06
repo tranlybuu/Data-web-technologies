@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: iPerceptions
+Last month's change: 0.30%
+Websites: 7092
+Unique Domains: 6424
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where iPerceptions is being used
+Vehicles: 36.62%
+Computers Electronics & Technology: 3.85%
+Finance: 2.16%
+Health: 1.49%
+Others: 55.88%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using iPerceptions -
+xfinity.com  --  Monthly visits -> 162.6M
+dell.com  --  Monthly visits -> 55.9M
+my.xfinity.com  --  Monthly visits -> 51.9M
+helpx.adobe.com  --  Monthly visits -> 39.5M
+sky.it  --  Monthly visits -> 35.9M
+nasa.gov  --  Monthly visits -> 25.2M
+ceskatelevize.cz  --  Monthly visits -> 22.2M
+customer.xfinity.com  --  Monthly visits -> 21.9M
+ford.com  --  Monthly visits -> 20.7M
+childrensplace.com  --  Monthly visits -> 13.4M
+
+- Geography -
+iPerceptions usage by websites across the globe
+Leading Countries: Websites
+United States: 5370
+Bolivia: 128
+Canada: 121
+Peru: 96
+United Kingdom: 66
+India: 60
+Brazil: 36
+Japan: 35
+Colombia: 31
+Italy: 30
+Rest of the World: 575

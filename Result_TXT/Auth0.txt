@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Auth0
+Last month's change: 1.50%
+Websites: 5999
+Unique Domains: 2394
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Auth0 is being used
+Computers Electronics & Technology: 12.17%
+Food & Drink: 6.25%
+Finance: 5.02%
+Business & Consumer Services: 4.40%
+Others: 72.16%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+LinkedIn Login
+
+
+- Top Websites Using Auth0 -
+clarin.com  --  Monthly visits -> 76.5M
+ole.com.ar  --  Monthly visits -> 46.8M
+carfax.com  --  Monthly visits -> 30.2M
+myhermes.co.uk  --  Monthly visits -> 27.1M
+auth0.com  --  Monthly visits -> 25.7M
+new.myhermes.co.uk  --  Monthly visits -> 19.4M
+economist.com  --  Monthly visits -> 12.6M
+micuenta.clarin.com  --  Monthly visits -> 9.3M
+mercurynews.com  --  Monthly visits -> 8.9M
+eatingwell.com  --  Monthly visits -> 8.2M
+
+- Geography -
+Auth0 usage by websites across the globe
+Leading Countries: Websites
+United States: 2519
+Brazil: 296
+United Kingdom: 182
+Canada: 178
+India: 142
+Japan: 140
+Australia: 138
+Germany: 102
+Switzerland: 78
+France: 55
+Rest of the World: 1211

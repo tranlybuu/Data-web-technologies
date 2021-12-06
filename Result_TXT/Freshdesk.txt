@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Freshdesk
+Last month's change: 0.31%
+Websites: 30917
+Unique Domains: 13818
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Freshdesk is being used
+Computers Electronics & Technology: 11.22%
+Finance: 4.03%
+Business & Consumer Services: 3.50%
+Science & Education: 2.87%
+Others: 78.38%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+Pipedrive
+
+
+- Top Websites Using Freshdesk -
+stripchat.com  --  Monthly visits -> 520.6M
+xhamsterlive.com  --  Monthly visits -> 273.1M
+namu.wiki  --  Monthly visits -> 162.3M
+fanfiction.net  --  Monthly visits -> 157.7M
+ozon.ru  --  Monthly visits -> 128.2M
+forbes.com  --  Monthly visits -> 105.9M
+toppr.com  --  Monthly visits -> 71M
+gotporn.com  --  Monthly visits -> 62.9M
+timeanddate.com  --  Monthly visits -> 52.1M
+flirt4free.com  --  Monthly visits -> 51.6M
+
+- Geography -
+Freshdesk usage by websites across the globe
+Leading Countries: Websites
+United States: 6517
+United Kingdom: 1685
+India: 1138
+Germany: 998
+Netherlands: 780
+Australia: 743
+Canada: 730
+France: 666
+Italy: 506
+Brazil: 490
+Rest of the World: 7602

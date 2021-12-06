@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Batch
+Last month's change: 5.39%
+Websites: 557
+Unique Domains: 328
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Batch is being used
+Vehicles: 16.34%
+News & Media: 15.26%
+Lifestyle: 8.26%
+Arts & Entertainment: 7.00%
+Others: 53.14%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using Batch -
+20minutes.fr  --  Monthly visits -> 45.9M
+femmeactuelle.fr  --  Monthly visits -> 29.8M
+education.gouv.fr  --  Monthly visits -> 27.9M
+tagesspiegel.de  --  Monthly visits -> 22.1M
+rfi.fr  --  Monthly visits -> 17.5M
+capital.fr  --  Monthly visits -> 16.8M
+france24.com  --  Monthly visits -> 15.6M
+lepoint.fr  --  Monthly visits -> 15.5M
+futura-sciences.com  --  Monthly visits -> 15.4M
+lesechos.fr  --  Monthly visits -> 14.6M
+
+- Geography -
+Batch usage by websites across the globe
+Leading Countries: Websites
+France: 247
+United States: 29
+Spain: 27
+Germany: 20
+Italy: 12
+Belgium: 11
+United Kingdom: 10
+Switzerland: 6
+Turkey: 6
+Netherlands: 5
+Rest of the World: 64

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Gleam
+Last month's change: 1.02%
+Websites: 3338
+Unique Domains: 2974
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Gleam is being used
+Lifestyle: 7.22%
+Computers Electronics & Technology: 6.38%
+Games: 5.30%
+Food & Drink: 4.55%
+Others: 76.54%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Gleam -
+flightradar24.com  --  Monthly visits -> 25.2M
+gleam.io  --  Monthly visits -> 22.3M
+gate.io  --  Monthly visits -> 19.1M
+benzinga.com  --  Monthly visits -> 10.9M
+helium.com  --  Monthly visits -> 6.1M
+winfuture.de  --  Monthly visits -> 4.4M
+homehardware.ca  --  Monthly visits -> 4.2M
+businessinsider.com.au  --  Monthly visits -> 3.7M
+andauth.co  --  Monthly visits -> 2.8M
+gameskinny.com  --  Monthly visits -> 2.7M
+
+- Geography -
+Gleam usage by websites across the globe
+Leading Countries: Websites
+United States: 997
+China: 267
+Netherlands: 228
+United Kingdom: 204
+Germany: 189
+Australia: 127
+France: 123
+Belgium: 74
+Canada: 68
+Italy: 59
+Rest of the World: 722

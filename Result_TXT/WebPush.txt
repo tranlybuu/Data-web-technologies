@@ -1,0 +1,47 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: WebPush
+Last month's change: 1.73%
+Websites: 173
+Unique Domains: 108
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where WebPush is being used
+Arts & Entertainment: 12.72%
+News & Media: 12.72%
+Sports: 10.40%
+Food & Drink: 8.09%
+Others: 56.07%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using WebPush -
+news.mynavi.jp  --  Monthly visits -> 38M
+oricon.co.jp  --  Monthly visits -> 32.3M
+sankei.com  --  Monthly visits -> 26.9M
+daily.co.jp  --  Monthly visits -> 24.2M
+tokyo-sports.co.jp  --  Monthly visits -> 20.4M
+grapee.jp  --  Monthly visits -> 18.3M
+ymobile.jp  --  Monthly visits -> 14.8M
+lettuceclub.net  --  Monthly visits -> 11.7M
+ajinomoto.co.jp  --  Monthly visits -> 11.6M
+kobe-np.co.jp  --  Monthly visits -> 10.1M
+
+- Geography -
+WebPush usage by websites across the globe
+Leading Countries: Websites
+Japan: 149
+Taiwan: 1
+Philippines: 1
+Thailand: 1
+Turkey: 1

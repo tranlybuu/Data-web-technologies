@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Cvent
+Last month's change: 10.2%
+Websites: 4189
+Unique Domains: 3173
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Cvent is being used
+Science & Education: 11.65%
+Computers Electronics & Technology: 9.10%
+Health: 6.18%
+Business & Consumer Services: 4.13%
+Others: 68.94%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+Splash
+AddEvent
+Brown Paper Tickets
+BandsInTown
+
+
+- Top Websites Using Cvent -
+spiceworks.com  --  Monthly visits -> 8.4M
+eschoolsolutions.com  --  Monthly visits -> 2.8M
+stmath.com  --  Monthly visits -> 2.2M
+whio.com  --  Monthly visits -> 1.6M
+covermymeds.com  --  Monthly visits -> 1.3M
+aviation-safety.net  --  Monthly visits -> 838.7K
+hrsmart.com  --  Monthly visits -> 744.1K
+pointandpay.net  --  Monthly visits -> 709.1K
+renlearn.com  --  Monthly visits -> 674K
+denverhealth.org  --  Monthly visits -> 536.7K
+
+- Geography -
+Cvent usage by websites across the globe
+Leading Countries: Websites
+United States: 2158
+Canada: 162
+United Kingdom: 134
+India: 125
+Australia: 102
+Germany: 93
+Japan: 81
+France: 74
+China: 59
+Brazil: 43
+Rest of the World: 887

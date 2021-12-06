@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Customer IO
+Last month's change: 5.61%
+Websites: 2942
+Unique Domains: 1541
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Customer IO is being used
+Computers Electronics & Technology: 10.27%
+Business & Consumer Services: 4.96%
+Jobs & Career: 3.43%
+Lifestyle: 3.20%
+Others: 78.14%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using Customer IO -
+gleam.io  --  Monthly visits -> 22.3M
+theknot.com  --  Monthly visits -> 15.7M
+wyzant.com  --  Monthly visits -> 7.8M
+typing.com  --  Monthly visits -> 7.2M
+thebump.com  --  Monthly visits -> 5.9M
+customeriomail.com  --  Monthly visits -> 5.4M
+creativefabrica.com  --  Monthly visits -> 5M
+lesoleil.com  --  Monthly visits -> 3.7M
+kite.com  --  Monthly visits -> 3.3M
+bidoo.com  --  Monthly visits -> 3.3M
+
+- Geography -
+Customer IO usage by websites across the globe
+Leading Countries: Websites
+United States: 1420
+Canada: 109
+United Kingdom: 97
+Australia: 80
+India: 71
+Brazil: 66
+France: 63
+Germany: 40
+Italy: 38
+Spain: 38
+Rest of the World: 557

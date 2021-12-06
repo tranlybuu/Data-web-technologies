@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bunny CDN
+Last month's change: 80.2%
+Websites: 9978
+Unique Domains: 8024
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bunny CDN is being used
+Lifestyle: 6.95%
+Computers Electronics & Technology: 5.12%
+Arts & Entertainment: 2.75%
+Games: 2.51%
+Others: 82.68%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Bunny CDN -
+journeyranger.com  --  Monthly visits -> 39.5M
+heywise.com  --  Monthly visits -> 38.3M
+portaljember.pikiran-rakyat.com  --  Monthly visits -> 34.8M
+mobcup.net  --  Monthly visits -> 20.2M
+mtvuutiset.fi  --  Monthly visits -> 18.2M
+b-cdn.net  --  Monthly visits -> 16.3M
+totaladblock.com  --  Monthly visits -> 15.7M
+umn.edu  --  Monthly visits -> 15M
+ricardo.ch  --  Monthly visits -> 13.2M
+m.republika.co.id  --  Monthly visits -> 11.5M
+
+- Geography -
+Bunny CDN usage by websites across the globe
+Leading Countries: Websites
+United States: 2922
+United Kingdom: 685
+Germany: 548
+India: 465
+France: 401
+Italy: 324
+Australia: 254
+Canada: 249
+Indonesia: 246
+Spain: 223
+Rest of the World: 3658

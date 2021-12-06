@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bookeo
+Last month's change: 1.75%
+Websites: 3145
+Unique Domains: 3010
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bookeo is being used
+Food & Drink: 6.68%
+Travel & Tourism: 5.41%
+Sports: 3.40%
+Science & Education: 2.48%
+Others: 82.03%
+
+
+- Related Technologies -
+Top Scheduling  technologies
+AcuityScheduling
+Setmore
+Rezdy
+Doctolib
+Schedulicity
+
+
+- Top Websites Using Bookeo -
+tamu.edu  --  Monthly visits -> 11.5M
+2go7v1nes8.com  --  Monthly visits -> 3.8M
+wane.com  --  Monthly visits -> 2.3M
+bookeo.com  --  Monthly visits -> 2M
+mzol7lbm.com  --  Monthly visits -> 1.6M
+leasecount.com  --  Monthly visits -> 1.2M
+vat19.com  --  Monthly visits -> 1.1M
+mollie.nl  --  Monthly visits -> 1M
+slabshookwasted.com  --  Monthly visits -> 869.3K
+dcist.com  --  Monthly visits -> 866.7K
+
+- Geography -
+Bookeo usage by websites across the globe
+Leading Countries: Websites
+United States: 1289
+Canada: 275
+France: 218
+Australia: 192
+United Kingdom: 184
+Italy: 69
+Germany: 54
+Belgium: 52
+Ireland: 42
+Spain: 39
+Rest of the World: 447

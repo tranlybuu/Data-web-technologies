@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MessengerPeople
+Last month's change: 0.43%
+Websites: 1159
+Unique Domains: 885
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MessengerPeople is being used
+News & Media: 6.82%
+Computers Electronics & Technology: 6.47%
+Travel & Tourism: 5.35%
+Finance: 5.18%
+Others: 76.19%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Crisp
+Stella Service
+
+
+- Top Websites Using MessengerPeople -
+gazzetta.it  --  Monthly visits -> 70.1M
+tagesschau.de  --  Monthly visits -> 67.5M
+20minutes.fr  --  Monthly visits -> 45.9M
+faz.net  --  Monthly visits -> 38.4M
+ndr.de  --  Monthly visits -> 28.3M
+euronews.com  --  Monthly visits -> 23.3M
+m.faz.net  --  Monthly visits -> 19.6M
+versus.com  --  Monthly visits -> 16.4M
+bayern.de  --  Monthly visits -> 10.6M
+racingpost.com  --  Monthly visits -> 9.7M
+
+- Geography -
+MessengerPeople usage by websites across the globe
+Leading Countries: Websites
+Germany: 590
+India: 33
+Austria: 29
+United States: 29
+Switzerland: 28
+Brazil: 13
+United Kingdom: 13
+Italy: 12
+Netherlands: 11
+Russia: 11
+Rest of the World: 155

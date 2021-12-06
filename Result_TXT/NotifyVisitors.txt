@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: NotifyVisitors
+Last month's change: 1.79%
+Websites: 335
+Unique Domains: 205
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where NotifyVisitors is being used
+Finance: 29.25%
+Travel & Tourism: 5.67%
+Health: 5.07%
+Lifestyle: 4.48%
+Others: 55.52%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using NotifyVisitors -
+1mg.com  --  Monthly visits -> 28.3M
+axisbank.com  --  Monthly visits -> 12M
+dominos.co.in  --  Monthly visits -> 3.9M
+vidyamandir.com  --  Monthly visits -> 3.8M
+vijaysales.com  --  Monthly visits -> 2.9M
+kotaksecurities.com  --  Monthly visits -> 2.6M
+hdfclife.com  --  Monthly visits -> 2.3M
+techgig.com  --  Monthly visits -> 2M
+lalpathlabs.com  --  Monthly visits -> 1.9M
+adityabirlacapital.com  --  Monthly visits -> 1.9M
+
+- Geography -
+NotifyVisitors usage by websites across the globe
+Leading Countries: Websites
+India: 190
+United States: 19
+United Kingdom: 6
+Hungary: 3
+Germany: 2
+Greece: 2
+Italy: 2
+Japan: 2
+Lithuania: 2
+Romania: 2
+Rest of the World: 24

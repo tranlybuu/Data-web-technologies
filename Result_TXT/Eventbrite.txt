@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Eventbrite
+Last month's change: 2.39%
+Websites: 93318
+Unique Domains: 75908
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Eventbrite is being used
+Science & Education: 6.95%
+Arts & Entertainment: 5.31%
+Computers Electronics & Technology: 3.54%
+Community & Society: 2.87%
+Others: 81.33%
+
+
+- Related Technologies -
+Top Events technologies
+Splash
+AddEvent
+Brown Paper Tickets
+Cvent
+BandsInTown
+
+
+- Top Websites Using Eventbrite -
+tokopedia.com  --  Monthly visits -> 152.5M
+capitalone.com  --  Monthly visits -> 111.3M
+m.tokopedia.com  --  Monthly visits -> 75.8M
+harvard.edu  --  Monthly visits -> 50.5M
+eventbrite.com  --  Monthly visits -> 43.3M
+goodhousekeeping.com  --  Monthly visits -> 41.6M
+patch.com  --  Monthly visits -> 34.7M
+menshealth.com  --  Monthly visits -> 31.8M
+iheart.com  --  Monthly visits -> 24.2M
+distractify.com  --  Monthly visits -> 19.7M
+
+- Geography -
+Eventbrite usage by websites across the globe
+Leading Countries: Websites
+United States: 55130
+United Kingdom: 3583
+Canada: 2834
+Australia: 1682
+India: 1398
+Germany: 1237
+France: 844
+Italy: 840
+Philippines: 714
+Netherlands: 662
+Rest of the World: 12665

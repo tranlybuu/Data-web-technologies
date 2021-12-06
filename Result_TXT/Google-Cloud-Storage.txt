@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Google Cloud Storage
+Last month's change: 14.3%
+Websites: 324969
+Unique Domains: 245583
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Google Cloud Storage is being used
+Computers Electronics & Technology: 3.95%
+Adult: 3.16%
+Lifestyle: 1.96%
+Science & Education: 1.68%
+Others: 89.25%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Fastly
+Akamai
+
+
+- Top Websites Using Google Cloud Storage -
+google.com  --  Monthly visits -> 91B
+drive.google.com  --  Monthly visits -> 2.8B
+support.google.com  --  Monthly visits -> 1.5B
+play.google.com  --  Monthly visits -> 1.2B
+myaccount.google.com  --  Monthly visits -> 581.7M
+photos.google.com  --  Monthly visits -> 261.4M
+t-mobile.com  --  Monthly visits -> 229.4M
+doubleclick.net  --  Monthly visits -> 221.6M
+blog.csdn.net  --  Monthly visits -> 189.5M
+bet9ja.com  --  Monthly visits -> 167.2M
+
+- Geography -
+Google Cloud Storage usage by websites across the globe
+Leading Countries: Websites
+United States: 92995
+United Kingdom: 14704
+Japan: 13279
+Canada: 11545
+Brazil: 11363
+Germany: 10362
+France: 9601
+Australia: 8232
+India: 7080
+Russia: 6023
+Rest of the World: 96257

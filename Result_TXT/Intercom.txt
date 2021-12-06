@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Intercom
+Last month's change: 0.79%
+Websites: 90865
+Unique Domains: 44131
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Intercom is being used
+Computers Electronics & Technology: 11.75%
+Business & Consumer Services: 6.40%
+Finance: 4.04%
+Science & Education: 2.22%
+Others: 75.59%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Crisp
+Stella Service
+AirCall
+
+
+- Top Websites Using Intercom -
+stripchat.com  --  Monthly visits -> 520.6M
+xhamsterlive.com  --  Monthly visits -> 273.1M
+linktr.ee  --  Monthly visits -> 135M
+notion.so  --  Monthly visits -> 107.6M
+idnes.cz  --  Monthly visits -> 79.7M
+go.xhamsterlive.com  --  Monthly visits -> 73.6M
+toppr.com  --  Monthly visits -> 71M
+superchat.live  --  Monthly visits -> 57M
+go.xxxjmp.com  --  Monthly visits -> 44.2M
+cbsnews.com  --  Monthly visits -> 30.9M
+
+- Geography -
+Intercom usage by websites across the globe
+Leading Countries: Websites
+United States: 26480
+United Kingdom: 5165
+Canada: 3146
+France: 2511
+India: 2435
+Australia: 2420
+Japan: 2390
+Germany: 2204
+Brazil: 1600
+Russia: 1395
+Rest of the World: 25623

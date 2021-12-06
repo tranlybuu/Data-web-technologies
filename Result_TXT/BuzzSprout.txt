@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: BuzzSprout
+Last month's change: 12.0%
+Websites: 18707
+Unique Domains: 16615
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where BuzzSprout is being used
+Science & Education: 5.56%
+Computers Electronics & Technology: 5.10%
+Business & Consumer Services: 4.05%
+Community & Society: 3.93%
+Others: 81.35%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+Stitcher
+
+
+- Top Websites Using BuzzSprout -
+rt.com  --  Monthly visits -> 120.6M
+aws.amazon.com  --  Monthly visits -> 62.7M
+247sports.com  --  Monthly visits -> 56.4M
+amazonaws.com  --  Monthly visits -> 50.8M
+si.com  --  Monthly visits -> 40.6M
+strava.com  --  Monthly visits -> 32.9M
+s3.amazonaws.com  --  Monthly visits -> 24.5M
+gate.io  --  Monthly visits -> 19.1M
+verywellmind.com  --  Monthly visits -> 19M
+portfolio.hu  --  Monthly visits -> 18.8M
+
+- Geography -
+BuzzSprout usage by websites across the globe
+Leading Countries: Websites
+United States: 9598
+United Kingdom: 1361
+Canada: 826
+Australia: 535
+India: 451
+Germany: 434
+Netherlands: 324
+France: 229
+Brazil: 207
+Philippines: 191
+Rest of the World: 3789

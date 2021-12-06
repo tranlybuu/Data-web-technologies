@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TrekkSoft
+Last month's change: 0.86%
+Websites: 699
+Unique Domains: 600
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TrekkSoft is being used
+Travel & Tourism: 23.32%
+Sports: 3.43%
+Computers Electronics & Technology: 1.86%
+Business & Consumer Services: 1.72%
+Others: 69.67%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Booker
+Peek
+
+
+- Top Websites Using TrekkSoft -
+aimultiple.com  --  Monthly visits -> 498.1K
+visitnorway.com  --  Monthly visits -> 486.1K
+solotravelerworld.com  --  Monthly visits -> 401.8K
+visitnorway.de  --  Monthly visits -> 191.2K
+callbell.eu  --  Monthly visits -> 164.3K
+thetravelintern.com  --  Monthly visits -> 145K
+frammr.no  --  Monthly visits -> 127.6K
+visitnorway.no  --  Monthly visits -> 119.5K
+visitnorway.fr  --  Monthly visits -> 93.9K
+trekksoft.com  --  Monthly visits -> 89.8K
+
+- Geography -
+TrekkSoft usage by websites across the globe
+Leading Countries: Websites
+United States: 86
+Italy: 73
+Switzerland: 51
+Norway: 50
+Germany: 45
+United Kingdom: 35
+Spain: 31
+France: 19
+Netherlands: 15
+India: 11
+Rest of the World: 211

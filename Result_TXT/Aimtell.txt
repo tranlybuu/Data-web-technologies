@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Aimtell
+Last month's change: 0.29%
+Websites: 1704
+Unique Domains: 1355
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Aimtell is being used
+Lifestyle: 11.97%
+Computers Electronics & Technology: 10.68%
+Finance: 5.40%
+Business & Consumer Services: 4.52%
+Others: 67.43%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using Aimtell -
+shein.com  --  Monthly visits -> 139.4M
+m.shein.com  --  Monthly visits -> 65.5M
+legacy.com  --  Monthly visits -> 47.9M
+us.shein.com  --  Monthly visits -> 30.4M
+m.legacy.com  --  Monthly visits -> 11.8M
+shein.com.mx  --  Monthly visits -> 9.1M
+outkick.com  --  Monthly visits -> 8.8M
+aristeguinoticias.com  --  Monthly visits -> 8.3M
+collegereadiness.collegeboard.org  --  Monthly visits -> 8.1M
+apstudents.collegeboard.org  --  Monthly visits -> 7.6M
+
+- Geography -
+Aimtell usage by websites across the globe
+Leading Countries: Websites
+United States: 811
+United Kingdom: 91
+Canada: 56
+Australia: 35
+France: 32
+Germany: 32
+India: 26
+Brazil: 23
+Italy: 20
+China: 18
+Rest of the World: 294

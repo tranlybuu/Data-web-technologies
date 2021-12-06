@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: ClickDesk
+Last month's change: 3.20%
+Websites: 2096
+Unique Domains: 1946
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where ClickDesk is being used
+Computers Electronics & Technology: 5.53%
+Business & Consumer Services: 4.53%
+Finance: 3.44%
+Science & Education: 3.10%
+Others: 83.40%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using ClickDesk -
+pearlacademy.com  --  Monthly visits -> 1.7M
+usergioarboleda.edu.co  --  Monthly visits -> 1.2M
+bicyclesonline.com.au  --  Monthly visits -> 561K
+agilecrm.com  --  Monthly visits -> 408.9K
+members.gcsepod.com  --  Monthly visits -> 368.7K
+solutionsstores.com  --  Monthly visits -> 358.8K
+f1autocentres.co.uk  --  Monthly visits -> 349.6K
+ezzocard.com  --  Monthly visits -> 281.3K
+sla.pl  --  Monthly visits -> 266.8K
+capacitarte.org  --  Monthly visits -> 244.9K
+
+- Geography -
+ClickDesk usage by websites across the globe
+Leading Countries: Websites
+United States: 489
+United Kingdom: 174
+India: 124
+Australia: 72
+Canada: 66
+Italy: 56
+Mexico: 56
+France: 40
+Netherlands: 36
+Brazil: 35
+Rest of the World: 769

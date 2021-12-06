@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PushWoosh
+Last month's change: 3.98%
+Websites: 754
+Unique Domains: 350
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PushWoosh is being used
+News & Media: 14.19%
+E-commerce & Shopping: 13.00%
+Computers Electronics & Technology: 6.76%
+Finance: 5.84%
+Others: 60.21%
+
+
+- Related Technologies -
+Top Push Notifications technologies
+OneSignal
+iZooto
+Pushnami
+cleverpush
+PushPushGo
+
+
+- Top Websites Using PushWoosh -
+championat.com  --  Monthly visits -> 65.3M
+gazeta.ru  --  Monthly visits -> 48.5M
+sportbox.ru  --  Monthly visits -> 35M
+news.sportbox.ru  --  Monthly visits -> 33.8M
+m.gazeta.ru  --  Monthly visits -> 19.2M
+coolmathgames.com  --  Monthly visits -> 16.4M
+tz.de  --  Monthly visits -> 16.2M
+polsatnews.pl  --  Monthly visits -> 14.7M
+timesofisrael.com  --  Monthly visits -> 13.1M
+matchtv.ru  --  Monthly visits -> 12.9M
+
+- Geography -
+PushWoosh usage by websites across the globe
+Leading Countries: Websites
+Russia: 137
+Germany: 72
+United States: 69
+Israel: 30
+Belgium: 25
+Poland: 16
+Spain: 16
+Ukraine: 15
+South Africa: 13
+Argentina: 10
+Rest of the World: 138

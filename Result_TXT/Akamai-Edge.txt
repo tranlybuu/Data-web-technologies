@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Akamai Edge
+Last month's change: 0.28%
+Websites: 108654
+Unique Domains: 45784
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Akamai Edge is being used
+Vehicles: 9.92%
+Computers Electronics & Technology: 8.52%
+Finance: 6.79%
+Jobs & Career: 5.48%
+Others: 69.29%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Akamai Edge -
+tiktok.com  --  Monthly visits -> 1.4B
+microsoft.com  --  Monthly visits -> 1.1B
+qq.com  --  Monthly visits -> 931.7M
+ebay.com  --  Monthly visits -> 796.6M
+accuweather.com  --  Monthly visits -> 697.5M
+weather.com  --  Monthly visits -> 653.6M
+vm.tiktok.com  --  Monthly visits -> 565.9M
+rakuten.co.jp  --  Monthly visits -> 556.3M
+apple.com  --  Monthly visits -> 542.5M
+walmart.com  --  Monthly visits -> 440.6M
+
+- Geography -
+Akamai Edge usage by websites across the globe
+Leading Countries: Websites
+United States: 32685
+Japan: 4149
+China: 3504
+Canada: 2997
+India: 2965
+United Kingdom: 2946
+Germany: 2929
+Australia: 2012
+France: 1987
+Spain: 1962
+Rest of the World: 28106

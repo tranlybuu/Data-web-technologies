@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Copernica
+Last month's change: 6.94%
+Websites: 706
+Unique Domains: 659
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Copernica is being used
+Lifestyle: 10.06%
+E-commerce & Shopping: 9.49%
+Computers Electronics & Technology: 7.93%
+Business & Consumer Services: 7.65%
+Others: 64.87%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Copernica -
+anwb.nl  --  Monthly visits -> 10.6M
+gamedistribution.com  --  Monthly visits -> 10.1M
+hubo.be  --  Monthly visits -> 3.2M
+kieskeurig.nl  --  Monthly visits -> 2.5M
+dekbed-discounter.nl  --  Monthly visits -> 1.4M
+koopjedeal.nl  --  Monthly visits -> 1.3M
+detelefoongids.nl  --  Monthly visits -> 1.1M
+mobiel.nl  --  Monthly visits -> 983.5K
+computertotaal.nl  --  Monthly visits -> 970.8K
+petsplace.nl  --  Monthly visits -> 926.2K
+
+- Geography -
+Copernica usage by websites across the globe
+Leading Countries: Websites
+Netherlands: 410
+Belgium: 76
+Germany: 58
+United Kingdom: 20
+United States: 16
+France: 12
+Italy: 9
+India: 6
+Morocco: 5
+Austria: 4
+Rest of the World: 50

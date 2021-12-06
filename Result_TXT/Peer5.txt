@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Peer5
+Last month's change: 2.34%
+Websites: 171
+Unique Domains: 122
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Peer5 is being used
+Arts & Entertainment: 15.20%
+News & Media: 12.87%
+Sports: 8.19%
+Computers Electronics & Technology: 6.43%
+Others: 57.31%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using Peer5 -
+rtve.es  --  Monthly visits -> 28.3M
+jn.pt  --  Monthly visits -> 12.4M
+rtp.pt  --  Monthly visits -> 8.1M
+dn.pt  --  Monthly visits -> 7.8M
+ojogo.pt  --  Monthly visits -> 6M
+dlive.tv  --  Monthly visits -> 4.1M
+n-tv.pt  --  Monthly visits -> 2.1M
+blazetv.com  --  Monthly visits -> 1.7M
+tsf.pt  --  Monthly visits -> 1.6M
+dinheirovivo.pt  --  Monthly visits -> 1.1M
+
+- Geography -
+Peer5 usage by websites across the globe
+Leading Countries: Websites
+United States: 28
+Portugal: 21
+China: 13
+India: 8
+Brazil: 5
+Spain: 5
+Canada: 4
+Australia: 3
+Japan: 3
+Mexico: 3
+Rest of the World: 40

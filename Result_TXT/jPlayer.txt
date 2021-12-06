@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: jPlayer
+Last month's change: 0.86%
+Websites: 165517
+Unique Domains: 149681
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where jPlayer is being used
+Arts & Entertainment: 3.13%
+Science & Education: 2.56%
+Computers Electronics & Technology: 2.35%
+Health: 1.59%
+Others: 90.37%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+HTTP Live Streaming (HLS)
+
+
+- Top Websites Using jPlayer -
+freebitco.in  --  Monthly visits -> 70.8M
+zippyshare.com  --  Monthly visits -> 60.6M
+ilfattoquotidiano.it  --  Monthly visits -> 53.2M
+heraldodemexico.com.mx  --  Monthly visits -> 29.9M
+sbs.com.au  --  Monthly visits -> 18.1M
+islamweb.net  --  Monthly visits -> 17.2M
+litres.ru  --  Monthly visits -> 15.8M
+glaz.tv  --  Monthly visits -> 13.2M
+townhall.com  --  Monthly visits -> 12.6M
+quotidiano.net  --  Monthly visits -> 12.3M
+
+- Geography -
+jPlayer usage by websites across the globe
+Leading Countries: Websites
+United States: 25669
+Italy: 9212
+Germany: 7831
+France: 6509
+United Kingdom: 5789
+Spain: 5602
+Brazil: 5459
+Russia: 4892
+Canada: 4330
+Poland: 4036
+Rest of the World: 69440

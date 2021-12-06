@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MemberMouse
+Last month's change: 0.92%
+Websites: 762
+Unique Domains: 723
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MemberMouse is being used
+Health: 6.17%
+Business & Consumer Services: 6.04%
+Arts & Entertainment: 5.51%
+Finance: 5.51%
+Others: 76.77%
+
+
+- Related Technologies -
+Top Login Provider technologies
+OpenID
+Google+ Sign-In Button
+Facebook Login
+Okta
+Auth0
+
+
+- Top Websites Using MemberMouse -
+justonecookbook.com  --  Monthly visits -> 3.8M
+sugargeekshow.com  --  Monthly visits -> 888.7K
+gemsociety.org  --  Monthly visits -> 811.3K
+espressoenglish.net  --  Monthly visits -> 746.4K
+calcworkshop.com  --  Monthly visits -> 584.5K
+thepatriotjournal.com  --  Monthly visits -> 579.3K
+topspeedgolf.com  --  Monthly visits -> 473.8K
+networklessons.com  --  Monthly visits -> 457.6K
+gmb.io  --  Monthly visits -> 380.7K
+backpackinglight.com  --  Monthly visits -> 373.5K
+
+- Geography -
+MemberMouse usage by websites across the globe
+Leading Countries: Websites
+United States: 364
+Hungary: 60
+United Kingdom: 43
+Australia: 30
+Canada: 26
+Germany: 18
+India: 15
+France: 13
+Italy: 10
+Netherlands: 7
+Rest of the World: 129

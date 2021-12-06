@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Shanon
+Last month's change: 2.21%
+Websites: 815
+Unique Domains: 590
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Shanon is being used
+Business & Consumer Services: 22.09%
+Computers Electronics & Technology: 21.35%
+Heavy Industry & Engineering: 4.91%
+Finance: 3.44%
+Others: 48.22%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Shanon -
+gentosha-go.com  --  Monthly visits -> 3.1M
+eclass.seoultech.ac.kr  --  Monthly visits -> 1.3M
+megalodon.jp  --  Monthly visits -> 1.1M
+ecampus.konkuk.ac.kr  --  Monthly visits -> 1.1M
+edu.semyung.ac.kr  --  Monthly visits -> 969.5K
+lms.yu.ac.kr  --  Monthly visits -> 944.7K
+atmarkit.co.jp  --  Monthly visits -> 926.6K
+eclass.hufs.ac.kr  --  Monthly visits -> 900.3K
+canon-its.jp  --  Monthly visits -> 887.6K
+lms.knu.ac.kr  --  Monthly visits -> 788.5K
+
+- Geography -
+Shanon usage by websites across the globe
+Leading Countries: Websites
+Japan: 670
+South Korea: 72
+United States: 6
+China: 4
+United Kingdom: 4
+France: 3
+Ghana: 2
+Indonesia: 2
+Vietnam: 2
+Australia: 1
+Rest of the World: 10

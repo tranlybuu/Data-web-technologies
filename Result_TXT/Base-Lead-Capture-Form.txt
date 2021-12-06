@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Base Lead Capture Form
+Last month's change: 5.56%
+Websites: 126
+Unique Domains: 124
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Base Lead Capture Form is being used
+Science & Education: 7.94%
+Computers Electronics & Technology: 5.56%
+Business & Consumer Services: 3.97%
+Vehicles: 3.97%
+Others: 78.57%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using Base Lead Capture Form -
+financialpost.com  --  Monthly visits -> 3M
+business.financialpost.com  --  Monthly visits -> 1.9M
+healthday.com  --  Monthly visits -> 616.7K
+vex.com  --  Monthly visits -> 419.4K
+vexrobotics.com  --  Monthly visits -> 304K
+ohsnap.com  --  Monthly visits -> 233.9K
+adirondacksolutions.com  --  Monthly visits -> 113.5K
+vervecoffee.com  --  Monthly visits -> 98.4K
+trakrsuite.com  --  Monthly visits -> 97.9K
+jellydrops.com  --  Monthly visits -> 37.9K
+
+- Geography -
+Base Lead Capture Form usage by websites across the globe
+Leading Countries: Websites
+United States: 51
+Canada: 15
+Australia: 10
+India: 10
+Germany: 3
+United Kingdom: 3
+Brazil: 2
+France: 2
+Kenya: 2
+Philippines: 2
+Rest of the World: 21

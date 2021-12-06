@@ -1,0 +1,50 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: StarBoardSuite
+Last month's change: 1.80%
+Websites: 111
+Unique Domains: 78
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where StarBoardSuite is being used
+Travel & Tourism: 31.53%
+Food & Drink: 2.70%
+Sports: 2.70%
+Arts & Entertainment: 0.90%
+Others: 62.16%
+
+
+- Related Technologies -
+Top Booking technologies
+MindBody
+FareHarbor
+CheckFront
+Booker
+Peek
+
+
+- Top Websites Using StarBoardSuite -
+abc-7.com  --  Monthly visits -> 204.7K
+artm.quebec  --  Monthly visits -> 93.8K
+starboardsuite.com  --  Monthly visits -> 86.6K
+seapines.com  --  Monthly visits -> 68.5K
+navark.starboardsuite.com  --  Monthly visits -> 46.6K
+ambassatours.starboardsuite.com  --  Monthly visits -> 41.9K
+whalesvancouver.starboardsuite.com  --  Monthly visits -> 38K
+tasteofnovascotia.com  --  Monthly visits -> 35.5K
+exploringthenorth.com  --  Monthly visits -> 32.7K
+goodmorninggloucester.com  --  Monthly visits -> 32.5K
+
+- Geography -
+StarBoardSuite usage by websites across the globe
+Leading Countries: Websites
+United States: 68
+Canada: 19
+Australia: 1
+Bangladesh: 1
+Czech Republic: 1
+Japan: 1
+Spain: 1
+United Kingdom: 1

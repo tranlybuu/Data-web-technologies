@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: PerformGroup
+Last month's change: 0.49%
+Websites: 1424
+Unique Domains: 420
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where PerformGroup is being used
+Sports: 13.48%
+News & Media: 4.56%
+Computers Electronics & Technology: 1.76%
+Gambling: 1.62%
+Others: 78.58%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using PerformGroup -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+cricbuzz.com  --  Monthly visits -> 257.3M
+livescore.com  --  Monthly visits -> 121.2M
+terra.com.br  --  Monthly visits -> 63.1M
+mackolik.com  --  Monthly visits -> 21.6M
+lance.com.br  --  Monthly visits -> 17.6M
+voetbalzone.nl  --  Monthly visits -> 15.7M
+elcomercio.com  --  Monthly visits -> 11.9M
+arsiv.mackolik.com  --  Monthly visits -> 10.7M
+futbolred.com  --  Monthly visits -> 9.1M
+
+- Geography -
+PerformGroup usage by websites across the globe
+Leading Countries: Websites
+United States: 185
+United Kingdom: 60
+Netherlands: 53
+Germany: 49
+Italy: 49
+India: 46
+Brazil: 39
+Japan: 34
+France: 33
+Indonesia: 33
+Rest of the World: 451

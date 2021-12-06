@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: LiveZilla
+Last month's change: 2.23%
+Websites: 7070
+Unique Domains: 6090
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where LiveZilla is being used
+Computers Electronics & Technology: 11.85%
+Science & Education: 3.34%
+Business & Consumer Services: 2.81%
+Vehicles: 2.53%
+Others: 79.46%
+
+
+- Related Technologies -
+Top Live Chat technologies
+Tawk To
+Zendesk Chat
+Facebook Messenger Chat
+JivoChat
+Tidio Live Chat
+
+
+- Top Websites Using LiveZilla -
+tci.ir  --  Monthly visits -> 8.3M
+infranken.de  --  Monthly visits -> 6.9M
+bvsalud.org  --  Monthly visits -> 4.9M
+vit.ac.in  --  Monthly visits -> 3.8M
+udistrital.edu.co  --  Monthly visits -> 3M
+statcan.gc.ca  --  Monthly visits -> 2.6M
+srce.hr  --  Monthly visits -> 2.1M
+www150.statcan.gc.ca  --  Monthly visits -> 1.6M
+betlive.com  --  Monthly visits -> 1.6M
+xfastest.com  --  Monthly visits -> 1.5M
+
+- Geography -
+LiveZilla usage by websites across the globe
+Leading Countries: Websites
+Germany: 1106
+United States: 592
+Brazil: 555
+Russia: 302
+India: 260
+United Kingdom: 258
+Italy: 202
+France: 160
+Iran: 145
+China: 144
+Rest of the World: 2615

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Audioboom
+Last month's change: 23.3%
+Websites: 2430
+Unique Domains: 2189
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Audioboom is being used
+Arts & Entertainment: 10.12%
+Sports: 7.49%
+Science & Education: 5.31%
+News & Media: 5.27%
+Others: 71.81%
+
+
+- Related Technologies -
+Top Podcasts technologies
+SoundCloud
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+
+
+- Top Websites Using Audioboom -
+dailymail.co.uk  --  Monthly visits -> 302.9M
+seznamzpravy.cz  --  Monthly visits -> 104.1M
+wiley.com  --  Monthly visits -> 46.5M
+si.com  --  Monthly visits -> 40.6M
+nhl.com  --  Monthly visits -> 36.8M
+bleacherreport.com  --  Monthly visits -> 34.2M
+pinkvilla.com  --  Monthly visits -> 30.1M
+substack.com  --  Monthly visits -> 26M
+motor1.com  --  Monthly visits -> 17.2M
+livescience.com  --  Monthly visits -> 16.2M
+
+- Geography -
+Audioboom usage by websites across the globe
+Leading Countries: Websites
+United States: 993
+United Kingdom: 463
+India: 92
+Australia: 83
+Canada: 73
+Czech Republic: 50
+Germany: 47
+Ireland: 43
+France: 41
+Brazil: 34
+Rest of the World: 426

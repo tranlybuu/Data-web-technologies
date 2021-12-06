@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CacheFly
+Last month's change: None%
+Websites: 146
+Unique Domains: 51
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CacheFly is being used
+Computers Electronics & Technology: 23.97%
+Adult: 11.64%
+Science & Education: 4.79%
+Arts & Entertainment: 3.42%
+Others: 56.16%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Amazon CloudFront
+Google Cloud Storage
+Fastly
+
+
+- Top Websites Using CacheFly -
+cdn.arstechnica.net  --  Monthly visits -> 349.7K
+cachefly.net  --  Monthly visits -> 150.4K
+download.fosshub.com  --  Monthly visits -> 138.8K
+mrskincdn.com  --  Monthly visits -> 133.7K
+cdnlibrary.skillport.com  --  Monthly visits -> 91.1K
+media01.mrskincdn.com  --  Monthly visits -> 76.6K
+books24x7.com  --  Monthly visits -> 74.3K
+www3.mrskincdn.com  --  Monthly visits -> 64.4K
+assets01.mrskincdn.com  --  Monthly visits -> 62K
+assets03.mrskincdn.com  --  Monthly visits -> 61.6K
+
+- Geography -
+CacheFly usage by websites across the globe
+Leading Countries: Websites
+United States: 47
+China: 15
+Canada: 7
+United Kingdom: 6
+Russia: 4
+Germany: 3
+Spain: 3
+Czech Republic: 2
+France: 2
+India: 2
+Rest of the World: 24

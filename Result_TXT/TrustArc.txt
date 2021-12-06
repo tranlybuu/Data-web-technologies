@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TrustArc
+Last month's change: 2.30%
+Websites: 27744
+Unique Domains: 8603
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TrustArc is being used
+Computers Electronics & Technology: 11.60%
+Health: 5.88%
+Finance: 5.69%
+Business & Consumer Services: 5.45%
+Others: 71.39%
+
+
+- Related Technologies -
+Top Privacy technologies
+Cookie Consent
+Cookie Notice
+GDPR Cookie Consent
+OneTrust
+CookieBot
+
+
+- Top Websites Using TrustArc -
+bit.ly  --  Monthly visits -> 2.4B
+zoom.us  --  Monthly visits -> 2B
+samsung.com  --  Monthly visits -> 805.5M
+us02web.zoom.us  --  Monthly visits -> 799.9M
+weather.com  --  Monthly visits -> 653.6M
+disneyplus.com  --  Monthly visits -> 268.7M
+webmd.com  --  Monthly visits -> 137.9M
+lowes.com  --  Monthly visits -> 118.5M
+forbes.com  --  Monthly visits -> 105.9M
+qualtrics.com  --  Monthly visits -> 72.5M
+
+- Geography -
+TrustArc usage by websites across the globe
+Leading Countries: Websites
+United States: 11864
+United Kingdom: 1246
+Canada: 987
+Japan: 637
+Germany: 629
+Australia: 605
+India: 558
+Italy: 385
+France: 360
+China: 352
+Rest of the World: 5965

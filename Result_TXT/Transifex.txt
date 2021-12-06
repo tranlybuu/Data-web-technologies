@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Transifex
+Last month's change: 3.22%
+Websites: 1334
+Unique Domains: 531
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Transifex is being used
+Computers Electronics & Technology: 8.47%
+Science & Education: 2.92%
+Sports: 2.92%
+Travel & Tourism: 2.92%
+Others: 82.76%
+
+
+- Related Technologies -
+Top Multilingual technologies
+Multilingual Support
+WPML Multilingual
+Bablic
+Handtalk
+None
+
+
+- Top Websites Using Transifex -
+discogs.com  --  Monthly visits -> 48.9M
+plex.tv  --  Monthly visits -> 26.5M
+hudl.com  --  Monthly visits -> 9.2M
+twilio.com  --  Monthly visits -> 4M
+tiqets.com  --  Monthly visits -> 3.2M
+help.upstox.com  --  Monthly visits -> 1.7M
+ntw.com  --  Monthly visits -> 1.1M
+order.ntw.com  --  Monthly visits -> 1.1M
+noteflight.com  --  Monthly visits -> 1.1M
+trainerroad.com  --  Monthly visits -> 867K
+
+- Geography -
+Transifex usage by websites across the globe
+Leading Countries: Websites
+United States: 240
+Greece: 127
+United Kingdom: 50
+India: 41
+Canada: 40
+Japan: 33
+Germany: 27
+France: 21
+Brazil: 19
+Italy: 19
+Rest of the World: 317

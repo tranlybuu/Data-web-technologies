@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Crisp
+Last month's change: 1.60%
+Websites: 24892
+Unique Domains: 19786
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Crisp is being used
+Computers Electronics & Technology: 11.89%
+Business & Consumer Services: 2.50%
+Science & Education: 2.06%
+Games: 1.89%
+Others: 81.66%
+
+
+- Related Technologies -
+Top Customer Communication technologies
+Zendesk
+LINE
+Intercom
+Stella Service
+AirCall
+
+
+- Top Websites Using Crisp -
+emofid.com  --  Monthly visits -> 28.1M
+namasha.com  --  Monthly visits -> 22.5M
+be.clonkapp.com  --  Monthly visits -> 11.6M
+filimo.com  --  Monthly visits -> 9.9M
+inflact.com  --  Monthly visits -> 9.3M
+dood.to  --  Monthly visits -> 8.1M
+tny.so  --  Monthly visits -> 7.3M
+numerade.com  --  Monthly visits -> 6.9M
+watchsomuch.org  --  Monthly visits -> 6.3M
+dood.watch  --  Monthly visits -> 5.8M
+
+- Geography -
+Crisp usage by websites across the globe
+Leading Countries: Websites
+United States: 3355
+Iran: 3172
+France: 2516
+China: 1511
+India: 1067
+United Kingdom: 839
+Germany: 556
+Brazil: 486
+Netherlands: 431
+Canada: 428
+Rest of the World: 8013

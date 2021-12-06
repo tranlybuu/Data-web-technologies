@@ -1,0 +1,40 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: NexPlayer
+Last month's change: 16.7%
+Websites: 6
+Unique Domains: 6
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where NexPlayer is being used
+Computers Electronics & Technology: 50.00%
+Arts & Entertainment: 16.67%
+E-commerce & Shopping: 16.67%
+Finance: 16.67%
+None: None
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using NexPlayer -
+watch.nexttv.co.il  --  Monthly visits -> 52.6K
+mncnow.okezone.com  --  Monthly visits -> 16.3K
+playtv.unifi.com.my  --  Monthly visits -> 7.8K
+nexplayersdk.com  --  Monthly visits -> 6.9K
+nexstreaming.com  --  Monthly visits -> 785.73
+
+- Geography -
+NexPlayer usage by websites across the globe
+Leading Countries: Websites
+South Korea: 2
+Israel: 1
+Malaysia: 1

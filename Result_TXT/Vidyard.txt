@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Vidyard
+Last month's change: 4.85%
+Websites: 12874
+Unique Domains: 9631
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Vidyard is being used
+Computers Electronics & Technology: 16.17%
+Business & Consumer Services: 10.64%
+Finance: 6.13%
+Science & Education: 5.85%
+Others: 61.21%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Vidyard -
+okta.com  --  Monthly visits -> 140.8M
+mheducation.com  --  Monthly visits -> 40.7M
+hubspot.com  --  Monthly visits -> 37.4M
+cengage.com  --  Monthly visits -> 36.7M
+k12.com  --  Monthly visits -> 32.5M
+ultipro.com  --  Monthly visits -> 29M
+ruangguru.com  --  Monthly visits -> 24.3M
+wondershare.com  --  Monthly visits -> 19.9M
+accenture.com  --  Monthly visits -> 19.5M
+toasttab.com  --  Monthly visits -> 19.2M
+
+- Geography -
+Vidyard usage by websites across the globe
+Leading Countries: Websites
+United States: 5914
+United Kingdom: 619
+Canada: 504
+Germany: 374
+Australia: 360
+India: 324
+France: 281
+Japan: 212
+Netherlands: 209
+Mexico: 183
+Rest of the World: 3017

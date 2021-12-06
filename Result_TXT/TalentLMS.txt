@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TalentLMS
+Last month's change: 3.94%
+Websites: 2814
+Unique Domains: 1476
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TalentLMS is being used
+Computers Electronics & Technology: 8.28%
+Science & Education: 4.90%
+Health: 4.83%
+Business & Consumer Services: 4.09%
+Others: 77.90%
+
+
+- Related Technologies -
+Top Business Solutions technologies
+FreshWorks
+DocuSign
+Wild Apricot
+Teachable
+Dropbox
+
+
+- Top Websites Using TalentLMS -
+newrow.com  --  Monthly visits -> 12.5M
+talentlms.com  --  Monthly visits -> 4.2M
+elastic.co  --  Monthly visits -> 3.1M
+pythonanywhere.com  --  Monthly visits -> 2M
+jigsawinteractive.com  --  Monthly visits -> 1.7M
+profitroom.com  --  Monthly visits -> 979.6K
+yellowmessenger.com  --  Monthly visits -> 758.8K
+elearningindustry.com  --  Monthly visits -> 694.8K
+dnsstuff.com  --  Monthly visits -> 658.6K
+careerplug.com  --  Monthly visits -> 647.8K
+
+- Geography -
+TalentLMS usage by websites across the globe
+Leading Countries: Websites
+United States: 871
+Canada: 149
+United Kingdom: 125
+India: 100
+Australia: 96
+Italy: 81
+France: 71
+Germany: 60
+Philippines: 50
+Mexico: 41
+Rest of the World: 846

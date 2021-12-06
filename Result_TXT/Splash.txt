@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Splash
+Last month's change: 13.9%
+Websites: 10785
+Unique Domains: 5071
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Splash is being used
+Computers Electronics & Technology: 15.45%
+Business & Consumer Services: 4.81%
+Science & Education: 4.63%
+Finance: 3.20%
+Others: 71.91%
+
+
+- Related Technologies -
+Top Events technologies
+Eventbrite
+AddEvent
+Brown Paper Tickets
+Cvent
+BandsInTown
+
+
+- Top Websites Using Splash -
+edition.cnn.com  --  Monthly visits -> 59.1M
+thedailybeast.com  --  Monthly visits -> 33.4M
+klclick.com  --  Monthly visits -> 14.4M
+amazon.jobs  --  Monthly visits -> 13.9M
+dev.to  --  Monthly visits -> 13.2M
+dallasnews.com  --  Monthly visits -> 13.1M
+thredup.com  --  Monthly visits -> 12.4M
+money.cnn.com  --  Monthly visits -> 11.1M
+express.com  --  Monthly visits -> 10.5M
+anthropologie.com  --  Monthly visits -> 10.2M
+
+- Geography -
+Splash usage by websites across the globe
+Leading Countries: Websites
+United States: 3709
+India: 495
+Japan: 493
+United Kingdom: 386
+Germany: 306
+Canada: 284
+France: 190
+Poland: 171
+Brazil: 153
+Italy: 131
+Rest of the World: 2752

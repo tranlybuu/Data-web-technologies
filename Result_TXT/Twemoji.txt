@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Twemoji
+Last month's change: 1.14%
+Websites: 4922402
+Unique Domains: 3974105
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Twemoji is being used
+Science & Education: 4.25%
+Computers Electronics & Technology: 3.66%
+Arts & Entertainment: 2.68%
+Community & Society: 2.13%
+Others: 87.29%
+
+
+- Related Technologies -
+Top Widget technologies
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+W3 Total Cache
+
+
+- Top Websites Using Twemoji -
+chaturbate.com  --  Monthly visits -> 395.6M
+tsyndicate.com  --  Monthly visits -> 362.7M
+zillow.com  --  Monthly visits -> 263.4M
+m.chaturbate.com  --  Monthly visits -> 225.1M
+ameblo.jp  --  Monthly visits -> 200.8M
+caliente.mx  --  Monthly visits -> 172.4M
+manga1001.com  --  Monthly visits -> 158.1M
+exoclick.com  --  Monthly visits -> 152.4M
+trafficfactory.biz  --  Monthly visits -> 115.1M
+wplay.co  --  Monthly visits -> 98.9M
+
+- Geography -
+Twemoji usage by websites across the globe
+Leading Countries: Websites
+United States: 901167
+Japan: 308539
+Germany: 199435
+United Kingdom: 183037
+Italy: 174892
+France: 167918
+Canada: 134789
+India: 122756
+Spain: 120768
+Russia: 114048
+Rest of the World: 1774702

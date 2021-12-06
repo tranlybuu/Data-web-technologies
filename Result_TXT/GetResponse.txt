@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: GetResponse
+Last month's change: 0.03%
+Websites: 11034
+Unique Domains: 9473
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where GetResponse is being used
+Computers Electronics & Technology: 5.47%
+Health: 4.39%
+Business & Consumer Services: 4.25%
+Finance: 3.29%
+Others: 82.60%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using GetResponse -
+tuhoc365.vn  --  Monthly visits -> 11.1M
+getresponse.com  --  Monthly visits -> 7.8M
+conservativebrief.com  --  Monthly visits -> 7.5M
+travelask.ru  --  Monthly visits -> 7.4M
+app.getresponse.com  --  Monthly visits -> 7.1M
+ralali.com  --  Monthly visits -> 3.8M
+x22report.com  --  Monthly visits -> 2.5M
+allbud.com  --  Monthly visits -> 2.1M
+move.ru  --  Monthly visits -> 2M
+cudominer.com  --  Monthly visits -> 1.7M
+
+- Geography -
+GetResponse usage by websites across the globe
+Leading Countries: Websites
+United States: 2105
+Poland: 1089
+Italy: 646
+Russia: 612
+Germany: 552
+France: 349
+Vietnam: 301
+United Kingdom: 270
+Spain: 249
+India: 239
+Rest of the World: 3182

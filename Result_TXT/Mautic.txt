@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Mautic
+Last month's change: 2.06%
+Websites: 13969
+Unique Domains: 11747
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Mautic is being used
+Computers Electronics & Technology: 8.63%
+Business & Consumer Services: 4.08%
+Science & Education: 3.13%
+Finance: 2.02%
+Others: 82.15%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Mautic -
+fdr.com.br  --  Monthly visits -> 12.6M
+programiz.com  --  Monthly visits -> 10.1M
+fptshop.com.vn  --  Monthly visits -> 10M
+pcwelt.de  --  Monthly visits -> 8M
+collegedekho.com  --  Monthly visits -> 8M
+correio24horas.com.br  --  Monthly visits -> 7.1M
+hoanghamobile.com  --  Monthly visits -> 6.5M
+anota.ai  --  Monthly visits -> 6.4M
+cvshealth.com  --  Monthly visits -> 5.4M
+godude.link  --  Monthly visits -> 2.8M
+
+- Geography -
+Mautic usage by websites across the globe
+Leading Countries: Websites
+Brazil: 2397
+United States: 1606
+France: 724
+Japan: 699
+Spain: 526
+Germany: 475
+Italy: 424
+India: 361
+Poland: 322
+Vietnam: 318
+Rest of the World: 4247

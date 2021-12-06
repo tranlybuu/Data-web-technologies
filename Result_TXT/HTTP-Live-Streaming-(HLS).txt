@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: HTTP Live Streaming (HLS)
+Last month's change: 7.69%
+Websites: 122299
+Unique Domains: 99971
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where HTTP Live Streaming (HLS) is being used
+Arts & Entertainment: 5.23%
+Computers Electronics & Technology: 4.10%
+News & Media: 3.46%
+Adult: 3.27%
+Others: 83.94%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using HTTP Live Streaming (HLS) -
+yandex.ru  --  Monthly visits -> 3.9B
+yahoo.com  --  Monthly visits -> 3.5B
+xvideos.com  --  Monthly visits -> 3.4B
+xnxx.com  --  Monthly visits -> 2.6B
+amazon.com  --  Monthly visits -> 2.5B
+pornhub.com  --  Monthly visits -> 2.2B
+reddit.com  --  Monthly visits -> 1.6B
+xhamster.com  --  Monthly visits -> 1.4B
+fandom.com  --  Monthly visits -> 795.9M
+weather.com  --  Monthly visits -> 653.6M
+
+- Geography -
+HTTP Live Streaming (HLS) usage by websites across the globe
+Leading Countries: Websites
+United States: 28682
+China: 12438
+United Kingdom: 4694
+Germany: 3805
+Russia: 3547
+Japan: 3272
+Canada: 3256
+France: 2916
+India: 2759
+Brazil: 2584
+Rest of the World: 37098

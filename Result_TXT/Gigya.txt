@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Gigya
+Last month's change: 1.06%
+Websites: 28372
+Unique Domains: 7645
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Gigya is being used
+Science & Education: 8.09%
+Arts & Entertainment: 7.50%
+Community & Society: 4.97%
+Computers Electronics & Technology: 4.63%
+Others: 74.81%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Gigya -
+ups.com  --  Monthly visits -> 191.9M
+repubblica.it  --  Monthly visits -> 138.4M
+abc.net.au  --  Monthly visits -> 114.2M
+nfl.com  --  Monthly visits -> 112.3M
+mediaset.it  --  Monthly visits -> 99.5M
+independent.co.uk  --  Monthly visits -> 90.9M
+mirror.co.uk  --  Monthly visits -> 79.4M
+clarin.com  --  Monthly visits -> 76.5M
+cambridge.org  --  Monthly visits -> 73.1M
+abc.es  --  Monthly visits -> 72.8M
+
+- Geography -
+Gigya usage by websites across the globe
+Leading Countries: Websites
+United States: 4391
+Spain: 1037
+Malaysia: 820
+Italy: 783
+United Kingdom: 590
+Brazil: 586
+Indonesia: 550
+France: 547
+Canada: 476
+Netherlands: 462
+Rest of the World: 6931

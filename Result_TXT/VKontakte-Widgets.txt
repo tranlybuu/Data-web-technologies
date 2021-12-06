@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: VKontakte Widgets
+Last month's change: 2.05%
+Websites: 18173
+Unique Domains: 11743
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where VKontakte Widgets is being used
+Science & Education: 14.34%
+Arts & Entertainment: 12.85%
+Computers Electronics & Technology: 7.55%
+Health: 4.90%
+Others: 60.36%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using VKontakte Widgets -
+livetv.sx  --  Monthly visits -> 22.6M
+vseinstrumenti.ru  --  Monthly visits -> 22.5M
+starhit.ru  --  Monthly visits -> 19.8M
+sci-hub.se  --  Monthly visits -> 15.4M
+football.kulichki.net  --  Monthly visits -> 12M
+g2a.com  --  Monthly visits -> 10.9M
+euroki.org  --  Monthly visits -> 10.9M
+joyreactor.cc  --  Monthly visits -> 9.7M
+livelib.ru  --  Monthly visits -> 8M
+m.21vek.by  --  Monthly visits -> 7.7M
+
+- Geography -
+VKontakte Widgets usage by websites across the globe
+Leading Countries: Websites
+Russia: 9636
+Ukraine: 1479
+Belarus: 1009
+Kazakhstan: 246
+United States: 200
+Germany: 138
+Moldova: 67
+Netherlands: 65
+Italy: 61
+France: 54
+Rest of the World: 1007

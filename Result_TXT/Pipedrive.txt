@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Pipedrive
+Last month's change: 3.31%
+Websites: 6498
+Unique Domains: 6022
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Pipedrive is being used
+Computers Electronics & Technology: 9.33%
+Business & Consumer Services: 5.83%
+Finance: 2.92%
+Science & Education: 2.45%
+Others: 79.47%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using Pipedrive -
+zattini.com.br  --  Monthly visits -> 9.5M
+pipedrive.com  --  Monthly visits -> 9M
+wolt.com  --  Monthly visits -> 7M
+boacompra.com  --  Monthly visits -> 3.6M
+m.eskimi.com  --  Monthly visits -> 3.4M
+urjc.es  --  Monthly visits -> 3M
+shiprocket.in  --  Monthly visits -> 2.3M
+ezyvet.com  --  Monthly visits -> 2M
+bluesoft.com.br  --  Monthly visits -> 1.9M
+logos.com  --  Monthly visits -> 1.9M
+
+- Geography -
+Pipedrive usage by websites across the globe
+Leading Countries: Websites
+United States: 1359
+Brazil: 476
+United Kingdom: 428
+Germany: 398
+France: 304
+Canada: 238
+Australia: 213
+India: 169
+Netherlands: 161
+Finland: 144
+Rest of the World: 2235

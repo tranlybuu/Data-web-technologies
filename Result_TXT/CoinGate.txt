@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: CoinGate
+Last month's change: 2.94%
+Websites: 34
+Unique Domains: 32
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where CoinGate is being used
+Computers Electronics & Technology: 26.47%
+Finance: 14.71%
+Health: 8.82%
+Games: 2.94%
+Others: 47.06%
+
+
+- Related Technologies -
+Top Bitcoin technologies
+Bitcoin Acceptance
+Bitcoin Address Link
+Coinbase
+CoinDesk
+Bitcoin Miner
+
+
+- Top Websites Using CoinGate -
+codesector.com  --  Monthly visits -> 239.7K
+fluxustv.blogspot.com  --  Monthly visits -> 211.8K
+upload.vaa.red  --  Monthly visits -> 125.1K
+blog.coingate.com  --  Monthly visits -> 101.3K
+forexobroker.com  --  Monthly visits -> 84.5K
+pl.libreoffice.org  --  Monthly visits -> 58.6K
+zh-cn.libreoffice.org  --  Monthly visits -> 38.2K
+forexprofitkeeper.com  --  Monthly visits -> 36.2K
+goodbyematrix.com  --  Monthly visits -> 31.4K
+jaunimolinija.lt  --  Monthly visits -> 15.4K
+
+- Geography -
+CoinGate usage by websites across the globe
+Leading Countries: Websites
+United States: 8
+Lithuania: 4
+Germany: 2
+Philippines: 2
+Poland: 2
+Russia: 2
+Algeria: 1
+Argentina: 1
+Austria: 1
+Belgium: 1
+Rest of the World: 9

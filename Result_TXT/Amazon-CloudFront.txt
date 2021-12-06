@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Amazon CloudFront
+Last month's change: 3.20%
+Websites: 399097
+Unique Domains: 175167
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Amazon CloudFront is being used
+Computers Electronics & Technology: 6.17%
+Science & Education: 3.47%
+Arts & Entertainment: 3.14%
+Finance: 2.98%
+Others: 84.24%
+
+
+- Related Technologies -
+Top Content Delivery Network technologies
+CloudFlare
+Amazon S3
+Google Cloud Storage
+Fastly
+Akamai
+
+
+- Top Websites Using Amazon CloudFront -
+tiktok.com  --  Monthly visits -> 1.4B
+pinterest.com  --  Monthly visits -> 1B
+espn.com  --  Monthly visits -> 628.4M
+amazon.co.jp  --  Monthly visits -> 603.7M
+quora.com  --  Monthly visits -> 555.8M
+uol.com.br  --  Monthly visits -> 542.3M
+imdb.com  --  Monthly visits -> 511M
+amazon.de  --  Monthly visits -> 498.4M
+amazon.co.uk  --  Monthly visits -> 408.6M
+hotstar.com  --  Monthly visits -> 323.8M
+
+- Geography -
+Amazon CloudFront usage by websites across the globe
+Leading Countries: Websites
+United States: 98699
+Japan: 28903
+United Kingdom: 14087
+South Korea: 13122
+Brazil: 11252
+Canada: 9728
+Germany: 9462
+India: 9437
+France: 9191
+Australia: 9154
+Rest of the World: 95788

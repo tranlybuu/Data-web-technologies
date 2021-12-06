@@ -1,0 +1,48 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: K CRM
+Last month's change: 0.96%
+Websites: 519
+Unique Domains: 489
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where K CRM is being used
+Lifestyle: 20.42%
+Food & Drink: 11.18%
+Business & Consumer Services: 3.47%
+E-commerce & Shopping: 3.08%
+Others: 61.85%
+
+
+- Related Technologies -
+Top Customer Relationship Management technologies
+Salesforce
+Freshdesk
+Salesforce Live Agent
+Zoho CRM
+CiviCRM
+
+
+- Top Websites Using K CRM -
+clubd.co.jp  --  Monthly visits -> 1.5M
+osharewalker.co.jp  --  Monthly visits -> 1.4M
+doclasse.com  --  Monthly visits -> 1M
+mensfashion.cc  --  Monthly visits -> 576.3K
+victory-store.com  --  Monthly visits -> 524.8K
+pg-bra.com  --  Monthly visits -> 423.3K
+axes-net.com  --  Monthly visits -> 409.6K
+jamtrading.jp  --  Monthly visits -> 381.8K
+k-crm.jp  --  Monthly visits -> 313.7K
+ronherman.jp  --  Monthly visits -> 302.2K
+
+- Geography -
+K CRM usage by websites across the globe
+Leading Countries: Websites
+Japan: 505
+China: 2
+Canada: 1
+Taiwan: 1
+Malaysia: 1
+United States: 1

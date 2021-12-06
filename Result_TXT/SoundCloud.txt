@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: SoundCloud
+Last month's change: 0.60%
+Websites: 143781
+Unique Domains: 98295
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where SoundCloud is being used
+Arts & Entertainment: 15.10%
+Science & Education: 4.20%
+Computers Electronics & Technology: 3.43%
+Community & Society: 3.35%
+Others: 73.93%
+
+
+- Related Technologies -
+Top Podcasts technologies
+Anchor
+Podbean
+Libsyn
+BuzzSprout
+Stitcher
+
+
+- Top Websites Using SoundCloud -
+bbc.com  --  Monthly visits -> 465.1M
+rt.com  --  Monthly visits -> 120.6M
+tuasaude.com  --  Monthly visits -> 85.2M
+biblegateway.com  --  Monthly visits -> 82.3M
+ea.com  --  Monthly visits -> 75.8M
+go.com  --  Monthly visits -> 57.2M
+liveworksheets.com  --  Monthly visits -> 55.8M
+metropoles.com  --  Monthly visits -> 54.7M
+harvard.edu  --  Monthly visits -> 50.5M
+discogs.com  --  Monthly visits -> 48.9M
+
+- Geography -
+SoundCloud usage by websites across the globe
+Leading Countries: Websites
+United States: 37445
+United Kingdom: 7962
+Germany: 6043
+France: 5680
+Canada: 4522
+Japan: 3854
+Brazil: 3679
+Australia: 2927
+Netherlands: 2755
+Spain: 2483
+Rest of the World: 42441

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Curated
+Last month's change: 0.58%
+Websites: 10405
+Unique Domains: 874
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Curated is being used
+Arts & Entertainment: 9.46%
+Computers Electronics & Technology: 6.97%
+Sports: 5.15%
+Hobbies & Leisure: 4.66%
+Others: 73.76%
+
+
+- Related Technologies -
+Top Content Curation technologies
+STRÖER
+Foursixty
+Curalate
+Olapic
+Pixlee
+
+
+- Top Websites Using Curated -
+espn.com  --  Monthly visits -> 628.4M
+wetransfer.com  --  Monthly visits -> 124.4M
+fantasy.espn.com  --  Monthly visits -> 96.7M
+bitchute.com  --  Monthly visits -> 41.6M
+bandcamp.com  --  Monthly visits -> 29.6M
+espn.com.br  --  Monthly visits -> 23.3M
+espn.com.mx  --  Monthly visits -> 17.7M
+aftenposten.no  --  Monthly visits -> 13.7M
+acs.org  --  Monthly visits -> 12.1M
+deloitte.com  --  Monthly visits -> 10.7M
+
+- Geography -
+Curated usage by websites across the globe
+Leading Countries: Websites
+United States: 1567
+United Kingdom: 931
+Netherlands: 571
+Italy: 487
+France: 403
+Germany: 369
+Spain: 274
+Canada: 247
+Belgium: 206
+Poland: 190
+Rest of the World: 3161

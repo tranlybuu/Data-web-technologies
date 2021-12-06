@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Flowplayer
+Last month's change: 3.02%
+Websites: 87164
+Unique Domains: 65899
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Flowplayer is being used
+Science & Education: 5.66%
+Computers Electronics & Technology: 3.75%
+Adult: 3.43%
+Law & Government: 3.15%
+Others: 84.00%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Flowplayer -
+focus.de  --  Monthly visits -> 75.6M
+ynet.co.il  --  Monthly visits -> 58.3M
+chosun.com  --  Monthly visits -> 43.6M
+faz.net  --  Monthly visits -> 38.4M
+blic.rs  --  Monthly visits -> 37.5M
+fapster.xxx  --  Monthly visits -> 36.3M
+diamond.jp  --  Monthly visits -> 33.9M
+yidianzixun.com  --  Monthly visits -> 32.8M
+m.ynet.co.il  --  Monthly visits -> 31.9M
+tjk.org  --  Monthly visits -> 30.8M
+
+- Geography -
+Flowplayer usage by websites across the globe
+Leading Countries: Websites
+United States: 15304
+Russia: 5129
+Germany: 4869
+China: 3947
+France: 3123
+Italy: 2954
+United Kingdom: 2669
+Brazil: 2272
+Spain: 1695
+Canada: 1637
+Rest of the World: 29355

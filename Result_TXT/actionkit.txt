@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: actionkit
+Last month's change: 0%
+Websites: 281
+Unique Domains: 217
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where actionkit is being used
+Law & Government: 45.20%
+Community & Society: 7.47%
+News & Media: 5.34%
+Arts & Entertainment: 2.14%
+Others: 39.86%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Blackbaud
+Countable Action
+Salsa Labs
+
+
+- Top Websites Using actionkit -
+act.traindemocrats.org  --  Monthly visits -> 726.1K
+action.turnoutpac.org  --  Monthly visits -> 690.3K
+go.dscc.org  --  Monthly visits -> 496.8K
+act.sumofus.org  --  Monthly visits -> 462.4K
+act.stop-republicans.com  --  Monthly visits -> 458.1K
+act.retiredamericanspac.org  --  Monthly visits -> 447.4K
+womensmarch.com  --  Monthly visits -> 422.7K
+one.org  --  Monthly visits -> 411.3K
+act.democratic-strategy.org  --  Monthly visits -> 407.8K
+action.endcitizensunited.org  --  Monthly visits -> 407.2K
+
+- Geography -
+actionkit usage by websites across the globe
+Leading Countries: Websites
+United States: 200
+Canada: 12
+Belgium: 6
+Netherlands: 6
+Australia: 4
+India: 3
+Spain: 3
+United Kingdom: 3
+Brazil: 2
+Ecuador: 2
+Rest of the World: 13

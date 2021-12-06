@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Exponea
+Last month's change: 2.56%
+Websites: 2230
+Unique Domains: 1450
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Exponea is being used
+Lifestyle: 13.77%
+E-commerce & Shopping: 8.48%
+Computers Electronics & Technology: 6.59%
+Finance: 5.78%
+Others: 65.38%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Exponea -
+ozon.ru  --  Monthly visits -> 128.2M
+binomo-web.com  --  Monthly visits -> 63.7M
+rozetka.com.ua  --  Monthly visits -> 39.3M
+boohoo.com  --  Monthly visits -> 24M
+sbermegamarket.ru  --  Monthly visits -> 21.7M
+olx.co.id  --  Monthly visits -> 16.2M
+t-mobile.pl  --  Monthly visits -> 10.8M
+hn.cz  --  Monthly visits -> 10.8M
+prettylittlething.com  --  Monthly visits -> 8.5M
+mall.cz  --  Monthly visits -> 8.5M
+
+- Geography -
+Exponea usage by websites across the globe
+Leading Countries: Websites
+Russia: 230
+Czech Republic: 224
+Slovakia: 218
+United States: 145
+United Kingdom: 135
+Germany: 104
+Poland: 79
+Hungary: 62
+France: 41
+Chile: 40
+Rest of the World: 602

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Videojs Contrib HLS
+Last month's change: 1.67%
+Websites: 60
+Unique Domains: 21
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Videojs Contrib HLS is being used
+Law & Government: 18.33%
+News & Media: 11.67%
+Arts & Entertainment: 10.00%
+Computers Electronics & Technology: 6.67%
+Others: 53.33%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Videojs Contrib HLS -
+hcdn.gob.ar  --  Monthly visits -> 210K
+fizy.com  --  Monthly visits -> 94.4K
+diputados.gov.ar  --  Monthly visits -> 86.2K
+rik05.cik.bg  --  Monthly visits -> 47.7K
+rik19.cik.bg  --  Monthly visits -> 27.9K
+rik04.cik.bg  --  Monthly visits -> 21.7K
+rik27.cik.bg  --  Monthly visits -> 21.6K
+diputados.gob.ar  --  Monthly visits -> 19.6K
+rik16.cik.bg  --  Monthly visits -> 16.7K
+rik09.cik.bg  --  Monthly visits -> 15.6K
+
+- Geography -
+Videojs Contrib HLS usage by websites across the globe
+Leading Countries: Websites
+Bulgaria: 27
+Argentina: 7
+United States: 4
+France: 2
+Germany: 2
+Ukraine: 2
+Canada: 1
+China: 1
+Mexico: 1
+Philippines: 1
+Rest of the World: 3

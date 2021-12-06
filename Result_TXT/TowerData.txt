@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: TowerData
+Last month's change: 17.0%
+Websites: 44697
+Unique Domains: 22953
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where TowerData is being used
+Games: 13.72%
+Arts & Entertainment: 12.15%
+Vehicles: 9.53%
+Computers Electronics & Technology: 6.98%
+Others: 57.62%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+Dotomi
+
+
+- Top Websites Using TowerData -
+bing.com  --  Monthly visits -> 1.1B
+samsung.com  --  Monthly visits -> 805.5M
+us04web.zoom.us  --  Monthly visits -> 319.5M
+foxnews.com  --  Monthly visits -> 283M
+healthline.com  --  Monthly visits -> 276.6M
+hulu.com  --  Monthly visits -> 224.6M
+ups.com  --  Monthly visits -> 191.9M
+definition.org  --  Monthly visits -> 189M
+cn.bing.com  --  Monthly visits -> 188.7M
+dropbox.com  --  Monthly visits -> 172.5M
+
+- Geography -
+TowerData usage by websites across the globe
+Leading Countries: Websites
+United States: 26255
+United Kingdom: 1894
+Canada: 1153
+Germany: 682
+Brazil: 669
+Australia: 635
+India: 620
+Philippines: 569
+France: 526
+Russia: 503
+Rest of the World: 7327

@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Bow Now
+Last month's change: 5.40%
+Websites: 3035
+Unique Domains: 2845
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Bow Now is being used
+Business & Consumer Services: 18.12%
+Computers Electronics & Technology: 9.69%
+Heavy Industry & Engineering: 8.07%
+Food & Drink: 2.67%
+Others: 61.45%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Bow Now -
+energy.rakuten.co.jp  --  Monthly visits -> 2M
+tinect.jp  --  Monthly visits -> 1.6M
+blog.tinect.jp  --  Monthly visits -> 1.5M
+smacare.jp  --  Monthly visits -> 742.4K
+kbc.co.jp  --  Monthly visits -> 448.2K
+surveroid.jp  --  Monthly visits -> 404.6K
+ncsa.jp  --  Monthly visits -> 343.9K
+rmail.jp  --  Monthly visits -> 343.4K
+ssl.rmail.jp  --  Monthly visits -> 337.3K
+securesamba.com  --  Monthly visits -> 327.8K
+
+- Geography -
+Bow Now usage by websites across the globe
+Leading Countries: Websites
+Japan: 2889
+Vietnam: 22
+United States: 15
+China: 10
+Thailand: 7
+Malaysia: 5
+Taiwan: 4
+India: 4
+Germany: 3
+Australia: 2
+Rest of the World: 17

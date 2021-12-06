@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Dotomi
+Last month's change: 1.70%
+Websites: 40433
+Unique Domains: 7241
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Dotomi is being used
+Science & Education: 13.59%
+Arts & Entertainment: 9.73%
+Games: 7.55%
+Computers Electronics & Technology: 6.15%
+Others: 62.98%
+
+
+- Related Technologies -
+Top Marketing Automation technologies
+HubSpot
+Klaviyo
+Pardot
+Marketo
+TowerData
+
+
+- Top Websites Using Dotomi -
+ndtv.com  --  Monthly visits -> 149.9M
+vnexpress.net  --  Monthly visits -> 129.5M
+coingecko.com  --  Monthly visits -> 124.6M
+ign.com  --  Monthly visits -> 86.3M
+hindustantimes.com  --  Monthly visits -> 83.7M
+op.gg  --  Monthly visits -> 79.2M
+people.com  --  Monthly visits -> 77.7M
+24h.com.vn  --  Monthly visits -> 76M
+home.cricketwireless.com  --  Monthly visits -> 75.8M
+gsmarena.com  --  Monthly visits -> 75.6M
+
+- Geography -
+Dotomi usage by websites across the globe
+Leading Countries: Websites
+United States: 8197
+United Kingdom: 939
+France: 818
+Canada: 738
+Germany: 596
+Italy: 586
+Indonesia: 564
+India: 558
+Brazil: 537
+Spain: 536
+Rest of the World: 7196

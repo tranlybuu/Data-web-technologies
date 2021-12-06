@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Rapt Media
+Last month's change: 2.94%
+Websites: 34
+Unique Domains: 29
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Rapt Media is being used
+Business & Consumer Services: 11.76%
+Finance: 11.76%
+Law & Government: 11.76%
+Computers Electronics & Technology: 8.82%
+Others: 55.88%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Rapt Media -
+nyc.gov  --  Monthly visits -> 23.9M
+www1.nyc.gov  --  Monthly visits -> 12.2M
+landmarkworldwide.com  --  Monthly visits -> 339.1K
+consubanco.com  --  Monthly visits -> 65.8K
+landmarkworldwide.de  --  Monthly visits -> 28.9K
+careers.hgv.com  --  Monthly visits -> 28.8K
+cye.cityofnewyork.us  --  Monthly visits -> 19.4K
+raptmedia.com  --  Monthly visits -> 10.3K
+nur-muth.com  --  Monthly visits -> 6.3K
+help.victorops.com  --  Monthly visits -> 4.3K
+
+- Geography -
+Rapt Media usage by websites across the globe
+Leading Countries: Websites
+United States: 12
+Germany: 3
+India: 3
+Canada: 2
+France: 2
+New Zealand: 2
+Israel: 1
+Japan: 1
+South Korea: 1
+Mexico: 1
+Rest of the World: 6

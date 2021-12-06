@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Blackbaud
+Last month's change: 1.55%
+Websites: 11385
+Unique Domains: 9037
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Blackbaud is being used
+Science & Education: 15.60%
+Health: 11.73%
+Community & Society: 11.54%
+Arts & Entertainment: 2.84%
+Others: 58.30%
+
+
+- Related Technologies -
+Top Advocacy technologies
+Cision
+BBB Seals
+Countable Action
+Salsa Labs
+MobileCause
+
+
+- Top Websites Using Blackbaud -
+pbs.org  --  Monthly visits -> 17.3M
+blackbaud.com  --  Monthly visits -> 12.1M
+games.aarp.org  --  Monthly visits -> 11.6M
+self.com  --  Monthly visits -> 7.4M
+abc7chicago.com  --  Monthly visits -> 6.1M
+mskcc.org  --  Monthly visits -> 4.9M
+stonybrook.edu  --  Monthly visits -> 4.1M
+sheridancollege.ca  --  Monthly visits -> 4M
+justonecookbook.com  --  Monthly visits -> 3.8M
+britishmuseum.org  --  Monthly visits -> 2.6M
+
+- Geography -
+Blackbaud usage by websites across the globe
+Leading Countries: Websites
+United States: 7852
+Canada: 970
+United Kingdom: 326
+Australia: 163
+India: 130
+Philippines: 87
+Germany: 43
+France: 38
+Indonesia: 37
+Pakistan: 33
+Rest of the World: 671

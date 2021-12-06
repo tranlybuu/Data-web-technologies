@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: MyNewsDesk
+Last month's change: 88.5%
+Websites: 2832
+Unique Domains: 2473
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where MyNewsDesk is being used
+Science & Education: 7.59%
+Computers Electronics & Technology: 4.20%
+Food & Drink: 4.03%
+Finance: 3.95%
+Others: 80.23%
+
+
+- Related Technologies -
+Top Newsrooms technologies
+TEKGROUP
+iPR Software
+Prezly
+None
+None
+
+
+- Top Websites Using MyNewsDesk -
+ipaper.io  --  Monthly visits -> 16M
+startsiden.no  --  Monthly visits -> 14.6M
+sverigesradio.se  --  Monthly visits -> 11M
+tradera.com  --  Monthly visits -> 10.8M
+elgiganten.se  --  Monthly visits -> 6.6M
+samnytt.se  --  Monthly visits -> 6.4M
+visma.com  --  Monthly visits -> 5.8M
+omni.se  --  Monthly visits -> 5M
+biltema.se  --  Monthly visits -> 4.5M
+gigantti.fi  --  Monthly visits -> 4.4M
+
+- Geography -
+MyNewsDesk usage by websites across the globe
+Leading Countries: Websites
+Sweden: 1340
+Norway: 257
+Denmark: 186
+Germany: 160
+United States: 158
+United Kingdom: 102
+Finland: 64
+India: 37
+Italy: 28
+France: 26
+Rest of the World: 457

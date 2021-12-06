@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Youbora
+Last month's change: 0%
+Websites: 302
+Unique Domains: 207
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Youbora is being used
+Arts & Entertainment: 14.90%
+Community & Society: 10.60%
+Sports: 10.26%
+News & Media: 8.94%
+Others: 55.30%
+
+
+- Related Technologies -
+Top Audio Video Media technologies
+YouTube
+Vimeo
+VideoJS
+Facebook Video
+jPlayer
+
+
+- Top Websites Using Youbora -
+zeebiz.com  --  Monthly visits -> 9.7M
+ver.movistarplus.es  --  Monthly visits -> 9.4M
+todayonline.com  --  Monthly visits -> 8.3M
+mediafax.ro  --  Monthly visits -> 7.2M
+vgtv.no  --  Monthly visits -> 7.2M
+olympics.com  --  Monthly visits -> 6.7M
+tv.rakuten.co.jp  --  Monthly visits -> 6.6M
+ub.edu  --  Monthly visits -> 5.1M
+aha.video  --  Monthly visits -> 4.9M
+m.mediafax.ro  --  Monthly visits -> 4.7M
+
+- Geography -
+Youbora usage by websites across the globe
+Leading Countries: Websites
+United States: 90
+Spain: 20
+Japan: 18
+India: 11
+United Kingdom: 8
+Brazil: 6
+Chile: 6
+Australia: 5
+Canada: 5
+Greece: 5
+Rest of the World: 72

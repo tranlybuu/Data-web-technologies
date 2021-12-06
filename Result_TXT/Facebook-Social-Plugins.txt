@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Facebook Social Plugins
+Last month's change: 0.18%
+Websites: 3744547
+Unique Domains: 2565752
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Facebook Social Plugins is being used
+Computers Electronics & Technology: 4.42%
+Arts & Entertainment: 3.73%
+Science & Education: 3.22%
+Food & Drink: 2.69%
+Others: 85.94%
+
+
+- Related Technologies -
+Top Social technologies
+Instagram
+Instagram Links
+Facebook Connect
+Twitter
+Google+ Platform
+
+
+- Top Websites Using Facebook Social Plugins -
+msn.com  --  Monthly visits -> 1B
+accuweather.com  --  Monthly visits -> 697.5M
+imdb.com  --  Monthly visits -> 511M
+walmart.com  --  Monthly visits -> 440.6M
+fc2.com  --  Monthly visits -> 337.9M
+blog.livedoor.jp  --  Monthly visits -> 303.5M
+dailymail.co.uk  --  Monthly visits -> 302.9M
+canva.com  --  Monthly visits -> 289.4M
+stackoverflow.com  --  Monthly visits -> 288.8M
+avito.ru  --  Monthly visits -> 280.6M
+
+- Geography -
+Facebook Social Plugins usage by websites across the globe
+Leading Countries: Websites
+United States: 577318
+Japan: 359523
+France: 128947
+Italy: 111395
+United Kingdom: 108928
+Russia: 97191
+Germany: 93844
+Brazil: 89635
+Canada: 79910
+India: 79288
+Rest of the World: 1320471

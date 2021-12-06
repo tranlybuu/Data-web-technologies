@@ -1,0 +1,53 @@
+- Basic Information about Technology -
+Crawl date: 06/12/2021
+Technology: Trumba
+Last month's change: 0.59%
+Websites: 1520
+Unique Domains: 607
+--------------------------------------
+
+
+- Top Industry Verticals -
+Industry verticals where Trumba is being used
+Science & Education: 47.43%
+Health: 7.57%
+Law & Government: 4.67%
+News & Media: 1.97%
+Others: 38.36%
+
+
+- Related Technologies -
+Top Widget technologies
+Twemoji
+Yoast SEO
+Gravatar
+LiveInternet
+Google Translate
+
+
+- Top Websites Using Trumba -
+cp24.com  --  Monthly visits -> 15.8M
+ucdavis.edu  --  Monthly visits -> 10.9M
+uw.edu  --  Monthly visits -> 10.8M
+utah.edu  --  Monthly visits -> 8.3M
+cedars-sinai.org  --  Monthly visits -> 3.4M
+okstate.edu  --  Monthly visits -> 2.9M
+seattle.gov  --  Monthly visits -> 2.7M
+hms.harvard.edu  --  Monthly visits -> 2.3M
+abc11.com  --  Monthly visits -> 2.2M
+winnipeg.ctvnews.ca  --  Monthly visits -> 2.2M
+
+- Geography -
+Trumba usage by websites across the globe
+Leading Countries: Websites
+United States: 1177
+Canada: 48
+Singapore: 20
+Australia: 14
+Philippines: 9
+United Kingdom: 8
+India: 5
+Mexico: 5
+Thailand: 5
+China: 4
+Rest of the World: 56
